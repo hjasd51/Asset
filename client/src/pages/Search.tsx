@@ -10,9 +10,13 @@ const DISTRICTS = [
   '영등포구','동작구','관악구','서초구','강남구','송파구','강동구',
 ]
 
+const now = new Date()
+const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
+const prevMonthYear = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear()
 const MONTHS: string[] = []
-for (let y = 2024; y <= 2025; y++) {
-  for (let m = 1; m <= 12; m++) {
+for (let y = 2021; y <= prevMonthYear; y++) {
+  const lastMonth = y === prevMonthYear ? prevMonth : 12
+  for (let m = 1; m <= lastMonth; m++) {
     MONTHS.push(`${y}${String(m).padStart(2, '0')}`)
   }
 }
@@ -36,7 +40,7 @@ function formatPrice(p10k: number | null) {
 
 export default function Search() {
   const [district, setDistrict] = useState('')
-  const [dealYmd, setDealYmd] = useState('202501')
+  const [dealYmd, setDealYmd] = useState(MONTHS[MONTHS.length - 1])
   const [items, setItems] = useState<SearchItem[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
@@ -48,8 +52,8 @@ export default function Search() {
     try {
       const res = await fetch(`/api/local/trade?district=${encodeURIComponent(district)}&dealYmd=${dealYmd}`)
       if (!res.ok) throw new Error('조회 실패')
-      const data = await res.json() as SearchItem[]
-      setItems(data)
+      const data = await res.json() as { items: SearchItem[] }
+      setItems(data.items)
     } catch {
       setError('데이터를 불러오지 못했습니다.')
     } finally {
@@ -83,7 +87,7 @@ export default function Search() {
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
-                {MONTHS.map((m) => (
+                {[...MONTHS].reverse().map((m) => (
                   <SelectItem key={m} value={m}>{m.slice(0,4)}년 {parseInt(m.slice(4))}월</SelectItem>
                 ))}
               </SelectContent>

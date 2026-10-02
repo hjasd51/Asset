@@ -4,9 +4,13 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Label } from '@/components/ui/label'
 
+const now = new Date()
+const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
+const prevMonthYear = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear()
 const MONTHS: string[] = []
-for (let y = 2024; y <= 2025; y++) {
-  for (let m = 1; m <= 12; m++) {
+for (let y = 2021; y <= prevMonthYear; y++) {
+  const lastMonth = y === prevMonthYear ? prevMonth : 12
+  for (let m = 1; m <= lastMonth; m++) {
     MONTHS.push(`${y}${String(m).padStart(2, '0')}`)
   }
 }
@@ -25,7 +29,7 @@ function formatPrice(p10k: number | null) {
 }
 
 export default function Ranking() {
-  const [dealYmd, setDealYmd] = useState('202501')
+  const [dealYmd, setDealYmd] = useState(MONTHS[MONTHS.length - 1])
   const [kind, setKind] = useState('trade')
   const [items, setItems] = useState<RankingItem[]>([])
   const [loading, setLoading] = useState(false)
@@ -59,7 +63,7 @@ export default function Ranking() {
             <Select onValueChange={setDealYmd} value={dealYmd}>
               <SelectTrigger><SelectValue /></SelectTrigger>
               <SelectContent>
-                {MONTHS.map((m) => (
+                {[...MONTHS].reverse().map((m) => (
                   <SelectItem key={m} value={m}>{m.slice(0,4)}년 {parseInt(m.slice(4))}월</SelectItem>
                 ))}
               </SelectContent>
