@@ -1,0 +1,252 @@
+[
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 6,
+    "price_10k": 88000,
+    "deal_date": "2022-05-28",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 49.48,
+    "floor": 8,
+    "price_10k": 78500,
+    "deal_date": "2022-05-29",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 8,
+    "price_10k": 86000,
+    "deal_date": "2022-05-21",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 18,
+    "price_10k": 13800,
+    "deal_date": "2022-05-16",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌(1356-0)",
+    "district": "미아동",
+    "area_m2": 84.873,
+    "floor": 8,
+    "price_10k": 85000,
+    "deal_date": "2022-05-14",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신대상",
+    "district": "미아동",
+    "area_m2": 61.22,
+    "floor": 1,
+    "price_10k": 79000,
+    "deal_date": "2022-05-14",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진",
+    "district": "번동",
+    "area_m2": 58.65,
+    "floor": 8,
+    "price_10k": 57300,
+    "deal_date": "2022-05-17",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아신구",
+    "district": "미아동",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 61500,
+    "deal_date": "2022-05-06",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 127.25,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2022-05-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 113.89,
+    "floor": 24,
+    "price_10k": 90000,
+    "deal_date": "2022-05-26",
+    "build_year": 2010,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.76,
+    "floor": 20,
+    "price_10k": 80000,
+    "deal_date": "2022-05-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유삼호",
+    "district": "수유동",
+    "area_m2": 74.48,
+    "floor": 8,
+    "price_10k": 52800,
+    "deal_date": "2022-05-22",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 59.82,
+    "floor": 21,
+    "price_10k": 83000,
+    "deal_date": "2022-05-19",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 63.78,
+    "floor": 15,
+    "price_10k": 63000,
+    "deal_date": "2022-05-11",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 24,
+    "price_10k": 67000,
+    "deal_date": "2022-05-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세영",
+    "district": "수유동",
+    "area_m2": 45.39,
+    "floor": 1,
+    "price_10k": 14500,
+    "deal_date": "2022-05-02",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 114.88,
+    "floor": 4,
+    "price_10k": 92000,
+    "deal_date": "2022-05-13",
+    "build_year": 2003,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.71,
+    "floor": 10,
+    "price_10k": 76000,
+    "deal_date": "2022-05-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 11,
+    "price_10k": 95500,
+    "deal_date": "2022-05-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 84.15,
+    "floor": 13,
+    "price_10k": 100000,
+    "deal_date": "2022-05-03",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역하이씨티",
+    "district": "수유동",
+    "area_m2": 12.02,
+    "floor": 6,
+    "price_10k": 10000,
+    "deal_date": "2022-05-18",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 5,
+    "price_10k": 69700,
+    "deal_date": "2022-05-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 19,
+    "price_10k": 74000,
+    "deal_date": "2022-05-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 6,
+    "price_10k": 64000,
+    "deal_date": "2022-05-07",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역두산위브2",
+    "district": "번동",
+    "area_m2": 84.9909,
+    "floor": 17,
+    "price_10k": 87000,
+    "deal_date": "2022-05-02",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  }
+]

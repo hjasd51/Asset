@@ -1,0 +1,592 @@
+[
+  {
+    "name": "자양8차현대홈타운",
+    "district": "자양동",
+    "area_m2": 108.43,
+    "floor": 19,
+    "price_10k": 135000,
+    "deal_date": "2022-12-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "광장동",
+    "area_m2": 59.95,
+    "floor": 18,
+    "price_10k": 84300,
+    "deal_date": "2022-12-30",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 139.6,
+    "floor": 44,
+    "price_10k": 181717,
+    "deal_date": "2022-12-26",
+    "build_year": 2007,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이",
+    "district": "중곡동",
+    "area_m2": 58.43,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2022-12-24",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 15,
+    "price_10k": 89000,
+    "deal_date": "2022-12-24",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 18.63,
+    "floor": 8,
+    "price_10k": 16000,
+    "deal_date": "2022-12-23",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이",
+    "district": "중곡동",
+    "area_m2": 58.43,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2022-12-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광나루현대",
+    "district": "광장동",
+    "area_m2": 84.92,
+    "floor": 14,
+    "price_10k": 92000,
+    "deal_date": "2022-12-16",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "씨즈건대힐스",
+    "district": "화양동",
+    "area_m2": 14.23,
+    "floor": 4,
+    "price_10k": 17000,
+    "deal_date": "2022-12-22",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구의현대홈시티",
+    "district": "자양동",
+    "area_m2": 114,
+    "floor": 15,
+    "price_10k": 138000,
+    "deal_date": "2022-12-16",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 5,
+    "price_10k": 88000,
+    "deal_date": "2022-12-17",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 4,
+    "price_10k": 20100,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 4,
+    "price_10k": 18450,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 4,
+    "price_10k": 18250,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 18.19,
+    "floor": 4,
+    "price_10k": 23250,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 4,
+    "price_10k": 22600,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 4,
+    "price_10k": 22600,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 5,
+    "price_10k": 20300,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 5,
+    "price_10k": 18600,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 5,
+    "price_10k": 18400,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 18.19,
+    "floor": 5,
+    "price_10k": 23450,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 5,
+    "price_10k": 22750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 5,
+    "price_10k": 22750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 6,
+    "price_10k": 20450,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 6,
+    "price_10k": 18700,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 6,
+    "price_10k": 18500,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 6,
+    "price_10k": 22900,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 6,
+    "price_10k": 22900,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 7,
+    "price_10k": 18750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 18.19,
+    "floor": 7,
+    "price_10k": 23700,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 7,
+    "price_10k": 22950,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 8,
+    "price_10k": 22900,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 8,
+    "price_10k": 20950,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 8,
+    "price_10k": 20750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 18.19,
+    "floor": 8,
+    "price_10k": 26350,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 8,
+    "price_10k": 25600,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 8,
+    "price_10k": 25600,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 9,
+    "price_10k": 22950,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 9,
+    "price_10k": 21000,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 9,
+    "price_10k": 20800,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 9,
+    "price_10k": 25650,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 9,
+    "price_10k": 25650,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 16.21,
+    "floor": 10,
+    "price_10k": 23000,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 10,
+    "price_10k": 21050,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 10,
+    "price_10k": 20850,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 18.19,
+    "floor": 10,
+    "price_10k": 26500,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 10,
+    "price_10k": 25750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 10,
+    "price_10k": 25750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 11,
+    "price_10k": 21050,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 11,
+    "price_10k": 20850,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 11,
+    "price_10k": 25750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 11,
+    "price_10k": 25750,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 12,
+    "price_10k": 20950,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 14.63,
+    "floor": 12,
+    "price_10k": 20950,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더메종건대",
+    "district": "화양동",
+    "area_m2": 17.78,
+    "floor": 12,
+    "price_10k": 25850,
+    "deal_date": "2022-12-23",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 100.32,
+    "floor": 43,
+    "price_10k": 145000,
+    "deal_date": "2022-12-22",
+    "build_year": 2007,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "흥화빌라트",
+    "district": "광장동",
+    "area_m2": 202.1,
+    "floor": 1,
+    "price_10k": 155000,
+    "deal_date": "2022-12-12",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "자양9차현대홈타운",
+    "district": "자양동",
+    "area_m2": 82.56,
+    "floor": 5,
+    "price_10k": 110000,
+    "deal_date": "2022-12-06",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상광진그랜드파크",
+    "district": "구의동",
+    "area_m2": 84.9839,
+    "floor": 20,
+    "price_10k": 140000,
+    "deal_date": "2022-12-08",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 5,
+    "price_10k": 13500,
+    "deal_date": "2022-10-13",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임4차",
+    "district": "숭인동",
+    "area_m2": 15.09,
+    "floor": 17,
+    "price_10k": 12350,
+    "deal_date": "2022-10-10",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 17.811,
+    "floor": 14,
+    "price_10k": 13400,
+    "deal_date": "2022-10-05",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임4차",
+    "district": "숭인동",
+    "area_m2": 15.09,
+    "floor": 17,
+    "price_10k": 12500,
+    "deal_date": "2022-10-13",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  }
+]

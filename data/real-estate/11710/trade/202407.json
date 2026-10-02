@@ -1,0 +1,7332 @@
+[
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 11,
+    "price_10k": 185000,
+    "deal_date": "2024-07-05",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트e편한세상문정",
+    "district": "문정동",
+    "area_m2": 74.43,
+    "floor": 16,
+    "price_10k": 143554,
+    "deal_date": "2024-07-27",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 14,
+    "price_10k": 145000,
+    "deal_date": "2024-07-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 84.98,
+    "floor": 25,
+    "price_10k": 162000,
+    "deal_date": "2024-07-15",
+    "build_year": 2019,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 28,
+    "price_10k": 230000,
+    "deal_date": "2024-07-23",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 28,
+    "price_10k": 210000,
+    "deal_date": "2024-07-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.99,
+    "floor": 24,
+    "price_10k": 154000,
+    "deal_date": "2024-07-31",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 10,
+    "price_10k": 132000,
+    "deal_date": "2024-07-31",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.885,
+    "floor": 24,
+    "price_10k": 174700,
+    "deal_date": "2024-07-31",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.61,
+    "floor": 8,
+    "price_10k": 312500,
+    "deal_date": "2024-07-29",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 7,
+    "price_10k": 81500,
+    "deal_date": "2024-07-29",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파와이즈더샵",
+    "district": "장지동",
+    "area_m2": 96.9906,
+    "floor": 10,
+    "price_10k": 168000,
+    "deal_date": "2024-07-27",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 2,
+    "price_10k": 231000,
+    "deal_date": "2024-07-30",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "방이동",
+    "area_m2": 84.915,
+    "floor": 10,
+    "price_10k": 163000,
+    "deal_date": "2024-07-30",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아한가람1",
+    "district": "풍납동",
+    "area_m2": 84.38,
+    "floor": 18,
+    "price_10k": 117000,
+    "deal_date": "2024-07-31",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 22,
+    "price_10k": 240000,
+    "deal_date": "2024-07-25",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 3,
+    "price_10k": 230000,
+    "deal_date": "2024-07-31",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 6,
+    "price_10k": 219000,
+    "deal_date": "2024-07-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 53.36,
+    "floor": 8,
+    "price_10k": 146500,
+    "deal_date": "2024-07-27",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운12단지",
+    "district": "장지동",
+    "area_m2": 84.9,
+    "floor": 14,
+    "price_10k": 136000,
+    "deal_date": "2024-07-29",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 262500,
+    "deal_date": "2024-07-23",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파두산위브",
+    "district": "오금동",
+    "area_m2": 59.9823,
+    "floor": 12,
+    "price_10k": 100000,
+    "deal_date": "2024-07-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "풍납동",
+    "area_m2": 83.02,
+    "floor": 5,
+    "price_10k": 124500,
+    "deal_date": "2024-07-31",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 8,
+    "price_10k": 240000,
+    "deal_date": "2024-07-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.936,
+    "floor": 13,
+    "price_10k": 172500,
+    "deal_date": "2024-07-30",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "방이동",
+    "area_m2": 125.075,
+    "floor": 7,
+    "price_10k": 190000,
+    "deal_date": "2024-07-22",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도무스빌",
+    "district": "방이동",
+    "area_m2": 136.71,
+    "floor": 5,
+    "price_10k": 175000,
+    "deal_date": "2024-07-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용스윗닷홈(105동)",
+    "district": "가락동",
+    "area_m2": 122.43,
+    "floor": 5,
+    "price_10k": 139000,
+    "deal_date": "2024-07-24",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "오금동",
+    "area_m2": 72.77,
+    "floor": 12,
+    "price_10k": 88000,
+    "deal_date": "2024-07-29",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "오금동",
+    "area_m2": 59.72,
+    "floor": 15,
+    "price_10k": 74200,
+    "deal_date": "2024-07-31",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 121.63,
+    "floor": 8,
+    "price_10k": 276500,
+    "deal_date": "2024-07-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "송파동",
+    "area_m2": 59.91,
+    "floor": 8,
+    "price_10k": 95500,
+    "deal_date": "2024-07-31",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양아파트",
+    "district": "송파동",
+    "area_m2": 158.61,
+    "floor": 12,
+    "price_10k": 187000,
+    "deal_date": "2024-07-30",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 235000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9648,
+    "floor": 15,
+    "price_10k": 154500,
+    "deal_date": "2024-07-24",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 2,
+    "price_10k": 73500,
+    "deal_date": "2024-07-24",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "풍납동",
+    "area_m2": 79.945,
+    "floor": 8,
+    "price_10k": 117300,
+    "deal_date": "2024-07-30",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽카운티",
+    "district": "방이동",
+    "area_m2": 56.22,
+    "floor": 13,
+    "price_10k": 63500,
+    "deal_date": "2024-07-27",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 7,
+    "price_10k": 245000,
+    "deal_date": "2024-07-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동광팰리스",
+    "district": "방이동",
+    "area_m2": 22.57,
+    "floor": 10,
+    "price_10k": 39000,
+    "deal_date": "2024-07-30",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운7단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 4,
+    "price_10k": 135000,
+    "deal_date": "2024-07-31",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트e편한세상문정",
+    "district": "문정동",
+    "area_m2": 74.43,
+    "floor": 16,
+    "price_10k": 144852,
+    "deal_date": "2024-07-27",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 21,
+    "price_10k": 229500,
+    "deal_date": "2024-07-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 6,
+    "price_10k": 240000,
+    "deal_date": "2024-07-29",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 9,
+    "price_10k": 223000,
+    "deal_date": "2024-07-25",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.97,
+    "floor": 26,
+    "price_10k": 245000,
+    "deal_date": "2024-07-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락금호아파트",
+    "district": "가락동",
+    "area_m2": 59.91,
+    "floor": 13,
+    "price_10k": 118000,
+    "deal_date": "2024-07-25",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 229000,
+    "deal_date": "2024-07-22",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 4,
+    "price_10k": 61000,
+    "deal_date": "2024-07-31",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 27,
+    "price_10k": 216000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 59.98,
+    "floor": 14,
+    "price_10k": 126000,
+    "deal_date": "2024-07-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대아(제101상가동)",
+    "district": "풍납동",
+    "area_m2": 84.99,
+    "floor": 10,
+    "price_10k": 86000,
+    "deal_date": "2024-07-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 5,
+    "price_10k": 152000,
+    "deal_date": "2024-07-27",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파레미니스2단지",
+    "district": "오금동",
+    "area_m2": 84.99,
+    "floor": 8,
+    "price_10k": 133000,
+    "deal_date": "2024-07-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 155000,
+    "deal_date": "2024-07-28",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 53.36,
+    "floor": 4,
+    "price_10k": 141000,
+    "deal_date": "2024-07-26",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 14,
+    "price_10k": 215000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "씨티극동1",
+    "district": "풍납동",
+    "area_m2": 83.5,
+    "floor": 7,
+    "price_10k": 102000,
+    "deal_date": "2024-07-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 24,
+    "price_10k": 229000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운13단지",
+    "district": "장지동",
+    "area_m2": 84.76,
+    "floor": 2,
+    "price_10k": 142500,
+    "deal_date": "2024-07-19",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.885,
+    "floor": 23,
+    "price_10k": 169500,
+    "deal_date": "2024-07-20",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.51,
+    "floor": 8,
+    "price_10k": 304600,
+    "deal_date": "2024-07-10",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.936,
+    "floor": 26,
+    "price_10k": 170000,
+    "deal_date": "2024-07-22",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 11,
+    "price_10k": 230000,
+    "deal_date": "2024-07-28",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 3,
+    "price_10k": 200000,
+    "deal_date": "2024-07-27",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 81.75,
+    "floor": 11,
+    "price_10k": 277590,
+    "deal_date": "2024-07-23",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 117.585,
+    "floor": 10,
+    "price_10k": 213000,
+    "deal_date": "2024-07-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 9,
+    "price_10k": 263000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.97,
+    "floor": 3,
+    "price_10k": 216000,
+    "deal_date": "2024-07-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "가락동",
+    "area_m2": 120.4,
+    "floor": 8,
+    "price_10k": 162000,
+    "deal_date": "2024-07-19",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대리버빌1지구",
+    "district": "풍납동",
+    "area_m2": 153.08,
+    "floor": 1,
+    "price_10k": 139000,
+    "deal_date": "2024-07-30",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 235000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용",
+    "district": "풍납동",
+    "area_m2": 84.85,
+    "floor": 8,
+    "price_10k": 119000,
+    "deal_date": "2024-07-20",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.85,
+    "floor": 4,
+    "price_10k": 128000,
+    "deal_date": "2024-07-30",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 170.32,
+    "floor": 13,
+    "price_10k": 210000,
+    "deal_date": "2024-07-27",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 7,
+    "price_10k": 234500,
+    "deal_date": "2024-07-27",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 39.69,
+    "floor": 9,
+    "price_10k": 68300,
+    "deal_date": "2024-07-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크센트레빌",
+    "district": "오금동",
+    "area_m2": 84.6819,
+    "floor": 8,
+    "price_10k": 138000,
+    "deal_date": "2024-07-21",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 16,
+    "price_10k": 219000,
+    "deal_date": "2024-07-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "가락동",
+    "area_m2": 59.24,
+    "floor": 3,
+    "price_10k": 88000,
+    "deal_date": "2024-07-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트송파위례",
+    "district": "장지동",
+    "area_m2": 101.8,
+    "floor": 22,
+    "price_10k": 172000,
+    "deal_date": "2024-07-19",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용스윗닷홈1단지",
+    "district": "오금동",
+    "area_m2": 84.94,
+    "floor": 7,
+    "price_10k": 125000,
+    "deal_date": "2024-07-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 7,
+    "price_10k": 150000,
+    "deal_date": "2024-07-24",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.63,
+    "floor": 7,
+    "price_10k": 125000,
+    "deal_date": "2024-07-27",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 11,
+    "price_10k": 240000,
+    "deal_date": "2024-07-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 84.39,
+    "floor": 9,
+    "price_10k": 120000,
+    "deal_date": "2024-07-29",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2차",
+    "district": "거여동",
+    "area_m2": 82.96,
+    "floor": 8,
+    "price_10k": 87000,
+    "deal_date": "2024-07-15",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 4,
+    "price_10k": 103000,
+    "deal_date": "2024-07-31",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 1,
+    "price_10k": 251000,
+    "deal_date": "2024-07-28",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "씨티극동1",
+    "district": "풍납동",
+    "area_m2": 59.95,
+    "floor": 1,
+    "price_10k": 79800,
+    "deal_date": "2024-07-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 59.86,
+    "floor": 16,
+    "price_10k": 203000,
+    "deal_date": "2024-07-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 6,
+    "price_10k": 135000,
+    "deal_date": "2024-07-21",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락미륭아파트",
+    "district": "가락동",
+    "area_m2": 64.26,
+    "floor": 5,
+    "price_10k": 110000,
+    "deal_date": "2024-07-17",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 3,
+    "price_10k": 115000,
+    "deal_date": "2024-07-15",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 5,
+    "price_10k": 61000,
+    "deal_date": "2024-07-22",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 9,
+    "price_10k": 96500,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.97,
+    "floor": 1,
+    "price_10k": 132500,
+    "deal_date": "2024-07-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대백조",
+    "district": "오금동",
+    "area_m2": 114.36,
+    "floor": 12,
+    "price_10k": 125500,
+    "deal_date": "2024-07-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 119.93,
+    "floor": 24,
+    "price_10k": 372000,
+    "deal_date": "2024-07-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례신도시송파푸르지오",
+    "district": "장지동",
+    "area_m2": 108.5918,
+    "floor": 7,
+    "price_10k": 172500,
+    "deal_date": "2024-07-15",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원상떼빌",
+    "district": "가락동",
+    "area_m2": 136.24,
+    "floor": 12,
+    "price_10k": 120000,
+    "deal_date": "2024-07-27",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 59.85,
+    "floor": 4,
+    "price_10k": 116000,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운5단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 18,
+    "price_10k": 140000,
+    "deal_date": "2024-07-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 1,
+    "price_10k": 90000,
+    "deal_date": "2024-07-24",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 84.47,
+    "floor": 6,
+    "price_10k": 116000,
+    "deal_date": "2024-07-26",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 59.968,
+    "floor": 6,
+    "price_10k": 149000,
+    "deal_date": "2024-07-20",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 79.7,
+    "floor": 15,
+    "price_10k": 160000,
+    "deal_date": "2024-07-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.96,
+    "floor": 8,
+    "price_10k": 140000,
+    "deal_date": "2024-07-26",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 4,
+    "price_10k": 96500,
+    "deal_date": "2024-07-25",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 9,
+    "price_10k": 200000,
+    "deal_date": "2024-07-27",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 9,
+    "price_10k": 76200,
+    "deal_date": "2024-07-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운2단지",
+    "district": "장지동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 122000,
+    "deal_date": "2024-07-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 126.4,
+    "floor": 1,
+    "price_10k": 178000,
+    "deal_date": "2024-07-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 16,
+    "price_10k": 138000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 229000,
+    "deal_date": "2024-07-10",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.96,
+    "floor": 28,
+    "price_10k": 155000,
+    "deal_date": "2024-07-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 131.08,
+    "floor": 6,
+    "price_10k": 270000,
+    "deal_date": "2024-07-27",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아시아선수촌아파트",
+    "district": "잠실동",
+    "area_m2": 151.008,
+    "floor": 8,
+    "price_10k": 418000,
+    "deal_date": "2024-07-19",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 84.86,
+    "floor": 10,
+    "price_10k": 119000,
+    "deal_date": "2024-07-25",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "씨티극동1",
+    "district": "풍납동",
+    "area_m2": 83.5,
+    "floor": 20,
+    "price_10k": 108000,
+    "deal_date": "2024-07-19",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.86,
+    "floor": 17,
+    "price_10k": 134000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례아이파크",
+    "district": "장지동",
+    "area_m2": 100.8522,
+    "floor": 3,
+    "price_10k": 159500,
+    "deal_date": "2024-07-31",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.88,
+    "floor": 22,
+    "price_10k": 270000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 1,
+    "price_10k": 89000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례신도시송파푸르지오",
+    "district": "장지동",
+    "area_m2": 108.119,
+    "floor": 14,
+    "price_10k": 173000,
+    "deal_date": "2024-07-27",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 12,
+    "price_10k": 215000,
+    "deal_date": "2024-07-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례신도시송파푸르지오",
+    "district": "장지동",
+    "area_m2": 108.119,
+    "floor": 11,
+    "price_10k": 173500,
+    "deal_date": "2024-07-26",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 84.42,
+    "floor": 12,
+    "price_10k": 119000,
+    "deal_date": "2024-07-25",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.94,
+    "floor": 11,
+    "price_10k": 123000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 75.91,
+    "floor": 18,
+    "price_10k": 181000,
+    "deal_date": "2024-07-16",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실한솔",
+    "district": "석촌동",
+    "area_m2": 84.87,
+    "floor": 3,
+    "price_10k": 140000,
+    "deal_date": "2024-07-26",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 59.96,
+    "floor": 24,
+    "price_10k": 113000,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 99.6,
+    "floor": 8,
+    "price_10k": 240000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 19,
+    "price_10k": 144000,
+    "deal_date": "2024-07-24",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 8,
+    "price_10k": 248000,
+    "deal_date": "2024-07-19",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.61,
+    "floor": 14,
+    "price_10k": 307590,
+    "deal_date": "2024-07-22",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 28,
+    "price_10k": 230000,
+    "deal_date": "2024-07-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.924,
+    "floor": 25,
+    "price_10k": 162000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여5단지",
+    "district": "거여동",
+    "area_m2": 59.74,
+    "floor": 4,
+    "price_10k": 77000,
+    "deal_date": "2024-07-30",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 144.77,
+    "floor": 9,
+    "price_10k": 290000,
+    "deal_date": "2024-07-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.66,
+    "floor": 8,
+    "price_10k": 124500,
+    "deal_date": "2024-07-19",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아한가람1",
+    "district": "풍납동",
+    "area_m2": 84.38,
+    "floor": 3,
+    "price_10k": 98000,
+    "deal_date": "2024-07-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 108.338,
+    "floor": 5,
+    "price_10k": 174700,
+    "deal_date": "2024-07-30",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례중앙푸르지오1단지",
+    "district": "장지동",
+    "area_m2": 102.0465,
+    "floor": 4,
+    "price_10k": 155950,
+    "deal_date": "2024-07-11",
+    "build_year": 2016,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼성",
+    "district": "오금동",
+    "area_m2": 84.87,
+    "floor": 4,
+    "price_10k": 97500,
+    "deal_date": "2024-07-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 11,
+    "price_10k": 79500,
+    "deal_date": "2024-07-19",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 87.01,
+    "floor": 23,
+    "price_10k": 186500,
+    "deal_date": "2024-07-25",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 28,
+    "price_10k": 156500,
+    "deal_date": "2024-07-19",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 20,
+    "price_10k": 233500,
+    "deal_date": "2024-07-26",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동일씨티빌",
+    "district": "가락동",
+    "area_m2": 84.45,
+    "floor": 7,
+    "price_10k": 70000,
+    "deal_date": "2024-07-19",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "토성현대",
+    "district": "풍납동",
+    "area_m2": 49.14,
+    "floor": 5,
+    "price_10k": 59000,
+    "deal_date": "2024-07-26",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 3,
+    "price_10k": 196000,
+    "deal_date": "2024-07-27",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "삼전동",
+    "area_m2": 80.01,
+    "floor": 8,
+    "price_10k": 97500,
+    "deal_date": "2024-07-19",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파와이즈더샵",
+    "district": "장지동",
+    "area_m2": 97.0736,
+    "floor": 4,
+    "price_10k": 159500,
+    "deal_date": "2024-07-26",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 84.98,
+    "floor": 1,
+    "price_10k": 165000,
+    "deal_date": "2024-07-09",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크센트레빌",
+    "district": "오금동",
+    "area_m2": 84.7766,
+    "floor": 4,
+    "price_10k": 133500,
+    "deal_date": "2024-07-30",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 59.98,
+    "floor": 8,
+    "price_10k": 135000,
+    "deal_date": "2024-07-20",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 59.73,
+    "floor": 10,
+    "price_10k": 87300,
+    "deal_date": "2024-07-17",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 4,
+    "price_10k": 210000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 136.325,
+    "floor": 8,
+    "price_10k": 220000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 59.73,
+    "floor": 8,
+    "price_10k": 115000,
+    "deal_date": "2024-07-24",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 170.7,
+    "floor": 10,
+    "price_10k": 200000,
+    "deal_date": "2024-07-31",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 13,
+    "price_10k": 149500,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 49.29,
+    "floor": 8,
+    "price_10k": 165000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 124.22,
+    "floor": 13,
+    "price_10k": 360000,
+    "deal_date": "2024-07-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 59.84,
+    "floor": 3,
+    "price_10k": 98000,
+    "deal_date": "2024-07-21",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.97,
+    "floor": 21,
+    "price_10k": 250000,
+    "deal_date": "2024-07-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 59.96,
+    "floor": 19,
+    "price_10k": 198000,
+    "deal_date": "2024-07-29",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양3",
+    "district": "방이동",
+    "area_m2": 126.9,
+    "floor": 11,
+    "price_10k": 178500,
+    "deal_date": "2024-07-29",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 8,
+    "price_10k": 205000,
+    "deal_date": "2024-07-27",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 12,
+    "price_10k": 272700,
+    "deal_date": "2024-07-23",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 4,
+    "price_10k": 138000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락미륭아파트",
+    "district": "가락동",
+    "area_m2": 60.72,
+    "floor": 11,
+    "price_10k": 118000,
+    "deal_date": "2024-07-27",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 59.92,
+    "floor": 21,
+    "price_10k": 117500,
+    "deal_date": "2024-07-25",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 79.7,
+    "floor": 20,
+    "price_10k": 163000,
+    "deal_date": "2024-07-13",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 114.756,
+    "floor": 6,
+    "price_10k": 195000,
+    "deal_date": "2024-07-27",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운4단지",
+    "district": "장지동",
+    "area_m2": 84.95,
+    "floor": 12,
+    "price_10k": 132000,
+    "deal_date": "2024-07-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 220000,
+    "deal_date": "2024-07-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 33,
+    "price_10k": 235000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 1,
+    "price_10k": 210000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 134500,
+    "deal_date": "2024-07-18",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진넥스베르디엠",
+    "district": "가락동",
+    "area_m2": 59.9788,
+    "floor": 8,
+    "price_10k": 75000,
+    "deal_date": "2024-07-20",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아파밀리에",
+    "district": "풍납동",
+    "area_m2": 59.36,
+    "floor": 13,
+    "price_10k": 65800,
+    "deal_date": "2024-07-22",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 8,
+    "price_10k": 232000,
+    "deal_date": "2024-07-19",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 84.96,
+    "floor": 21,
+    "price_10k": 146000,
+    "deal_date": "2024-07-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.86,
+    "floor": 9,
+    "price_10k": 128000,
+    "deal_date": "2024-07-10",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 14,
+    "price_10k": 142000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 1,
+    "price_10k": 180000,
+    "deal_date": "2024-07-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(62-5)",
+    "district": "문정동",
+    "area_m2": 54.6,
+    "floor": 14,
+    "price_10k": 70500,
+    "deal_date": "2024-07-21",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 5,
+    "price_10k": 250000,
+    "deal_date": "2024-07-27",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 25,
+    "price_10k": 218000,
+    "deal_date": "2024-07-27",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 131.08,
+    "floor": 3,
+    "price_10k": 248000,
+    "deal_date": "2024-07-13",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진넥스베르디엠",
+    "district": "가락동",
+    "area_m2": 59.9788,
+    "floor": 6,
+    "price_10k": 80000,
+    "deal_date": "2024-07-31",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 36,
+    "price_10k": 225000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 35.46,
+    "floor": 11,
+    "price_10k": 55500,
+    "deal_date": "2024-07-25",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 84.98,
+    "floor": 5,
+    "price_10k": 155000,
+    "deal_date": "2024-07-20",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오2차",
+    "district": "문정동",
+    "area_m2": 59.3,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2024-07-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아르누보팰리스",
+    "district": "송파동",
+    "area_m2": 168.46,
+    "floor": 20,
+    "price_10k": 320000,
+    "deal_date": "2024-07-17",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 59.84,
+    "floor": 9,
+    "price_10k": 103000,
+    "deal_date": "2024-07-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.78,
+    "floor": 14,
+    "price_10k": 104000,
+    "deal_date": "2024-07-27",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 46.26,
+    "floor": 4,
+    "price_10k": 67600,
+    "deal_date": "2024-07-17",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.97,
+    "floor": 12,
+    "price_10k": 265000,
+    "deal_date": "2024-07-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 5,
+    "price_10k": 215000,
+    "deal_date": "2024-07-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 29,
+    "price_10k": 276500,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 12,
+    "price_10k": 187000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 1,
+    "price_10k": 122000,
+    "deal_date": "2024-07-20",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 8,
+    "price_10k": 135000,
+    "deal_date": "2024-07-20",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 8,
+    "price_10k": 135000,
+    "deal_date": "2024-07-20",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 189000,
+    "deal_date": "2024-07-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아한가람1",
+    "district": "풍납동",
+    "area_m2": 84.38,
+    "floor": 2,
+    "price_10k": 104500,
+    "deal_date": "2024-07-29",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 9,
+    "price_10k": 230000,
+    "deal_date": "2024-07-30",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 77.68,
+    "floor": 10,
+    "price_10k": 114000,
+    "deal_date": "2024-07-17",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 84.86,
+    "floor": 4,
+    "price_10k": 119000,
+    "deal_date": "2024-07-17",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 9,
+    "price_10k": 131000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 5,
+    "price_10k": 192000,
+    "deal_date": "2024-07-29",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 152000,
+    "deal_date": "2024-07-13",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9072,
+    "floor": 6,
+    "price_10k": 165000,
+    "deal_date": "2024-07-27",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 10,
+    "price_10k": 97000,
+    "deal_date": "2024-07-19",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운1단지",
+    "district": "장지동",
+    "area_m2": 84.94,
+    "floor": 7,
+    "price_10k": 114000,
+    "deal_date": "2024-07-25",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 125000,
+    "deal_date": "2024-07-17",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락미륭아파트",
+    "district": "가락동",
+    "area_m2": 50,
+    "floor": 10,
+    "price_10k": 91750,
+    "deal_date": "2024-07-09",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실더샵스타파크",
+    "district": "신천동",
+    "area_m2": 208.28,
+    "floor": 34,
+    "price_10k": 300000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 18,
+    "price_10k": 229000,
+    "deal_date": "2024-07-31",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화오벨리스크",
+    "district": "가락동",
+    "area_m2": 30.25,
+    "floor": 22,
+    "price_10k": 24000,
+    "deal_date": "2024-07-07",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례신도시송파푸르지오",
+    "district": "장지동",
+    "area_m2": 108.5918,
+    "floor": 13,
+    "price_10k": 172500,
+    "deal_date": "2024-07-22",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실월드메르디앙",
+    "district": "잠실동",
+    "area_m2": 59.23,
+    "floor": 13,
+    "price_10k": 103000,
+    "deal_date": "2024-07-22",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 117.585,
+    "floor": 10,
+    "price_10k": 213000,
+    "deal_date": "2024-07-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아르누보팰리스",
+    "district": "송파동",
+    "area_m2": 134.81,
+    "floor": 12,
+    "price_10k": 220000,
+    "deal_date": "2024-07-15",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 59.92,
+    "floor": 18,
+    "price_10k": 154500,
+    "deal_date": "2024-07-07",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 62.39,
+    "floor": 1,
+    "price_10k": 88000,
+    "deal_date": "2024-07-24",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 59.73,
+    "floor": 7,
+    "price_10k": 92000,
+    "deal_date": "2024-07-29",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 16,
+    "price_10k": 156000,
+    "deal_date": "2024-07-20",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 10,
+    "price_10k": 142300,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 12,
+    "price_10k": 148000,
+    "deal_date": "2024-07-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 14,
+    "price_10k": 265000,
+    "deal_date": "2024-07-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.66,
+    "floor": 9,
+    "price_10k": 124300,
+    "deal_date": "2024-07-15",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 14,
+    "price_10k": 145000,
+    "deal_date": "2024-07-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 9,
+    "price_10k": 215000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정동아",
+    "district": "문정동",
+    "area_m2": 57.72,
+    "floor": 3,
+    "price_10k": 63500,
+    "deal_date": "2024-07-30",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 14,
+    "price_10k": 252000,
+    "deal_date": "2024-07-16",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 6,
+    "price_10k": 223000,
+    "deal_date": "2024-07-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 155.22,
+    "floor": 7,
+    "price_10k": 310000,
+    "deal_date": "2024-07-20",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트송파위례",
+    "district": "장지동",
+    "area_m2": 101.8,
+    "floor": 20,
+    "price_10k": 179000,
+    "deal_date": "2024-07-30",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운6단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 1,
+    "price_10k": 125000,
+    "deal_date": "2024-07-23",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 39.69,
+    "floor": 12,
+    "price_10k": 66000,
+    "deal_date": "2024-07-09",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(60동)",
+    "district": "가락동",
+    "area_m2": 84.46,
+    "floor": 7,
+    "price_10k": 109500,
+    "deal_date": "2024-07-10",
+    "build_year": 1991,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 1,
+    "price_10k": 110000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 136.34,
+    "floor": 9,
+    "price_10k": 275000,
+    "deal_date": "2024-07-22",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반석블레스빌",
+    "district": "오금동",
+    "area_m2": 84.15,
+    "floor": 8,
+    "price_10k": 90000,
+    "deal_date": "2024-07-12",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 126.18,
+    "floor": 3,
+    "price_10k": 270000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 12,
+    "price_10k": 95000,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락우성2",
+    "district": "가락동",
+    "area_m2": 59.97,
+    "floor": 17,
+    "price_10k": 89000,
+    "deal_date": "2024-07-16",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 12,
+    "price_10k": 79200,
+    "deal_date": "2024-07-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 27,
+    "price_10k": 154500,
+    "deal_date": "2024-07-20",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "풍납동",
+    "area_m2": 79.945,
+    "floor": 3,
+    "price_10k": 106000,
+    "deal_date": "2024-07-23",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.885,
+    "floor": 9,
+    "price_10k": 168000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미소로",
+    "district": "문정동",
+    "area_m2": 59.9,
+    "floor": 2,
+    "price_10k": 45000,
+    "deal_date": "2024-07-29",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 9,
+    "price_10k": 260000,
+    "deal_date": "2024-07-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대3차",
+    "district": "거여동",
+    "area_m2": 84.94,
+    "floor": 10,
+    "price_10k": 94500,
+    "deal_date": "2024-07-23",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 8,
+    "price_10k": 142000,
+    "deal_date": "2024-07-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 5,
+    "price_10k": 230000,
+    "deal_date": "2024-07-30",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 148.77,
+    "floor": 10,
+    "price_10k": 319000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 84.86,
+    "floor": 14,
+    "price_10k": 115000,
+    "deal_date": "2024-07-16",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강극동",
+    "district": "풍납동",
+    "area_m2": 114.76,
+    "floor": 8,
+    "price_10k": 127000,
+    "deal_date": "2024-07-20",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "가락동",
+    "area_m2": 149.74,
+    "floor": 12,
+    "price_10k": 147700,
+    "deal_date": "2024-07-29",
+    "build_year": 1984,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "가락미륭아파트",
+    "district": "가락동",
+    "area_m2": 83.58,
+    "floor": 12,
+    "price_10k": 128000,
+    "deal_date": "2024-07-19",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 59.92,
+    "floor": 8,
+    "price_10k": 120000,
+    "deal_date": "2024-07-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 6,
+    "price_10k": 198000,
+    "deal_date": "2024-07-17",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 1,
+    "price_10k": 55000,
+    "deal_date": "2024-07-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용",
+    "district": "풍납동",
+    "area_m2": 84.85,
+    "floor": 1,
+    "price_10k": 100000,
+    "deal_date": "2024-07-19",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 96.04,
+    "floor": 10,
+    "price_10k": 227500,
+    "deal_date": "2024-07-15",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 13,
+    "price_10k": 152800,
+    "deal_date": "2024-07-12",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강극동",
+    "district": "풍납동",
+    "area_m2": 59.26,
+    "floor": 2,
+    "price_10k": 84000,
+    "deal_date": "2024-07-25",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 11,
+    "price_10k": 188000,
+    "deal_date": "2024-07-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 6,
+    "price_10k": 40000,
+    "deal_date": "2024-07-29",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 169.48,
+    "floor": 18,
+    "price_10k": 202000,
+    "deal_date": "2024-07-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 45.77,
+    "floor": 4,
+    "price_10k": 78200,
+    "deal_date": "2024-07-23",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.97,
+    "floor": 12,
+    "price_10k": 260000,
+    "deal_date": "2024-07-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오1차",
+    "district": "문정동",
+    "area_m2": 84.86,
+    "floor": 19,
+    "price_10k": 116700,
+    "deal_date": "2024-07-10",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 28,
+    "price_10k": 220000,
+    "deal_date": "2024-07-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 126.18,
+    "floor": 7,
+    "price_10k": 265000,
+    "deal_date": "2024-07-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대백조",
+    "district": "오금동",
+    "area_m2": 114.36,
+    "floor": 12,
+    "price_10k": 130000,
+    "deal_date": "2024-07-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 30,
+    "price_10k": 223000,
+    "deal_date": "2024-07-17",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 125.79,
+    "floor": 6,
+    "price_10k": 164000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 1,
+    "price_10k": 220000,
+    "deal_date": "2024-07-19",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파와이즈더샵",
+    "district": "장지동",
+    "area_m2": 97.1656,
+    "floor": 18,
+    "price_10k": 163000,
+    "deal_date": "2024-07-15",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 5,
+    "price_10k": 214000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.51,
+    "floor": 5,
+    "price_10k": 297100,
+    "deal_date": "2024-07-23",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.97,
+    "floor": 10,
+    "price_10k": 235000,
+    "deal_date": "2024-07-04",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 8,
+    "price_10k": 220000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 59.86,
+    "floor": 3,
+    "price_10k": 189000,
+    "deal_date": "2024-07-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 27,
+    "price_10k": 260000,
+    "deal_date": "2024-07-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 108.338,
+    "floor": 4,
+    "price_10k": 169700,
+    "deal_date": "2024-07-22",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 4,
+    "price_10k": 119000,
+    "deal_date": "2024-07-28",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 7,
+    "price_10k": 260000,
+    "deal_date": "2024-07-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 9,
+    "price_10k": 254000,
+    "deal_date": "2024-07-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파레미니스2단지",
+    "district": "오금동",
+    "area_m2": 84.82,
+    "floor": 6,
+    "price_10k": 123000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 60,
+    "floor": 1,
+    "price_10k": 89900,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9725,
+    "floor": 1,
+    "price_10k": 146500,
+    "deal_date": "2024-07-10",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 9,
+    "price_10k": 214000,
+    "deal_date": "2024-07-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강극동",
+    "district": "풍납동",
+    "area_m2": 59.26,
+    "floor": 2,
+    "price_10k": 84000,
+    "deal_date": "2024-07-04",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬골드",
+    "district": "신천동",
+    "area_m2": 212.35,
+    "floor": 31,
+    "price_10k": 440000,
+    "deal_date": "2024-07-05",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 16,
+    "price_10k": 238000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 2,
+    "price_10k": 127000,
+    "deal_date": "2024-07-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 59.96,
+    "floor": 17,
+    "price_10k": 192000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 19,
+    "price_10k": 208000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례중앙푸르지오1단지",
+    "district": "장지동",
+    "area_m2": 84.7809,
+    "floor": 10,
+    "price_10k": 154000,
+    "deal_date": "2024-07-13",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 23,
+    "price_10k": 140000,
+    "deal_date": "2024-07-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환",
+    "district": "가락동",
+    "area_m2": 84.704,
+    "floor": 3,
+    "price_10k": 129000,
+    "deal_date": "2024-07-20",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 6,
+    "price_10k": 135000,
+    "deal_date": "2024-07-24",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 136.325,
+    "floor": 5,
+    "price_10k": 165000,
+    "deal_date": "2024-07-25",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대림",
+    "district": "가락동",
+    "area_m2": 68.78,
+    "floor": 9,
+    "price_10k": 95000,
+    "deal_date": "2024-07-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "2차한양아파트",
+    "district": "송파동",
+    "area_m2": 108.68,
+    "floor": 4,
+    "price_10k": 168500,
+    "deal_date": "2024-07-23",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운9단지",
+    "district": "장지동",
+    "area_m2": 59.93,
+    "floor": 10,
+    "price_10k": 111000,
+    "deal_date": "2024-07-20",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 59.97,
+    "floor": 13,
+    "price_10k": 160000,
+    "deal_date": "2024-07-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "가락동",
+    "area_m2": 120.4,
+    "floor": 6,
+    "price_10k": 159000,
+    "deal_date": "2024-07-25",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "풍납동",
+    "area_m2": 83.02,
+    "floor": 10,
+    "price_10k": 126000,
+    "deal_date": "2024-07-15",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 7,
+    "price_10k": 76300,
+    "deal_date": "2024-07-04",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.61,
+    "floor": 5,
+    "price_10k": 304000,
+    "deal_date": "2024-07-25",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 24,
+    "price_10k": 125800,
+    "deal_date": "2024-07-20",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.63,
+    "floor": 14,
+    "price_10k": 120000,
+    "deal_date": "2024-07-16",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강극동",
+    "district": "풍납동",
+    "area_m2": 114.76,
+    "floor": 2,
+    "price_10k": 124000,
+    "deal_date": "2024-07-25",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 8,
+    "price_10k": 100500,
+    "deal_date": "2024-07-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 39.69,
+    "floor": 7,
+    "price_10k": 63000,
+    "deal_date": "2024-07-08",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여2단지효성아파트",
+    "district": "거여동",
+    "area_m2": 101.95,
+    "floor": 14,
+    "price_10k": 112000,
+    "deal_date": "2024-07-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 2,
+    "price_10k": 80000,
+    "deal_date": "2024-07-15",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "송파동",
+    "area_m2": 59.91,
+    "floor": 21,
+    "price_10k": 100000,
+    "deal_date": "2024-07-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2차",
+    "district": "거여동",
+    "area_m2": 82.96,
+    "floor": 7,
+    "price_10k": 88000,
+    "deal_date": "2024-07-12",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 11,
+    "price_10k": 61000,
+    "deal_date": "2024-07-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 127.808,
+    "floor": 2,
+    "price_10k": 189000,
+    "deal_date": "2024-07-25",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 13,
+    "price_10k": 140000,
+    "deal_date": "2024-07-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 84.828,
+    "floor": 5,
+    "price_10k": 155000,
+    "deal_date": "2024-07-26",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 11,
+    "price_10k": 155200,
+    "deal_date": "2024-07-06",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 118000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 99.6,
+    "floor": 3,
+    "price_10k": 235000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 5,
+    "price_10k": 222000,
+    "deal_date": "2024-07-08",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실한솔",
+    "district": "석촌동",
+    "area_m2": 84.87,
+    "floor": 14,
+    "price_10k": 143000,
+    "deal_date": "2024-07-05",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여2단지효성아파트",
+    "district": "거여동",
+    "area_m2": 101.95,
+    "floor": 9,
+    "price_10k": 118000,
+    "deal_date": "2024-07-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 4,
+    "price_10k": 93800,
+    "deal_date": "2024-07-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 84.828,
+    "floor": 6,
+    "price_10k": 155000,
+    "deal_date": "2024-07-25",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 19,
+    "price_10k": 225000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 249000,
+    "deal_date": "2024-07-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 13,
+    "price_10k": 92000,
+    "deal_date": "2024-07-15",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 14,
+    "price_10k": 140000,
+    "deal_date": "2024-07-14",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 6,
+    "price_10k": 96000,
+    "deal_date": "2024-07-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 18,
+    "price_10k": 125000,
+    "deal_date": "2024-07-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우정에쉐르",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 81300,
+    "deal_date": "2024-07-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 119.93,
+    "floor": 31,
+    "price_10k": 367000,
+    "deal_date": "2024-07-18",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실한솔",
+    "district": "석촌동",
+    "area_m2": 59.86,
+    "floor": 11,
+    "price_10k": 120000,
+    "deal_date": "2024-07-15",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동구햇살",
+    "district": "가락동",
+    "area_m2": 71.45,
+    "floor": 3,
+    "price_10k": 59000,
+    "deal_date": "2024-07-06",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 12,
+    "price_10k": 223000,
+    "deal_date": "2024-07-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 5,
+    "price_10k": 77000,
+    "deal_date": "2024-07-08",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 117.585,
+    "floor": 14,
+    "price_10k": 217000,
+    "deal_date": "2024-07-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 17,
+    "price_10k": 216000,
+    "deal_date": "2024-07-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 136.34,
+    "floor": 8,
+    "price_10k": 247000,
+    "deal_date": "2024-07-25",
+    "build_year": 1981,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 124.22,
+    "floor": 6,
+    "price_10k": 330000,
+    "deal_date": "2024-07-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 59.92,
+    "floor": 18,
+    "price_10k": 120500,
+    "deal_date": "2024-07-17",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실푸르지오월드마크",
+    "district": "신천동",
+    "area_m2": 108.32,
+    "floor": 28,
+    "price_10k": 215000,
+    "deal_date": "2024-07-02",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금홍해오름",
+    "district": "가락동",
+    "area_m2": 65.62,
+    "floor": 2,
+    "price_10k": 58000,
+    "deal_date": "2024-07-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운7단지",
+    "district": "장지동",
+    "area_m2": 84.94,
+    "floor": 2,
+    "price_10k": 131800,
+    "deal_date": "2024-07-15",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 4,
+    "price_10k": 214000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동궁리치웰(69-3)",
+    "district": "문정동",
+    "area_m2": 72.78,
+    "floor": 6,
+    "price_10k": 74000,
+    "deal_date": "2024-07-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용스윗닷홈(104동)",
+    "district": "가락동",
+    "area_m2": 122.43,
+    "floor": 8,
+    "price_10k": 136000,
+    "deal_date": "2024-07-16",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방이금호어울림",
+    "district": "방이동",
+    "area_m2": 84.3,
+    "floor": 9,
+    "price_10k": 108000,
+    "deal_date": "2024-07-05",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 3,
+    "price_10k": 267800,
+    "deal_date": "2024-07-18",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크센트레빌",
+    "district": "오금동",
+    "area_m2": 84.3755,
+    "floor": 14,
+    "price_10k": 138500,
+    "deal_date": "2024-07-16",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아1차아파트",
+    "district": "오금동",
+    "area_m2": 106.61,
+    "floor": 7,
+    "price_10k": 140000,
+    "deal_date": "2024-07-25",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2차",
+    "district": "거여동",
+    "area_m2": 82.96,
+    "floor": 7,
+    "price_10k": 99000,
+    "deal_date": "2024-07-06",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 158.705,
+    "floor": 3,
+    "price_10k": 240000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 136.325,
+    "floor": 1,
+    "price_10k": 216000,
+    "deal_date": "2024-07-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 59.73,
+    "floor": 8,
+    "price_10k": 88000,
+    "deal_date": "2024-07-16",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 15,
+    "price_10k": 157000,
+    "deal_date": "2024-07-16",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성4차",
+    "district": "잠실동",
+    "area_m2": 81.14,
+    "floor": 11,
+    "price_10k": 149000,
+    "deal_date": "2024-07-19",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 14,
+    "price_10k": 190000,
+    "deal_date": "2024-07-22",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오2차",
+    "district": "문정동",
+    "area_m2": 59.57,
+    "floor": 2,
+    "price_10k": 91200,
+    "deal_date": "2024-07-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 25,
+    "price_10k": 229000,
+    "deal_date": "2024-07-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 250000,
+    "deal_date": "2024-07-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 9,
+    "price_10k": 119000,
+    "deal_date": "2024-07-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.63,
+    "floor": 9,
+    "price_10k": 125000,
+    "deal_date": "2024-07-06",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬골드",
+    "district": "신천동",
+    "area_m2": 148.15,
+    "floor": 27,
+    "price_10k": 270000,
+    "deal_date": "2024-07-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 4,
+    "price_10k": 233000,
+    "deal_date": "2024-07-15",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 135.99,
+    "floor": 7,
+    "price_10k": 270000,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "인택파크랜드",
+    "district": "방이동",
+    "area_m2": 98.05,
+    "floor": 4,
+    "price_10k": 105000,
+    "deal_date": "2024-07-01",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운7단지",
+    "district": "장지동",
+    "area_m2": 84.94,
+    "floor": 2,
+    "price_10k": 124000,
+    "deal_date": "2024-07-10",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 81.75,
+    "floor": 14,
+    "price_10k": 288540,
+    "deal_date": "2024-07-15",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 71.73,
+    "floor": 15,
+    "price_10k": 172800,
+    "deal_date": "2024-07-06",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 84.96,
+    "floor": 8,
+    "price_10k": 150000,
+    "deal_date": "2024-07-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 120.97,
+    "floor": 17,
+    "price_10k": 170000,
+    "deal_date": "2024-07-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남팰리스",
+    "district": "가락동",
+    "area_m2": 51.51,
+    "floor": 10,
+    "price_10k": 73000,
+    "deal_date": "2024-07-15",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 130.93,
+    "floor": 8,
+    "price_10k": 204000,
+    "deal_date": "2024-07-13",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아파밀리에",
+    "district": "풍납동",
+    "area_m2": 84.63,
+    "floor": 13,
+    "price_10k": 87500,
+    "deal_date": "2024-07-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 11,
+    "price_10k": 145000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 45.77,
+    "floor": 11,
+    "price_10k": 79000,
+    "deal_date": "2024-07-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 33,
+    "price_10k": 220000,
+    "deal_date": "2024-07-23",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 59.86,
+    "floor": 23,
+    "price_10k": 145000,
+    "deal_date": "2024-07-04",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 87.01,
+    "floor": 6,
+    "price_10k": 170000,
+    "deal_date": "2024-07-22",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 21,
+    "price_10k": 257000,
+    "deal_date": "2024-07-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.936,
+    "floor": 1,
+    "price_10k": 153500,
+    "deal_date": "2024-07-05",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우창",
+    "district": "오금동",
+    "area_m2": 109.72,
+    "floor": 2,
+    "price_10k": 133000,
+    "deal_date": "2024-07-10",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 59.92,
+    "floor": 5,
+    "price_10k": 119500,
+    "deal_date": "2024-07-16",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "석촌호수효성해링턴타워",
+    "district": "석촌동",
+    "area_m2": 15.8307,
+    "floor": 6,
+    "price_10k": 24000,
+    "deal_date": "2024-07-24",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여5단지",
+    "district": "거여동",
+    "area_m2": 59.74,
+    "floor": 15,
+    "price_10k": 78000,
+    "deal_date": "2024-07-15",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.96,
+    "floor": 19,
+    "price_10k": 145000,
+    "deal_date": "2024-07-14",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 126.4,
+    "floor": 15,
+    "price_10k": 188000,
+    "deal_date": "2024-07-02",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 21,
+    "price_10k": 228500,
+    "deal_date": "2024-07-06",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 12,
+    "price_10k": 103000,
+    "deal_date": "2024-07-17",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 49.29,
+    "floor": 4,
+    "price_10k": 150000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 21,
+    "price_10k": 252500,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정가락현대1차",
+    "district": "문정동",
+    "area_m2": 123.61,
+    "floor": 2,
+    "price_10k": 137500,
+    "deal_date": "2024-07-20",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 8,
+    "price_10k": 225000,
+    "deal_date": "2024-07-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운7단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 8,
+    "price_10k": 133000,
+    "deal_date": "2024-07-12",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여4단지",
+    "district": "거여동",
+    "area_m2": 59.73,
+    "floor": 4,
+    "price_10k": 87000,
+    "deal_date": "2024-07-05",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 12,
+    "price_10k": 92000,
+    "deal_date": "2024-07-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.88,
+    "floor": 19,
+    "price_10k": 257000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 14,
+    "price_10k": 150000,
+    "deal_date": "2024-07-03",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 36,
+    "price_10k": 224500,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신잠실코아",
+    "district": "신천동",
+    "area_m2": 41.99,
+    "floor": 12,
+    "price_10k": 91000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 30,
+    "price_10k": 124000,
+    "deal_date": "2024-07-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 16,
+    "price_10k": 209000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 84.39,
+    "floor": 10,
+    "price_10k": 119000,
+    "deal_date": "2024-07-20",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운9단지",
+    "district": "장지동",
+    "area_m2": 59.93,
+    "floor": 5,
+    "price_10k": 113250,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 7,
+    "price_10k": 220000,
+    "deal_date": "2024-07-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 3,
+    "price_10k": 89500,
+    "deal_date": "2024-07-12",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 59.85,
+    "floor": 15,
+    "price_10k": 114500,
+    "deal_date": "2024-07-12",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호어울림",
+    "district": "거여동",
+    "area_m2": 101.98,
+    "floor": 14,
+    "price_10k": 121000,
+    "deal_date": "2024-07-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 120.97,
+    "floor": 18,
+    "price_10k": 169000,
+    "deal_date": "2024-07-19",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파두산위브",
+    "district": "오금동",
+    "area_m2": 84.9703,
+    "floor": 3,
+    "price_10k": 120000,
+    "deal_date": "2024-07-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 59.98,
+    "floor": 21,
+    "price_10k": 124500,
+    "deal_date": "2024-07-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 7,
+    "price_10k": 141000,
+    "deal_date": "2024-07-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 10,
+    "price_10k": 250000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 124.22,
+    "floor": 16,
+    "price_10k": 350000,
+    "deal_date": "2024-07-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 1,
+    "price_10k": 129000,
+    "deal_date": "2024-07-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.751,
+    "floor": 1,
+    "price_10k": 177500,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 105.99,
+    "floor": 12,
+    "price_10k": 167000,
+    "deal_date": "2024-07-15",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 29,
+    "price_10k": 228000,
+    "deal_date": "2024-07-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 14,
+    "price_10k": 240000,
+    "deal_date": "2024-07-20",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 59.98,
+    "floor": 22,
+    "price_10k": 129000,
+    "deal_date": "2024-07-04",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 59.968,
+    "floor": 4,
+    "price_10k": 144000,
+    "deal_date": "2024-07-04",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 18,
+    "price_10k": 260000,
+    "deal_date": "2024-07-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크센트레빌",
+    "district": "오금동",
+    "area_m2": 84.3755,
+    "floor": 11,
+    "price_10k": 130000,
+    "deal_date": "2024-07-12",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.885,
+    "floor": 9,
+    "price_10k": 168000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 84.95,
+    "floor": 22,
+    "price_10k": 183000,
+    "deal_date": "2024-07-01",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 20,
+    "price_10k": 96500,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.51,
+    "floor": 13,
+    "price_10k": 300500,
+    "deal_date": "2024-07-15",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 82.45,
+    "floor": 7,
+    "price_10k": 210000,
+    "deal_date": "2024-07-15",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 75.99,
+    "floor": 8,
+    "price_10k": 170000,
+    "deal_date": "2024-07-01",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 84.924,
+    "floor": 25,
+    "price_10k": 162000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정대우푸르지오3차",
+    "district": "문정동",
+    "area_m2": 84.96,
+    "floor": 13,
+    "price_10k": 100000,
+    "deal_date": "2024-07-15",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 148.77,
+    "floor": 2,
+    "price_10k": 305000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 131.76,
+    "floor": 5,
+    "price_10k": 297000,
+    "deal_date": "2024-07-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 16,
+    "price_10k": 150000,
+    "deal_date": "2024-07-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽베어스타운1",
+    "district": "방이동",
+    "area_m2": 59.37,
+    "floor": 20,
+    "price_10k": 86500,
+    "deal_date": "2024-07-05",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성지",
+    "district": "송파동",
+    "area_m2": 84.92,
+    "floor": 9,
+    "price_10k": 140000,
+    "deal_date": "2024-07-22",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 59.88,
+    "floor": 5,
+    "price_10k": 99500,
+    "deal_date": "2024-07-21",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운5단지",
+    "district": "장지동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 150000,
+    "deal_date": "2024-07-22",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.86,
+    "floor": 6,
+    "price_10k": 130000,
+    "deal_date": "2024-07-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파크데일1단지",
+    "district": "마천동",
+    "area_m2": 84.99,
+    "floor": 3,
+    "price_10k": 100000,
+    "deal_date": "2024-07-12",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 59.92,
+    "floor": 12,
+    "price_10k": 119000,
+    "deal_date": "2024-07-03",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 24,
+    "price_10k": 230000,
+    "deal_date": "2024-07-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 2,
+    "price_10k": 248000,
+    "deal_date": "2024-07-22",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.96,
+    "floor": 17,
+    "price_10k": 138000,
+    "deal_date": "2024-07-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 59.88,
+    "floor": 22,
+    "price_10k": 104000,
+    "deal_date": "2024-07-05",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.77,
+    "floor": 11,
+    "price_10k": 100000,
+    "deal_date": "2024-07-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 84.98,
+    "floor": 21,
+    "price_10k": 143000,
+    "deal_date": "2024-07-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 121.63,
+    "floor": 2,
+    "price_10k": 263000,
+    "deal_date": "2024-07-08",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 96.65,
+    "floor": 4,
+    "price_10k": 218500,
+    "deal_date": "2024-07-04",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대리버빌2지구",
+    "district": "풍납동",
+    "area_m2": 40.95,
+    "floor": 15,
+    "price_10k": 54000,
+    "deal_date": "2024-07-01",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.94,
+    "floor": 12,
+    "price_10k": 117600,
+    "deal_date": "2024-07-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.12,
+    "floor": 1,
+    "price_10k": 115000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.51,
+    "floor": 12,
+    "price_10k": 297500,
+    "deal_date": "2024-07-15",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아시아선수촌아파트",
+    "district": "잠실동",
+    "area_m2": 178.325,
+    "floor": 17,
+    "price_10k": 490000,
+    "deal_date": "2024-07-12",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.61,
+    "floor": 10,
+    "price_10k": 297000,
+    "deal_date": "2024-07-11",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 49.8,
+    "floor": 8,
+    "price_10k": 79000,
+    "deal_date": "2024-07-17",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 2,
+    "price_10k": 264800,
+    "deal_date": "2024-07-13",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 45.77,
+    "floor": 7,
+    "price_10k": 79000,
+    "deal_date": "2024-07-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여5단지",
+    "district": "거여동",
+    "area_m2": 59.74,
+    "floor": 3,
+    "price_10k": 76800,
+    "deal_date": "2024-07-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 45.77,
+    "floor": 4,
+    "price_10k": 76900,
+    "deal_date": "2024-07-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리니엘",
+    "district": "방이동",
+    "area_m2": 33.3799,
+    "floor": 2,
+    "price_10k": 40700,
+    "deal_date": "2024-07-02",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 10,
+    "price_10k": 235000,
+    "deal_date": "2024-07-20",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 100.31,
+    "floor": 9,
+    "price_10k": 230000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대주상복합",
+    "district": "방이동",
+    "area_m2": 25.96,
+    "floor": 5,
+    "price_10k": 21000,
+    "deal_date": "2024-07-15",
+    "build_year": 1998,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 11,
+    "price_10k": 185000,
+    "deal_date": "2024-07-05",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 13,
+    "price_10k": 215000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 215000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 20,
+    "price_10k": 140000,
+    "deal_date": "2024-07-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 82.06,
+    "floor": 6,
+    "price_10k": 183000,
+    "deal_date": "2024-07-05",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 5,
+    "price_10k": 224000,
+    "deal_date": "2024-07-06",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 116.19,
+    "floor": 10,
+    "price_10k": 274000,
+    "deal_date": "2024-07-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 224500,
+    "deal_date": "2024-07-15",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 84.39,
+    "floor": 14,
+    "price_10k": 120000,
+    "deal_date": "2024-07-16",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 13,
+    "price_10k": 150000,
+    "deal_date": "2024-07-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 22,
+    "price_10k": 210000,
+    "deal_date": "2024-07-17",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 99.6,
+    "floor": 17,
+    "price_10k": 240000,
+    "deal_date": "2024-07-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 51.82,
+    "floor": 12,
+    "price_10k": 97000,
+    "deal_date": "2024-07-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 131.76,
+    "floor": 7,
+    "price_10k": 270000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양3",
+    "district": "방이동",
+    "area_m2": 146.96,
+    "floor": 1,
+    "price_10k": 185000,
+    "deal_date": "2024-07-05",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 3,
+    "price_10k": 57800,
+    "deal_date": "2024-07-05",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 71.73,
+    "floor": 28,
+    "price_10k": 170000,
+    "deal_date": "2024-07-04",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 9,
+    "price_10k": 272700,
+    "deal_date": "2024-07-16",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락우성2",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 104000,
+    "deal_date": "2024-07-04",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운6단지",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 10,
+    "price_10k": 130000,
+    "deal_date": "2024-07-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 21,
+    "price_10k": 250000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 18,
+    "price_10k": 200500,
+    "deal_date": "2024-07-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 59.95,
+    "floor": 16,
+    "price_10k": 189500,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.44,
+    "floor": 9,
+    "price_10k": 280000,
+    "deal_date": "2024-07-05",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례2차아이파크",
+    "district": "장지동",
+    "area_m2": 90.8877,
+    "floor": 15,
+    "price_10k": 158000,
+    "deal_date": "2024-07-20",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 15,
+    "price_10k": 137000,
+    "deal_date": "2024-07-17",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 49.29,
+    "floor": 9,
+    "price_10k": 160000,
+    "deal_date": "2024-07-16",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 127.75,
+    "floor": 15,
+    "price_10k": 157000,
+    "deal_date": "2024-07-12",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대리버빌2지구",
+    "district": "풍납동",
+    "area_m2": 59.4,
+    "floor": 10,
+    "price_10k": 88000,
+    "deal_date": "2024-07-10",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 84.828,
+    "floor": 3,
+    "price_10k": 148500,
+    "deal_date": "2024-07-03",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 135000,
+    "deal_date": "2024-07-17",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락금호아파트",
+    "district": "가락동",
+    "area_m2": 59.91,
+    "floor": 14,
+    "price_10k": 118500,
+    "deal_date": "2024-07-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 59.88,
+    "floor": 15,
+    "price_10k": 106000,
+    "deal_date": "2024-07-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 136.325,
+    "floor": 9,
+    "price_10k": 224000,
+    "deal_date": "2024-07-15",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 20,
+    "price_10k": 120000,
+    "deal_date": "2024-07-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 87.05,
+    "floor": 26,
+    "price_10k": 180000,
+    "deal_date": "2024-07-17",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 9,
+    "price_10k": 91500,
+    "deal_date": "2024-07-15",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 135.82,
+    "floor": 28,
+    "price_10k": 313000,
+    "deal_date": "2024-07-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 79.7,
+    "floor": 18,
+    "price_10k": 160000,
+    "deal_date": "2024-07-13",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 98.55,
+    "floor": 19,
+    "price_10k": 288000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 131.76,
+    "floor": 6,
+    "price_10k": 300000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 6,
+    "price_10k": 130000,
+    "deal_date": "2024-07-12",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 99.6,
+    "floor": 17,
+    "price_10k": 245500,
+    "deal_date": "2024-07-16",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "매그놀리아(1차)",
+    "district": "오금동",
+    "area_m2": 80.09,
+    "floor": 4,
+    "price_10k": 67000,
+    "deal_date": "2024-07-04",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 16,
+    "price_10k": 210000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 82.61,
+    "floor": 12,
+    "price_10k": 299500,
+    "deal_date": "2024-07-12",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 1,
+    "price_10k": 230000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 33,
+    "price_10k": 272000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 12,
+    "price_10k": 247000,
+    "deal_date": "2024-07-12",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9648,
+    "floor": 12,
+    "price_10k": 150000,
+    "deal_date": "2024-07-13",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 2,
+    "price_10k": 91500,
+    "deal_date": "2024-07-18",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 7,
+    "price_10k": 137500,
+    "deal_date": "2024-07-04",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "오금동",
+    "area_m2": 73.59,
+    "floor": 1,
+    "price_10k": 89800,
+    "deal_date": "2024-07-13",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.97,
+    "floor": 3,
+    "price_10k": 235000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 116.19,
+    "floor": 3,
+    "price_10k": 260000,
+    "deal_date": "2024-07-12",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "문정동",
+    "area_m2": 84.39,
+    "floor": 9,
+    "price_10k": 117500,
+    "deal_date": "2024-07-02",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 5,
+    "price_10k": 235000,
+    "deal_date": "2024-07-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 51.82,
+    "floor": 10,
+    "price_10k": 100300,
+    "deal_date": "2024-07-02",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 19,
+    "price_10k": 197000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 26,
+    "price_10k": 228000,
+    "deal_date": "2024-07-30",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(2-4차)",
+    "district": "오금동",
+    "area_m2": 84.98,
+    "floor": 13,
+    "price_10k": 164000,
+    "deal_date": "2024-07-13",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 34,
+    "price_10k": 223000,
+    "deal_date": "2024-07-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파위례리슈빌",
+    "district": "거여동",
+    "area_m2": 105.4624,
+    "floor": 17,
+    "price_10k": 189000,
+    "deal_date": "2024-07-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 49.29,
+    "floor": 13,
+    "price_10k": 158000,
+    "deal_date": "2024-07-08",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 4,
+    "price_10k": 136000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 11,
+    "price_10k": 253000,
+    "deal_date": "2024-07-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운8단지",
+    "district": "장지동",
+    "area_m2": 59.97,
+    "floor": 5,
+    "price_10k": 111500,
+    "deal_date": "2024-07-04",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 214000,
+    "deal_date": "2024-07-12",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파동부쎈트레빌",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 155000,
+    "deal_date": "2024-07-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 59.85,
+    "floor": 8,
+    "price_10k": 119500,
+    "deal_date": "2024-07-06",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파더센트레",
+    "district": "장지동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 112500,
+    "deal_date": "2024-07-03",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.12,
+    "floor": 2,
+    "price_10k": 119900,
+    "deal_date": "2024-07-02",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "2차한양아파트",
+    "district": "송파동",
+    "area_m2": 64.26,
+    "floor": 11,
+    "price_10k": 138000,
+    "deal_date": "2024-07-12",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9725,
+    "floor": 12,
+    "price_10k": 156000,
+    "deal_date": "2024-07-06",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 21,
+    "price_10k": 200000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 96.65,
+    "floor": 10,
+    "price_10k": 214000,
+    "deal_date": "2024-07-04",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미3",
+    "district": "신천동",
+    "area_m2": 134.16,
+    "floor": 2,
+    "price_10k": 274500,
+    "deal_date": "2024-07-16",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 121.23,
+    "floor": 2,
+    "price_10k": 280000,
+    "deal_date": "2024-07-15",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 84.42,
+    "floor": 13,
+    "price_10k": 114000,
+    "deal_date": "2024-07-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 27,
+    "price_10k": 260000,
+    "deal_date": "2024-07-02",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 6,
+    "price_10k": 267800,
+    "deal_date": "2024-07-10",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 114.7,
+    "floor": 22,
+    "price_10k": 277000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 71.73,
+    "floor": 12,
+    "price_10k": 171000,
+    "deal_date": "2024-07-01",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 10,
+    "price_10k": 115300,
+    "deal_date": "2024-07-14",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.95,
+    "floor": 15,
+    "price_10k": 235000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 13,
+    "price_10k": 212000,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 255000,
+    "deal_date": "2024-07-15",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파두산위브",
+    "district": "오금동",
+    "area_m2": 59.9823,
+    "floor": 3,
+    "price_10k": 95000,
+    "deal_date": "2024-07-05",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 2,
+    "price_10k": 128000,
+    "deal_date": "2024-07-10",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 114.7,
+    "floor": 16,
+    "price_10k": 280000,
+    "deal_date": "2024-07-10",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여1단지",
+    "district": "거여동",
+    "area_m2": 39.6,
+    "floor": 10,
+    "price_10k": 60300,
+    "deal_date": "2024-07-16",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 4,
+    "price_10k": 265700,
+    "deal_date": "2024-07-12",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대리버빌2지구",
+    "district": "풍납동",
+    "area_m2": 84.97,
+    "floor": 3,
+    "price_10k": 100000,
+    "deal_date": "2024-07-16",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 39.1,
+    "floor": 25,
+    "price_10k": 125000,
+    "deal_date": "2024-07-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 11,
+    "price_10k": 119000,
+    "deal_date": "2024-07-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 59.96,
+    "floor": 14,
+    "price_10k": 218000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 219000,
+    "deal_date": "2024-07-07",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 114.7,
+    "floor": 26,
+    "price_10k": 280000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정시영",
+    "district": "문정동",
+    "area_m2": 25.65,
+    "floor": 6,
+    "price_10k": 47500,
+    "deal_date": "2024-07-05",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정래미안",
+    "district": "문정동",
+    "area_m2": 84.96,
+    "floor": 19,
+    "price_10k": 145000,
+    "deal_date": "2024-07-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 11,
+    "price_10k": 224800,
+    "deal_date": "2024-07-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실올림픽공원아이파크",
+    "district": "풍납동",
+    "area_m2": 59.93,
+    "floor": 11,
+    "price_10k": 153000,
+    "deal_date": "2024-07-11",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "가락동",
+    "area_m2": 149.74,
+    "floor": 11,
+    "price_10k": 177300,
+    "deal_date": "2024-07-10",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 10,
+    "price_10k": 210000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 80.35,
+    "floor": 5,
+    "price_10k": 179000,
+    "deal_date": "2024-07-06",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 79.7,
+    "floor": 8,
+    "price_10k": 145000,
+    "deal_date": "2024-07-11",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양아파트",
+    "district": "송파동",
+    "area_m2": 64.26,
+    "floor": 9,
+    "price_10k": 133000,
+    "deal_date": "2024-07-04",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파시그니처롯데캐슬",
+    "district": "거여동",
+    "area_m2": 84.98,
+    "floor": 10,
+    "price_10k": 150000,
+    "deal_date": "2024-07-08",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.98,
+    "floor": 28,
+    "price_10k": 145000,
+    "deal_date": "2024-07-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문정가락현대1차",
+    "district": "문정동",
+    "area_m2": 123.61,
+    "floor": 12,
+    "price_10k": 144000,
+    "deal_date": "2024-07-13",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대리버빌2지구",
+    "district": "풍납동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 103500,
+    "deal_date": "2024-07-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.88,
+    "floor": 21,
+    "price_10k": 260000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 45.77,
+    "floor": 11,
+    "price_10k": 78000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아시아선수촌아파트",
+    "district": "잠실동",
+    "area_m2": 151.008,
+    "floor": 10,
+    "price_10k": 418000,
+    "deal_date": "2024-07-15",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 2,
+    "price_10k": 237500,
+    "deal_date": "2024-07-11",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 11,
+    "price_10k": 268000,
+    "deal_date": "2024-07-16",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파레미니스",
+    "district": "오금동",
+    "area_m2": 84.94,
+    "floor": 13,
+    "price_10k": 133000,
+    "deal_date": "2024-07-16",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 19,
+    "price_10k": 246000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 134500,
+    "deal_date": "2024-07-01",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 9,
+    "price_10k": 250000,
+    "deal_date": "2024-07-11",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 2,
+    "price_10k": 87000,
+    "deal_date": "2024-07-07",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 59.95,
+    "floor": 2,
+    "price_10k": 185000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 14,
+    "price_10k": 185000,
+    "deal_date": "2024-07-04",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락쌍용(2차)",
+    "district": "가락동",
+    "area_m2": 84.42,
+    "floor": 23,
+    "price_10k": 118500,
+    "deal_date": "2024-07-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "가락동",
+    "area_m2": 84.53,
+    "floor": 3,
+    "price_10k": 105000,
+    "deal_date": "2024-07-13",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 120,
+    "floor": 5,
+    "price_10k": 249000,
+    "deal_date": "2024-07-13",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.44,
+    "floor": 12,
+    "price_10k": 269000,
+    "deal_date": "2024-07-05",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 24,
+    "price_10k": 247000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.97,
+    "floor": 12,
+    "price_10k": 250000,
+    "deal_date": "2024-07-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.96,
+    "floor": 3,
+    "price_10k": 219000,
+    "deal_date": "2024-07-09",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 10,
+    "price_10k": 185000,
+    "deal_date": "2024-07-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 8,
+    "price_10k": 230000,
+    "deal_date": "2024-07-15",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.751,
+    "floor": 2,
+    "price_10k": 188000,
+    "deal_date": "2024-07-15",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 4,
+    "price_10k": 132000,
+    "deal_date": "2024-07-13",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 62.19,
+    "floor": 1,
+    "price_10k": 167000,
+    "deal_date": "2024-07-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 114.7,
+    "floor": 1,
+    "price_10k": 269000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱아파트",
+    "district": "방이동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 133000,
+    "deal_date": "2024-07-13",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 1,
+    "price_10k": 193000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 260000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아시아선수촌아파트",
+    "district": "잠실동",
+    "area_m2": 151.008,
+    "floor": 7,
+    "price_10k": 393000,
+    "deal_date": "2024-07-01",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "풍납동",
+    "area_m2": 83.02,
+    "floor": 7,
+    "price_10k": 123000,
+    "deal_date": "2024-07-01",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "오금동",
+    "area_m2": 84.91,
+    "floor": 6,
+    "price_10k": 136000,
+    "deal_date": "2024-07-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 3,
+    "price_10k": 238000,
+    "deal_date": "2024-07-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 1,
+    "price_10k": 202000,
+    "deal_date": "2024-07-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크팰리스",
+    "district": "가락동",
+    "area_m2": 59.968,
+    "floor": 6,
+    "price_10k": 148000,
+    "deal_date": "2024-07-10",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청공빌딩주상복합-현대빌리지",
+    "district": "가락동",
+    "area_m2": 157.06,
+    "floor": 9,
+    "price_10k": 94500,
+    "deal_date": "2024-07-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌2단지",
+    "district": "방이동",
+    "area_m2": 131.76,
+    "floor": 6,
+    "price_10k": 276500,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아한가람1",
+    "district": "풍납동",
+    "area_m2": 84.38,
+    "floor": 11,
+    "price_10k": 80000,
+    "deal_date": "2024-07-15",
+    "build_year": 1995,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 13,
+    "price_10k": 203000,
+    "deal_date": "2024-07-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 3,
+    "price_10k": 196000,
+    "deal_date": "2024-07-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9942,
+    "floor": 5,
+    "price_10k": 151000,
+    "deal_date": "2024-07-04",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 131.08,
+    "floor": 6,
+    "price_10k": 260000,
+    "deal_date": "2024-07-06",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 27,
+    "price_10k": 246000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 12,
+    "price_10k": 250000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운9단지",
+    "district": "장지동",
+    "area_m2": 59.93,
+    "floor": 12,
+    "price_10k": 110000,
+    "deal_date": "2024-07-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 149.45,
+    "floor": 28,
+    "price_10k": 330000,
+    "deal_date": "2024-07-09",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양아파트",
+    "district": "송파동",
+    "area_m2": 158.61,
+    "floor": 8,
+    "price_10k": 190000,
+    "deal_date": "2024-07-13",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대주상복합",
+    "district": "방이동",
+    "area_m2": 33.69,
+    "floor": 4,
+    "price_10k": 32800,
+    "deal_date": "2024-07-06",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 117.585,
+    "floor": 2,
+    "price_10k": 196500,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.8,
+    "floor": 3,
+    "price_10k": 190000,
+    "deal_date": "2024-07-12",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 116.19,
+    "floor": 13,
+    "price_10k": 270000,
+    "deal_date": "2024-07-11",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 6,
+    "price_10k": 182200,
+    "deal_date": "2024-07-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 121.63,
+    "floor": 33,
+    "price_10k": 280000,
+    "deal_date": "2024-07-08",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 124000,
+    "deal_date": "2024-07-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대주상복합",
+    "district": "방이동",
+    "area_m2": 23.99,
+    "floor": 7,
+    "price_10k": 29500,
+    "deal_date": "2024-07-11",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브",
+    "district": "가락동",
+    "area_m2": 33.1,
+    "floor": 10,
+    "price_10k": 24000,
+    "deal_date": "2024-07-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공아파트 5단지",
+    "district": "잠실동",
+    "area_m2": 76.5,
+    "floor": 13,
+    "price_10k": 263700,
+    "deal_date": "2024-07-04",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 13,
+    "price_10k": 209000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파호반베르디움더퍼스트",
+    "district": "오금동",
+    "area_m2": 101.4632,
+    "floor": 8,
+    "price_10k": 110200,
+    "deal_date": "2024-07-09",
+    "build_year": 2018,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 1,
+    "price_10k": 176500,
+    "deal_date": "2024-07-09",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 60,
+    "floor": 12,
+    "price_10k": 95500,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강극동",
+    "district": "풍납동",
+    "area_m2": 114.76,
+    "floor": 2,
+    "price_10k": 126000,
+    "deal_date": "2024-07-02",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 84.88,
+    "floor": 20,
+    "price_10k": 260000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락(1차)쌍용아파트",
+    "district": "가락동",
+    "area_m2": 84.69,
+    "floor": 10,
+    "price_10k": 138500,
+    "deal_date": "2024-07-09",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 84.98,
+    "floor": 11,
+    "price_10k": 115000,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크하비오",
+    "district": "문정동",
+    "area_m2": 84.9942,
+    "floor": 4,
+    "price_10k": 148300,
+    "deal_date": "2024-07-04",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실푸르지오월드마크",
+    "district": "신천동",
+    "area_m2": 84.39,
+    "floor": 34,
+    "price_10k": 170000,
+    "deal_date": "2024-07-08",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 7,
+    "price_10k": 195000,
+    "deal_date": "2024-07-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 113.63,
+    "floor": 25,
+    "price_10k": 181000,
+    "deal_date": "2024-07-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 26,
+    "price_10k": 255500,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호어울림",
+    "district": "거여동",
+    "area_m2": 120.36,
+    "floor": 11,
+    "price_10k": 116500,
+    "deal_date": "2024-07-10",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파두산위브",
+    "district": "오금동",
+    "area_m2": 84.9703,
+    "floor": 22,
+    "price_10k": 108000,
+    "deal_date": "2024-07-06",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실푸르지오월드마크",
+    "district": "신천동",
+    "area_m2": 108.32,
+    "floor": 12,
+    "price_10k": 194000,
+    "deal_date": "2024-07-07",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거여2단지효성아파트",
+    "district": "거여동",
+    "area_m2": 101.95,
+    "floor": 3,
+    "price_10k": 125000,
+    "deal_date": "2024-07-03",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 71.2,
+    "floor": 2,
+    "price_10k": 179000,
+    "deal_date": "2024-07-06",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실푸르지오월드마크",
+    "district": "신천동",
+    "area_m2": 108.32,
+    "floor": 20,
+    "price_10k": 220000,
+    "deal_date": "2024-07-10",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 13,
+    "price_10k": 225000,
+    "deal_date": "2024-07-10",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운6단지",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 134500,
+    "deal_date": "2024-07-09",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 8,
+    "price_10k": 225000,
+    "deal_date": "2024-07-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미2",
+    "district": "신천동",
+    "area_m2": 99,
+    "floor": 13,
+    "price_10k": 222000,
+    "deal_date": "2024-07-05",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 26,
+    "price_10k": 226000,
+    "deal_date": "2024-07-01",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 5,
+    "price_10k": 179000,
+    "deal_date": "2024-07-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 23,
+    "price_10k": 223000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 15,
+    "price_10k": 230000,
+    "deal_date": "2024-07-09",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 12,
+    "price_10k": 233500,
+    "deal_date": "2024-07-05",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "가락동",
+    "area_m2": 43.79,
+    "floor": 4,
+    "price_10k": 87500,
+    "deal_date": "2024-07-06",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운3단지",
+    "district": "장지동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 117500,
+    "deal_date": "2024-07-01",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파파인타운5단지",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 10,
+    "price_10k": 143500,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "풍납동",
+    "area_m2": 83.02,
+    "floor": 10,
+    "price_10k": 121000,
+    "deal_date": "2024-07-08",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 82.45,
+    "floor": 1,
+    "price_10k": 199000,
+    "deal_date": "2024-07-08",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락금호아파트",
+    "district": "가락동",
+    "area_m2": 59.91,
+    "floor": 22,
+    "price_10k": 114500,
+    "deal_date": "2024-07-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아2차아파트",
+    "district": "오금동",
+    "area_m2": 60,
+    "floor": 4,
+    "price_10k": 97000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "천마그랑밸리",
+    "district": "마천동",
+    "area_m2": 84.8,
+    "floor": 2,
+    "price_10k": 70500,
+    "deal_date": "2024-07-04",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 15,
+    "price_10k": 220000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 71.73,
+    "floor": 1,
+    "price_10k": 145000,
+    "deal_date": "2024-07-04",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "가락동",
+    "area_m2": 84.11,
+    "floor": 7,
+    "price_10k": 120000,
+    "deal_date": "2024-07-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 144.77,
+    "floor": 10,
+    "price_10k": 284000,
+    "deal_date": "2024-07-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 110.66,
+    "floor": 13,
+    "price_10k": 266000,
+    "deal_date": "2024-07-02",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌3단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 8,
+    "price_10k": 210000,
+    "deal_date": "2024-07-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 136.325,
+    "floor": 11,
+    "price_10k": 162000,
+    "deal_date": "2024-07-05",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "송파두산위브",
+    "district": "오금동",
+    "area_m2": 59.9823,
+    "floor": 22,
+    "price_10k": 91500,
+    "deal_date": "2024-07-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.751,
+    "floor": 1,
+    "price_10k": 177500,
+    "deal_date": "2024-07-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 252000,
+    "deal_date": "2024-07-08",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양아파트",
+    "district": "송파동",
+    "area_m2": 64.26,
+    "floor": 9,
+    "price_10k": 135000,
+    "deal_date": "2024-07-03",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 84.705,
+    "floor": 1,
+    "price_10k": 178000,
+    "deal_date": "2024-07-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 225000,
+    "deal_date": "2024-07-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 87.05,
+    "floor": 5,
+    "price_10k": 180000,
+    "deal_date": "2024-07-08",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 29,
+    "price_10k": 237000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽훼밀리타운",
+    "district": "문정동",
+    "area_m2": 117.585,
+    "floor": 12,
+    "price_10k": 212000,
+    "deal_date": "2024-07-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 19,
+    "price_10k": 225500,
+    "deal_date": "2024-07-01",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 35.24,
+    "floor": 3,
+    "price_10k": 92500,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파레미니스2단지",
+    "district": "오금동",
+    "area_m2": 84.82,
+    "floor": 5,
+    "price_10k": 122000,
+    "deal_date": "2024-07-01",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락우성2",
+    "district": "가락동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 104000,
+    "deal_date": "2024-07-04",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위례24단지(꿈에그린)",
+    "district": "장지동",
+    "area_m2": 84.93,
+    "floor": 15,
+    "price_10k": 147500,
+    "deal_date": "2024-07-06",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 131.08,
+    "floor": 2,
+    "price_10k": 249000,
+    "deal_date": "2024-07-02",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송파삼성래미안아파트",
+    "district": "송파동",
+    "area_m2": 79.7,
+    "floor": 10,
+    "price_10k": 150000,
+    "deal_date": "2024-07-06",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아시아선수촌아파트",
+    "district": "잠실동",
+    "area_m2": 151.008,
+    "floor": 10,
+    "price_10k": 400000,
+    "deal_date": "2024-07-04",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 59.96,
+    "floor": 22,
+    "price_10k": 213000,
+    "deal_date": "2024-07-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상송파파크센트럴",
+    "district": "거여동",
+    "area_m2": 84.96,
+    "floor": 28,
+    "price_10k": 143000,
+    "deal_date": "2024-07-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 119.93,
+    "floor": 4,
+    "price_10k": 300000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 59.99,
+    "floor": 25,
+    "price_10k": 210000,
+    "deal_date": "2024-07-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 150.09,
+    "floor": 29,
+    "price_10k": 360000,
+    "deal_date": "2024-07-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락미륭아파트",
+    "district": "가락동",
+    "area_m2": 83.58,
+    "floor": 11,
+    "price_10k": 115000,
+    "deal_date": "2024-07-03",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 4,
+    "price_10k": 195000,
+    "deal_date": "2024-07-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가락삼익맨숀",
+    "district": "송파동",
+    "area_m2": 84.828,
+    "floor": 10,
+    "price_10k": 151000,
+    "deal_date": "2024-07-04",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.79,
+    "floor": 17,
+    "price_10k": 220000,
+    "deal_date": "2024-07-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 23,
+    "price_10k": 200000,
+    "deal_date": "2024-07-04",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 96.04,
+    "floor": 5,
+    "price_10k": 210000,
+    "deal_date": "2024-07-01",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크리오",
+    "district": "신천동",
+    "area_m2": 84.9,
+    "floor": 10,
+    "price_10k": 203000,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성아파트",
+    "district": "잠실동",
+    "area_m2": 131.08,
+    "floor": 4,
+    "price_10k": 251000,
+    "deal_date": "2024-07-03",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안송파파인탑",
+    "district": "송파동",
+    "area_m2": 64.66,
+    "floor": 27,
+    "price_10k": 150000,
+    "deal_date": "2024-07-02",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 180000,
+    "deal_date": "2024-07-03",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 84.83,
+    "floor": 13,
+    "price_10k": 230000,
+    "deal_date": "2024-07-01",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "잠실엘스",
+    "district": "잠실동",
+    "area_m2": 59.96,
+    "floor": 23,
+    "price_10k": 206000,
+    "deal_date": "2024-07-01",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리지움",
+    "district": "잠실동",
+    "area_m2": 59.88,
+    "floor": 12,
+    "price_10k": 200000,
+    "deal_date": "2024-07-01",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성아파트(103동)",
+    "district": "가락동",
+    "area_m2": 81.36,
+    "floor": 3,
+    "price_10k": 65000,
+    "deal_date": "2024-07-02",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레이크팰리스",
+    "district": "잠실동",
+    "area_m2": 84.82,
+    "floor": 21,
+    "price_10k": 229000,
+    "deal_date": "2024-07-01",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽선수기자촌1단지",
+    "district": "방이동",
+    "area_m2": 83.06,
+    "floor": 3,
+    "price_10k": 197000,
+    "deal_date": "2024-07-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "헬리오시티",
+    "district": "가락동",
+    "area_m2": 130.06,
+    "floor": 28,
+    "price_10k": 322500,
+    "deal_date": "2024-07-02",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "신천동",
+    "area_m2": 155.22,
+    "floor": 13,
+    "price_10k": 295000,
+    "deal_date": "2024-07-01",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리센츠",
+    "district": "잠실동",
+    "area_m2": 124.22,
+    "floor": 11,
+    "price_10k": 329000,
+    "deal_date": "2024-07-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  }
+]

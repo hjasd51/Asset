@@ -1,0 +1,200 @@
+[
+  {
+    "name": "신내역힐데스하임참좋은아파트",
+    "district": "망우동",
+    "area_m2": 84.9309,
+    "floor": 9,
+    "deposit_10k": 52500,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-11",
+    "build_year": 2021
+  },
+  {
+    "name": "진로아파트",
+    "district": "신내동",
+    "area_m2": 101.86,
+    "floor": 4,
+    "deposit_10k": 53000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-30",
+    "build_year": 1995
+  },
+  {
+    "name": "한일써너스빌",
+    "district": "상봉동",
+    "area_m2": 70.841,
+    "floor": 24,
+    "deposit_10k": 47250,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-23",
+    "build_year": 2003
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 68.12,
+    "floor": 10,
+    "deposit_10k": 33000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-27",
+    "build_year": 1996
+  },
+  {
+    "name": "두산6",
+    "district": "면목동",
+    "area_m2": 84.94,
+    "floor": 5,
+    "deposit_10k": 55000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-21",
+    "build_year": 1993
+  },
+  {
+    "name": "브라운스톤태릉",
+    "district": "묵동",
+    "area_m2": 59.4364,
+    "floor": 1,
+    "deposit_10k": 43500,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-14",
+    "build_year": 2004
+  },
+  {
+    "name": "프레미어스엠코",
+    "district": "상봉동",
+    "area_m2": 76.66,
+    "floor": 25,
+    "deposit_10k": 70000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2026-06-11",
+    "build_year": 2013
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 59.6,
+    "floor": 2,
+    "deposit_10k": 42000,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-06-26",
+    "build_year": 2014
+  },
+  {
+    "name": "화성.두산아파트",
+    "district": "신내동",
+    "area_m2": 66.96,
+    "floor": 14,
+    "deposit_10k": 43300,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-06-25",
+    "build_year": 1995
+  },
+  {
+    "name": "두산6",
+    "district": "면목동",
+    "area_m2": 59.55,
+    "floor": 19,
+    "deposit_10k": 45000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-17",
+    "build_year": 1993
+  },
+  {
+    "name": "상봉듀오트리스",
+    "district": "상봉동",
+    "area_m2": 117.07,
+    "floor": 12,
+    "deposit_10k": 70000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-15",
+    "build_year": 2016
+  },
+  {
+    "name": "한건브리앙",
+    "district": "면목동",
+    "area_m2": 41.5,
+    "floor": 7,
+    "deposit_10k": 19500,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-06-29",
+    "build_year": 2004
+  },
+  {
+    "name": "남청파인힐(101동)",
+    "district": "면목동",
+    "area_m2": 81.93,
+    "floor": 7,
+    "deposit_10k": 46000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-05",
+    "build_year": 2006
+  },
+  {
+    "name": "중화동건영아파트",
+    "district": "중화동",
+    "area_m2": 84.76,
+    "floor": 7,
+    "deposit_10k": 45000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-20",
+    "build_year": 1998
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 39.84,
+    "floor": 8,
+    "deposit_10k": 25000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-27",
+    "build_year": 1996
+  },
+  {
+    "name": "쌍용더플래티넘용마산",
+    "district": "면목동",
+    "area_m2": 59.9676,
+    "floor": 6,
+    "deposit_10k": 62000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-03",
+    "build_year": 2020
+  },
+  {
+    "name": "신내역프라디움더테라스",
+    "district": "망우동",
+    "area_m2": 84.9331,
+    "floor": 23,
+    "deposit_10k": 53927,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-12",
+    "build_year": 2023
+  },
+  {
+    "name": "프레미어스엠코",
+    "district": "상봉동",
+    "area_m2": 111.56,
+    "floor": 15,
+    "deposit_10k": 85000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-06-19",
+    "build_year": 2013
+  }
+]

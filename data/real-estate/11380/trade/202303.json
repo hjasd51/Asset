@@ -1,0 +1,3852 @@
+[
+  {
+    "name": "폭포동4단지힐스테이트(423~425동)BL3-10",
+    "district": "진관동",
+    "area_m2": 134.87,
+    "floor": 11,
+    "price_10k": 120000,
+    "deal_date": "2023-03-30",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성수정",
+    "district": "신사동",
+    "area_m2": 84.8,
+    "floor": 4,
+    "price_10k": 52500,
+    "deal_date": "2023-03-20",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 114.98,
+    "floor": 15,
+    "price_10k": 115500,
+    "deal_date": "2023-03-11",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "명남뉴",
+    "district": "역촌동",
+    "area_m2": 84.51,
+    "floor": 7,
+    "price_10k": 48000,
+    "deal_date": "2023-03-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 4,
+    "price_10k": 95000,
+    "deal_date": "2023-03-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "응암동",
+    "area_m2": 80.99,
+    "floor": 8,
+    "price_10k": 54900,
+    "deal_date": "2023-03-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 7,
+    "price_10k": 87200,
+    "deal_date": "2023-03-31",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(408~422동)BL3-9",
+    "district": "진관동",
+    "area_m2": 166.96,
+    "floor": 19,
+    "price_10k": 125000,
+    "deal_date": "2023-03-16",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 4,
+    "price_10k": 66000,
+    "deal_date": "2023-03-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.789,
+    "floor": 5,
+    "price_10k": 70000,
+    "deal_date": "2023-03-16",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(423~425동)BL3-10",
+    "district": "진관동",
+    "area_m2": 134.87,
+    "floor": 11,
+    "price_10k": 120000,
+    "deal_date": "2023-03-30",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평신사두산위브",
+    "district": "신사동",
+    "area_m2": 84.997,
+    "floor": 6,
+    "price_10k": 64700,
+    "deal_date": "2023-03-29",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발10단지어울림(1011~1019동)BL3-1",
+    "district": "진관동",
+    "area_m2": 84.78,
+    "floor": 2,
+    "price_10k": 75000,
+    "deal_date": "2023-03-31",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평서해그랑블",
+    "district": "구산동",
+    "area_m2": 59.6483,
+    "floor": 20,
+    "price_10k": 56000,
+    "deal_date": "2023-03-29",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거성리젠시",
+    "district": "신사동",
+    "area_m2": 31.99,
+    "floor": 8,
+    "price_10k": 37000,
+    "deal_date": "2023-03-29",
+    "build_year": 2023,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 7,
+    "price_10k": 87200,
+    "deal_date": "2023-03-31",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산스카이파크",
+    "district": "구산동",
+    "area_m2": 77.17,
+    "floor": 2,
+    "price_10k": 35000,
+    "deal_date": "2023-03-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 7,
+    "price_10k": 80000,
+    "deal_date": "2023-03-24",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 83500,
+    "deal_date": "2023-03-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 84.97,
+    "floor": 2,
+    "price_10k": 77500,
+    "deal_date": "2023-03-23",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.92,
+    "floor": 11,
+    "price_10k": 108500,
+    "deal_date": "2023-03-24",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "린든빌(29-26)",
+    "district": "신사동",
+    "area_m2": 59.31,
+    "floor": 8,
+    "price_10k": 33400,
+    "deal_date": "2023-03-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개성하이뷰",
+    "district": "신사동",
+    "area_m2": 80.53,
+    "floor": 6,
+    "price_10k": 47000,
+    "deal_date": "2023-03-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 114.844,
+    "floor": 14,
+    "price_10k": 125000,
+    "deal_date": "2023-03-28",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(408~422동)BL3-9",
+    "district": "진관동",
+    "area_m2": 166.96,
+    "floor": 19,
+    "price_10k": 125000,
+    "deal_date": "2023-03-16",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "응암역효성해링턴플레이스",
+    "district": "신사동",
+    "area_m2": 75.72,
+    "floor": 12,
+    "price_10k": 79000,
+    "deal_date": "2023-03-19",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 3,
+    "price_10k": 99000,
+    "deal_date": "2023-03-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "명남뉴",
+    "district": "역촌동",
+    "area_m2": 84.51,
+    "floor": 7,
+    "price_10k": 48000,
+    "deal_date": "2023-03-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 14,
+    "price_10k": 83500,
+    "deal_date": "2023-03-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번2현대",
+    "district": "녹번동",
+    "area_m2": 84.94,
+    "floor": 11,
+    "price_10k": 75900,
+    "deal_date": "2023-03-31",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 59.99,
+    "floor": 3,
+    "price_10k": 80000,
+    "deal_date": "2023-03-17",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 80500,
+    "deal_date": "2023-03-14",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "구산동",
+    "area_m2": 84.69,
+    "floor": 5,
+    "price_10k": 57500,
+    "deal_date": "2023-03-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정익제이원6차",
+    "district": "대조동",
+    "area_m2": 29.57,
+    "floor": 8,
+    "price_10k": 31000,
+    "deal_date": "2023-03-19",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금강포란재(101)",
+    "district": "구산동",
+    "area_m2": 84.18,
+    "floor": 2,
+    "price_10k": 41800,
+    "deal_date": "2023-03-20",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 17,
+    "price_10k": 83700,
+    "deal_date": "2023-03-17",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.789,
+    "floor": 5,
+    "price_10k": 70000,
+    "deal_date": "2023-03-16",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동명베스트(84-21)",
+    "district": "대조동",
+    "area_m2": 96.31,
+    "floor": 3,
+    "price_10k": 43000,
+    "deal_date": "2023-03-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.813,
+    "floor": 14,
+    "price_10k": 102000,
+    "deal_date": "2023-03-28",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 110000,
+    "deal_date": "2023-03-28",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.99,
+    "floor": 1,
+    "price_10k": 68000,
+    "deal_date": "2023-03-03",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.986,
+    "floor": 4,
+    "price_10k": 65000,
+    "deal_date": "2023-03-24",
+    "build_year": 2011,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "동익파크1동(355-95)",
+    "district": "구산동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 49000,
+    "deal_date": "2023-03-23",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.97,
+    "floor": 20,
+    "price_10k": 102500,
+    "deal_date": "2023-03-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(408~422동)BL3-9",
+    "district": "진관동",
+    "area_m2": 166.96,
+    "floor": 12,
+    "price_10k": 130000,
+    "deal_date": "2023-03-24",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미래하임",
+    "district": "대조동",
+    "area_m2": 31.8,
+    "floor": 11,
+    "price_10k": 25500,
+    "deal_date": "2023-03-15",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC월드",
+    "district": "증산동",
+    "area_m2": 80.931,
+    "floor": 13,
+    "price_10k": 71000,
+    "deal_date": "2023-03-21",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 23,
+    "price_10k": 83400,
+    "deal_date": "2023-03-15",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.94,
+    "floor": 22,
+    "price_10k": 107500,
+    "deal_date": "2023-03-18",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우물골2단지두산위브(223~244동)BL2-7",
+    "district": "진관동",
+    "area_m2": 167.75,
+    "floor": 2,
+    "price_10k": 110000,
+    "deal_date": "2023-03-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.97,
+    "floor": 4,
+    "price_10k": 102000,
+    "deal_date": "2023-03-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 84.669,
+    "floor": 4,
+    "price_10k": 82000,
+    "deal_date": "2023-03-24",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 84.369,
+    "floor": 2,
+    "price_10k": 77000,
+    "deal_date": "2023-03-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성수정",
+    "district": "신사동",
+    "area_m2": 84.8,
+    "floor": 4,
+    "price_10k": 52500,
+    "deal_date": "2023-03-20",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 84.72,
+    "floor": 5,
+    "price_10k": 87500,
+    "deal_date": "2023-03-30",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 3,
+    "price_10k": 97000,
+    "deal_date": "2023-03-31",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경향파크",
+    "district": "구산동",
+    "area_m2": 84.06,
+    "floor": 7,
+    "price_10k": 39500,
+    "deal_date": "2023-03-17",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "응암동",
+    "area_m2": 80.99,
+    "floor": 8,
+    "price_10k": 54900,
+    "deal_date": "2023-03-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔",
+    "district": "갈현동",
+    "area_m2": 39.96,
+    "floor": 7,
+    "price_10k": 29200,
+    "deal_date": "2023-03-16",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평신사두산위브",
+    "district": "신사동",
+    "area_m2": 70.26,
+    "floor": 6,
+    "price_10k": 62000,
+    "deal_date": "2023-03-08",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역촌센트레빌",
+    "district": "역촌동",
+    "area_m2": 84.89,
+    "floor": 8,
+    "price_10k": 68000,
+    "deal_date": "2023-03-08",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC우방",
+    "district": "증산동",
+    "area_m2": 59.91,
+    "floor": 19,
+    "price_10k": 69000,
+    "deal_date": "2023-03-17",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 59.817,
+    "floor": 1,
+    "price_10k": 61500,
+    "deal_date": "2023-03-18",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 115.41,
+    "floor": 10,
+    "price_10k": 101000,
+    "deal_date": "2023-03-11",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 14,
+    "price_10k": 88000,
+    "deal_date": "2023-03-21",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.905,
+    "floor": 13,
+    "price_10k": 72000,
+    "deal_date": "2023-03-11",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 4,
+    "price_10k": 66000,
+    "deal_date": "2023-03-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.905,
+    "floor": 5,
+    "price_10k": 72000,
+    "deal_date": "2023-03-26",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거장메카(116-22)",
+    "district": "응암동",
+    "area_m2": 29.75,
+    "floor": 9,
+    "price_10k": 37200,
+    "deal_date": "2023-03-08",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 4,
+    "price_10k": 95000,
+    "deal_date": "2023-03-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 114.98,
+    "floor": 15,
+    "price_10k": 115500,
+    "deal_date": "2023-03-11",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.95,
+    "floor": 4,
+    "price_10k": 64000,
+    "deal_date": "2023-03-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC센트럴자이(3단지)",
+    "district": "증산동",
+    "area_m2": 84.92,
+    "floor": 24,
+    "price_10k": 128000,
+    "deal_date": "2023-03-23",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성타운",
+    "district": "대조동",
+    "area_m2": 59.4,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상 수색 에코포레",
+    "district": "수색동",
+    "area_m2": 59.895,
+    "floor": 2,
+    "price_10k": 54000,
+    "deal_date": "2023-03-07",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트1차",
+    "district": "응암동",
+    "area_m2": 59.93,
+    "floor": 10,
+    "price_10k": 67000,
+    "deal_date": "2023-03-11",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 13,
+    "price_10k": 95000,
+    "deal_date": "2023-03-25",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 97.06,
+    "floor": 1,
+    "price_10k": 95000,
+    "deal_date": "2023-03-11",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 20,
+    "price_10k": 60000,
+    "deal_date": "2023-03-28",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 79700,
+    "deal_date": "2023-03-11",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 129.46,
+    "floor": 3,
+    "price_10k": 97000,
+    "deal_date": "2023-03-15",
+    "build_year": 2010,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "불광롯데캐슬",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 15,
+    "price_10k": 59900,
+    "deal_date": "2023-03-25",
+    "build_year": 2018,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "라이프시티",
+    "district": "갈현동",
+    "area_m2": 79.11,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-21",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(101~111동)BL2-12",
+    "district": "진관동",
+    "area_m2": 59.85,
+    "floor": 3,
+    "price_10k": 71500,
+    "deal_date": "2023-03-25",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 7,
+    "price_10k": 85000,
+    "deal_date": "2023-03-11",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(310~322동)BL2-3",
+    "district": "진관동",
+    "area_m2": 167.14,
+    "floor": 14,
+    "price_10k": 120000,
+    "deal_date": "2023-03-25",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 5,
+    "price_10k": 79000,
+    "deal_date": "2023-03-02",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 84.72,
+    "floor": 12,
+    "price_10k": 90000,
+    "deal_date": "2023-03-25",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트1차",
+    "district": "응암동",
+    "area_m2": 84.42,
+    "floor": 3,
+    "price_10k": 75000,
+    "deal_date": "2023-03-11",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 2,
+    "price_10k": 12500,
+    "deal_date": "2023-03-24",
+    "build_year": 2011,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 84700,
+    "deal_date": "2023-03-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 6,
+    "price_10k": 80000,
+    "deal_date": "2023-03-21",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서강스카이빌2",
+    "district": "응암동",
+    "area_m2": 156.39,
+    "floor": 13,
+    "price_10k": 80000,
+    "deal_date": "2023-03-06",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 84.85,
+    "floor": 1,
+    "price_10k": 79000,
+    "deal_date": "2023-03-17",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 55.885,
+    "floor": 6,
+    "price_10k": 63000,
+    "deal_date": "2023-03-17",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 8,
+    "price_10k": 79000,
+    "deal_date": "2023-03-02",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.94,
+    "floor": 14,
+    "price_10k": 86000,
+    "deal_date": "2023-03-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(101~111동)BL2-12",
+    "district": "진관동",
+    "area_m2": 59.85,
+    "floor": 8,
+    "price_10k": 71000,
+    "deal_date": "2023-03-09",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "호림리슈리안",
+    "district": "대조동",
+    "area_m2": 56.83,
+    "floor": 14,
+    "price_10k": 54500,
+    "deal_date": "2023-03-02",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 84.49,
+    "floor": 9,
+    "price_10k": 88000,
+    "deal_date": "2023-03-12",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "홍익",
+    "district": "신사동",
+    "area_m2": 59.94,
+    "floor": 1,
+    "price_10k": 35000,
+    "deal_date": "2023-03-19",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운솔하임",
+    "district": "진관동",
+    "area_m2": 14.235,
+    "floor": 18,
+    "price_10k": 12800,
+    "deal_date": "2023-03-21",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 73110,
+    "deal_date": "2023-03-15",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 14,
+    "price_10k": 90000,
+    "deal_date": "2023-03-11",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(310~322동)BL2-3",
+    "district": "진관동",
+    "area_m2": 167.14,
+    "floor": 18,
+    "price_10k": 115000,
+    "deal_date": "2023-03-03",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상백련산",
+    "district": "응암동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 69500,
+    "deal_date": "2023-03-03",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거장메카",
+    "district": "응암동",
+    "area_m2": 32.38,
+    "floor": 7,
+    "price_10k": 30000,
+    "deal_date": "2023-03-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 86500,
+    "deal_date": "2023-03-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 8,
+    "price_10k": 89000,
+    "deal_date": "2023-03-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 13,
+    "price_10k": 104000,
+    "deal_date": "2023-03-10",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 108000,
+    "deal_date": "2023-03-17",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 71000,
+    "deal_date": "2023-03-11",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 59.93,
+    "floor": 4,
+    "price_10k": 71000,
+    "deal_date": "2023-03-01",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프시티",
+    "district": "갈현동",
+    "area_m2": 64.63,
+    "floor": 7,
+    "price_10k": 33600,
+    "deal_date": "2023-03-17",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "응암동",
+    "area_m2": 52.71,
+    "floor": 11,
+    "price_10k": 42500,
+    "deal_date": "2023-03-10",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.7488,
+    "floor": 14,
+    "price_10k": 92000,
+    "deal_date": "2023-03-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 4,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 4,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 4,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 4,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 7,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 8,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 11,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 12,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 14,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 14,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 14,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 16,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 17,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 18,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 20,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 21,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 22,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 23,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 24,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.4302,
+    "floor": 7,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 7,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 8,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 8,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.4302,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 11,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 11,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 12,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 12,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 16,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 16,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 17,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 17,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 18,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 18,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 20,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 20,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 21,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 21,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 22,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 22,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 23,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 23,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 24,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 24,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 25,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 25,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 26,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 26,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 27,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 27,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 28,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 28,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 7,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 7,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 8,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 8,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 11,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 11,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 12,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 12,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 16,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 16,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 17,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 17,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 18,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 18,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 20,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 20,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 21,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 21,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 22,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 22,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 23,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 23,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 24,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 24,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 25,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 25,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 26,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 26,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 27,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 27,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 28,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2415,
+    "floor": 28,
+    "price_10k": 50000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 4,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 14,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 14,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 16,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 12,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 18,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 19,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 20,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 21,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 22,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 23,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 24,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 25,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 25,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 26,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 26,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 27,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베르디움STAY1",
+    "district": "대조동",
+    "area_m2": 36.2275,
+    "floor": 27,
+    "price_10k": 45000,
+    "deal_date": "2023-03-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 1,
+    "price_10k": 74000,
+    "deal_date": "2023-03-04",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 84.669,
+    "floor": 13,
+    "price_10k": 83000,
+    "deal_date": "2023-03-14",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 59.93,
+    "floor": 9,
+    "price_10k": 73000,
+    "deal_date": "2023-03-03",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 84.99,
+    "floor": 5,
+    "price_10k": 104000,
+    "deal_date": "2023-03-01",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.3363,
+    "floor": 19,
+    "price_10k": 91500,
+    "deal_date": "2023-03-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(323~335동)BL2-2",
+    "district": "진관동",
+    "area_m2": 167.14,
+    "floor": 3,
+    "price_10k": 115000,
+    "deal_date": "2023-03-04",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 2,
+    "price_10k": 88000,
+    "deal_date": "2023-03-01",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "유진아이디움",
+    "district": "대조동",
+    "area_m2": 14.03,
+    "floor": 11,
+    "price_10k": 16900,
+    "deal_date": "2023-03-02",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 13,
+    "price_10k": 101000,
+    "deal_date": "2023-03-01",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평서해그랑블",
+    "district": "구산동",
+    "area_m2": 59.6483,
+    "floor": 4,
+    "price_10k": 53000,
+    "deal_date": "2023-03-09",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "뉴신사신성",
+    "district": "신사동",
+    "area_m2": 84.42,
+    "floor": 7,
+    "price_10k": 59800,
+    "deal_date": "2023-03-08",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.3363,
+    "floor": 30,
+    "price_10k": 94000,
+    "deal_date": "2023-03-02",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불광롯데캐슬",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 11,
+    "price_10k": 78200,
+    "deal_date": "2023-03-07",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "신사동",
+    "area_m2": 84.17,
+    "floor": 15,
+    "price_10k": 59000,
+    "deal_date": "2023-03-01",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서경아파트",
+    "district": "대조동",
+    "area_m2": 28.18,
+    "floor": 14,
+    "price_10k": 23000,
+    "deal_date": "2023-03-06",
+    "build_year": 2017,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 50.74,
+    "floor": 8,
+    "price_10k": 62000,
+    "deal_date": "2023-03-01",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 86500,
+    "deal_date": "2023-03-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "진양상가",
+    "district": "충무로4가",
+    "area_m2": 71.93,
+    "floor": 6,
+    "price_10k": 56000,
+    "deal_date": "2022-07-21",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 114.77,
+    "floor": 10,
+    "price_10k": 142000,
+    "deal_date": "2022-07-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 84.95,
+    "floor": 1,
+    "price_10k": 140000,
+    "deal_date": "2022-07-09",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동대문와이즈캐슬",
+    "district": "흥인동",
+    "area_m2": 15.55,
+    "floor": 8,
+    "price_10k": 13700,
+    "deal_date": "2022-07-05",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "신당동",
+    "area_m2": 59.97,
+    "floor": 6,
+    "price_10k": 107500,
+    "deal_date": "2022-07-09",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  }
+]

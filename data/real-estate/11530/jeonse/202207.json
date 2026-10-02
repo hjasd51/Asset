@@ -1,0 +1,24 @@
+[
+  {
+    "name": "주공1",
+    "district": "구로동",
+    "area_m2": 73.68,
+    "floor": 3,
+    "deposit_10k": 38000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2022-07-11",
+    "build_year": 1986
+  },
+  {
+    "name": "미성",
+    "district": "신도림동",
+    "area_m2": 37.91,
+    "floor": 9,
+    "deposit_10k": 18000,
+    "monthly_rent_10k": 0,
+    "contract_type": "",
+    "deal_date": "2022-07-09",
+    "build_year": 1987
+  }
+]

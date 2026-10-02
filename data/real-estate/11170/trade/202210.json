@@ -1,0 +1,92 @@
+[
+  {
+    "name": "용산큐브",
+    "district": "문배동",
+    "area_m2": 13.01,
+    "floor": 17,
+    "price_10k": 18000,
+    "deal_date": "2022-10-18",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강(대우)",
+    "district": "이촌동",
+    "area_m2": 84.98,
+    "floor": 8,
+    "price_10k": 180000,
+    "deal_date": "2022-10-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산파크자이",
+    "district": "한강로1가",
+    "area_m2": 99.85,
+    "floor": 6,
+    "price_10k": 160000,
+    "deal_date": "2022-10-31",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "후암미주",
+    "district": "후암동",
+    "area_m2": 63.44,
+    "floor": 2,
+    "price_10k": 107000,
+    "deal_date": "2022-10-22",
+    "build_year": 1980,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한성1",
+    "district": "한남동",
+    "area_m2": 48.69,
+    "floor": 1,
+    "price_10k": 53000,
+    "deal_date": "2022-10-11",
+    "build_year": 1974,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한울글로리A",
+    "district": "청파동3가",
+    "area_m2": 65.3,
+    "floor": 2,
+    "price_10k": 49500,
+    "deal_date": "2022-10-05",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대하이페리온",
+    "district": "한남동",
+    "area_m2": 197.22,
+    "floor": 12,
+    "price_10k": 355000,
+    "deal_date": "2022-10-05",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이촌동삼성리버스위트",
+    "district": "이촌동",
+    "area_m2": 137.37,
+    "floor": 6,
+    "price_10k": 320000,
+    "deal_date": "2022-10-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시범",
+    "district": "한남동",
+    "area_m2": 59.5,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2022-10-07",
+    "build_year": 1970,
+    "deal_type": "직거래"
+  }
+]

@@ -1,0 +1,2062 @@
+[
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.4,
+    "floor": 1,
+    "price_10k": 64000,
+    "deal_date": "2021-07-17",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "한양수자인사가정파크",
+    "district": "면목동",
+    "area_m2": 23.1074,
+    "floor": 4,
+    "price_10k": 33000,
+    "deal_date": "2021-07-05",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "용마금호타운",
+    "district": "면목동",
+    "area_m2": 84.9,
+    "floor": 5,
+    "price_10k": 75500,
+    "deal_date": "2021-07-28",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "신안1",
+    "district": "묵동",
+    "area_m2": 84.99,
+    "floor": 12,
+    "price_10k": 75300,
+    "deal_date": "2021-07-10",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대아이파크",
+    "district": "묵동",
+    "area_m2": 84.9416,
+    "floor": 15,
+    "price_10k": 100000,
+    "deal_date": "2021-07-31",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 59.76,
+    "floor": 7,
+    "price_10k": 72900,
+    "deal_date": "2021-07-19",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "신안3",
+    "district": "묵동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 79000,
+    "deal_date": "2021-07-12",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 84.65,
+    "floor": 12,
+    "price_10k": 84500,
+    "deal_date": "2021-07-29",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 84.03,
+    "floor": 8,
+    "price_10k": 90900,
+    "deal_date": "2021-07-31",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 59.76,
+    "floor": 15,
+    "price_10k": 77000,
+    "deal_date": "2021-07-31",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "신내6대주",
+    "district": "신내동",
+    "area_m2": 59.76,
+    "floor": 11,
+    "price_10k": 74700,
+    "deal_date": "2021-07-29",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 59.76,
+    "floor": 11,
+    "price_10k": 77000,
+    "deal_date": "2021-07-29",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 44.35,
+    "floor": 4,
+    "price_10k": 58300,
+    "deal_date": "2021-07-28",
+    "build_year": 1990,
+    "deal_type": ""
+  },
+  {
+    "name": "태능에셈빌",
+    "district": "중화동",
+    "area_m2": 81.574,
+    "floor": 8,
+    "price_10k": 64900,
+    "deal_date": "2021-07-26",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "용마동아",
+    "district": "면목동",
+    "area_m2": 84.87,
+    "floor": 5,
+    "price_10k": 72000,
+    "deal_date": "2021-07-24",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "금호어울림(580)",
+    "district": "망우동",
+    "area_m2": 84.93,
+    "floor": 5,
+    "price_10k": 73000,
+    "deal_date": "2021-07-29",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "온세솔내움",
+    "district": "면목동",
+    "area_m2": 59.8222,
+    "floor": 5,
+    "price_10k": 51800,
+    "deal_date": "2021-07-30",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "두산5",
+    "district": "면목동",
+    "area_m2": 59.97,
+    "floor": 14,
+    "price_10k": 75000,
+    "deal_date": "2021-07-29",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 84.2,
+    "floor": 25,
+    "price_10k": 89900,
+    "deal_date": "2021-07-26",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 84.92,
+    "floor": 11,
+    "price_10k": 77000,
+    "deal_date": "2021-07-31",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 49.93,
+    "floor": 11,
+    "price_10k": 59600,
+    "deal_date": "2021-07-29",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차",
+    "district": "신내동",
+    "area_m2": 57.3,
+    "floor": 11,
+    "price_10k": 68300,
+    "deal_date": "2021-07-23",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 20,
+    "price_10k": 80000,
+    "deal_date": "2021-07-26",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 68.12,
+    "floor": 7,
+    "price_10k": 71800,
+    "deal_date": "2021-07-28",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "두산2",
+    "district": "면목동",
+    "area_m2": 84.77,
+    "floor": 18,
+    "price_10k": 79000,
+    "deal_date": "2021-07-31",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "동성아파트",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 23,
+    "price_10k": 60300,
+    "deal_date": "2021-07-21",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "신내동",
+    "area_m2": 62.54,
+    "floor": 10,
+    "price_10k": 67000,
+    "deal_date": "2021-07-31",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 84.65,
+    "floor": 12,
+    "price_10k": 84500,
+    "deal_date": "2021-07-29",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "새한",
+    "district": "신내동",
+    "area_m2": 59.77,
+    "floor": 3,
+    "price_10k": 56700,
+    "deal_date": "2021-07-31",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 27,
+    "floor": 7,
+    "price_10k": 30000,
+    "deal_date": "2021-07-31",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "신내대림아파트",
+    "district": "묵동",
+    "area_m2": 126.28,
+    "floor": 9,
+    "price_10k": 128000,
+    "deal_date": "2021-07-14",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "라이프미성",
+    "district": "신내동",
+    "area_m2": 59.6,
+    "floor": 3,
+    "price_10k": 41500,
+    "deal_date": "2021-07-26",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "신원",
+    "district": "망우동",
+    "area_m2": 59.62,
+    "floor": 11,
+    "price_10k": 46300,
+    "deal_date": "2021-07-13",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "동성3",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 21,
+    "price_10k": 60000,
+    "deal_date": "2021-07-21",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "신안1",
+    "district": "묵동",
+    "area_m2": 59.96,
+    "floor": 14,
+    "price_10k": 62400,
+    "deal_date": "2021-07-28",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "신내동",
+    "area_m2": 134.94,
+    "floor": 3,
+    "price_10k": 83000,
+    "deal_date": "2021-07-26",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "면목동",
+    "area_m2": 59.858,
+    "floor": 5,
+    "price_10k": 73800,
+    "deal_date": "2021-07-17",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "신내6대주",
+    "district": "신내동",
+    "area_m2": 59.76,
+    "floor": 1,
+    "price_10k": 63800,
+    "deal_date": "2021-07-24",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 49.82,
+    "floor": 1,
+    "price_10k": 53000,
+    "deal_date": "2021-07-19",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "우정아파트",
+    "district": "상봉동",
+    "area_m2": 81.783,
+    "floor": 4,
+    "price_10k": 85500,
+    "deal_date": "2021-07-23",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 39.84,
+    "floor": 6,
+    "price_10k": 48000,
+    "deal_date": "2021-07-21",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "신내동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 76600,
+    "deal_date": "2021-07-31",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "남청파인힐(101동)",
+    "district": "면목동",
+    "area_m2": 81.93,
+    "floor": 4,
+    "price_10k": 61000,
+    "deal_date": "2021-07-21",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 39.84,
+    "floor": 9,
+    "price_10k": 48800,
+    "deal_date": "2021-07-31",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "신내동",
+    "area_m2": 84.98,
+    "floor": 7,
+    "price_10k": 76500,
+    "deal_date": "2021-07-31",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "현대아이파크",
+    "district": "묵동",
+    "area_m2": 84.9416,
+    "floor": 13,
+    "price_10k": 91500,
+    "deal_date": "2021-07-20",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "예원캐슬",
+    "district": "망우동",
+    "area_m2": 30.14,
+    "floor": 9,
+    "price_10k": 17200,
+    "deal_date": "2021-07-24",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "라이프미성",
+    "district": "신내동",
+    "area_m2": 59.6,
+    "floor": 3,
+    "price_10k": 44500,
+    "deal_date": "2021-07-31",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "상봉듀오트리스",
+    "district": "상봉동",
+    "area_m2": 150.16,
+    "floor": 32,
+    "price_10k": 145000,
+    "deal_date": "2021-07-02",
+    "build_year": 2016,
+    "deal_type": ""
+  },
+  {
+    "name": "금호어울림(580)",
+    "district": "망우동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 63000,
+    "deal_date": "2021-07-17",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "새한",
+    "district": "신내동",
+    "area_m2": 115.84,
+    "floor": 7,
+    "price_10k": 78400,
+    "deal_date": "2021-07-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "건영캐스빌",
+    "district": "상봉동",
+    "area_m2": 84.6475,
+    "floor": 6,
+    "price_10k": 93800,
+    "deal_date": "2021-07-20",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 35.3,
+    "floor": 15,
+    "price_10k": 39000,
+    "deal_date": "2021-07-20",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "데시앙",
+    "district": "신내동",
+    "area_m2": 84.45,
+    "floor": 12,
+    "price_10k": 97500,
+    "deal_date": "2021-07-21",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "신도",
+    "district": "묵동",
+    "area_m2": 114.85,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2021-07-21",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차",
+    "district": "신내동",
+    "area_m2": 57.3,
+    "floor": 11,
+    "price_10k": 64500,
+    "deal_date": "2021-07-16",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.4,
+    "floor": 20,
+    "price_10k": 70000,
+    "deal_date": "2021-07-09",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "동부아파트",
+    "district": "상봉동",
+    "area_m2": 54,
+    "floor": 17,
+    "price_10k": 65300,
+    "deal_date": "2021-07-24",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "한양수자인사가정파크",
+    "district": "면목동",
+    "area_m2": 23.1074,
+    "floor": 4,
+    "price_10k": 32000,
+    "deal_date": "2021-07-24",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "신내동",
+    "area_m2": 134.94,
+    "floor": 18,
+    "price_10k": 78000,
+    "deal_date": "2021-07-10",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "동부아파트",
+    "district": "상봉동",
+    "area_m2": 84.99,
+    "floor": 18,
+    "price_10k": 84000,
+    "deal_date": "2021-07-31",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "사가정센트럴아이파크",
+    "district": "면목동",
+    "area_m2": 84.87,
+    "floor": 25,
+    "price_10k": 149000,
+    "deal_date": "2021-07-30",
+    "build_year": 2020,
+    "deal_type": ""
+  },
+  {
+    "name": "한양수자인사가정파크",
+    "district": "면목동",
+    "area_m2": 74.9394,
+    "floor": 1,
+    "price_10k": 98000,
+    "deal_date": "2021-07-29",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "신원",
+    "district": "망우동",
+    "area_m2": 59.62,
+    "floor": 11,
+    "price_10k": 46000,
+    "deal_date": "2021-07-22",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차아파트",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 13,
+    "price_10k": 87800,
+    "deal_date": "2021-07-17",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차아파트",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 3,
+    "price_10k": 82500,
+    "deal_date": "2021-07-13",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 3,
+    "price_10k": 77500,
+    "deal_date": "2021-07-24",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "경원",
+    "district": "신내동",
+    "area_m2": 55.89,
+    "floor": 4,
+    "price_10k": 35000,
+    "deal_date": "2021-07-19",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 68.12,
+    "floor": 14,
+    "price_10k": 70500,
+    "deal_date": "2021-07-22",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "신내6대주",
+    "district": "신내동",
+    "area_m2": 39.84,
+    "floor": 11,
+    "price_10k": 54650,
+    "deal_date": "2021-07-17",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동부아파트",
+    "district": "상봉동",
+    "area_m2": 54,
+    "floor": 7,
+    "price_10k": 68000,
+    "deal_date": "2021-07-31",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 49.77,
+    "floor": 3,
+    "price_10k": 57000,
+    "deal_date": "2021-07-13",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 2,
+    "price_10k": 60000,
+    "deal_date": "2021-07-17",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.4,
+    "floor": 1,
+    "price_10k": 64000,
+    "deal_date": "2021-07-17",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 39.84,
+    "floor": 12,
+    "price_10k": 48000,
+    "deal_date": "2021-07-10",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "사가정센트럴아이파크",
+    "district": "면목동",
+    "area_m2": 84.87,
+    "floor": 26,
+    "price_10k": 143000,
+    "deal_date": "2021-07-10",
+    "build_year": 2020,
+    "deal_type": ""
+  },
+  {
+    "name": "신도",
+    "district": "묵동",
+    "area_m2": 84.89,
+    "floor": 13,
+    "price_10k": 78500,
+    "deal_date": "2021-07-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 39.84,
+    "floor": 8,
+    "price_10k": 47500,
+    "deal_date": "2021-07-10",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 13,
+    "price_10k": 62000,
+    "deal_date": "2021-07-19",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 84.82,
+    "floor": 9,
+    "price_10k": 83000,
+    "deal_date": "2021-07-10",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 39.84,
+    "floor": 5,
+    "price_10k": 47000,
+    "deal_date": "2021-07-13",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "헤르만스테이트",
+    "district": "묵동",
+    "area_m2": 13.77,
+    "floor": 6,
+    "price_10k": 8150,
+    "deal_date": "2021-07-28",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 17.95,
+    "floor": 15,
+    "price_10k": 11000,
+    "deal_date": "2021-07-28",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 68.12,
+    "floor": 11,
+    "price_10k": 69500,
+    "deal_date": "2021-07-24",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동성3",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 5,
+    "price_10k": 60000,
+    "deal_date": "2021-07-10",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 4,
+    "price_10k": 79000,
+    "deal_date": "2021-07-17",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "용마산금호어울림",
+    "district": "면목동",
+    "area_m2": 84.699,
+    "floor": 1,
+    "price_10k": 73000,
+    "deal_date": "2021-07-10",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "동성3",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 22,
+    "price_10k": 61500,
+    "deal_date": "2021-07-20",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 44.5,
+    "floor": 10,
+    "price_10k": 53500,
+    "deal_date": "2021-07-21",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "우정아파트",
+    "district": "상봉동",
+    "area_m2": 81.783,
+    "floor": 11,
+    "price_10k": 85000,
+    "deal_date": "2021-07-12",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성",
+    "district": "묵동",
+    "area_m2": 57.12,
+    "floor": 4,
+    "price_10k": 41000,
+    "deal_date": "2021-07-17",
+    "build_year": 1991,
+    "deal_type": ""
+  },
+  {
+    "name": "더하이어",
+    "district": "망우동",
+    "area_m2": 12.0156,
+    "floor": 13,
+    "price_10k": 10500,
+    "deal_date": "2021-07-29",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "우남푸르미아",
+    "district": "신내동",
+    "area_m2": 81.75,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2021-07-06",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "극동늘푸른",
+    "district": "묵동",
+    "area_m2": 84.08,
+    "floor": 8,
+    "price_10k": 78000,
+    "deal_date": "2021-07-17",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차아파트",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 3,
+    "price_10k": 80400,
+    "deal_date": "2021-07-10",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "신내동",
+    "area_m2": 84.98,
+    "floor": 13,
+    "price_10k": 77800,
+    "deal_date": "2021-07-28",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "용마금호타운",
+    "district": "면목동",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 74000,
+    "deal_date": "2021-07-21",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "동성타워프라자",
+    "district": "신내동",
+    "area_m2": 59.01,
+    "floor": 3,
+    "price_10k": 47000,
+    "deal_date": "2021-07-12",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "킴스아파트",
+    "district": "면목동",
+    "area_m2": 38.91,
+    "floor": 8,
+    "price_10k": 29900,
+    "deal_date": "2021-07-21",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "신내 데시앙포레",
+    "district": "신내동",
+    "area_m2": 84.94,
+    "floor": 12,
+    "price_10k": 82000,
+    "deal_date": "2021-07-03",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 71500,
+    "deal_date": "2021-07-15",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "중화동",
+    "area_m2": 58.05,
+    "floor": 3,
+    "price_10k": 22800,
+    "deal_date": "2021-07-10",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 2,
+    "price_10k": 56800,
+    "deal_date": "2021-07-06",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신2",
+    "district": "면목동",
+    "area_m2": 59.94,
+    "floor": 8,
+    "price_10k": 65500,
+    "deal_date": "2021-07-11",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "헤르만스테이트",
+    "district": "묵동",
+    "area_m2": 13.77,
+    "floor": 10,
+    "price_10k": 10650,
+    "deal_date": "2021-07-30",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "장미",
+    "district": "묵동",
+    "area_m2": 92.49,
+    "floor": 5,
+    "price_10k": 72500,
+    "deal_date": "2021-07-10",
+    "build_year": 1983,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 84.67,
+    "floor": 8,
+    "price_10k": 80500,
+    "deal_date": "2021-07-12",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 35.3,
+    "floor": 14,
+    "price_10k": 38200,
+    "deal_date": "2021-07-11",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "신내6대주",
+    "district": "신내동",
+    "area_m2": 49.77,
+    "floor": 8,
+    "price_10k": 62500,
+    "deal_date": "2021-07-05",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 84.08,
+    "floor": 7,
+    "price_10k": 73800,
+    "deal_date": "2021-07-06",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "한일써너스빌",
+    "district": "상봉동",
+    "area_m2": 66.254,
+    "floor": 20,
+    "price_10k": 80000,
+    "deal_date": "2021-07-09",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "동양엔파트",
+    "district": "중화동",
+    "area_m2": 84.98,
+    "floor": 17,
+    "price_10k": 79700,
+    "deal_date": "2021-07-21",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 31.32,
+    "floor": 4,
+    "price_10k": 35850,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 34.6,
+    "floor": 4,
+    "price_10k": 39550,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 32.23,
+    "floor": 4,
+    "price_10k": 35850,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 38.38,
+    "floor": 4,
+    "price_10k": 42650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 4,
+    "price_10k": 37150,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 31.32,
+    "floor": 5,
+    "price_10k": 35850,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 34.6,
+    "floor": 5,
+    "price_10k": 39550,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 32.23,
+    "floor": 5,
+    "price_10k": 35850,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 38.38,
+    "floor": 5,
+    "price_10k": 42650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 5,
+    "price_10k": 37150,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 31.32,
+    "floor": 6,
+    "price_10k": 36150,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 34.6,
+    "floor": 6,
+    "price_10k": 39950,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 32.23,
+    "floor": 6,
+    "price_10k": 36200,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 38.38,
+    "floor": 6,
+    "price_10k": 43100,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 6,
+    "price_10k": 37650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 31.32,
+    "floor": 7,
+    "price_10k": 36150,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 34.6,
+    "floor": 7,
+    "price_10k": 39950,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 32.23,
+    "floor": 7,
+    "price_10k": 36200,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 38.38,
+    "floor": 7,
+    "price_10k": 43100,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 7,
+    "price_10k": 37650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 31.32,
+    "floor": 8,
+    "price_10k": 36500,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 34.6,
+    "floor": 8,
+    "price_10k": 40350,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 32.23,
+    "floor": 8,
+    "price_10k": 36650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 38.38,
+    "floor": 8,
+    "price_10k": 43700,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 8,
+    "price_10k": 38050,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 46.47,
+    "floor": 9,
+    "price_10k": 51400,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 48.09,
+    "floor": 9,
+    "price_10k": 52650,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 49.33,
+    "floor": 9,
+    "price_10k": 53500,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "유진뜨레지움",
+    "district": "면목동",
+    "area_m2": 33.11,
+    "floor": 9,
+    "price_10k": 38050,
+    "deal_date": "2021-07-27",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 68000,
+    "deal_date": "2021-07-05",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 33.18,
+    "floor": 7,
+    "price_10k": 40500,
+    "deal_date": "2021-07-03",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "금호어울림(580)",
+    "district": "망우동",
+    "area_m2": 84.93,
+    "floor": 8,
+    "price_10k": 74600,
+    "deal_date": "2021-07-07",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "새한",
+    "district": "신내동",
+    "area_m2": 59.77,
+    "floor": 14,
+    "price_10k": 56800,
+    "deal_date": "2021-07-02",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "신성미소지움",
+    "district": "면목동",
+    "area_m2": 80.1913,
+    "floor": 15,
+    "price_10k": 73500,
+    "deal_date": "2021-07-07",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "라이프미성",
+    "district": "신내동",
+    "area_m2": 59.23,
+    "floor": 9,
+    "price_10k": 41000,
+    "deal_date": "2021-07-21",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "신내동",
+    "area_m2": 59.783,
+    "floor": 10,
+    "price_10k": 55000,
+    "deal_date": "2021-07-02",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 35.44,
+    "floor": 13,
+    "price_10k": 42000,
+    "deal_date": "2021-07-10",
+    "build_year": 1990,
+    "deal_type": ""
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 13.42,
+    "floor": 7,
+    "price_10k": 9300,
+    "deal_date": "2021-07-27",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "신내6대주",
+    "district": "신내동",
+    "area_m2": 39.84,
+    "floor": 1,
+    "price_10k": 49500,
+    "deal_date": "2021-07-02",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "면목동금호어울림아파트",
+    "district": "면목동",
+    "area_m2": 84.8726,
+    "floor": 10,
+    "price_10k": 90000,
+    "deal_date": "2021-07-05",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 35.44,
+    "floor": 8,
+    "price_10k": 42000,
+    "deal_date": "2021-07-03",
+    "build_year": 1990,
+    "deal_type": ""
+  },
+  {
+    "name": "경원",
+    "district": "신내동",
+    "area_m2": 55.89,
+    "floor": 4,
+    "price_10k": 32000,
+    "deal_date": "2021-07-10",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 3,
+    "price_10k": 66700,
+    "deal_date": "2021-07-10",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "한진해모로",
+    "district": "망우동",
+    "area_m2": 84.93,
+    "floor": 3,
+    "price_10k": 68500,
+    "deal_date": "2021-07-03",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차아파트",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 9,
+    "price_10k": 85000,
+    "deal_date": "2021-07-07",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "한영(103)",
+    "district": "중화동",
+    "area_m2": 58.46,
+    "floor": 2,
+    "price_10k": 30000,
+    "deal_date": "2021-07-01",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "늘푸른동아",
+    "district": "면목동",
+    "area_m2": 59.65,
+    "floor": 17,
+    "price_10k": 71000,
+    "deal_date": "2021-07-10",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "동성5",
+    "district": "신내동",
+    "area_m2": 59.91,
+    "floor": 2,
+    "price_10k": 52900,
+    "deal_date": "2021-07-17",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 11,
+    "price_10k": 78500,
+    "deal_date": "2021-07-05",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "태영데시앙1",
+    "district": "상봉동",
+    "area_m2": 84.9353,
+    "floor": 14,
+    "price_10k": 95000,
+    "deal_date": "2021-07-11",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 59.76,
+    "floor": 19,
+    "price_10k": 75000,
+    "deal_date": "2021-07-01",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 59.99,
+    "floor": 6,
+    "price_10k": 72000,
+    "deal_date": "2021-07-03",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "늘푸른동아",
+    "district": "면목동",
+    "area_m2": 84.97,
+    "floor": 15,
+    "price_10k": 87500,
+    "deal_date": "2021-07-09",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "동성3",
+    "district": "신내동",
+    "area_m2": 129.37,
+    "floor": 8,
+    "price_10k": 84700,
+    "deal_date": "2021-07-13",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.32,
+    "floor": 7,
+    "price_10k": 69800,
+    "deal_date": "2021-07-01",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.32,
+    "floor": 2,
+    "price_10k": 68000,
+    "deal_date": "2021-07-10",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.4,
+    "floor": 2,
+    "price_10k": 70500,
+    "deal_date": "2021-07-14",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "신도브래뉴",
+    "district": "묵동",
+    "area_m2": 51.86,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2021-07-07",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한양수자인사가정파크",
+    "district": "면목동",
+    "area_m2": 74.9394,
+    "floor": 2,
+    "price_10k": 99000,
+    "deal_date": "2021-07-12",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차",
+    "district": "신내동",
+    "area_m2": 57.3,
+    "floor": 16,
+    "price_10k": 66500,
+    "deal_date": "2021-07-03",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동성아파트",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 12,
+    "price_10k": 61700,
+    "deal_date": "2021-07-13",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "건영2차아파트",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 13,
+    "price_10k": 84000,
+    "deal_date": "2021-07-09",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 68.12,
+    "floor": 5,
+    "price_10k": 71700,
+    "deal_date": "2021-07-10",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "용마산금호어울림",
+    "district": "면목동",
+    "area_m2": 75.72,
+    "floor": 12,
+    "price_10k": 79500,
+    "deal_date": "2021-07-03",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 82.39,
+    "floor": 5,
+    "price_10k": 70000,
+    "deal_date": "2021-07-01",
+    "build_year": 1990,
+    "deal_type": ""
+  },
+  {
+    "name": "한신아파트상가동유치원동(103~109)",
+    "district": "중화동",
+    "area_m2": 50.37,
+    "floor": 1,
+    "price_10k": 59900,
+    "deal_date": "2021-07-13",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "신내9진흥",
+    "district": "신내동",
+    "area_m2": 49.82,
+    "floor": 7,
+    "price_10k": 59000,
+    "deal_date": "2021-07-03",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동양엔파트2차",
+    "district": "중화동",
+    "area_m2": 84.87,
+    "floor": 11,
+    "price_10k": 89800,
+    "deal_date": "2021-07-09",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "면목한신",
+    "district": "면목동",
+    "area_m2": 45.44,
+    "floor": 7,
+    "price_10k": 53000,
+    "deal_date": "2021-07-03",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "신내 데시앙포레",
+    "district": "신내동",
+    "area_m2": 84.91,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2021-07-01",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "동성아파트",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 4,
+    "price_10k": 59000,
+    "deal_date": "2021-07-10",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 68500,
+    "deal_date": "2021-07-09",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 2,
+    "price_10k": 74000,
+    "deal_date": "2021-07-10",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 35.44,
+    "floor": 2,
+    "price_10k": 41750,
+    "deal_date": "2021-07-07",
+    "build_year": 1990,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 84.67,
+    "floor": 8,
+    "price_10k": 80500,
+    "deal_date": "2021-07-12",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동부아파트",
+    "district": "상봉동",
+    "area_m2": 54,
+    "floor": 2,
+    "price_10k": 62000,
+    "deal_date": "2021-07-02",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "늘푸른동아",
+    "district": "면목동",
+    "area_m2": 59.65,
+    "floor": 12,
+    "price_10k": 69500,
+    "deal_date": "2021-07-07",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "건영캐스빌",
+    "district": "상봉동",
+    "area_m2": 84.6475,
+    "floor": 2,
+    "price_10k": 87000,
+    "deal_date": "2021-07-01",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 84.67,
+    "floor": 8,
+    "price_10k": 82000,
+    "deal_date": "2021-07-05",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "우남푸르미아",
+    "district": "신내동",
+    "area_m2": 84.67,
+    "floor": 5,
+    "price_10k": 73500,
+    "deal_date": "2021-07-06",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "신내동",
+    "area_m2": 59.783,
+    "floor": 6,
+    "price_10k": 52700,
+    "deal_date": "2021-07-03",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "신내동",
+    "area_m2": 84.8485,
+    "floor": 19,
+    "price_10k": 74000,
+    "deal_date": "2021-07-12",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "신원",
+    "district": "망우동",
+    "area_m2": 59.62,
+    "floor": 3,
+    "price_10k": 44500,
+    "deal_date": "2021-07-10",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 84.98,
+    "floor": 1,
+    "price_10k": 65700,
+    "deal_date": "2021-07-06",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "한진해모로",
+    "district": "망우동",
+    "area_m2": 84.97,
+    "floor": 4,
+    "price_10k": 68900,
+    "deal_date": "2021-07-07",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "미영리치타운",
+    "district": "중화동",
+    "area_m2": 84.71,
+    "floor": 15,
+    "price_10k": 76000,
+    "deal_date": "2021-07-05",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "금호어울림(580-1)",
+    "district": "망우동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 62800,
+    "deal_date": "2021-07-12",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "태영데시앙2(1411동)",
+    "district": "상봉동",
+    "area_m2": 59.94,
+    "floor": 1,
+    "price_10k": 70000,
+    "deal_date": "2021-07-03",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "엘지,쌍용아파트",
+    "district": "상봉동",
+    "area_m2": 84.67,
+    "floor": 5,
+    "price_10k": 84000,
+    "deal_date": "2021-07-07",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "라온프라이빗",
+    "district": "면목동",
+    "area_m2": 84.9672,
+    "floor": 22,
+    "price_10k": 124000,
+    "deal_date": "2021-07-01",
+    "build_year": 2020,
+    "deal_type": ""
+  },
+  {
+    "name": "신내우디안1단지",
+    "district": "신내동",
+    "area_m2": 84.91,
+    "floor": 21,
+    "price_10k": 86500,
+    "deal_date": "2021-07-10",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "신내11대명",
+    "district": "신내동",
+    "area_m2": 49.77,
+    "floor": 11,
+    "price_10k": 58000,
+    "deal_date": "2021-07-07",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 13.42,
+    "floor": 6,
+    "price_10k": 11900,
+    "deal_date": "2021-07-09",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 10,
+    "price_10k": 65000,
+    "deal_date": "2021-07-03",
+    "build_year": 1996,
+    "deal_type": ""
+  }
+]

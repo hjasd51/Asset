@@ -1,0 +1,6922 @@
+[
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 7,
+    "price_10k": 80000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락파크빌",
+    "district": "상계동",
+    "area_m2": 114.82,
+    "floor": 6,
+    "price_10k": 57000,
+    "deal_date": "2026-06-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 57000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락파크빌",
+    "district": "상계동",
+    "area_m2": 114.82,
+    "floor": 6,
+    "price_10k": 57000,
+    "deal_date": "2026-06-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익아파트",
+    "district": "공릉동",
+    "area_m2": 59.89,
+    "floor": 10,
+    "price_10k": 58500,
+    "deal_date": "2026-06-09",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 11,
+    "price_10k": 38000,
+    "deal_date": "2026-06-05",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대망드림힐1",
+    "district": "상계동",
+    "area_m2": 70.8818,
+    "floor": 5,
+    "price_10k": 62500,
+    "deal_date": "2026-06-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화꿈에그린",
+    "district": "중계동",
+    "area_m2": 84.902,
+    "floor": 11,
+    "price_10k": 86000,
+    "deal_date": "2026-06-04",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원센트럴푸르지오",
+    "district": "상계동",
+    "area_m2": 84.999,
+    "floor": 18,
+    "price_10k": 110000,
+    "deal_date": "2026-06-23",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계2차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 84.6,
+    "floor": 4,
+    "price_10k": 84500,
+    "deal_date": "2026-06-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원프레미어스엠코",
+    "district": "공릉동",
+    "area_m2": 84.0408,
+    "floor": 31,
+    "price_10k": 93500,
+    "deal_date": "2026-06-18",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프",
+    "district": "중계동",
+    "area_m2": 115.65,
+    "floor": 14,
+    "price_10k": 129000,
+    "deal_date": "2026-06-20",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 12,
+    "price_10k": 49500,
+    "deal_date": "2026-06-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 2,
+    "price_10k": 79500,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "유원",
+    "district": "월계동",
+    "area_m2": 59.93,
+    "floor": 8,
+    "price_10k": 42000,
+    "deal_date": "2026-06-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 59.22,
+    "floor": 13,
+    "price_10k": 60000,
+    "deal_date": "2026-06-26",
+    "build_year": 1989,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 35.28,
+    "floor": 9,
+    "price_10k": 45500,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계센트럴아이파크",
+    "district": "월계동",
+    "area_m2": 84.99,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2026-06-30",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 7,
+    "price_10k": 76000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "하계동",
+    "area_m2": 84.91,
+    "floor": 9,
+    "price_10k": 119500,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공8",
+    "district": "중계동",
+    "area_m2": 49.72,
+    "floor": 15,
+    "price_10k": 61600,
+    "deal_date": "2026-06-22",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청백4",
+    "district": "월계동",
+    "area_m2": 39.84,
+    "floor": 9,
+    "price_10k": 32000,
+    "deal_date": "2026-06-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대망드림힐1",
+    "district": "상계동",
+    "area_m2": 70.8818,
+    "floor": 5,
+    "price_10k": 62500,
+    "deal_date": "2026-06-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원1",
+    "district": "중계동",
+    "area_m2": 134.78,
+    "floor": 17,
+    "price_10k": 116000,
+    "deal_date": "2026-06-29",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대주파크빌아파트",
+    "district": "공릉동",
+    "area_m2": 81.12,
+    "floor": 3,
+    "price_10k": 70000,
+    "deal_date": "2026-06-25",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청백4",
+    "district": "월계동",
+    "area_m2": 59.4,
+    "floor": 2,
+    "price_10k": 43500,
+    "deal_date": "2026-06-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 114.78,
+    "floor": 15,
+    "price_10k": 109500,
+    "deal_date": "2026-06-19",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성북역신도브래뉴",
+    "district": "월계동",
+    "area_m2": 59.8215,
+    "floor": 3,
+    "price_10k": 67900,
+    "deal_date": "2026-06-27",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 104.36,
+    "floor": 11,
+    "price_10k": 100000,
+    "deal_date": "2026-06-23",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 45.77,
+    "floor": 1,
+    "price_10k": 37900,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(고려)아파트",
+    "district": "공릉동",
+    "area_m2": 84.09,
+    "floor": 4,
+    "price_10k": 69500,
+    "deal_date": "2026-06-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우림루미아트1",
+    "district": "상계동",
+    "area_m2": 84.795,
+    "floor": 1,
+    "price_10k": 61800,
+    "deal_date": "2026-06-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 3,
+    "price_10k": 72000,
+    "deal_date": "2026-06-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 33.28,
+    "floor": 5,
+    "price_10k": 78000,
+    "deal_date": "2026-06-18",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.92,
+    "floor": 3,
+    "price_10k": 54400,
+    "deal_date": "2026-06-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비선아파트",
+    "district": "공릉동",
+    "area_m2": 48.6,
+    "floor": 11,
+    "price_10k": 39000,
+    "deal_date": "2026-06-20",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 106.7,
+    "floor": 2,
+    "price_10k": 102500,
+    "deal_date": "2026-06-25",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 3,
+    "price_10k": 64500,
+    "deal_date": "2026-06-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 50.14,
+    "floor": 10,
+    "price_10k": 57000,
+    "deal_date": "2026-06-12",
+    "build_year": 1986,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "포레나노원",
+    "district": "상계동",
+    "area_m2": 59.9866,
+    "floor": 12,
+    "price_10k": 91000,
+    "deal_date": "2026-06-27",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영2",
+    "district": "중계동",
+    "area_m2": 75.02,
+    "floor": 4,
+    "price_10k": 76500,
+    "deal_date": "2026-06-27",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시영3차(라이프)아파트",
+    "district": "공릉동",
+    "area_m2": 34.44,
+    "floor": 12,
+    "price_10k": 31700,
+    "deal_date": "2026-06-30",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 4,
+    "price_10k": 74800,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 103000,
+    "deal_date": "2026-06-29",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 70.81,
+    "floor": 11,
+    "price_10k": 90000,
+    "deal_date": "2026-06-26",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락한신",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 12,
+    "price_10k": 46800,
+    "deal_date": "2026-06-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공7",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 2,
+    "price_10k": 39000,
+    "deal_date": "2026-06-20",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아이원",
+    "district": "월계동",
+    "area_m2": 84.303,
+    "floor": 1,
+    "price_10k": 92000,
+    "deal_date": "2026-06-27",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "중계동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 69300,
+    "deal_date": "2026-06-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동늘푸른",
+    "district": "상계동",
+    "area_m2": 84.514,
+    "floor": 7,
+    "price_10k": 57000,
+    "deal_date": "2026-06-08",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 12,
+    "price_10k": 62000,
+    "deal_date": "2026-06-30",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(6차)",
+    "district": "중계동",
+    "area_m2": 59.84,
+    "floor": 3,
+    "price_10k": 56500,
+    "deal_date": "2026-06-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아하이빌아파트101동",
+    "district": "공릉동",
+    "area_m2": 80.95,
+    "floor": 6,
+    "price_10k": 49800,
+    "deal_date": "2026-06-26",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 8,
+    "price_10k": 45800,
+    "deal_date": "2026-06-30",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 5,
+    "price_10k": 37850,
+    "deal_date": "2026-06-30",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계대림e편한세상",
+    "district": "상계동",
+    "area_m2": 114.34,
+    "floor": 15,
+    "price_10k": 78000,
+    "deal_date": "2026-06-30",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 3,
+    "price_10k": 28700,
+    "deal_date": "2026-06-30",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 49.5,
+    "floor": 3,
+    "price_10k": 69000,
+    "deal_date": "2026-06-30",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 2,
+    "price_10k": 50350,
+    "deal_date": "2026-06-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 3,
+    "price_10k": 75000,
+    "deal_date": "2026-06-29",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑대디오베이션",
+    "district": "공릉동",
+    "area_m2": 59.9883,
+    "floor": 13,
+    "price_10k": 72000,
+    "deal_date": "2026-06-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 39.96,
+    "floor": 15,
+    "price_10k": 49500,
+    "deal_date": "2026-06-27",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "상계동",
+    "area_m2": 41.85,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2026-06-24",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "하계동",
+    "area_m2": 57.97,
+    "floor": 11,
+    "price_10k": 74800,
+    "deal_date": "2026-06-30",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 59.38,
+    "floor": 11,
+    "price_10k": 75000,
+    "deal_date": "2026-06-30",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 4,
+    "price_10k": 71000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계흥화브라운빌",
+    "district": "월계동",
+    "area_m2": 84.91,
+    "floor": 7,
+    "price_10k": 65000,
+    "deal_date": "2026-06-30",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안1",
+    "district": "월계동",
+    "area_m2": 59.85,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2026-06-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑대디오베이션",
+    "district": "공릉동",
+    "area_m2": 59.9883,
+    "floor": 9,
+    "price_10k": 69500,
+    "deal_date": "2026-06-15",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산힐스빌아파트",
+    "district": "공릉동",
+    "area_m2": 60,
+    "floor": 1,
+    "price_10k": 70000,
+    "deal_date": "2026-06-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2차",
+    "district": "상계동",
+    "area_m2": 84.92,
+    "floor": 11,
+    "price_10k": 63700,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2(4차)",
+    "district": "중계동",
+    "area_m2": 84.78,
+    "floor": 9,
+    "price_10k": 59700,
+    "deal_date": "2026-06-29",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 10,
+    "price_10k": 76000,
+    "deal_date": "2026-06-24",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 58.46,
+    "floor": 7,
+    "price_10k": 84000,
+    "deal_date": "2026-06-27",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 59.28,
+    "floor": 12,
+    "price_10k": 71000,
+    "deal_date": "2026-06-29",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲SKVIEW",
+    "district": "월계동",
+    "area_m2": 84.96,
+    "floor": 12,
+    "price_10k": 105000,
+    "deal_date": "2026-06-29",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방아파트",
+    "district": "공릉동",
+    "area_m2": 61.151,
+    "floor": 1,
+    "price_10k": 61000,
+    "deal_date": "2026-06-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 7,
+    "price_10k": 69000,
+    "deal_date": "2026-06-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 114.88,
+    "floor": 1,
+    "price_10k": 77700,
+    "deal_date": "2026-06-29",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 2,
+    "price_10k": 57000,
+    "deal_date": "2026-06-29",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 10,
+    "price_10k": 60000,
+    "deal_date": "2026-06-29",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 14,
+    "price_10k": 56000,
+    "deal_date": "2026-06-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 20,
+    "price_10k": 118000,
+    "deal_date": "2026-06-29",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 91.54,
+    "floor": 9,
+    "price_10k": 98000,
+    "deal_date": "2026-06-04",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계불암대림",
+    "district": "상계동",
+    "area_m2": 59.22,
+    "floor": 6,
+    "price_10k": 59400,
+    "deal_date": "2026-06-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계센트럴아이파크",
+    "district": "월계동",
+    "area_m2": 84.99,
+    "floor": 20,
+    "price_10k": 118000,
+    "deal_date": "2026-06-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신3차",
+    "district": "상계동",
+    "area_m2": 84.59,
+    "floor": 7,
+    "price_10k": 72000,
+    "deal_date": "2026-06-27",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원센트럴푸르지오",
+    "district": "상계동",
+    "area_m2": 59.996,
+    "floor": 5,
+    "price_10k": 92500,
+    "deal_date": "2026-06-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락한신",
+    "district": "상계동",
+    "area_m2": 84.95,
+    "floor": 6,
+    "price_10k": 63000,
+    "deal_date": "2026-06-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신동성",
+    "district": "하계동",
+    "area_m2": 112.24,
+    "floor": 1,
+    "price_10k": 86500,
+    "deal_date": "2026-06-28",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "상계동",
+    "area_m2": 84.54,
+    "floor": 6,
+    "price_10k": 54000,
+    "deal_date": "2026-06-18",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1차",
+    "district": "상계동",
+    "area_m2": 53.96,
+    "floor": 9,
+    "price_10k": 43000,
+    "deal_date": "2026-06-19",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1차",
+    "district": "상계동",
+    "area_m2": 45.44,
+    "floor": 9,
+    "price_10k": 33500,
+    "deal_date": "2026-06-27",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 10,
+    "price_10k": 37000,
+    "deal_date": "2026-06-29",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신아파트",
+    "district": "공릉동",
+    "area_m2": 114.98,
+    "floor": 16,
+    "price_10k": 95500,
+    "deal_date": "2026-06-28",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "하계동",
+    "area_m2": 127.22,
+    "floor": 14,
+    "price_10k": 134500,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 4,
+    "price_10k": 60000,
+    "deal_date": "2026-06-28",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 10,
+    "price_10k": 59800,
+    "deal_date": "2026-06-28",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 13,
+    "price_10k": 60000,
+    "deal_date": "2026-06-28",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 84.9,
+    "floor": 2,
+    "price_10k": 61000,
+    "deal_date": "2026-06-15",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 114.97,
+    "floor": 21,
+    "price_10k": 129500,
+    "deal_date": "2026-06-27",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 11,
+    "price_10k": 60000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 6,
+    "price_10k": 55000,
+    "deal_date": "2026-06-25",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 59.38,
+    "floor": 9,
+    "price_10k": 76000,
+    "deal_date": "2026-06-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑대디오베이션",
+    "district": "공릉동",
+    "area_m2": 59.9883,
+    "floor": 12,
+    "price_10k": 70000,
+    "deal_date": "2026-06-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 4,
+    "price_10k": 52000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동늘푸른",
+    "district": "상계동",
+    "area_m2": 84.514,
+    "floor": 3,
+    "price_10k": 65000,
+    "deal_date": "2026-06-27",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 114.88,
+    "floor": 8,
+    "price_10k": 79800,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 59.28,
+    "floor": 1,
+    "price_10k": 63000,
+    "deal_date": "2026-06-27",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 38,
+    "floor": 8,
+    "price_10k": 60000,
+    "deal_date": "2026-06-27",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 5,
+    "price_10k": 83000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 84.98,
+    "floor": 17,
+    "price_10k": 125000,
+    "deal_date": "2026-06-19",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대동",
+    "district": "월계동",
+    "area_m2": 59.76,
+    "floor": 7,
+    "price_10k": 65000,
+    "deal_date": "2026-06-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 8,
+    "price_10k": 80000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 59.87,
+    "floor": 11,
+    "price_10k": 74500,
+    "deal_date": "2026-06-27",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데우성",
+    "district": "중계동",
+    "area_m2": 115.26,
+    "floor": 12,
+    "price_10k": 146500,
+    "deal_date": "2026-06-27",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 10,
+    "price_10k": 29700,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영3",
+    "district": "중계동",
+    "area_m2": 84.9,
+    "floor": 15,
+    "price_10k": 126000,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양지마을(대림)1",
+    "district": "중계동",
+    "area_m2": 84.9,
+    "floor": 16,
+    "price_10k": 100000,
+    "deal_date": "2026-06-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 59.26,
+    "floor": 6,
+    "price_10k": 73000,
+    "deal_date": "2026-06-27",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호3",
+    "district": "월계동",
+    "area_m2": 59.22,
+    "floor": 3,
+    "price_10k": 111000,
+    "deal_date": "2026-06-26",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 59.98,
+    "floor": 19,
+    "price_10k": 103500,
+    "deal_date": "2026-06-27",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 43.35,
+    "floor": 8,
+    "price_10k": 36700,
+    "deal_date": "2026-06-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 71.14,
+    "floor": 2,
+    "price_10k": 87500,
+    "deal_date": "2026-06-27",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 59.34,
+    "floor": 3,
+    "price_10k": 71900,
+    "deal_date": "2026-06-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 64000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계불암대림",
+    "district": "상계동",
+    "area_m2": 84.96,
+    "floor": 21,
+    "price_10k": 74800,
+    "deal_date": "2026-06-13",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 99.917,
+    "floor": 4,
+    "price_10k": 95500,
+    "deal_date": "2026-06-27",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 1,
+    "price_10k": 45250,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 84.6,
+    "floor": 10,
+    "price_10k": 74000,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 115000,
+    "deal_date": "2026-06-27",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영아파트",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 3,
+    "price_10k": 48000,
+    "deal_date": "2026-06-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 15,
+    "price_10k": 63000,
+    "deal_date": "2026-06-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영3",
+    "district": "중계동",
+    "area_m2": 84.9,
+    "floor": 11,
+    "price_10k": 135000,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 61.52,
+    "floor": 8,
+    "price_10k": 72900,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.51,
+    "floor": 13,
+    "price_10k": 90000,
+    "deal_date": "2026-06-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 4,
+    "price_10k": 37000,
+    "deal_date": "2026-06-26",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 84.815,
+    "floor": 11,
+    "price_10k": 72800,
+    "deal_date": "2026-06-26",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 39.96,
+    "floor": 2,
+    "price_10k": 46000,
+    "deal_date": "2026-06-26",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 59.28,
+    "floor": 3,
+    "price_10k": 65000,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 3,
+    "price_10k": 48000,
+    "deal_date": "2026-06-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 7,
+    "price_10k": 80000,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성미소지움아파트",
+    "district": "공릉동",
+    "area_m2": 84.996,
+    "floor": 12,
+    "price_10k": 77000,
+    "deal_date": "2026-06-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 84.99,
+    "floor": 1,
+    "price_10k": 53500,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영",
+    "district": "하계동",
+    "area_m2": 65.43,
+    "floor": 1,
+    "price_10k": 71500,
+    "deal_date": "2026-06-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남",
+    "district": "중계동",
+    "area_m2": 50.97,
+    "floor": 1,
+    "price_10k": 58000,
+    "deal_date": "2026-06-26",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 14,
+    "price_10k": 58000,
+    "deal_date": "2026-06-26",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 49.6,
+    "floor": 12,
+    "price_10k": 66500,
+    "deal_date": "2026-06-26",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공12(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 2,
+    "price_10k": 46800,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉우성아파트",
+    "district": "공릉동",
+    "area_m2": 84.97,
+    "floor": 7,
+    "price_10k": 73300,
+    "deal_date": "2026-06-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 39.69,
+    "floor": 13,
+    "price_10k": 34500,
+    "deal_date": "2026-06-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계2차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 84.6,
+    "floor": 1,
+    "price_10k": 79000,
+    "deal_date": "2026-06-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 2,
+    "price_10k": 59500,
+    "deal_date": "2026-06-25",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 59.26,
+    "floor": 3,
+    "price_10k": 70000,
+    "deal_date": "2026-06-26",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아",
+    "district": "중계동",
+    "area_m2": 72.73,
+    "floor": 12,
+    "price_10k": 83800,
+    "deal_date": "2026-06-26",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 2,
+    "price_10k": 59500,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "월계동",
+    "area_m2": 59.95,
+    "floor": 2,
+    "price_10k": 87000,
+    "deal_date": "2026-06-26",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 59.97,
+    "floor": 2,
+    "price_10k": 59400,
+    "deal_date": "2026-06-26",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 15,
+    "price_10k": 63000,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미도",
+    "district": "상계동",
+    "area_m2": 87.57,
+    "floor": 14,
+    "price_10k": 82000,
+    "deal_date": "2026-06-23",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비콘아파트",
+    "district": "공릉동",
+    "area_m2": 84.98,
+    "floor": 6,
+    "price_10k": 70000,
+    "deal_date": "2026-06-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 15,
+    "price_10k": 56000,
+    "deal_date": "2026-06-27",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신명아파트",
+    "district": "공릉동",
+    "area_m2": 59.99,
+    "floor": 4,
+    "price_10k": 49900,
+    "deal_date": "2026-06-26",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 43.35,
+    "floor": 11,
+    "price_10k": 37500,
+    "deal_date": "2026-06-24",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 59.26,
+    "floor": 10,
+    "price_10k": 72000,
+    "deal_date": "2026-06-26",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 10,
+    "price_10k": 53000,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 3,
+    "price_10k": 45000,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠(5지역)",
+    "district": "상계동",
+    "area_m2": 59.99,
+    "floor": 8,
+    "price_10k": 44500,
+    "deal_date": "2026-06-25",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.896,
+    "floor": 2,
+    "price_10k": 91800,
+    "deal_date": "2026-06-24",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 5,
+    "price_10k": 45500,
+    "deal_date": "2026-06-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영",
+    "district": "하계동",
+    "area_m2": 65.43,
+    "floor": 14,
+    "price_10k": 79000,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 84.38,
+    "floor": 8,
+    "price_10k": 82500,
+    "deal_date": "2026-06-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계센트럴아이파크",
+    "district": "월계동",
+    "area_m2": 59.99,
+    "floor": 12,
+    "price_10k": 107800,
+    "deal_date": "2026-06-23",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 9,
+    "price_10k": 58000,
+    "deal_date": "2026-06-26",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "월계동",
+    "area_m2": 59.95,
+    "floor": 7,
+    "price_10k": 88700,
+    "deal_date": "2026-06-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 2,
+    "price_10k": 49500,
+    "deal_date": "2026-06-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "월계동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 102000,
+    "deal_date": "2026-06-15",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 50.14,
+    "floor": 1,
+    "price_10k": 91500,
+    "deal_date": "2026-06-25",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2026-06-16",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아",
+    "district": "중계동",
+    "area_m2": 114.57,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2026-06-25",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 44.52,
+    "floor": 6,
+    "price_10k": 38000,
+    "deal_date": "2026-06-25",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "상계동",
+    "area_m2": 93.13,
+    "floor": 13,
+    "price_10k": 98400,
+    "deal_date": "2026-06-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.92,
+    "floor": 8,
+    "price_10k": 55700,
+    "deal_date": "2026-06-12",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2차",
+    "district": "상계동",
+    "area_m2": 58.46,
+    "floor": 6,
+    "price_10k": 47500,
+    "deal_date": "2026-06-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 39.7,
+    "floor": 1,
+    "price_10k": 32000,
+    "deal_date": "2026-06-22",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 99.917,
+    "floor": 8,
+    "price_10k": 93000,
+    "deal_date": "2026-06-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 15,
+    "price_10k": 62500,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑타운아파트",
+    "district": "공릉동",
+    "area_m2": 84.65,
+    "floor": 7,
+    "price_10k": 89000,
+    "deal_date": "2026-06-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉동한보에센시티아파트",
+    "district": "공릉동",
+    "area_m2": 84.93,
+    "floor": 1,
+    "price_10k": 70000,
+    "deal_date": "2026-06-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계2차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 84.6,
+    "floor": 4,
+    "price_10k": 84500,
+    "deal_date": "2026-06-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 59.87,
+    "floor": 5,
+    "price_10k": 73000,
+    "deal_date": "2026-06-25",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 59.87,
+    "floor": 5,
+    "price_10k": 80400,
+    "deal_date": "2026-06-25",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "학여울청구",
+    "district": "하계동",
+    "area_m2": 84.77,
+    "floor": 7,
+    "price_10k": 94700,
+    "deal_date": "2026-06-25",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사슴3",
+    "district": "월계동",
+    "area_m2": 33.18,
+    "floor": 6,
+    "price_10k": 31300,
+    "deal_date": "2026-06-04",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신3차",
+    "district": "상계동",
+    "area_m2": 84.59,
+    "floor": 11,
+    "price_10k": 68500,
+    "deal_date": "2026-06-25",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "중계동",
+    "area_m2": 84.9132,
+    "floor": 9,
+    "price_10k": 76000,
+    "deal_date": "2026-06-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원롯데캐슬시그니처",
+    "district": "상계동",
+    "area_m2": 84.999,
+    "floor": 14,
+    "price_10k": 114300,
+    "deal_date": "2026-06-25",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 75.03,
+    "floor": 14,
+    "price_10k": 62500,
+    "deal_date": "2026-06-24",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "상계동",
+    "area_m2": 51.66,
+    "floor": 13,
+    "price_10k": 47700,
+    "deal_date": "2026-06-20",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 39.82,
+    "floor": 10,
+    "price_10k": 49500,
+    "deal_date": "2026-06-24",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 35.28,
+    "floor": 14,
+    "price_10k": 47500,
+    "deal_date": "2026-06-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 11,
+    "price_10k": 81000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 51.03,
+    "floor": 9,
+    "price_10k": 48000,
+    "deal_date": "2026-06-24",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 19,
+    "price_10k": 47300,
+    "deal_date": "2026-06-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주완위즈빌",
+    "district": "공릉동",
+    "area_m2": 73.36,
+    "floor": 2,
+    "price_10k": 48000,
+    "deal_date": "2026-06-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 14,
+    "price_10k": 69000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 38.64,
+    "floor": 6,
+    "price_10k": 32500,
+    "deal_date": "2026-06-22",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 12,
+    "price_10k": 47800,
+    "deal_date": "2026-06-24",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 7,
+    "price_10k": 39000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 3,
+    "price_10k": 45800,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹천역두산위브아파트",
+    "district": "월계동",
+    "area_m2": 84.9343,
+    "floor": 3,
+    "price_10k": 75700,
+    "deal_date": "2026-06-24",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 79.07,
+    "floor": 3,
+    "price_10k": 80000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사슴3",
+    "district": "월계동",
+    "area_m2": 39.6,
+    "floor": 13,
+    "price_10k": 41900,
+    "deal_date": "2026-06-24",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 15,
+    "price_10k": 53000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 27,
+    "price_10k": 119000,
+    "deal_date": "2026-06-24",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 10,
+    "price_10k": 49000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 38.64,
+    "floor": 12,
+    "price_10k": 31700,
+    "deal_date": "2026-06-23",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 91.54,
+    "floor": 12,
+    "price_10k": 100000,
+    "deal_date": "2026-06-18",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익4단지아파트",
+    "district": "공릉동",
+    "area_m2": 39.6,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2026-06-08",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시영3차(라이프)아파트",
+    "district": "공릉동",
+    "area_m2": 39.6,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2026-06-24",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "하계동",
+    "area_m2": 59.74,
+    "floor": 4,
+    "price_10k": 56500,
+    "deal_date": "2026-06-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼창",
+    "district": "월계동",
+    "area_m2": 77.84,
+    "floor": 8,
+    "price_10k": 75000,
+    "deal_date": "2026-06-23",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 84.98,
+    "floor": 21,
+    "price_10k": 125000,
+    "deal_date": "2026-06-24",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원롯데캐슬시그니처",
+    "district": "상계동",
+    "area_m2": 84.997,
+    "floor": 3,
+    "price_10k": 109900,
+    "deal_date": "2026-06-24",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방아파트",
+    "district": "공릉동",
+    "area_m2": 60.502,
+    "floor": 7,
+    "price_10k": 64000,
+    "deal_date": "2026-06-05",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한일1",
+    "district": "월계동",
+    "area_m2": 59.953,
+    "floor": 3,
+    "price_10k": 63000,
+    "deal_date": "2026-06-22",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠(5지역)",
+    "district": "상계동",
+    "area_m2": 59.99,
+    "floor": 11,
+    "price_10k": 41200,
+    "deal_date": "2026-06-23",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.896,
+    "floor": 9,
+    "price_10k": 95000,
+    "deal_date": "2026-06-23",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 3,
+    "price_10k": 55800,
+    "deal_date": "2026-06-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 15,
+    "price_10k": 74000,
+    "deal_date": "2026-06-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 84.99,
+    "floor": 12,
+    "price_10k": 58500,
+    "deal_date": "2026-06-23",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성미소지움아파트",
+    "district": "공릉동",
+    "area_m2": 84.929,
+    "floor": 3,
+    "price_10k": 69800,
+    "deal_date": "2026-06-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 1,
+    "price_10k": 42500,
+    "deal_date": "2026-06-23",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 59.92,
+    "floor": 1,
+    "price_10k": 47500,
+    "deal_date": "2026-06-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 58700,
+    "deal_date": "2026-06-23",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "상계동",
+    "area_m2": 58.65,
+    "floor": 6,
+    "price_10k": 48000,
+    "deal_date": "2026-06-17",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 52500,
+    "deal_date": "2026-06-23",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 39.82,
+    "floor": 3,
+    "price_10k": 50000,
+    "deal_date": "2026-06-23",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 9,
+    "price_10k": 46000,
+    "deal_date": "2026-06-23",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 12,
+    "price_10k": 30000,
+    "deal_date": "2026-06-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우림루미아트1",
+    "district": "상계동",
+    "area_m2": 84.887,
+    "floor": 13,
+    "price_10k": 79500,
+    "deal_date": "2026-06-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원센트럴푸르지오",
+    "district": "상계동",
+    "area_m2": 84.999,
+    "floor": 14,
+    "price_10k": 110000,
+    "deal_date": "2026-06-23",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 35.28,
+    "floor": 1,
+    "price_10k": 41000,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 38.64,
+    "floor": 3,
+    "price_10k": 43700,
+    "deal_date": "2026-06-21",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2차",
+    "district": "상계동",
+    "area_m2": 84.92,
+    "floor": 9,
+    "price_10k": 65000,
+    "deal_date": "2026-06-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안1",
+    "district": "월계동",
+    "area_m2": 39.6,
+    "floor": 4,
+    "price_10k": 26300,
+    "deal_date": "2026-06-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 10,
+    "price_10k": 58000,
+    "deal_date": "2026-06-21",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신3차",
+    "district": "상계동",
+    "area_m2": 60.44,
+    "floor": 4,
+    "price_10k": 55300,
+    "deal_date": "2026-06-23",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락리버시티3단지",
+    "district": "상계동",
+    "area_m2": 84.81,
+    "floor": 8,
+    "price_10k": 69000,
+    "deal_date": "2026-06-18",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공12(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 6,
+    "price_10k": 60000,
+    "deal_date": "2026-06-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "하계동",
+    "area_m2": 84.91,
+    "floor": 8,
+    "price_10k": 90000,
+    "deal_date": "2026-06-23",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아불암",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 13,
+    "price_10k": 47000,
+    "deal_date": "2026-06-12",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 3,
+    "price_10k": 43000,
+    "deal_date": "2026-06-23",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신도1차아파트",
+    "district": "공릉동",
+    "area_m2": 81.2768,
+    "floor": 18,
+    "price_10k": 81500,
+    "deal_date": "2026-06-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2차",
+    "district": "상계동",
+    "area_m2": 45.92,
+    "floor": 5,
+    "price_10k": 36500,
+    "deal_date": "2026-06-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 13,
+    "price_10k": 52500,
+    "deal_date": "2026-06-22",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공10",
+    "district": "중계동",
+    "area_m2": 58.14,
+    "floor": 11,
+    "price_10k": 76000,
+    "deal_date": "2026-06-22",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동양엔파트",
+    "district": "상계동",
+    "area_m2": 84.88,
+    "floor": 13,
+    "price_10k": 88000,
+    "deal_date": "2026-06-22",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 9,
+    "price_10k": 39000,
+    "deal_date": "2026-06-22",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안1",
+    "district": "월계동",
+    "area_m2": 59.85,
+    "floor": 13,
+    "price_10k": 38000,
+    "deal_date": "2026-06-16",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1차",
+    "district": "상계동",
+    "area_m2": 45.44,
+    "floor": 2,
+    "price_10k": 32000,
+    "deal_date": "2026-06-17",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미륭",
+    "district": "월계동",
+    "area_m2": 51.48,
+    "floor": 14,
+    "price_10k": 96700,
+    "deal_date": "2026-06-22",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 8,
+    "price_10k": 77600,
+    "deal_date": "2026-06-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 58.65,
+    "floor": 15,
+    "price_10k": 58500,
+    "deal_date": "2026-06-22",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 1,
+    "price_10k": 48300,
+    "deal_date": "2026-06-22",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공7",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 8,
+    "price_10k": 43000,
+    "deal_date": "2026-06-22",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산힐스빌아파트",
+    "district": "공릉동",
+    "area_m2": 59.76,
+    "floor": 9,
+    "price_10k": 69300,
+    "deal_date": "2026-06-22",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 10,
+    "price_10k": 48000,
+    "deal_date": "2026-06-17",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동양엔파트",
+    "district": "상계동",
+    "area_m2": 84.88,
+    "floor": 5,
+    "price_10k": 94000,
+    "deal_date": "2026-06-13",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "임광",
+    "district": "상계동",
+    "area_m2": 106.25,
+    "floor": 14,
+    "price_10k": 110000,
+    "deal_date": "2026-06-22",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 2,
+    "price_10k": 72800,
+    "deal_date": "2026-06-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "하계동",
+    "area_m2": 127.22,
+    "floor": 13,
+    "price_10k": 139500,
+    "deal_date": "2026-06-22",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익선경",
+    "district": "하계동",
+    "area_m2": 107.95,
+    "floor": 3,
+    "price_10k": 89700,
+    "deal_date": "2026-06-17",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 84.6,
+    "floor": 14,
+    "price_10k": 71000,
+    "deal_date": "2026-06-18",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 38.64,
+    "floor": 13,
+    "price_10k": 31500,
+    "deal_date": "2026-06-04",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사슴3",
+    "district": "월계동",
+    "area_m2": 33.18,
+    "floor": 12,
+    "price_10k": 36800,
+    "deal_date": "2026-06-22",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진명비베레",
+    "district": "공릉동",
+    "area_m2": 13.0588,
+    "floor": 3,
+    "price_10k": 8300,
+    "deal_date": "2026-06-22",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔아파트8",
+    "district": "공릉동",
+    "area_m2": 84.65,
+    "floor": 6,
+    "price_10k": 81000,
+    "deal_date": "2026-06-22",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 11,
+    "price_10k": 48000,
+    "deal_date": "2026-06-21",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 46.8,
+    "floor": 9,
+    "price_10k": 37500,
+    "deal_date": "2026-06-20",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 38.64,
+    "floor": 8,
+    "price_10k": 39800,
+    "deal_date": "2026-06-20",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 2,
+    "price_10k": 43000,
+    "deal_date": "2026-06-19",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "중계동",
+    "area_m2": 84.21,
+    "floor": 11,
+    "price_10k": 72000,
+    "deal_date": "2026-06-20",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 84.79,
+    "floor": 3,
+    "price_10k": 115000,
+    "deal_date": "2026-06-19",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 46.8,
+    "floor": 8,
+    "price_10k": 37000,
+    "deal_date": "2026-06-19",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 46.8,
+    "floor": 12,
+    "price_10k": 36000,
+    "deal_date": "2026-06-18",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.896,
+    "floor": 12,
+    "price_10k": 93800,
+    "deal_date": "2026-06-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 70.81,
+    "floor": 7,
+    "price_10k": 90000,
+    "deal_date": "2026-06-20",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼창타워주상프라자",
+    "district": "중계동",
+    "area_m2": 59.39,
+    "floor": 18,
+    "price_10k": 53000,
+    "deal_date": "2026-06-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미륭",
+    "district": "월계동",
+    "area_m2": 51.48,
+    "floor": 1,
+    "price_10k": 94500,
+    "deal_date": "2026-06-20",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구3",
+    "district": "중계동",
+    "area_m2": 84.77,
+    "floor": 1,
+    "price_10k": 125000,
+    "deal_date": "2026-06-20",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(3차)",
+    "district": "중계동",
+    "area_m2": 66.47,
+    "floor": 2,
+    "price_10k": 59300,
+    "deal_date": "2026-06-20",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계현대3차",
+    "district": "상계동",
+    "area_m2": 84.96,
+    "floor": 2,
+    "price_10k": 64000,
+    "deal_date": "2026-06-20",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공12(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 12,
+    "price_10k": 44700,
+    "deal_date": "2026-06-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.92,
+    "floor": 1,
+    "price_10k": 51000,
+    "deal_date": "2026-06-19",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대성우아파트",
+    "district": "공릉동",
+    "area_m2": 59.98,
+    "floor": 12,
+    "price_10k": 59950,
+    "deal_date": "2026-06-15",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호4",
+    "district": "월계동",
+    "area_m2": 59.49,
+    "floor": 6,
+    "price_10k": 93500,
+    "deal_date": "2026-06-20",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청암2단지",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 20,
+    "price_10k": 52500,
+    "deal_date": "2026-06-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 84.99,
+    "floor": 12,
+    "price_10k": 92000,
+    "deal_date": "2026-06-19",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 5,
+    "price_10k": 37000,
+    "deal_date": "2026-06-20",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 9,
+    "price_10k": 57900,
+    "deal_date": "2026-06-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 54.59,
+    "floor": 11,
+    "price_10k": 59000,
+    "deal_date": "2026-06-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.896,
+    "floor": 12,
+    "price_10k": 93500,
+    "deal_date": "2026-06-19",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "상계동",
+    "area_m2": 84.66,
+    "floor": 12,
+    "price_10k": 55800,
+    "deal_date": "2026-06-19",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "중계동",
+    "area_m2": 114.49,
+    "floor": 4,
+    "price_10k": 91500,
+    "deal_date": "2026-06-19",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 4,
+    "price_10k": 72500,
+    "deal_date": "2026-06-19",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 11,
+    "price_10k": 83000,
+    "deal_date": "2026-06-19",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공8",
+    "district": "중계동",
+    "area_m2": 49.72,
+    "floor": 9,
+    "price_10k": 44000,
+    "deal_date": "2026-06-16",
+    "build_year": 1993,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 108700,
+    "deal_date": "2026-06-19",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 79.07,
+    "floor": 2,
+    "price_10k": 83700,
+    "deal_date": "2026-06-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운(583)",
+    "district": "중계동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 80000,
+    "deal_date": "2026-06-19",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 92.84,
+    "floor": 9,
+    "price_10k": 97000,
+    "deal_date": "2026-06-19",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 7,
+    "price_10k": 47000,
+    "deal_date": "2026-06-19",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 49.54,
+    "floor": 11,
+    "price_10k": 67000,
+    "deal_date": "2026-06-19",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북부현대",
+    "district": "상계동",
+    "area_m2": 59.24,
+    "floor": 15,
+    "price_10k": 43000,
+    "deal_date": "2026-06-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사슴3",
+    "district": "월계동",
+    "area_m2": 39.6,
+    "floor": 10,
+    "price_10k": 41000,
+    "deal_date": "2026-06-18",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 58.46,
+    "floor": 13,
+    "price_10k": 78900,
+    "deal_date": "2026-06-19",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.92,
+    "floor": 6,
+    "price_10k": 53000,
+    "deal_date": "2026-06-19",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "상계동",
+    "area_m2": 84.66,
+    "floor": 1,
+    "price_10k": 52000,
+    "deal_date": "2026-06-19",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 15,
+    "price_10k": 44800,
+    "deal_date": "2026-06-19",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "월계동",
+    "area_m2": 134.64,
+    "floor": 14,
+    "price_10k": 74000,
+    "deal_date": "2026-06-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 59.2,
+    "floor": 15,
+    "price_10k": 68000,
+    "deal_date": "2026-06-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 99.917,
+    "floor": 7,
+    "price_10k": 89500,
+    "deal_date": "2026-06-18",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 6,
+    "price_10k": 49900,
+    "deal_date": "2026-06-18",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차현대아파트",
+    "district": "상계동",
+    "area_m2": 83.92,
+    "floor": 6,
+    "price_10k": 60000,
+    "deal_date": "2026-06-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.91,
+    "floor": 7,
+    "price_10k": 55000,
+    "deal_date": "2026-06-18",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 49.85,
+    "floor": 10,
+    "price_10k": 59500,
+    "deal_date": "2026-06-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차현대아파트",
+    "district": "상계동",
+    "area_m2": 83.92,
+    "floor": 10,
+    "price_10k": 60000,
+    "deal_date": "2026-06-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양지마을(대림)1",
+    "district": "중계동",
+    "area_m2": 84.9,
+    "floor": 16,
+    "price_10k": 106500,
+    "deal_date": "2026-06-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 15,
+    "price_10k": 59800,
+    "deal_date": "2026-06-16",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 3,
+    "price_10k": 55500,
+    "deal_date": "2026-06-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 61000,
+    "deal_date": "2026-06-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 4,
+    "price_10k": 44000,
+    "deal_date": "2026-06-18",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 12,
+    "price_10k": 58000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "하계동",
+    "area_m2": 84.91,
+    "floor": 11,
+    "price_10k": 123500,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청백4",
+    "district": "월계동",
+    "area_m2": 59.4,
+    "floor": 5,
+    "price_10k": 44900,
+    "deal_date": "2026-06-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세양청마루",
+    "district": "월계동",
+    "area_m2": 84.957,
+    "floor": 11,
+    "price_10k": 74000,
+    "deal_date": "2026-06-02",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠(5지역)",
+    "district": "상계동",
+    "area_m2": 59.99,
+    "floor": 4,
+    "price_10k": 39500,
+    "deal_date": "2026-06-18",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼창",
+    "district": "월계동",
+    "area_m2": 121,
+    "floor": 4,
+    "price_10k": 70000,
+    "deal_date": "2026-06-18",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 9,
+    "price_10k": 38000,
+    "deal_date": "2026-06-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 91.54,
+    "floor": 5,
+    "price_10k": 95000,
+    "deal_date": "2026-06-18",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락산벨리체",
+    "district": "상계동",
+    "area_m2": 114.92,
+    "floor": 14,
+    "price_10k": 83000,
+    "deal_date": "2026-06-17",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 59.82,
+    "floor": 14,
+    "price_10k": 67000,
+    "deal_date": "2026-06-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 39.7,
+    "floor": 4,
+    "price_10k": 36000,
+    "deal_date": "2026-06-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차현대아파트",
+    "district": "상계동",
+    "area_m2": 83.92,
+    "floor": 11,
+    "price_10k": 63500,
+    "deal_date": "2026-06-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 8,
+    "price_10k": 43800,
+    "deal_date": "2026-06-06",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아불암",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 6,
+    "price_10k": 49000,
+    "deal_date": "2026-06-03",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 2,
+    "price_10k": 54700,
+    "deal_date": "2026-06-17",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 1,
+    "price_10k": 43000,
+    "deal_date": "2026-06-18",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 84.2,
+    "floor": 7,
+    "price_10k": 110000,
+    "deal_date": "2026-06-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 44.94,
+    "floor": 6,
+    "price_10k": 37000,
+    "deal_date": "2026-06-17",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계불암대림",
+    "district": "상계동",
+    "area_m2": 59.22,
+    "floor": 23,
+    "price_10k": 60800,
+    "deal_date": "2026-06-17",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원프레미어스엠코",
+    "district": "공릉동",
+    "area_m2": 84.0408,
+    "floor": 21,
+    "price_10k": 94500,
+    "deal_date": "2026-06-17",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 49.6,
+    "floor": 13,
+    "price_10k": 64500,
+    "deal_date": "2026-06-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 43.35,
+    "floor": 8,
+    "price_10k": 35500,
+    "deal_date": "2026-06-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화꿈에그린",
+    "district": "중계동",
+    "area_m2": 59.941,
+    "floor": 14,
+    "price_10k": 70000,
+    "deal_date": "2026-06-17",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 114.97,
+    "floor": 19,
+    "price_10k": 123000,
+    "deal_date": "2026-06-17",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 49.85,
+    "floor": 12,
+    "price_10k": 67500,
+    "deal_date": "2026-06-17",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 68.86,
+    "floor": 5,
+    "price_10k": 79500,
+    "deal_date": "2026-06-17",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원1",
+    "district": "중계동",
+    "area_m2": 84.78,
+    "floor": 16,
+    "price_10k": 98000,
+    "deal_date": "2026-06-17",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 9,
+    "price_10k": 65000,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.91,
+    "floor": 5,
+    "price_10k": 53800,
+    "deal_date": "2026-06-17",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 66.56,
+    "floor": 4,
+    "price_10k": 72900,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 4,
+    "price_10k": 62500,
+    "deal_date": "2026-06-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 54.59,
+    "floor": 6,
+    "price_10k": 60000,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 59.98,
+    "floor": 18,
+    "price_10k": 99500,
+    "deal_date": "2026-06-16",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 66.56,
+    "floor": 12,
+    "price_10k": 74000,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계흥화브라운빌",
+    "district": "월계동",
+    "area_m2": 84.91,
+    "floor": 9,
+    "price_10k": 62500,
+    "deal_date": "2026-06-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 8,
+    "price_10k": 52000,
+    "deal_date": "2026-06-17",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "소담빌",
+    "district": "상계동",
+    "area_m2": 14.65,
+    "floor": 4,
+    "price_10k": 10400,
+    "deal_date": "2026-06-16",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "상계동",
+    "area_m2": 84.54,
+    "floor": 9,
+    "price_10k": 58000,
+    "deal_date": "2026-06-17",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 10,
+    "price_10k": 45400,
+    "deal_date": "2026-06-17",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "상계동",
+    "area_m2": 93.75,
+    "floor": 14,
+    "price_10k": 62000,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 4,
+    "price_10k": 48250,
+    "deal_date": "2026-06-17",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 114.88,
+    "floor": 11,
+    "price_10k": 73000,
+    "deal_date": "2026-06-11",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 10,
+    "price_10k": 45300,
+    "deal_date": "2026-06-17",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안1",
+    "district": "월계동",
+    "area_m2": 59.85,
+    "floor": 13,
+    "price_10k": 38000,
+    "deal_date": "2026-06-16",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 79.07,
+    "floor": 8,
+    "price_10k": 79000,
+    "deal_date": "2026-06-11",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 9,
+    "price_10k": 62500,
+    "deal_date": "2026-06-09",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신4차",
+    "district": "상계동",
+    "area_m2": 84.84,
+    "floor": 1,
+    "price_10k": 49000,
+    "deal_date": "2026-06-16",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 11,
+    "price_10k": 43000,
+    "deal_date": "2026-06-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 58.46,
+    "floor": 3,
+    "price_10k": 84000,
+    "deal_date": "2026-06-17",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원롯데캐슬시그니처",
+    "district": "상계동",
+    "area_m2": 84.999,
+    "floor": 10,
+    "price_10k": 115000,
+    "deal_date": "2026-06-16",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 49.85,
+    "floor": 9,
+    "price_10k": 66900,
+    "deal_date": "2026-06-16",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 90.94,
+    "floor": 2,
+    "price_10k": 87000,
+    "deal_date": "2026-06-16",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 10,
+    "price_10k": 55000,
+    "deal_date": "2026-06-16",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 8,
+    "price_10k": 59500,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상록수1단지",
+    "district": "상계동",
+    "area_m2": 53.656,
+    "floor": 8,
+    "price_10k": 47000,
+    "deal_date": "2026-06-16",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 10,
+    "price_10k": 52000,
+    "deal_date": "2026-06-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양지마을(대림)2",
+    "district": "중계동",
+    "area_m2": 84.88,
+    "floor": 22,
+    "price_10k": 100000,
+    "deal_date": "2026-06-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세양청마루",
+    "district": "월계동",
+    "area_m2": 84.939,
+    "floor": 10,
+    "price_10k": 74000,
+    "deal_date": "2026-06-14",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호3",
+    "district": "월계동",
+    "area_m2": 59.22,
+    "floor": 3,
+    "price_10k": 108000,
+    "deal_date": "2026-06-16",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양지마을(대림)2",
+    "district": "중계동",
+    "area_m2": 114.81,
+    "floor": 2,
+    "price_10k": 103500,
+    "deal_date": "2026-06-08",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉우성아파트",
+    "district": "공릉동",
+    "area_m2": 59.26,
+    "floor": 9,
+    "price_10k": 60000,
+    "deal_date": "2026-06-16",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 44.52,
+    "floor": 4,
+    "price_10k": 57000,
+    "deal_date": "2026-06-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데우성",
+    "district": "중계동",
+    "area_m2": 115.26,
+    "floor": 13,
+    "price_10k": 145000,
+    "deal_date": "2026-06-10",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 6,
+    "price_10k": 65000,
+    "deal_date": "2026-06-16",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공12(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 1,
+    "price_10k": 57000,
+    "deal_date": "2026-06-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람노블레스아파트",
+    "district": "공릉동",
+    "area_m2": 84.51,
+    "floor": 4,
+    "price_10k": 59300,
+    "deal_date": "2026-06-16",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원아파트",
+    "district": "공릉동",
+    "area_m2": 59.59,
+    "floor": 3,
+    "price_10k": 53000,
+    "deal_date": "2026-06-13",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "월계동",
+    "area_m2": 114.99,
+    "floor": 19,
+    "price_10k": 120000,
+    "deal_date": "2026-06-06",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동양엔파트",
+    "district": "상계동",
+    "area_m2": 84.88,
+    "floor": 21,
+    "price_10k": 89000,
+    "deal_date": "2026-06-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 5,
+    "price_10k": 38000,
+    "deal_date": "2026-06-15",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 51.03,
+    "floor": 2,
+    "price_10k": 47000,
+    "deal_date": "2026-06-15",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청백3",
+    "district": "월계동",
+    "area_m2": 49.77,
+    "floor": 9,
+    "price_10k": 39500,
+    "deal_date": "2026-06-15",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양우",
+    "district": "상계동",
+    "area_m2": 86.2286,
+    "floor": 9,
+    "price_10k": 75000,
+    "deal_date": "2026-06-15",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "중계동",
+    "area_m2": 59.9,
+    "floor": 5,
+    "price_10k": 56300,
+    "deal_date": "2026-06-15",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2026-06-15",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 4,
+    "price_10k": 44000,
+    "deal_date": "2026-06-15",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔아파트8",
+    "district": "공릉동",
+    "area_m2": 84.83,
+    "floor": 12,
+    "price_10k": 86000,
+    "deal_date": "2026-06-15",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 5,
+    "price_10k": 55000,
+    "deal_date": "2026-06-15",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영",
+    "district": "하계동",
+    "area_m2": 74.58,
+    "floor": 13,
+    "price_10k": 71000,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청구빌아파트",
+    "district": "공릉동",
+    "area_m2": 78.51,
+    "floor": 4,
+    "price_10k": 43800,
+    "deal_date": "2026-06-08",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길성그랑프리텔아파트",
+    "district": "공릉동",
+    "area_m2": 71.848,
+    "floor": 7,
+    "price_10k": 56000,
+    "deal_date": "2026-06-13",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 68.86,
+    "floor": 6,
+    "price_10k": 94700,
+    "deal_date": "2026-06-14",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 15,
+    "price_10k": 61000,
+    "deal_date": "2026-06-14",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 6,
+    "price_10k": 58000,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 13,
+    "price_10k": 50500,
+    "deal_date": "2026-06-13",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 59.34,
+    "floor": 5,
+    "price_10k": 74800,
+    "deal_date": "2026-06-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 43.35,
+    "floor": 6,
+    "price_10k": 37700,
+    "deal_date": "2026-06-12",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "하계동",
+    "area_m2": 118.52,
+    "floor": 11,
+    "price_10k": 95000,
+    "deal_date": "2026-06-05",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "상계동",
+    "area_m2": 84.39,
+    "floor": 12,
+    "price_10k": 59500,
+    "deal_date": "2026-06-13",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아불암",
+    "district": "상계동",
+    "area_m2": 84.9,
+    "floor": 1,
+    "price_10k": 58000,
+    "deal_date": "2026-06-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공7",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 4,
+    "price_10k": 38500,
+    "deal_date": "2026-06-13",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 6,
+    "price_10k": 56500,
+    "deal_date": "2026-06-13",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태릉해링턴플레이스",
+    "district": "공릉동",
+    "area_m2": 59.98,
+    "floor": 20,
+    "price_10k": 102000,
+    "deal_date": "2026-06-13",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월계센트럴아이파크",
+    "district": "월계동",
+    "area_m2": 84.99,
+    "floor": 10,
+    "price_10k": 114500,
+    "deal_date": "2026-06-13",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 75.81,
+    "floor": 20,
+    "price_10k": 106700,
+    "deal_date": "2026-06-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공6",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 4,
+    "price_10k": 46500,
+    "deal_date": "2026-06-13",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 68.86,
+    "floor": 14,
+    "price_10k": 85000,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계3우성",
+    "district": "중계동",
+    "area_m2": 59.94,
+    "floor": 10,
+    "price_10k": 66000,
+    "deal_date": "2026-06-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 12,
+    "price_10k": 38600,
+    "deal_date": "2026-06-13",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "하계동",
+    "area_m2": 71.68,
+    "floor": 8,
+    "price_10k": 90800,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 9,
+    "price_10k": 50000,
+    "deal_date": "2026-06-13",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 4,
+    "price_10k": 48900,
+    "deal_date": "2026-06-13",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 61.52,
+    "floor": 4,
+    "price_10k": 63500,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동진",
+    "district": "중계동",
+    "area_m2": 38.79,
+    "floor": 4,
+    "price_10k": 23000,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "월계동",
+    "area_m2": 58.65,
+    "floor": 10,
+    "price_10k": 58800,
+    "deal_date": "2026-06-12",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방아파트",
+    "district": "공릉동",
+    "area_m2": 61.151,
+    "floor": 4,
+    "price_10k": 62000,
+    "deal_date": "2026-06-12",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 49.89,
+    "floor": 7,
+    "price_10k": 67000,
+    "deal_date": "2026-06-12",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 49.6,
+    "floor": 13,
+    "price_10k": 65600,
+    "deal_date": "2026-06-12",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 8,
+    "price_10k": 55000,
+    "deal_date": "2026-06-10",
+    "build_year": 1990,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 1,
+    "price_10k": 67000,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호3",
+    "district": "월계동",
+    "area_m2": 59.22,
+    "floor": 4,
+    "price_10k": 106000,
+    "deal_date": "2026-06-13",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아불암",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 8,
+    "price_10k": 49000,
+    "deal_date": "2026-06-12",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(저층)",
+    "district": "상계동",
+    "area_m2": 71.89,
+    "floor": 5,
+    "price_10k": 68000,
+    "deal_date": "2026-06-06",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 59000,
+    "deal_date": "2026-06-12",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 6,
+    "price_10k": 59500,
+    "deal_date": "2026-06-12",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 71.77,
+    "floor": 6,
+    "price_10k": 89000,
+    "deal_date": "2026-06-09",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 13,
+    "price_10k": 72000,
+    "deal_date": "2026-06-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 5,
+    "price_10k": 59000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "임광",
+    "district": "상계동",
+    "area_m2": 122.18,
+    "floor": 14,
+    "price_10k": 120000,
+    "deal_date": "2026-06-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 92.84,
+    "floor": 8,
+    "price_10k": 99000,
+    "deal_date": "2026-06-13",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 1,
+    "price_10k": 100000,
+    "deal_date": "2026-06-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 63400,
+    "deal_date": "2026-06-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 39.96,
+    "floor": 2,
+    "price_10k": 45600,
+    "deal_date": "2026-06-13",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 15,
+    "price_10k": 45000,
+    "deal_date": "2026-06-12",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 5,
+    "price_10k": 74500,
+    "deal_date": "2026-06-12",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 4,
+    "price_10k": 39000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프",
+    "district": "중계동",
+    "area_m2": 115.65,
+    "floor": 9,
+    "price_10k": 134000,
+    "deal_date": "2026-06-12",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비선아파트",
+    "district": "공릉동",
+    "area_m2": 49.28,
+    "floor": 4,
+    "price_10k": 53000,
+    "deal_date": "2026-06-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아",
+    "district": "중계동",
+    "area_m2": 51.29,
+    "floor": 1,
+    "price_10k": 55000,
+    "deal_date": "2026-06-11",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영장미아파트",
+    "district": "공릉동",
+    "area_m2": 59.87,
+    "floor": 1,
+    "price_10k": 49500,
+    "deal_date": "2026-06-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 113000,
+    "deal_date": "2026-06-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉우성아파트",
+    "district": "공릉동",
+    "area_m2": 84.97,
+    "floor": 8,
+    "price_10k": 74500,
+    "deal_date": "2026-06-11",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공6",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 7,
+    "price_10k": 49000,
+    "deal_date": "2026-06-11",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 4,
+    "price_10k": 30000,
+    "deal_date": "2026-06-11",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공4",
+    "district": "중계동",
+    "area_m2": 59.39,
+    "floor": 7,
+    "price_10k": 72500,
+    "deal_date": "2026-06-11",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 88000,
+    "deal_date": "2026-06-11",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 13,
+    "price_10k": 61000,
+    "deal_date": "2026-06-11",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부아파트",
+    "district": "공릉동",
+    "area_m2": 84.79,
+    "floor": 6,
+    "price_10k": 68000,
+    "deal_date": "2026-06-11",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "월계동",
+    "area_m2": 99.98,
+    "floor": 17,
+    "price_10k": 77800,
+    "deal_date": "2026-06-11",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "상계동",
+    "area_m2": 75.03,
+    "floor": 2,
+    "price_10k": 60000,
+    "deal_date": "2026-06-10",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 12,
+    "price_10k": 47500,
+    "deal_date": "2026-06-11",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 82000,
+    "deal_date": "2026-06-11",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공16(고층)",
+    "district": "상계동",
+    "area_m2": 59.39,
+    "floor": 15,
+    "price_10k": 47500,
+    "deal_date": "2026-06-11",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "염광",
+    "district": "중계동",
+    "area_m2": 59.34,
+    "floor": 8,
+    "price_10k": 62000,
+    "deal_date": "2026-06-11",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시영3차(라이프)아파트",
+    "district": "공릉동",
+    "area_m2": 39.6,
+    "floor": 6,
+    "price_10k": 47000,
+    "deal_date": "2026-06-07",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신아파트",
+    "district": "공릉동",
+    "area_m2": 59.99,
+    "floor": 5,
+    "price_10k": 59000,
+    "deal_date": "2026-06-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 59.94,
+    "floor": 5,
+    "price_10k": 100800,
+    "deal_date": "2026-06-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(6차)",
+    "district": "중계동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 80800,
+    "deal_date": "2026-06-01",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 78900,
+    "deal_date": "2026-06-11",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 42100,
+    "deal_date": "2026-06-02",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대",
+    "district": "하계동",
+    "area_m2": 84.95,
+    "floor": 1,
+    "price_10k": 110000,
+    "deal_date": "2026-06-11",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안산쌍용스윗닷홈",
+    "district": "월계동",
+    "area_m2": 84.69,
+    "floor": 2,
+    "price_10k": 62500,
+    "deal_date": "2026-06-11",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 12,
+    "price_10k": 66000,
+    "deal_date": "2026-06-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아이원",
+    "district": "월계동",
+    "area_m2": 84.303,
+    "floor": 9,
+    "price_10k": 107000,
+    "deal_date": "2026-06-02",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 7,
+    "price_10k": 39000,
+    "deal_date": "2026-06-10",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 51.03,
+    "floor": 9,
+    "price_10k": 48000,
+    "deal_date": "2026-06-10",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1(4차)",
+    "district": "중계동",
+    "area_m2": 71.16,
+    "floor": 3,
+    "price_10k": 54000,
+    "deal_date": "2026-06-10",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영2",
+    "district": "중계동",
+    "area_m2": 75.02,
+    "floor": 11,
+    "price_10k": 80000,
+    "deal_date": "2026-06-10",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 49.85,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2026-06-10",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성북역신도브래뉴",
+    "district": "월계동",
+    "area_m2": 84.8437,
+    "floor": 2,
+    "price_10k": 75000,
+    "deal_date": "2026-06-06",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영",
+    "district": "하계동",
+    "area_m2": 65.43,
+    "floor": 9,
+    "price_10k": 80000,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신도1차아파트",
+    "district": "공릉동",
+    "area_m2": 117.168,
+    "floor": 16,
+    "price_10k": 95000,
+    "deal_date": "2026-06-08",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 5,
+    "price_10k": 67800,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 4,
+    "price_10k": 30000,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 49.6,
+    "floor": 1,
+    "price_10k": 57000,
+    "deal_date": "2026-06-10",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 75.81,
+    "floor": 25,
+    "price_10k": 99500,
+    "deal_date": "2026-06-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 59.38,
+    "floor": 6,
+    "price_10k": 75000,
+    "deal_date": "2026-06-10",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원1",
+    "district": "중계동",
+    "area_m2": 59.75,
+    "floor": 13,
+    "price_10k": 81800,
+    "deal_date": "2026-06-10",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 7,
+    "price_10k": 60500,
+    "deal_date": "2026-06-10",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑타운아파트",
+    "district": "공릉동",
+    "area_m2": 84.65,
+    "floor": 9,
+    "price_10k": 85000,
+    "deal_date": "2026-06-10",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 1,
+    "price_10k": 39800,
+    "deal_date": "2026-06-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원롯데캐슬시그니처",
+    "district": "상계동",
+    "area_m2": 59.975,
+    "floor": 4,
+    "price_10k": 96000,
+    "deal_date": "2026-06-10",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 37.46,
+    "floor": 8,
+    "price_10k": 46500,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문수해오름",
+    "district": "상계동",
+    "area_m2": 83.24,
+    "floor": 9,
+    "price_10k": 59000,
+    "deal_date": "2026-06-04",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 8,
+    "price_10k": 77500,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 49.85,
+    "floor": 11,
+    "price_10k": 63500,
+    "deal_date": "2026-06-03",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 7,
+    "price_10k": 46900,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "중계동",
+    "area_m2": 84.98,
+    "floor": 5,
+    "price_10k": 72500,
+    "deal_date": "2026-06-10",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계대림e편한세상",
+    "district": "상계동",
+    "area_m2": 83.87,
+    "floor": 8,
+    "price_10k": 63300,
+    "deal_date": "2026-06-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2",
+    "district": "하계동",
+    "area_m2": 35.28,
+    "floor": 2,
+    "price_10k": 41500,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부아파트",
+    "district": "공릉동",
+    "area_m2": 59.34,
+    "floor": 2,
+    "price_10k": 51000,
+    "deal_date": "2026-06-09",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 68.86,
+    "floor": 10,
+    "price_10k": 81500,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 79.25,
+    "floor": 14,
+    "price_10k": 75000,
+    "deal_date": "2026-06-10",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원센트럴푸르지오",
+    "district": "상계동",
+    "area_m2": 59.996,
+    "floor": 10,
+    "price_10k": 97000,
+    "deal_date": "2026-06-08",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공5(저층)",
+    "district": "상계동",
+    "area_m2": 31.98,
+    "floor": 3,
+    "price_10k": 68000,
+    "deal_date": "2026-06-08",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 20,
+    "price_10k": 78500,
+    "deal_date": "2026-06-09",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2026-06-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 49.54,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2026-06-09",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 12,
+    "price_10k": 60000,
+    "deal_date": "2026-06-09",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1(4차)",
+    "district": "중계동",
+    "area_m2": 71.16,
+    "floor": 7,
+    "price_10k": 57000,
+    "deal_date": "2026-06-09",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "소담빌",
+    "district": "상계동",
+    "area_m2": 14.65,
+    "floor": 8,
+    "price_10k": 10000,
+    "deal_date": "2026-06-08",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화랑타운아파트",
+    "district": "공릉동",
+    "area_m2": 84.65,
+    "floor": 9,
+    "price_10k": 89000,
+    "deal_date": "2026-06-09",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익포레스트아파트",
+    "district": "공릉동",
+    "area_m2": 84.6,
+    "floor": 6,
+    "price_10k": 70000,
+    "deal_date": "2026-06-09",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노원IPARK",
+    "district": "상계동",
+    "area_m2": 139.28,
+    "floor": 8,
+    "price_10k": 56000,
+    "deal_date": "2026-06-01",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 37.46,
+    "floor": 5,
+    "price_10k": 56000,
+    "deal_date": "2026-06-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 59.94,
+    "floor": 2,
+    "price_10k": 73500,
+    "deal_date": "2026-06-05",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 15,
+    "price_10k": 69000,
+    "deal_date": "2026-06-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 7,
+    "price_10k": 64100,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시영2단지(라이프)아파트",
+    "district": "공릉동",
+    "area_m2": 39.6,
+    "floor": 3,
+    "price_10k": 38000,
+    "deal_date": "2026-06-06",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "하계동",
+    "area_m2": 84.97,
+    "floor": 12,
+    "price_10k": 86000,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비선아파트",
+    "district": "공릉동",
+    "area_m2": 48.6,
+    "floor": 6,
+    "price_10k": 49000,
+    "deal_date": "2026-06-08",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태강아파트(아이파크)",
+    "district": "공릉동",
+    "area_m2": 49.6,
+    "floor": 14,
+    "price_10k": 65800,
+    "deal_date": "2026-06-08",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "하계동",
+    "area_m2": 70.69,
+    "floor": 12,
+    "price_10k": 84700,
+    "deal_date": "2026-06-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 8,
+    "price_10k": 58500,
+    "deal_date": "2026-06-08",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 27,
+    "price_10k": 106000,
+    "deal_date": "2026-06-08",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아(366)",
+    "district": "중계동",
+    "area_m2": 115.35,
+    "floor": 15,
+    "price_10k": 128000,
+    "deal_date": "2026-06-08",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 73.94,
+    "floor": 12,
+    "price_10k": 94900,
+    "deal_date": "2026-06-08",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "월계동",
+    "area_m2": 114.99,
+    "floor": 19,
+    "price_10k": 105000,
+    "deal_date": "2026-06-03",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 61.52,
+    "floor": 8,
+    "price_10k": 67300,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 6,
+    "price_10k": 37000,
+    "deal_date": "2026-06-08",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방아파트",
+    "district": "공릉동",
+    "area_m2": 60.502,
+    "floor": 7,
+    "price_10k": 64000,
+    "deal_date": "2026-06-05",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계현대3차",
+    "district": "상계동",
+    "area_m2": 84.96,
+    "floor": 10,
+    "price_10k": 65000,
+    "deal_date": "2026-06-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 8,
+    "price_10k": 63000,
+    "deal_date": "2026-06-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동도센트리움(601)",
+    "district": "중계동",
+    "area_m2": 84.983,
+    "floor": 7,
+    "price_10k": 86000,
+    "deal_date": "2026-06-05",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 45.77,
+    "floor": 3,
+    "price_10k": 58000,
+    "deal_date": "2026-06-07",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 5,
+    "price_10k": 65000,
+    "deal_date": "2026-06-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신2",
+    "district": "하계동",
+    "area_m2": 35.28,
+    "floor": 7,
+    "price_10k": 42000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진로유통조합대림",
+    "district": "중계동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 65500,
+    "deal_date": "2026-06-08",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 14,
+    "price_10k": 62500,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉동한보에센시티아파트",
+    "district": "공릉동",
+    "area_m2": 59.4,
+    "floor": 18,
+    "price_10k": 65000,
+    "deal_date": "2026-06-07",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 84.9,
+    "floor": 16,
+    "price_10k": 61000,
+    "deal_date": "2026-06-07",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산힐스빌아파트",
+    "district": "공릉동",
+    "area_m2": 84.9,
+    "floor": 11,
+    "price_10k": 88000,
+    "deal_date": "2026-06-07",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미륭",
+    "district": "월계동",
+    "area_m2": 51.48,
+    "floor": 5,
+    "price_10k": 96500,
+    "deal_date": "2026-06-07",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비콘드림힐3",
+    "district": "상계동",
+    "area_m2": 84.978,
+    "floor": 3,
+    "price_10k": 66000,
+    "deal_date": "2026-06-05",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 50.14,
+    "floor": 2,
+    "price_10k": 92500,
+    "deal_date": "2026-06-06",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 70.81,
+    "floor": 2,
+    "price_10k": 86000,
+    "deal_date": "2026-06-06",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.91,
+    "floor": 10,
+    "price_10k": 54000,
+    "deal_date": "2026-06-06",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호4",
+    "district": "월계동",
+    "area_m2": 59.49,
+    "floor": 2,
+    "price_10k": 84000,
+    "deal_date": "2026-06-06",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익4단지아파트",
+    "district": "공릉동",
+    "area_m2": 39.6,
+    "floor": 4,
+    "price_10k": 38700,
+    "deal_date": "2026-06-06",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(저층)",
+    "district": "상계동",
+    "area_m2": 47.34,
+    "floor": 2,
+    "price_10k": 51500,
+    "deal_date": "2026-06-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 11,
+    "price_10k": 48000,
+    "deal_date": "2026-06-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 33.28,
+    "floor": 5,
+    "price_10k": 75000,
+    "deal_date": "2026-06-06",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신동성",
+    "district": "하계동",
+    "area_m2": 138.29,
+    "floor": 4,
+    "price_10k": 107300,
+    "deal_date": "2026-06-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 84.2,
+    "floor": 11,
+    "price_10k": 110000,
+    "deal_date": "2026-06-04",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 11,
+    "price_10k": 41500,
+    "deal_date": "2026-06-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1차",
+    "district": "상계동",
+    "area_m2": 53.96,
+    "floor": 2,
+    "price_10k": 40400,
+    "deal_date": "2026-06-06",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1(4차)",
+    "district": "중계동",
+    "area_m2": 71.16,
+    "floor": 7,
+    "price_10k": 53800,
+    "deal_date": "2026-06-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신동성",
+    "district": "하계동",
+    "area_m2": 138.29,
+    "floor": 13,
+    "price_10k": 108500,
+    "deal_date": "2026-06-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 59.94,
+    "floor": 13,
+    "price_10k": 106000,
+    "deal_date": "2026-06-05",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 12,
+    "price_10k": 60000,
+    "deal_date": "2026-06-06",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 45.55,
+    "floor": 2,
+    "price_10k": 42900,
+    "deal_date": "2026-06-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프",
+    "district": "중계동",
+    "area_m2": 101.85,
+    "floor": 1,
+    "price_10k": 115000,
+    "deal_date": "2026-06-05",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 59.22,
+    "floor": 13,
+    "price_10k": 64750,
+    "deal_date": "2026-06-05",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 10,
+    "price_10k": 43500,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "하계동",
+    "area_m2": 84.91,
+    "floor": 9,
+    "price_10k": 119000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.92,
+    "floor": 6,
+    "price_10k": 60800,
+    "deal_date": "2026-06-05",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 14,
+    "price_10k": 49000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대동황토방",
+    "district": "상계동",
+    "area_m2": 60,
+    "floor": 3,
+    "price_10k": 62900,
+    "deal_date": "2026-06-05",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 6,
+    "price_10k": 68000,
+    "deal_date": "2026-06-05",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계1청구",
+    "district": "하계동",
+    "area_m2": 84.6,
+    "floor": 5,
+    "price_10k": 95000,
+    "deal_date": "2026-06-05",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계무지개",
+    "district": "중계동",
+    "area_m2": 49.54,
+    "floor": 4,
+    "price_10k": 64500,
+    "deal_date": "2026-06-05",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호4",
+    "district": "월계동",
+    "area_m2": 59.49,
+    "floor": 6,
+    "price_10k": 83000,
+    "deal_date": "2026-06-05",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.78,
+    "floor": 3,
+    "price_10k": 52700,
+    "deal_date": "2026-06-06",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 59.2,
+    "floor": 9,
+    "price_10k": 84500,
+    "deal_date": "2026-06-06",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 59.2,
+    "floor": 14,
+    "price_10k": 65000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 2,
+    "price_10k": 79500,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 68.86,
+    "floor": 14,
+    "price_10k": 73500,
+    "deal_date": "2026-06-05",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱",
+    "district": "상계동",
+    "area_m2": 59.94,
+    "floor": 2,
+    "price_10k": 55000,
+    "deal_date": "2026-06-01",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 14,
+    "price_10k": 69000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2026-06-05",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 73.94,
+    "floor": 3,
+    "price_10k": 81000,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길성그랑프리텔아파트",
+    "district": "공릉동",
+    "area_m2": 71.848,
+    "floor": 1,
+    "price_10k": 52500,
+    "deal_date": "2026-06-05",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영3",
+    "district": "중계동",
+    "area_m2": 84.9,
+    "floor": 1,
+    "price_10k": 114000,
+    "deal_date": "2026-06-04",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 49.5,
+    "floor": 11,
+    "price_10k": 66000,
+    "deal_date": "2026-06-04",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 10,
+    "price_10k": 45500,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하계2현대",
+    "district": "하계동",
+    "area_m2": 84.51,
+    "floor": 8,
+    "price_10k": 93000,
+    "deal_date": "2026-06-04",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(6차)",
+    "district": "중계동",
+    "area_m2": 59.84,
+    "floor": 19,
+    "price_10k": 53000,
+    "deal_date": "2026-06-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화꿈에그린",
+    "district": "중계동",
+    "area_m2": 84.902,
+    "floor": 11,
+    "price_10k": 86000,
+    "deal_date": "2026-06-04",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 79.07,
+    "floor": 13,
+    "price_10k": 78000,
+    "deal_date": "2026-06-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계현대2",
+    "district": "중계동",
+    "area_m2": 84.34,
+    "floor": 15,
+    "price_10k": 70000,
+    "deal_date": "2026-06-04",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "하계동",
+    "area_m2": 57.97,
+    "floor": 14,
+    "price_10k": 74500,
+    "deal_date": "2026-06-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공1(고층)",
+    "district": "상계동",
+    "area_m2": 59.28,
+    "floor": 14,
+    "price_10k": 65000,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "하계동",
+    "area_m2": 72.17,
+    "floor": 7,
+    "price_10k": 77500,
+    "deal_date": "2026-06-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 91.54,
+    "floor": 6,
+    "price_10k": 95000,
+    "deal_date": "2026-06-04",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 2,
+    "price_10k": 59300,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 5,
+    "price_10k": 67000,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 116500,
+    "deal_date": "2026-06-04",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 59.82,
+    "floor": 9,
+    "price_10k": 64000,
+    "deal_date": "2026-06-04",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 75.81,
+    "floor": 15,
+    "price_10k": 105000,
+    "deal_date": "2026-06-04",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠아쿠아",
+    "district": "중계동",
+    "area_m2": 84.7513,
+    "floor": 7,
+    "price_10k": 85000,
+    "deal_date": "2026-06-04",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 61.52,
+    "floor": 15,
+    "price_10k": 69500,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공10(저층)",
+    "district": "상계동",
+    "area_m2": 54.54,
+    "floor": 2,
+    "price_10k": 62000,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 8,
+    "price_10k": 39200,
+    "deal_date": "2026-06-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 13,
+    "price_10k": 37000,
+    "deal_date": "2026-06-02",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공7",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 12,
+    "price_10k": 38000,
+    "deal_date": "2026-06-04",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 54.59,
+    "floor": 11,
+    "price_10k": 58300,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 91.54,
+    "floor": 8,
+    "price_10k": 96000,
+    "deal_date": "2026-06-03",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 14,
+    "price_10k": 78500,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원상떼빌",
+    "district": "상계동",
+    "area_m2": 114.76,
+    "floor": 14,
+    "price_10k": 40000,
+    "deal_date": "2026-06-04",
+    "build_year": 1999,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "상계주공10(고층)",
+    "district": "상계동",
+    "area_m2": 59.28,
+    "floor": 13,
+    "price_10k": 68000,
+    "deal_date": "2026-06-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 1,
+    "price_10k": 43900,
+    "deal_date": "2026-06-04",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛2단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 9,
+    "price_10k": 44200,
+    "deal_date": "2026-06-03",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 19,
+    "price_10k": 115000,
+    "deal_date": "2026-06-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계신동아",
+    "district": "상계동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 61500,
+    "deal_date": "2026-06-03",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "초안1",
+    "district": "월계동",
+    "area_m2": 59.85,
+    "floor": 12,
+    "price_10k": 37500,
+    "deal_date": "2026-06-03",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 59.94,
+    "floor": 9,
+    "price_10k": 97800,
+    "deal_date": "2026-06-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 4,
+    "price_10k": 46500,
+    "deal_date": "2026-06-03",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동신",
+    "district": "월계동",
+    "area_m2": 70.81,
+    "floor": 10,
+    "price_10k": 87800,
+    "deal_date": "2026-06-03",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 13,
+    "price_10k": 57000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락현대",
+    "district": "상계동",
+    "area_m2": 84.74,
+    "floor": 6,
+    "price_10k": 64000,
+    "deal_date": "2026-06-03",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 1,
+    "price_10k": 45700,
+    "deal_date": "2026-06-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.5,
+    "floor": 10,
+    "price_10k": 72000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 15,
+    "price_10k": 67700,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "하계동",
+    "area_m2": 84.94,
+    "floor": 12,
+    "price_10k": 85000,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공릉동한보에센시티아파트",
+    "district": "공릉동",
+    "area_m2": 59.4,
+    "floor": 6,
+    "price_10k": 60000,
+    "deal_date": "2026-06-03",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 68.99,
+    "floor": 3,
+    "price_10k": 67000,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공6(고층)",
+    "district": "상계동",
+    "area_m2": 38,
+    "floor": 9,
+    "price_10k": 57500,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "월계동",
+    "area_m2": 80.28,
+    "floor": 10,
+    "price_10k": 49000,
+    "deal_date": "2026-06-03",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 4,
+    "price_10k": 43500,
+    "deal_date": "2026-06-03",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계2차중앙하이츠",
+    "district": "상계동",
+    "area_m2": 84.6,
+    "floor": 2,
+    "price_10k": 78000,
+    "deal_date": "2026-06-03",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬루나",
+    "district": "월계동",
+    "area_m2": 59.9927,
+    "floor": 6,
+    "price_10k": 86500,
+    "deal_date": "2026-06-03",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "학여울청구",
+    "district": "하계동",
+    "area_m2": 84.77,
+    "floor": 7,
+    "price_10k": 88000,
+    "deal_date": "2026-06-03",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공14(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 10,
+    "price_10k": 56500,
+    "deal_date": "2026-06-03",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레나노원",
+    "district": "상계동",
+    "area_m2": 84.9728,
+    "floor": 8,
+    "price_10k": 127000,
+    "deal_date": "2026-06-03",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계1차현대아파트",
+    "district": "상계동",
+    "area_m2": 83.92,
+    "floor": 7,
+    "price_10k": 58500,
+    "deal_date": "2026-06-03",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상아",
+    "district": "중계동",
+    "area_m2": 72.73,
+    "floor": 5,
+    "price_10k": 84500,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공8",
+    "district": "중계동",
+    "area_m2": 49.72,
+    "floor": 3,
+    "price_10k": 60000,
+    "deal_date": "2026-06-02",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림아파트A",
+    "district": "공릉동",
+    "area_m2": 84.99,
+    "floor": 17,
+    "price_10k": 90000,
+    "deal_date": "2026-06-03",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 84.97,
+    "floor": 16,
+    "price_10k": 112000,
+    "deal_date": "2026-06-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사슴3",
+    "district": "월계동",
+    "area_m2": 33.18,
+    "floor": 10,
+    "price_10k": 33000,
+    "deal_date": "2026-06-02",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양지마을(대림)1",
+    "district": "중계동",
+    "area_m2": 59.88,
+    "floor": 11,
+    "price_10k": 74500,
+    "deal_date": "2026-06-02",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 13,
+    "price_10k": 35000,
+    "deal_date": "2026-06-02",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공4(고층)",
+    "district": "상계동",
+    "area_m2": 58.01,
+    "floor": 11,
+    "price_10k": 69000,
+    "deal_date": "2026-06-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "월계동",
+    "area_m2": 50.14,
+    "floor": 4,
+    "price_10k": 91000,
+    "deal_date": "2026-06-02",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데(505)",
+    "district": "중계동",
+    "area_m2": 54.48,
+    "floor": 1,
+    "price_10k": 62500,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 59.95,
+    "floor": 6,
+    "price_10k": 50500,
+    "deal_date": "2026-06-02",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔(시영7)",
+    "district": "하계동",
+    "area_m2": 59.46,
+    "floor": 4,
+    "price_10k": 65000,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 38.64,
+    "floor": 9,
+    "price_10k": 39750,
+    "deal_date": "2026-06-02",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 76.51,
+    "floor": 4,
+    "price_10k": 102000,
+    "deal_date": "2026-06-02",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진한화그랑빌",
+    "district": "월계동",
+    "area_m2": 114.97,
+    "floor": 17,
+    "price_10k": 112000,
+    "deal_date": "2026-06-02",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "중계동",
+    "area_m2": 44.94,
+    "floor": 2,
+    "price_10k": 48000,
+    "deal_date": "2026-06-01",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공4",
+    "district": "중계동",
+    "area_m2": 84.79,
+    "floor": 11,
+    "price_10k": 100500,
+    "deal_date": "2026-06-02",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.92,
+    "floor": 14,
+    "price_10k": 47000,
+    "deal_date": "2026-06-02",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공7",
+    "district": "중계동",
+    "area_m2": 44.1,
+    "floor": 3,
+    "price_10k": 37500,
+    "deal_date": "2026-06-01",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공4",
+    "district": "중계동",
+    "area_m2": 59.39,
+    "floor": 5,
+    "price_10k": 67400,
+    "deal_date": "2026-06-02",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불암현대",
+    "district": "상계동",
+    "area_m2": 59.4,
+    "floor": 2,
+    "price_10k": 39500,
+    "deal_date": "2026-06-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 7,
+    "price_10k": 53500,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화꿈에그린",
+    "district": "중계동",
+    "area_m2": 84.902,
+    "floor": 7,
+    "price_10k": 89000,
+    "deal_date": "2026-06-02",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 12,
+    "price_10k": 44000,
+    "deal_date": "2026-06-02",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "중계동",
+    "area_m2": 44.52,
+    "floor": 15,
+    "price_10k": 33800,
+    "deal_date": "2026-06-02",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호3",
+    "district": "월계동",
+    "area_m2": 59.22,
+    "floor": 12,
+    "price_10k": 107000,
+    "deal_date": "2026-06-01",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 39.78,
+    "floor": 2,
+    "price_10k": 54700,
+    "deal_date": "2026-06-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중계그린1단지",
+    "district": "중계동",
+    "area_m2": 39.92,
+    "floor": 15,
+    "price_10k": 48300,
+    "deal_date": "2026-06-02",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공4",
+    "district": "중계동",
+    "area_m2": 76.51,
+    "floor": 2,
+    "price_10k": 81500,
+    "deal_date": "2026-06-01",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공7(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 4,
+    "price_10k": 71500,
+    "deal_date": "2026-06-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람아파트",
+    "district": "상계동",
+    "area_m2": 44.33,
+    "floor": 13,
+    "price_10k": 45000,
+    "deal_date": "2026-06-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공3(고층)",
+    "district": "상계동",
+    "area_m2": 32.39,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2026-06-01",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "중계동",
+    "area_m2": 84.75,
+    "floor": 6,
+    "price_10k": 84000,
+    "deal_date": "2026-06-01",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공9(고층)",
+    "district": "상계동",
+    "area_m2": 49.94,
+    "floor": 2,
+    "price_10k": 59000,
+    "deal_date": "2026-06-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구3",
+    "district": "중계동",
+    "area_m2": 84.77,
+    "floor": 8,
+    "price_10k": 135000,
+    "deal_date": "2026-06-01",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수락파크빌",
+    "district": "상계동",
+    "area_m2": 114.82,
+    "floor": 6,
+    "price_10k": 57000,
+    "deal_date": "2026-06-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공2(저층)",
+    "district": "상계동",
+    "area_m2": 46.04,
+    "floor": 4,
+    "price_10k": 47500,
+    "deal_date": "2026-06-01",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백영아파트",
+    "district": "공릉동",
+    "area_m2": 62.71,
+    "floor": 6,
+    "price_10k": 36000,
+    "deal_date": "2026-06-01",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은빛1단지",
+    "district": "상계동",
+    "area_m2": 49.77,
+    "floor": 11,
+    "price_10k": 44900,
+    "deal_date": "2026-06-01",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(시영6)",
+    "district": "하계동",
+    "area_m2": 49.75,
+    "floor": 14,
+    "price_10k": 71500,
+    "deal_date": "2026-06-01",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신1",
+    "district": "하계동",
+    "area_m2": 27,
+    "floor": 4,
+    "price_10k": 30000,
+    "deal_date": "2026-06-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공11(고층)",
+    "district": "상계동",
+    "area_m2": 41.3,
+    "floor": 9,
+    "price_10k": 48800,
+    "deal_date": "2026-06-01",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상계주공13(고층)",
+    "district": "상계동",
+    "area_m2": 45.9,
+    "floor": 8,
+    "price_10k": 36000,
+    "deal_date": "2026-06-01",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "삼풍",
+    "district": "회현동1가",
+    "area_m2": 69.13,
+    "floor": 9,
+    "price_10k": 44000,
+    "deal_date": "2022-09-20",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다다아파트",
+    "district": "신당동",
+    "area_m2": 59.97,
+    "floor": 1,
+    "price_10k": 23250,
+    "deal_date": "2022-09-23",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼풍",
+    "district": "회현동1가",
+    "area_m2": 69.13,
+    "floor": 9,
+    "price_10k": 44000,
+    "deal_date": "2022-09-20",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 5,
+    "price_10k": 123000,
+    "deal_date": "2022-09-23",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DUO302",
+    "district": "황학동",
+    "area_m2": 15.97,
+    "floor": 9,
+    "price_10k": 15500,
+    "deal_date": "2022-09-19",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 15,
+    "price_10k": 159000,
+    "deal_date": "2022-09-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 118.47,
+    "floor": 4,
+    "price_10k": 182500,
+    "deal_date": "2022-09-02",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 84.95,
+    "floor": 1,
+    "price_10k": 142000,
+    "deal_date": "2022-09-07",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "인현상가/신성아파트",
+    "district": "인현동2가",
+    "area_m2": 41.62,
+    "floor": 8,
+    "price_10k": 25000,
+    "deal_date": "2022-09-23",
+    "build_year": 1968,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우일타운",
+    "district": "흥인동",
+    "area_m2": 114.57,
+    "floor": 13,
+    "price_10k": 78000,
+    "deal_date": "2022-09-01",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이지-빌",
+    "district": "회현동1가",
+    "area_m2": 55.9,
+    "floor": 2,
+    "price_10k": 43000,
+    "deal_date": "2022-09-17",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "골드캐슬Ⅲ",
+    "district": "황학동",
+    "area_m2": 32.75,
+    "floor": 7,
+    "price_10k": 30000,
+    "deal_date": "2022-09-05",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당아르브",
+    "district": "신당동",
+    "area_m2": 18.08,
+    "floor": 6,
+    "price_10k": 16000,
+    "deal_date": "2022-09-05",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양I-Class",
+    "district": "황학동",
+    "area_m2": 16.37,
+    "floor": 17,
+    "price_10k": 13430,
+    "deal_date": "2022-09-02",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  }
+]

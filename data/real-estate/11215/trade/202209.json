@@ -1,0 +1,122 @@
+[
+  {
+    "name": "극동2",
+    "district": "광장동",
+    "area_m2": 156.91,
+    "floor": 9,
+    "price_10k": 230000,
+    "deal_date": "2022-09-17",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광남캐스빌3차",
+    "district": "중곡동",
+    "area_m2": 57.37,
+    "floor": 6,
+    "price_10k": 37000,
+    "deal_date": "2022-09-17",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "아차산한라아파트",
+    "district": "구의동",
+    "area_m2": 74.19,
+    "floor": 6,
+    "price_10k": 72000,
+    "deal_date": "2022-09-07",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "중곡동",
+    "area_m2": 59.82,
+    "floor": 23,
+    "price_10k": 53000,
+    "deal_date": "2022-09-19",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "워커힐",
+    "district": "광장동",
+    "area_m2": 226.54,
+    "floor": 2,
+    "price_10k": 270000,
+    "deal_date": "2022-09-29",
+    "build_year": 1978,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대원리버빌",
+    "district": "자양동",
+    "area_m2": 78.8,
+    "floor": 2,
+    "price_10k": 80700,
+    "deal_date": "2022-09-27",
+    "build_year": 2001,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청구",
+    "district": "광장동",
+    "area_m2": 59.95,
+    "floor": 21,
+    "price_10k": 99000,
+    "deal_date": "2022-09-07",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "일성파크",
+    "district": "군자동",
+    "area_m2": 79.28,
+    "floor": 13,
+    "price_10k": 95000,
+    "deal_date": "2022-09-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 13.83,
+    "floor": 9,
+    "price_10k": 15000,
+    "deal_date": "2022-09-23",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화양타워",
+    "district": "화양동",
+    "area_m2": 105.04,
+    "floor": 11,
+    "price_10k": 74000,
+    "deal_date": "2022-09-14",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이튼타워리버2차",
+    "district": "자양동",
+    "area_m2": 84.73,
+    "floor": 22,
+    "price_10k": 130000,
+    "deal_date": "2022-09-21",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 18.63,
+    "floor": 11,
+    "price_10k": 17000,
+    "deal_date": "2022-09-06",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "아남2",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2022-11-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남2",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2022-11-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남2",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2022-11-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "CS타워",
+    "district": "충신동",
+    "area_m2": 21.94,
+    "floor": 10,
+    "price_10k": 15300,
+    "deal_date": "2022-11-26",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남2",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 4,
+    "price_10k": 90000,
+    "deal_date": "2022-11-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창신쌍용2",
+    "district": "창신동",
+    "area_m2": 54.7,
+    "floor": 9,
+    "price_10k": 59500,
+    "deal_date": "2022-11-19",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이화에수풀",
+    "district": "연건동",
+    "area_m2": 16.98,
+    "floor": 7,
+    "price_10k": 18600,
+    "deal_date": "2022-11-15",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로아인스빌",
+    "district": "숭인동",
+    "area_m2": 12.15,
+    "floor": 14,
+    "price_10k": 12000,
+    "deal_date": "2022-11-28",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "운현신화타워",
+    "district": "익선동",
+    "area_m2": 84.26,
+    "floor": 11,
+    "price_10k": 65000,
+    "deal_date": "2022-11-02",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 17.811,
+    "floor": 13,
+    "price_10k": 12900,
+    "deal_date": "2022-11-05",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성아파트(1동)",
+    "district": "동숭동",
+    "area_m2": 57.96,
+    "floor": 1,
+    "price_10k": 35000,
+    "deal_date": "2022-11-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  }
+]

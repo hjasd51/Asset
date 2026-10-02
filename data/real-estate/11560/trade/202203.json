@@ -1,0 +1,722 @@
+[
+  {
+    "name": "양평한신",
+    "district": "양평동5가",
+    "area_m2": 84.87,
+    "floor": 14,
+    "price_10k": 110000,
+    "deal_date": "2022-03-20",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태승훼밀리",
+    "district": "양평동3가",
+    "area_m2": 84.89,
+    "floor": 9,
+    "price_10k": 95000,
+    "deal_date": "2022-03-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1",
+    "district": "신길동",
+    "area_m2": 64.4,
+    "floor": 9,
+    "price_10k": 98000,
+    "deal_date": "2022-03-31",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프콤비",
+    "district": "여의도동",
+    "area_m2": 122.4,
+    "floor": 22,
+    "price_10k": 169000,
+    "deal_date": "2022-03-22",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2차",
+    "district": "문래동6가",
+    "area_m2": 79.72,
+    "floor": 7,
+    "price_10k": 94500,
+    "deal_date": "2022-03-28",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문래자이",
+    "district": "문래동3가",
+    "area_m2": 84.98,
+    "floor": 17,
+    "price_10k": 158000,
+    "deal_date": "2022-03-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포푸르지오",
+    "district": "영등포동",
+    "area_m2": 79.777,
+    "floor": 23,
+    "price_10k": 121500,
+    "deal_date": "2022-03-30",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1",
+    "district": "신길동",
+    "area_m2": 83.64,
+    "floor": 1,
+    "price_10k": 109500,
+    "deal_date": "2022-03-25",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문래동삼환",
+    "district": "문래동4가",
+    "area_m2": 84.98,
+    "floor": 4,
+    "price_10k": 96000,
+    "deal_date": "2022-03-26",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "대림동",
+    "area_m2": 84.75,
+    "floor": 1,
+    "price_10k": 82000,
+    "deal_date": "2022-03-24",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변래미안",
+    "district": "당산동",
+    "area_m2": 108.15,
+    "floor": 17,
+    "price_10k": 178000,
+    "deal_date": "2022-03-29",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프콤비",
+    "district": "여의도동",
+    "area_m2": 131.6,
+    "floor": 18,
+    "price_10k": 138000,
+    "deal_date": "2022-03-25",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문래자이",
+    "district": "문래동3가",
+    "area_m2": 147.34,
+    "floor": 11,
+    "price_10k": 183000,
+    "deal_date": "2022-03-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양",
+    "district": "여의도동",
+    "area_m2": 149.52,
+    "floor": 4,
+    "price_10k": 258000,
+    "deal_date": "2022-03-29",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "양평동4가",
+    "area_m2": 70.94,
+    "floor": 1,
+    "price_10k": 81000,
+    "deal_date": "2022-03-17",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "내이처해밀",
+    "district": "영등포동1가",
+    "area_m2": 14.24,
+    "floor": 2,
+    "price_10k": 12000,
+    "deal_date": "2022-03-30",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬아이비",
+    "district": "여의도동",
+    "area_m2": 113.59,
+    "floor": 3,
+    "price_10k": 200000,
+    "deal_date": "2022-03-30",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "영등포동7가",
+    "area_m2": 59.9,
+    "floor": 1,
+    "price_10k": 82800,
+    "deal_date": "2022-03-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문래대림",
+    "district": "문래동5가",
+    "area_m2": 59.96,
+    "floor": 16,
+    "price_10k": 77000,
+    "deal_date": "2022-03-14",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산푸르지오",
+    "district": "영등포동8가",
+    "area_m2": 114.51,
+    "floor": 11,
+    "price_10k": 156000,
+    "deal_date": "2022-03-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진로",
+    "district": "당산동1가",
+    "area_m2": 59.4,
+    "floor": 1,
+    "price_10k": 86800,
+    "deal_date": "2022-03-12",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대3차",
+    "district": "대림동",
+    "area_m2": 140.54,
+    "floor": 14,
+    "price_10k": 125000,
+    "deal_date": "2022-03-26",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변래미안",
+    "district": "당산동",
+    "area_m2": 79.05,
+    "floor": 3,
+    "price_10k": 135000,
+    "deal_date": "2022-03-15",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프콤비",
+    "district": "여의도동",
+    "area_m2": 131.6,
+    "floor": 20,
+    "price_10k": 160000,
+    "deal_date": "2022-03-16",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용플래티넘S",
+    "district": "대림동",
+    "area_m2": 18.24,
+    "floor": 10,
+    "price_10k": 12500,
+    "deal_date": "2022-03-28",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신길센트럴자이아파트",
+    "district": "신길동",
+    "area_m2": 59.98,
+    "floor": 23,
+    "price_10k": 135000,
+    "deal_date": "2022-03-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "프리가",
+    "district": "신길동",
+    "area_m2": 13.6,
+    "floor": 14,
+    "price_10k": 13000,
+    "deal_date": "2022-03-31",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울",
+    "district": "신길동",
+    "area_m2": 42.98,
+    "floor": 1,
+    "price_10k": 74720,
+    "deal_date": "2022-03-30",
+    "build_year": 1974,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "당산디오빌",
+    "district": "당산동5가",
+    "area_m2": 28.86,
+    "floor": 8,
+    "price_10k": 36200,
+    "deal_date": "2022-03-13",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브",
+    "district": "영등포동",
+    "area_m2": 114.08,
+    "floor": 10,
+    "price_10k": 124500,
+    "deal_date": "2022-03-19",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "국화맨션",
+    "district": "문래동3가",
+    "area_m2": 118.62,
+    "floor": 15,
+    "price_10k": 134000,
+    "deal_date": "2022-03-18",
+    "build_year": 1983,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "프리가",
+    "district": "신길동",
+    "area_m2": 16.09,
+    "floor": 6,
+    "price_10k": 14800,
+    "deal_date": "2022-03-14",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "훼미리하우스138",
+    "district": "당산동",
+    "area_m2": 14.28,
+    "floor": 13,
+    "price_10k": 12500,
+    "deal_date": "2022-03-05",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "영등포동3가",
+    "area_m2": 13.53,
+    "floor": 5,
+    "price_10k": 11430,
+    "deal_date": "2022-03-28",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬엠파이어",
+    "district": "여의도동",
+    "area_m2": 120.41,
+    "floor": 8,
+    "price_10k": 192000,
+    "deal_date": "2022-03-02",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "휴브리지빌딩",
+    "district": "당산동",
+    "area_m2": 17.11,
+    "floor": 10,
+    "price_10k": 15980,
+    "deal_date": "2022-03-05",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "내이처해밀",
+    "district": "영등포동1가",
+    "area_m2": 14.24,
+    "floor": 9,
+    "price_10k": 12800,
+    "deal_date": "2022-03-07",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산2가현대홈타운",
+    "district": "당산동2가",
+    "area_m2": 82.77,
+    "floor": 7,
+    "price_10k": 118000,
+    "deal_date": "2022-03-05",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "훼미리하우스138",
+    "district": "당산동",
+    "area_m2": 14.28,
+    "floor": 13,
+    "price_10k": 12500,
+    "deal_date": "2022-03-05",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포메이준2011",
+    "district": "영등포동8가",
+    "area_m2": 12.11,
+    "floor": 18,
+    "price_10k": 13500,
+    "deal_date": "2022-03-15",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신대림신동아파밀리에",
+    "district": "대림동",
+    "area_m2": 59.9754,
+    "floor": 8,
+    "price_10k": 87000,
+    "deal_date": "2022-03-15",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산삼성래미안4차",
+    "district": "당산동5가",
+    "area_m2": 161.08,
+    "floor": 11,
+    "price_10k": 195000,
+    "deal_date": "2022-03-21",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포푸르지오",
+    "district": "영등포동",
+    "area_m2": 79.777,
+    "floor": 14,
+    "price_10k": 123000,
+    "deal_date": "2022-03-04",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "영등포동7가",
+    "area_m2": 114.77,
+    "floor": 13,
+    "price_10k": 132000,
+    "deal_date": "2022-03-03",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "영등포동7가",
+    "area_m2": 59.9,
+    "floor": 18,
+    "price_10k": 100700,
+    "deal_date": "2022-03-03",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포그랑그루",
+    "district": "영등포동4가",
+    "area_m2": 12.1,
+    "floor": 6,
+    "price_10k": 14000,
+    "deal_date": "2022-03-21",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산금호어울림",
+    "district": "당산동4가",
+    "area_m2": 84.25,
+    "floor": 4,
+    "price_10k": 129400,
+    "deal_date": "2022-03-17",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "순영웰라이빌",
+    "district": "영등포동",
+    "area_m2": 84.88,
+    "floor": 6,
+    "price_10k": 93500,
+    "deal_date": "2022-03-05",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문래힐스테이트",
+    "district": "문래동3가",
+    "area_m2": 165.18,
+    "floor": 20,
+    "price_10k": 182000,
+    "deal_date": "2022-03-10",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진주",
+    "district": "여의도동",
+    "area_m2": 71.97,
+    "floor": 2,
+    "price_10k": 80000,
+    "deal_date": "2022-03-19",
+    "build_year": 1977,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "내이처해밀",
+    "district": "영등포동1가",
+    "area_m2": 14.24,
+    "floor": 2,
+    "price_10k": 12000,
+    "deal_date": "2022-03-16",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대3차",
+    "district": "대림동",
+    "area_m2": 43.92,
+    "floor": 4,
+    "price_10k": 69500,
+    "deal_date": "2022-03-01",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울",
+    "district": "여의도동",
+    "area_m2": 139.31,
+    "floor": 12,
+    "price_10k": 425000,
+    "deal_date": "2022-03-21",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용플래티넘S",
+    "district": "대림동",
+    "area_m2": 18.24,
+    "floor": 6,
+    "price_10k": 10000,
+    "deal_date": "2022-03-21",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "여의도의아침",
+    "district": "영등포동1가",
+    "area_m2": 12.38,
+    "floor": 4,
+    "price_10k": 15000,
+    "deal_date": "2022-03-22",
+    "build_year": 2012,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "여의도리버뷰",
+    "district": "신길동",
+    "area_m2": 12.96,
+    "floor": 2,
+    "price_10k": 11000,
+    "deal_date": "2022-03-15",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포중흥에스클래스",
+    "district": "양평동1가",
+    "area_m2": 84.95,
+    "floor": 17,
+    "price_10k": 130000,
+    "deal_date": "2022-03-11",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "스테이72여의도",
+    "district": "영등포동1가",
+    "area_m2": 12.05,
+    "floor": 11,
+    "price_10k": 13500,
+    "deal_date": "2022-03-21",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "스테이72여의도",
+    "district": "영등포동1가",
+    "area_m2": 12.05,
+    "floor": 9,
+    "price_10k": 14000,
+    "deal_date": "2022-03-21",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "스테이72여의도",
+    "district": "영등포동1가",
+    "area_m2": 12.4,
+    "floor": 7,
+    "price_10k": 14000,
+    "deal_date": "2022-03-21",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "헤렌어반",
+    "district": "영등포동1가",
+    "area_m2": 12.988,
+    "floor": 5,
+    "price_10k": 11100,
+    "deal_date": "2022-03-18",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산푸르지오",
+    "district": "영등포동8가",
+    "area_m2": 114.51,
+    "floor": 8,
+    "price_10k": 165000,
+    "deal_date": "2022-03-02",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포아트자이",
+    "district": "도림동",
+    "area_m2": 143.591,
+    "floor": 28,
+    "price_10k": 150000,
+    "deal_date": "2022-03-08",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산한양",
+    "district": "당산동3가",
+    "area_m2": 73.87,
+    "floor": 11,
+    "price_10k": 111500,
+    "deal_date": "2022-03-06",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "당산삼성래미안4차",
+    "district": "당산동5가",
+    "area_m2": 161.08,
+    "floor": 11,
+    "price_10k": 195000,
+    "deal_date": "2022-03-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보라매에스케이뷰",
+    "district": "신길동",
+    "area_m2": 84.98,
+    "floor": 18,
+    "price_10k": 159500,
+    "deal_date": "2022-03-13",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양평한신",
+    "district": "양평동5가",
+    "area_m2": 84.87,
+    "floor": 8,
+    "price_10k": 110500,
+    "deal_date": "2022-03-07",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "영등포동3가",
+    "area_m2": 13.53,
+    "floor": 12,
+    "price_10k": 13200,
+    "deal_date": "2022-03-03",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신동아",
+    "district": "대림동",
+    "area_m2": 67.41,
+    "floor": 2,
+    "price_10k": 71500,
+    "deal_date": "2022-03-04",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보라매에스케이뷰",
+    "district": "신길동",
+    "area_m2": 84.98,
+    "floor": 3,
+    "price_10k": 96000,
+    "deal_date": "2022-03-03",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "여의도더리브스타일",
+    "district": "영등포동1가",
+    "area_m2": 14.8376,
+    "floor": 3,
+    "price_10k": 18500,
+    "deal_date": "2022-03-02",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영등포메이준2011",
+    "district": "영등포동8가",
+    "area_m2": 12.11,
+    "floor": 18,
+    "price_10k": 13500,
+    "deal_date": "2022-03-01",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  }
+]

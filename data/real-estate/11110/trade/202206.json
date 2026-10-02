@@ -1,0 +1,112 @@
+[
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 6,
+    "price_10k": 14500,
+    "deal_date": "2022-06-30",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 10,
+    "price_10k": 12000,
+    "deal_date": "2022-06-18",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "창신동",
+    "area_m2": 59.95,
+    "floor": 15,
+    "price_10k": 86000,
+    "deal_date": "2022-06-24",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 14.69,
+    "floor": 6,
+    "price_10k": 14500,
+    "deal_date": "2022-06-23",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "효제동",
+    "area_m2": 16.672,
+    "floor": 5,
+    "price_10k": 17900,
+    "deal_date": "2022-06-09",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "교북동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 80000,
+    "deal_date": "2022-06-16",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 17.811,
+    "floor": 14,
+    "price_10k": 13000,
+    "deal_date": "2022-06-17",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 48.54,
+    "floor": 3,
+    "price_10k": 38000,
+    "deal_date": "2022-06-14",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송림아마레스아파트",
+    "district": "명륜1가",
+    "area_m2": 84.81,
+    "floor": 2,
+    "price_10k": 69000,
+    "deal_date": "2022-06-09",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광화문스페이스본(101동~105동)",
+    "district": "사직동",
+    "area_m2": 158.99,
+    "floor": 8,
+    "price_10k": 185000,
+    "deal_date": "2022-06-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 6,
+    "price_10k": 15100,
+    "deal_date": "2022-06-15",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  }
+]

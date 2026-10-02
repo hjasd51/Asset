@@ -1,0 +1,1132 @@
+[
+  {
+    "name": "한화오벨리스크",
+    "district": "도화동",
+    "area_m2": 39.91,
+    "floor": 3,
+    "price_10k": 59000,
+    "deal_date": "2026-08-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안공덕5차",
+    "district": "공덕동",
+    "area_m2": 59.959,
+    "floor": 5,
+    "price_10k": 204000,
+    "deal_date": "2026-08-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오1단지",
+    "district": "아현동",
+    "area_m2": 59.9236,
+    "floor": 4,
+    "price_10k": 185000,
+    "deal_date": "2026-08-25",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "성사1차풍림아파트101동",
+    "district": "성산동",
+    "area_m2": 59.85,
+    "floor": 4,
+    "price_10k": 83000,
+    "deal_date": "2026-08-20",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대흥동태영아파트",
+    "district": "대흥동",
+    "area_m2": 59.4,
+    "floor": 19,
+    "price_10k": 169000,
+    "deal_date": "2026-08-14",
+    "build_year": 1999,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "월드컵아이파크(666-0)",
+    "district": "성산동",
+    "area_m2": 84.15,
+    "floor": 12,
+    "price_10k": 124000,
+    "deal_date": "2026-08-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트마포더퍼스트",
+    "district": "신수동",
+    "area_m2": 84.07,
+    "floor": 11,
+    "price_10k": 169000,
+    "deal_date": "2026-08-14",
+    "build_year": 2026,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "성산시영(대우)",
+    "district": "성산동",
+    "area_m2": 50.03,
+    "floor": 2,
+    "price_10k": 144000,
+    "deal_date": "2026-08-05",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠104동",
+    "district": "창전동",
+    "area_m2": 47.01,
+    "floor": 2,
+    "price_10k": 54800,
+    "deal_date": "2026-08-31",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오4단지",
+    "district": "아현동",
+    "area_m2": 59.9656,
+    "floor": 2,
+    "price_10k": 202000,
+    "deal_date": "2026-08-28",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오4단지",
+    "district": "아현동",
+    "area_m2": 59.9656,
+    "floor": 2,
+    "price_10k": 202000,
+    "deal_date": "2026-08-28",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포자이",
+    "district": "염리동",
+    "area_m2": 113.803,
+    "floor": 19,
+    "price_10k": 288500,
+    "deal_date": "2026-08-19",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "도화동",
+    "area_m2": 79.97,
+    "floor": 11,
+    "price_10k": 183000,
+    "deal_date": "2026-08-06",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 160000,
+    "deal_date": "2026-08-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포아이파크포레",
+    "district": "신수동",
+    "area_m2": 84.912,
+    "floor": 13,
+    "price_10k": 240000,
+    "deal_date": "2026-08-26",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포한강2차푸르지오",
+    "district": "합정동",
+    "area_m2": 83.45,
+    "floor": 4,
+    "price_10k": 188000,
+    "deal_date": "2026-08-29",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공덕2삼성래미안",
+    "district": "공덕동",
+    "area_m2": 59.97,
+    "floor": 10,
+    "price_10k": 179500,
+    "deal_date": "2026-08-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포현대",
+    "district": "공덕동",
+    "area_m2": 59.95,
+    "floor": 1,
+    "price_10k": 148000,
+    "deal_date": "2026-08-28",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안마포리버웰",
+    "district": "용강동",
+    "area_m2": 84.98,
+    "floor": 3,
+    "price_10k": 250000,
+    "deal_date": "2026-08-29",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공덕2삼성래미안",
+    "district": "공덕동",
+    "area_m2": 84.94,
+    "floor": 17,
+    "price_10k": 201500,
+    "deal_date": "2026-08-29",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크9단지",
+    "district": "상암동",
+    "area_m2": 84.66,
+    "floor": 11,
+    "price_10k": 118000,
+    "deal_date": "2026-08-12",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성지",
+    "district": "도화동",
+    "area_m2": 163.68,
+    "floor": 14,
+    "price_10k": 141000,
+    "deal_date": "2026-08-07",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크6단지",
+    "district": "상암동",
+    "area_m2": 104.32,
+    "floor": 13,
+    "price_10k": 170000,
+    "deal_date": "2026-08-11",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신공덕래미안2차",
+    "district": "신공덕동",
+    "area_m2": 114.5,
+    "floor": 17,
+    "price_10k": 185000,
+    "deal_date": "2026-08-19",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화오벨리스크",
+    "district": "도화동",
+    "area_m2": 79.9,
+    "floor": 22,
+    "price_10k": 155000,
+    "deal_date": "2026-08-29",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크7단지",
+    "district": "상암동",
+    "area_m2": 84.74,
+    "floor": 7,
+    "price_10k": 136000,
+    "deal_date": "2026-08-30",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크9단지",
+    "district": "상암동",
+    "area_m2": 84.89,
+    "floor": 15,
+    "price_10k": 118500,
+    "deal_date": "2026-08-28",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 160000,
+    "deal_date": "2026-08-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메세나폴리스",
+    "district": "서교동",
+    "area_m2": 142.034,
+    "floor": 13,
+    "price_10k": 250000,
+    "deal_date": "2026-08-28",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "도화동",
+    "area_m2": 68.94,
+    "floor": 7,
+    "price_10k": 169000,
+    "deal_date": "2026-08-27",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오2단지",
+    "district": "아현동",
+    "area_m2": 84.3884,
+    "floor": 12,
+    "price_10k": 261000,
+    "deal_date": "2026-08-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노아아크빌",
+    "district": "망원동",
+    "area_m2": 106.2,
+    "floor": 5,
+    "price_10k": 95000,
+    "deal_date": "2026-08-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안공덕5차",
+    "district": "공덕동",
+    "area_m2": 59.959,
+    "floor": 5,
+    "price_10k": 204000,
+    "deal_date": "2026-08-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두영이지안102동",
+    "district": "합정동",
+    "area_m2": 84.876,
+    "floor": 8,
+    "price_10k": 105000,
+    "deal_date": "2026-08-21",
+    "build_year": 2007,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "성산월드타운대림",
+    "district": "성산동",
+    "area_m2": 117.898,
+    "floor": 13,
+    "price_10k": 142000,
+    "deal_date": "2026-08-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포푸르지오더센트럴",
+    "district": "아현동",
+    "area_m2": 31.59,
+    "floor": 12,
+    "price_10k": 60000,
+    "deal_date": "2026-08-27",
+    "build_year": 2023,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청기와",
+    "district": "연남동",
+    "area_m2": 70.6,
+    "floor": 5,
+    "price_10k": 82800,
+    "deal_date": "2026-08-14",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안웰스트림",
+    "district": "현석동",
+    "area_m2": 114.98,
+    "floor": 14,
+    "price_10k": 294000,
+    "deal_date": "2026-08-24",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "밤섬경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.83,
+    "floor": 7,
+    "price_10k": 184000,
+    "deal_date": "2026-08-08",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포아이파크포레",
+    "district": "신수동",
+    "area_m2": 84.932,
+    "floor": 24,
+    "price_10k": 250000,
+    "deal_date": "2026-08-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "만민하늘애",
+    "district": "성산동",
+    "area_m2": 53.61,
+    "floor": 11,
+    "price_10k": 81000,
+    "deal_date": "2026-08-20",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트마포더퍼스트",
+    "district": "신수동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 162000,
+    "deal_date": "2026-08-13",
+    "build_year": 2026,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영화블렌하임",
+    "district": "망원동",
+    "area_m2": 107.33,
+    "floor": 11,
+    "price_10k": 66000,
+    "deal_date": "2026-08-21",
+    "build_year": 2009,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "미원2",
+    "district": "망원동",
+    "area_m2": 79.74,
+    "floor": 6,
+    "price_10k": 82000,
+    "deal_date": "2026-08-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "솔루체",
+    "district": "망원동",
+    "area_m2": 54.19,
+    "floor": 4,
+    "price_10k": 68700,
+    "deal_date": "2026-08-17",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포프레스티지자이",
+    "district": "염리동",
+    "area_m2": 59.8772,
+    "floor": 12,
+    "price_10k": 235000,
+    "deal_date": "2026-08-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서희스타힐스",
+    "district": "대흥동",
+    "area_m2": 12.81,
+    "floor": 12,
+    "price_10k": 18500,
+    "deal_date": "2026-08-22",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오2단지",
+    "district": "아현동",
+    "area_m2": 59.9656,
+    "floor": 2,
+    "price_10k": 195000,
+    "deal_date": "2026-08-22",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신공덕래미안3차",
+    "district": "신공덕동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 161000,
+    "deal_date": "2026-08-22",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라인성서",
+    "district": "성산동",
+    "area_m2": 78.9,
+    "floor": 5,
+    "price_10k": 71500,
+    "deal_date": "2026-08-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크5단지",
+    "district": "상암동",
+    "area_m2": 84.75,
+    "floor": 17,
+    "price_10k": 160000,
+    "deal_date": "2026-08-21",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포현대",
+    "district": "공덕동",
+    "area_m2": 59.95,
+    "floor": 4,
+    "price_10k": 150000,
+    "deal_date": "2026-08-21",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화오벨리스크",
+    "district": "도화동",
+    "area_m2": 36.49,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2026-08-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강2차대주피오레",
+    "district": "망원동",
+    "area_m2": 99.16,
+    "floor": 8,
+    "price_10k": 147000,
+    "deal_date": "2026-08-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크7단지",
+    "district": "상암동",
+    "area_m2": 84.9,
+    "floor": 10,
+    "price_10k": 138500,
+    "deal_date": "2026-08-21",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포용강삼성래미안",
+    "district": "용강동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 184000,
+    "deal_date": "2026-08-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "빌리브디에이블",
+    "district": "노고산동",
+    "area_m2": 38.39,
+    "floor": 18,
+    "price_10k": 78800,
+    "deal_date": "2026-08-18",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원2",
+    "district": "망원동",
+    "area_m2": 114.74,
+    "floor": 10,
+    "price_10k": 126000,
+    "deal_date": "2026-08-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강삼성",
+    "district": "토정동",
+    "area_m2": 59.97,
+    "floor": 27,
+    "price_10k": 190000,
+    "deal_date": "2026-08-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우미래사랑",
+    "district": "서교동",
+    "area_m2": 57.36,
+    "floor": 5,
+    "price_10k": 62300,
+    "deal_date": "2026-08-20",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원2",
+    "district": "망원동",
+    "area_m2": 114.74,
+    "floor": 9,
+    "price_10k": 118000,
+    "deal_date": "2026-08-05",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성신",
+    "district": "망원동",
+    "area_m2": 48.3,
+    "floor": 3,
+    "price_10k": 43800,
+    "deal_date": "2026-08-05",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크9단지",
+    "district": "상암동",
+    "area_m2": 84.66,
+    "floor": 3,
+    "price_10k": 117000,
+    "deal_date": "2026-08-08",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크6단지",
+    "district": "상암동",
+    "area_m2": 104.32,
+    "floor": 14,
+    "price_10k": 159500,
+    "deal_date": "2026-08-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신부3차파스카",
+    "district": "망원동",
+    "area_m2": 83.95,
+    "floor": 8,
+    "price_10k": 88000,
+    "deal_date": "2026-08-18",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포월드컵제이스카이",
+    "district": "망원동",
+    "area_m2": 59.97,
+    "floor": 4,
+    "price_10k": 85000,
+    "deal_date": "2026-08-01",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우미래사랑",
+    "district": "서교동",
+    "area_m2": 34.29,
+    "floor": 9,
+    "price_10k": 31400,
+    "deal_date": "2026-08-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "도화동",
+    "area_m2": 84.95,
+    "floor": 20,
+    "price_10k": 180000,
+    "deal_date": "2026-08-18",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "도화동",
+    "area_m2": 113.25,
+    "floor": 18,
+    "price_10k": 180000,
+    "deal_date": "2026-08-14",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "밤섬경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.83,
+    "floor": 4,
+    "price_10k": 181500,
+    "deal_date": "2026-08-18",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월드컵아이파크(667)",
+    "district": "성산동",
+    "area_m2": 59.73,
+    "floor": 3,
+    "price_10k": 120000,
+    "deal_date": "2026-08-17",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대흥동태영아파트",
+    "district": "대흥동",
+    "area_m2": 84.77,
+    "floor": 16,
+    "price_10k": 214000,
+    "deal_date": "2026-08-15",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산동자담이움아파트",
+    "district": "성산동",
+    "area_m2": 84.82,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2026-08-14",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안밤섬리베뉴Ⅱ",
+    "district": "상수동",
+    "area_m2": 122.87,
+    "floor": 14,
+    "price_10k": 260000,
+    "deal_date": "2026-08-14",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도화동현대",
+    "district": "도화동",
+    "area_m2": 68.22,
+    "floor": 11,
+    "price_10k": 170000,
+    "deal_date": "2026-08-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대벤처빌",
+    "district": "노고산동",
+    "area_m2": 25.42,
+    "floor": 16,
+    "price_10k": 24400,
+    "deal_date": "2026-08-01",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크7단지",
+    "district": "상암동",
+    "area_m2": 104.77,
+    "floor": 11,
+    "price_10k": 150000,
+    "deal_date": "2026-08-13",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화오벨리스크",
+    "district": "도화동",
+    "area_m2": 38.08,
+    "floor": 3,
+    "price_10k": 57600,
+    "deal_date": "2026-08-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "도화동",
+    "area_m2": 84.95,
+    "floor": 12,
+    "price_10k": 181500,
+    "deal_date": "2026-08-12",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "코오롱",
+    "district": "연남동",
+    "area_m2": 59.76,
+    "floor": 2,
+    "price_10k": 110000,
+    "deal_date": "2026-08-05",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산시영(대우)",
+    "district": "성산동",
+    "area_m2": 50.03,
+    "floor": 8,
+    "price_10k": 153850,
+    "deal_date": "2026-08-11",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산월드타운대림",
+    "district": "성산동",
+    "area_m2": 84.549,
+    "floor": 21,
+    "price_10k": 123700,
+    "deal_date": "2026-08-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포용강삼성래미안",
+    "district": "용강동",
+    "area_m2": 84.2,
+    "floor": 13,
+    "price_10k": 231000,
+    "deal_date": "2026-08-11",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포중동현대",
+    "district": "중동",
+    "area_m2": 59.88,
+    "floor": 12,
+    "price_10k": 111700,
+    "deal_date": "2026-08-07",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미(466-0)",
+    "district": "합정동",
+    "area_m2": 78.22,
+    "floor": 1,
+    "price_10k": 81800,
+    "deal_date": "2026-08-01",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산시영(대우)",
+    "district": "성산동",
+    "area_m2": 50.03,
+    "floor": 2,
+    "price_10k": 144000,
+    "deal_date": "2026-08-05",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리츠",
+    "district": "망원동",
+    "area_m2": 53.65,
+    "floor": 3,
+    "price_10k": 64700,
+    "deal_date": "2026-08-08",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광남벨라스(1차)",
+    "district": "서교동",
+    "area_m2": 84.46,
+    "floor": 5,
+    "price_10k": 88700,
+    "deal_date": "2026-08-03",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 162000,
+    "deal_date": "2026-08-10",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도화동현대",
+    "district": "도화동",
+    "area_m2": 54.72,
+    "floor": 8,
+    "price_10k": 150000,
+    "deal_date": "2026-08-10",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더클래시",
+    "district": "아현동",
+    "area_m2": 84.94,
+    "floor": 6,
+    "price_10k": 255000,
+    "deal_date": "2026-08-10",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포아이파크포레",
+    "district": "신수동",
+    "area_m2": 84.901,
+    "floor": 11,
+    "price_10k": 249500,
+    "deal_date": "2026-08-10",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림2",
+    "district": "망원동",
+    "area_m2": 84.73,
+    "floor": 5,
+    "price_10k": 134000,
+    "deal_date": "2026-08-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포한강제이스카이",
+    "district": "망원동",
+    "area_m2": 49.738,
+    "floor": 6,
+    "price_10k": 72000,
+    "deal_date": "2026-08-08",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중동계룡아파트",
+    "district": "중동",
+    "area_m2": 84.6,
+    "floor": 11,
+    "price_10k": 117500,
+    "deal_date": "2026-08-08",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포한강제이스카이",
+    "district": "망원동",
+    "area_m2": 31.524,
+    "floor": 9,
+    "price_10k": 40000,
+    "deal_date": "2026-08-08",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크5단지",
+    "district": "상암동",
+    "area_m2": 84.73,
+    "floor": 10,
+    "price_10k": 155000,
+    "deal_date": "2026-08-07",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태경크레앙스(101동)",
+    "district": "망원동",
+    "area_m2": 80.67,
+    "floor": 3,
+    "price_10k": 91000,
+    "deal_date": "2026-08-08",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠104동",
+    "district": "창전동",
+    "area_m2": 47.01,
+    "floor": 1,
+    "price_10k": 47500,
+    "deal_date": "2026-08-07",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상록",
+    "district": "염리동",
+    "area_m2": 49.02,
+    "floor": 7,
+    "price_10k": 120000,
+    "deal_date": "2026-08-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크5단지",
+    "district": "상암동",
+    "area_m2": 104.69,
+    "floor": 16,
+    "price_10k": 154000,
+    "deal_date": "2026-08-07",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신촌삼익",
+    "district": "신수동",
+    "area_m2": 59.85,
+    "floor": 8,
+    "price_10k": 145000,
+    "deal_date": "2026-08-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "도화동",
+    "area_m2": 79.97,
+    "floor": 11,
+    "price_10k": 183000,
+    "deal_date": "2026-08-06",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "공덕SK리더스뷰",
+    "district": "공덕동",
+    "area_m2": 84.94,
+    "floor": 12,
+    "price_10k": 250000,
+    "deal_date": "2026-08-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크9단지",
+    "district": "상암동",
+    "area_m2": 84.94,
+    "floor": 14,
+    "price_10k": 115000,
+    "deal_date": "2026-08-05",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산솔렌스힐",
+    "district": "신수동",
+    "area_m2": 84.9854,
+    "floor": 8,
+    "price_10k": 150000,
+    "deal_date": "2026-08-04",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크4단지",
+    "district": "상암동",
+    "area_m2": 84.76,
+    "floor": 19,
+    "price_10k": 175000,
+    "deal_date": "2026-08-04",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "염리삼성래미안",
+    "district": "염리동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 207000,
+    "deal_date": "2026-08-04",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포용강삼성래미안",
+    "district": "용강동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 188000,
+    "deal_date": "2026-08-03",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "도화동",
+    "area_m2": 128.315,
+    "floor": 4,
+    "price_10k": 195000,
+    "deal_date": "2026-08-03",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신촌태영데시앙",
+    "district": "창전동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 163000,
+    "deal_date": "2026-08-02",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포자이더센트리지(102동~112동)",
+    "district": "염리동",
+    "area_m2": 84.987,
+    "floor": 10,
+    "price_10k": 234000,
+    "deal_date": "2026-08-01",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상록",
+    "district": "염리동",
+    "area_m2": 58.71,
+    "floor": 4,
+    "price_10k": 130000,
+    "deal_date": "2026-08-01",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  }
+]

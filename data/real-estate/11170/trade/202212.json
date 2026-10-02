@@ -1,0 +1,102 @@
+[
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 114.595,
+    "floor": 15,
+    "price_10k": 215000,
+    "deal_date": "2022-12-30",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버빌(삼성)",
+    "district": "보광동",
+    "area_m2": 59.7,
+    "floor": 4,
+    "price_10k": 100000,
+    "deal_date": "2022-12-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안용산더센트럴",
+    "district": "한강로2가",
+    "area_m2": 135.27,
+    "floor": 37,
+    "price_10k": 350000,
+    "deal_date": "2022-12-13",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미1",
+    "district": "한남동",
+    "area_m2": 66.28,
+    "floor": 4,
+    "price_10k": 169000,
+    "deal_date": "2022-12-15",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강타운",
+    "district": "산천동",
+    "area_m2": 59.69,
+    "floor": 12,
+    "price_10k": 90000,
+    "deal_date": "2022-12-10",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "후암미주",
+    "district": "후암동",
+    "area_m2": 62.78,
+    "floor": 5,
+    "price_10k": 105000,
+    "deal_date": "2022-12-10",
+    "build_year": 1980,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부센트레빌",
+    "district": "이촌동",
+    "area_m2": 100.92,
+    "floor": 19,
+    "price_10k": 210000,
+    "deal_date": "2022-12-14",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변삼성스위트",
+    "district": "원효로4가",
+    "area_m2": 59.94,
+    "floor": 15,
+    "price_10k": 130000,
+    "deal_date": "2022-12-29",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산파크자이",
+    "district": "한강로1가",
+    "area_m2": 123.12,
+    "floor": 8,
+    "price_10k": 156000,
+    "deal_date": "2022-12-22",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "CJ나인파크",
+    "district": "문배동",
+    "area_m2": 97.24,
+    "floor": 4,
+    "price_10k": 134000,
+    "deal_date": "2022-12-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  }
+]

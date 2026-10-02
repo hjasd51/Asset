@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "현대한강",
+    "district": "이촌동",
+    "area_m2": 84.88,
+    "floor": 8,
+    "price_10k": 208000,
+    "deal_date": "2025-08-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 84.82,
+    "floor": 7,
+    "price_10k": 170000,
+    "deal_date": "2025-08-17",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대하이페리온",
+    "district": "한남동",
+    "area_m2": 203.76,
+    "floor": 12,
+    "price_10k": 500000,
+    "deal_date": "2025-08-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시범",
+    "district": "한남동",
+    "area_m2": 69.42,
+    "floor": 3,
+    "price_10k": 119000,
+    "deal_date": "2025-08-11",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산롯데캐슬센터포레",
+    "district": "효창동",
+    "area_m2": 59.79,
+    "floor": 14,
+    "price_10k": 183000,
+    "deal_date": "2025-08-24",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 59.55,
+    "floor": 17,
+    "price_10k": 140000,
+    "deal_date": "2025-08-15",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "이촌동",
+    "area_m2": 66.08,
+    "floor": -1,
+    "price_10k": 92000,
+    "deal_date": "2025-08-24",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산더프라임",
+    "district": "원효로1가",
+    "area_m2": 114.218,
+    "floor": 33,
+    "price_10k": 210000,
+    "deal_date": "2025-08-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산파크타워(24-1)",
+    "district": "용산동5가",
+    "area_m2": 205.29,
+    "floor": 34,
+    "price_10k": 650000,
+    "deal_date": "2025-08-29",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 59.58,
+    "floor": 16,
+    "price_10k": 160000,
+    "deal_date": "2025-08-19",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "이촌동",
+    "area_m2": 66.08,
+    "floor": 2,
+    "price_10k": 105000,
+    "deal_date": "2025-08-24",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강맨숀",
+    "district": "이촌동",
+    "area_m2": 87.54,
+    "floor": 4,
+    "price_10k": 439940,
+    "deal_date": "2025-08-22",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 84.82,
+    "floor": 7,
+    "price_10k": 170000,
+    "deal_date": "2025-08-17",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "이촌동",
+    "area_m2": 66.08,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2025-08-17",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "브라운스톤남산",
+    "district": "후암동",
+    "area_m2": 166.56,
+    "floor": 2,
+    "price_10k": 205000,
+    "deal_date": "2025-08-31",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정우",
+    "district": "이촌동",
+    "area_m2": 317.36,
+    "floor": 8,
+    "price_10k": 200000,
+    "deal_date": "2025-08-29",
+    "build_year": 1972,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시범",
+    "district": "한남동",
+    "area_m2": 69.42,
+    "floor": 2,
+    "price_10k": 105000,
+    "deal_date": "2025-08-28",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센트레빌아스테리움서울",
+    "district": "동자동",
+    "area_m2": 131.05,
+    "floor": 23,
+    "price_10k": 178000,
+    "deal_date": "2025-08-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정우",
+    "district": "이촌동",
+    "area_m2": 317.36,
+    "floor": 8,
+    "price_10k": 200000,
+    "deal_date": "2025-08-29",
+    "build_year": 1972,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산소미글로벌리버파크",
+    "district": "원효로3가",
+    "area_m2": 22.98,
+    "floor": 16,
+    "price_10k": 59500,
+    "deal_date": "2025-08-14",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성아1",
+    "district": "한남동",
+    "area_m2": 91.11,
+    "floor": 7,
+    "price_10k": 94000,
+    "deal_date": "2025-08-12",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이안용산프리미어",
+    "district": "문배동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 138500,
+    "deal_date": "2025-08-16",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 48.4109,
+    "floor": 11,
+    "price_10k": 81500,
+    "deal_date": "2025-08-15",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강로대우아이빌",
+    "district": "한강로2가",
+    "area_m2": 32.39,
+    "floor": 14,
+    "price_10k": 38000,
+    "deal_date": "2025-08-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 12,
+    "price_10k": 97000,
+    "deal_date": "2025-08-29",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우월드마크용산",
+    "district": "한강로1가",
+    "area_m2": 133.085,
+    "floor": 11,
+    "price_10k": 210000,
+    "deal_date": "2025-08-11",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "예빌리지",
+    "district": "후암동",
+    "area_m2": 110.94,
+    "floor": 5,
+    "price_10k": 136000,
+    "deal_date": "2025-08-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우월드마크용산",
+    "district": "한강로1가",
+    "area_m2": 107.626,
+    "floor": 22,
+    "price_10k": 200000,
+    "deal_date": "2025-08-27",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산파크자이",
+    "district": "한강로1가",
+    "area_m2": 162.04,
+    "floor": 9,
+    "price_10k": 250000,
+    "deal_date": "2025-08-20",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한성1",
+    "district": "한남동",
+    "area_m2": 31.7,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2025-08-21",
+    "build_year": 1974,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호베스트빌1",
+    "district": "서빙고동",
+    "area_m2": 84.95,
+    "floor": 2,
+    "price_10k": 165000,
+    "deal_date": "2025-08-15",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산데시앙포레",
+    "district": "효창동",
+    "area_m2": 84.9003,
+    "floor": 2,
+    "price_10k": 154000,
+    "deal_date": "2025-08-26",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로타워",
+    "district": "문배동",
+    "area_m2": 126.3,
+    "floor": 10,
+    "price_10k": 172000,
+    "deal_date": "2025-08-29",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 59.88,
+    "floor": 18,
+    "price_10k": 227000,
+    "deal_date": "2025-08-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 114.48,
+    "floor": 10,
+    "price_10k": 176500,
+    "deal_date": "2025-08-30",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우림필유",
+    "district": "한강로3가",
+    "area_m2": 84.99,
+    "floor": 1,
+    "price_10k": 170000,
+    "deal_date": "2025-08-29",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "나인원한남",
+    "district": "한남동",
+    "area_m2": 244.3478,
+    "floor": 5,
+    "price_10k": 1670000,
+    "deal_date": "2025-08-05",
+    "build_year": 2019,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "시범(중산1차)",
+    "district": "이촌동",
+    "area_m2": 59.5,
+    "floor": 2,
+    "price_10k": 106000,
+    "deal_date": "2025-08-17",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 149500,
+    "deal_date": "2025-08-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시티파크(2단지)",
+    "district": "한강로3가",
+    "area_m2": 145.87,
+    "floor": 19,
+    "price_10k": 439000,
+    "deal_date": "2025-08-25",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "G&P용산파크",
+    "district": "문배동",
+    "area_m2": 29.32,
+    "floor": 14,
+    "price_10k": 52200,
+    "deal_date": "2025-08-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "브라운스톤",
+    "district": "용문동",
+    "area_m2": 114.93,
+    "floor": 3,
+    "price_10k": 155000,
+    "deal_date": "2025-08-23",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리첸시아용산B",
+    "district": "문배동",
+    "area_m2": 145.75,
+    "floor": 19,
+    "price_10k": 205000,
+    "deal_date": "2025-08-11",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 66.39,
+    "floor": 17,
+    "price_10k": 267500,
+    "deal_date": "2025-08-23",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시티파크(2단지)",
+    "district": "한강로3가",
+    "area_m2": 145.87,
+    "floor": 12,
+    "price_10k": 426000,
+    "deal_date": "2025-08-25",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산시티파크(1단지)",
+    "district": "한강로3가",
+    "area_m2": 181.89,
+    "floor": 11,
+    "price_10k": 383000,
+    "deal_date": "2025-08-11",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대맨숀",
+    "district": "이촌동",
+    "area_m2": 173.16,
+    "floor": 8,
+    "price_10k": 394998,
+    "deal_date": "2025-08-14",
+    "build_year": 1974,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "나인원한남",
+    "district": "한남동",
+    "area_m2": 244.3478,
+    "floor": 4,
+    "price_10k": 1600000,
+    "deal_date": "2025-08-08",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센트럴파크",
+    "district": "한강로1가",
+    "area_m2": 29.87,
+    "floor": 4,
+    "price_10k": 68000,
+    "deal_date": "2025-08-02",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센트럴파크",
+    "district": "한강로1가",
+    "area_m2": 28.38,
+    "floor": 2,
+    "price_10k": 68000,
+    "deal_date": "2025-08-02",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산더프라임",
+    "district": "원효로1가",
+    "area_m2": 114.218,
+    "floor": 33,
+    "price_10k": 210000,
+    "deal_date": "2025-08-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센트럴파크",
+    "district": "한강로1가",
+    "area_m2": 28.94,
+    "floor": 3,
+    "price_10k": 68000,
+    "deal_date": "2025-08-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산롯데캐슬센터포레",
+    "district": "효창동",
+    "area_m2": 59.79,
+    "floor": 14,
+    "price_10k": 183000,
+    "deal_date": "2025-08-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 84.77,
+    "floor": 6,
+    "price_10k": 268000,
+    "deal_date": "2025-08-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 59.98,
+    "floor": 6,
+    "price_10k": 125000,
+    "deal_date": "2025-08-16",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 59.55,
+    "floor": 10,
+    "price_10k": 130500,
+    "deal_date": "2025-08-15",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산대림",
+    "district": "이태원동",
+    "area_m2": 59.92,
+    "floor": 5,
+    "price_10k": 155000,
+    "deal_date": "2025-08-14",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로타워",
+    "district": "문배동",
+    "area_m2": 126.3,
+    "floor": 3,
+    "price_10k": 168000,
+    "deal_date": "2025-08-01",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "CJ나인파크",
+    "district": "문배동",
+    "area_m2": 123.47,
+    "floor": 8,
+    "price_10k": 168500,
+    "deal_date": "2025-08-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "이촌동",
+    "area_m2": 104.86,
+    "floor": 7,
+    "price_10k": 290000,
+    "deal_date": "2025-08-13",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "로얄맨숀",
+    "district": "이촌동",
+    "area_m2": 186.12,
+    "floor": 5,
+    "price_10k": 280000,
+    "deal_date": "2025-08-12",
+    "build_year": 1972,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효창맨션",
+    "district": "효창동",
+    "area_m2": 73.06,
+    "floor": 8,
+    "price_10k": 52350,
+    "deal_date": "2025-08-12",
+    "build_year": 1969,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 133.78,
+    "floor": 7,
+    "price_10k": 410000,
+    "deal_date": "2025-08-09",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 84.82,
+    "floor": 17,
+    "price_10k": 168000,
+    "deal_date": "2025-08-12",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산파크타워(24-0)",
+    "district": "용산동5가",
+    "area_m2": 124.8,
+    "floor": 21,
+    "price_10k": 345000,
+    "deal_date": "2025-08-12",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이촌코오롱(A)",
+    "district": "이촌동",
+    "area_m2": 59.82,
+    "floor": 2,
+    "price_10k": 200000,
+    "deal_date": "2025-08-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시범",
+    "district": "한남동",
+    "area_m2": 69.42,
+    "floor": 3,
+    "price_10k": 119000,
+    "deal_date": "2025-08-11",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "서빙고동",
+    "area_m2": 210.25,
+    "floor": 2,
+    "price_10k": 400000,
+    "deal_date": "2025-08-05",
+    "build_year": 1984,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 43.02,
+    "floor": 9,
+    "price_10k": 115000,
+    "deal_date": "2025-08-09",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산메가트리움",
+    "district": "한강로2가",
+    "area_m2": 84.87,
+    "floor": 10,
+    "price_10k": 160000,
+    "deal_date": "2025-08-09",
+    "build_year": 2005,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "용산더프라임",
+    "district": "원효로1가",
+    "area_m2": 114.218,
+    "floor": 33,
+    "price_10k": 210000,
+    "deal_date": "2025-08-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산케이씨씨스위첸",
+    "district": "효창동",
+    "area_m2": 84.92,
+    "floor": 9,
+    "price_10k": 189000,
+    "deal_date": "2025-08-07",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성아1",
+    "district": "한남동",
+    "area_m2": 98.38,
+    "floor": 5,
+    "price_10k": 85000,
+    "deal_date": "2025-08-07",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청화1",
+    "district": "이태원동",
+    "area_m2": 105.72,
+    "floor": 8,
+    "price_10k": 311000,
+    "deal_date": "2025-08-04",
+    "build_year": 1982,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 1,
+    "price_10k": 37850,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 1,
+    "price_10k": 38300,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 1,
+    "price_10k": 39000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 1,
+    "price_10k": 42250,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 1,
+    "price_10k": 42750,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 1,
+    "price_10k": 42950,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 1,
+    "price_10k": 43900,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 2,
+    "price_10k": 38750,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 2,
+    "price_10k": 38950,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 2,
+    "price_10k": 39200,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 2,
+    "price_10k": 44400,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 2,
+    "price_10k": 44650,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 2,
+    "price_10k": 43400,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 2,
+    "price_10k": 43650,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 2,
+    "price_10k": 43450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 2,
+    "price_10k": 42950,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 3,
+    "price_10k": 38550,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 3,
+    "price_10k": 39000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 3,
+    "price_10k": 39200,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 3,
+    "price_10k": 39450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 3,
+    "price_10k": 44400,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 3,
+    "price_10k": 44950,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 3,
+    "price_10k": 43650,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 3,
+    "price_10k": 43200,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 4,
+    "price_10k": 39200,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 4,
+    "price_10k": 39650,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 4,
+    "price_10k": 39850,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 4,
+    "price_10k": 44950,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 4,
+    "price_10k": 44300,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 4,
+    "price_10k": 44100,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 4,
+    "price_10k": 43600,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 5,
+    "price_10k": 39200,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 5,
+    "price_10k": 39450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 5,
+    "price_10k": 39650,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 5,
+    "price_10k": 39850,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 5,
+    "price_10k": 44300,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 5,
+    "price_10k": 44100,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 5,
+    "price_10k": 43600,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 6,
+    "price_10k": 39850,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 6,
+    "price_10k": 40300,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 6,
+    "price_10k": 40750,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 6,
+    "price_10k": 44550,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 7,
+    "price_10k": 40100,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 7,
+    "price_10k": 40500,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 7,
+    "price_10k": 40750,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 8,
+    "price_10k": 40350,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 8,
+    "price_10k": 40750,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 8,
+    "price_10k": 41450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 9,
+    "price_10k": 41450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 21.2016,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 22.0266,
+    "floor": 10,
+    "price_10k": 41450,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "어반허브서울스테이션(UrbanHubSeoulStation)",
+    "district": "서계동",
+    "area_m2": 26.1034,
+    "floor": 10,
+    "price_10k": 45000,
+    "deal_date": "2025-08-04",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼익",
+    "district": "이촌동",
+    "area_m2": 145.19,
+    "floor": 8,
+    "price_10k": 371000,
+    "deal_date": "2025-08-06",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강(대우)",
+    "district": "이촌동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 271000,
+    "deal_date": "2025-08-05",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이안용산프리미어",
+    "district": "문배동",
+    "area_m2": 110.14,
+    "floor": 12,
+    "price_10k": 165000,
+    "deal_date": "2025-08-02",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변삼성스위트",
+    "district": "원효로4가",
+    "area_m2": 84.94,
+    "floor": 7,
+    "price_10k": 172500,
+    "deal_date": "2025-08-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  }
+]

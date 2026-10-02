@@ -1,0 +1,142 @@
+[
+  {
+    "name": "위너스힐(111-89)",
+    "district": "화양동",
+    "area_m2": 52.04,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2022-02-24",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "자양2현대",
+    "district": "자양동",
+    "area_m2": 84.88,
+    "floor": 6,
+    "price_10k": 137500,
+    "deal_date": "2022-02-24",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "AZ0213",
+    "district": "구의동",
+    "area_m2": 42.97,
+    "floor": 6,
+    "price_10k": 38300,
+    "deal_date": "2022-02-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대동",
+    "district": "자양동",
+    "area_m2": 59.54,
+    "floor": 9,
+    "price_10k": 106000,
+    "deal_date": "2022-02-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "자양현대6",
+    "district": "자양동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 108300,
+    "deal_date": "2022-02-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강아남",
+    "district": "자양동",
+    "area_m2": 84.24,
+    "floor": 9,
+    "price_10k": 105000,
+    "deal_date": "2022-02-15",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성쉐르빌",
+    "district": "구의동",
+    "area_m2": 84.94,
+    "floor": 16,
+    "price_10k": 111000,
+    "deal_date": "2022-02-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 4,
+    "price_10k": 117000,
+    "deal_date": "2022-02-21",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진하우스토리한강",
+    "district": "자양동",
+    "area_m2": 141.54,
+    "floor": 13,
+    "price_10k": 162855,
+    "deal_date": "2022-02-16",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "자양10차현대홈타운",
+    "district": "자양동",
+    "area_m2": 84.46,
+    "floor": 10,
+    "price_10k": 155000,
+    "deal_date": "2022-02-12",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위너스힐(111-89)",
+    "district": "화양동",
+    "area_m2": 58.05,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2022-02-24",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 139.6,
+    "floor": 23,
+    "price_10k": 227000,
+    "deal_date": "2022-02-17",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동1",
+    "district": "광장동",
+    "area_m2": 126.94,
+    "floor": 11,
+    "price_10k": 233000,
+    "deal_date": "2022-02-06",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "씨즈건대힐스",
+    "district": "화양동",
+    "area_m2": 14.23,
+    "floor": 5,
+    "price_10k": 15000,
+    "deal_date": "2022-02-09",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  }
+]

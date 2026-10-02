@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "대림(수유)",
+    "district": "수유동",
+    "area_m2": 78.35,
+    "floor": 9,
+    "price_10k": 48000,
+    "deal_date": "2026-06-27",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 109500,
+    "deal_date": "2026-06-20",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유아름채",
+    "district": "수유동",
+    "area_m2": 12.93,
+    "floor": 8,
+    "price_10k": 18000,
+    "deal_date": "2026-06-20",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "주공1단지",
+    "district": "번동",
+    "area_m2": 41.3,
+    "floor": 8,
+    "price_10k": 52000,
+    "deal_date": "2026-06-29",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 7,
+    "price_10k": 12000,
+    "deal_date": "2026-06-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 20,
+    "price_10k": 56300,
+    "deal_date": "2026-06-22",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "번동",
+    "area_m2": 84.88,
+    "floor": 13,
+    "price_10k": 69200,
+    "deal_date": "2026-06-26",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(190-2)",
+    "district": "미아동",
+    "area_m2": 84.91,
+    "floor": 8,
+    "price_10k": 68500,
+    "deal_date": "2026-06-15",
+    "build_year": 1992,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 84.92,
+    "floor": 5,
+    "price_10k": 74500,
+    "deal_date": "2026-06-30",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "요진",
+    "district": "미아동",
+    "area_m2": 84.85,
+    "floor": 12,
+    "price_10k": 56000,
+    "deal_date": "2026-06-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "수유동",
+    "area_m2": 84.99,
+    "floor": 9,
+    "price_10k": 53000,
+    "deal_date": "2026-06-29",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "스카이캐슬",
+    "district": "번동",
+    "area_m2": 15.67,
+    "floor": 3,
+    "price_10k": 19100,
+    "deal_date": "2026-06-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진안골드밸리",
+    "district": "수유동",
+    "area_m2": 143.82,
+    "floor": 3,
+    "price_10k": 64000,
+    "deal_date": "2026-06-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "번동",
+    "area_m2": 84.88,
+    "floor": 15,
+    "price_10k": 70000,
+    "deal_date": "2026-06-15",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 114.88,
+    "floor": 4,
+    "price_10k": 109000,
+    "deal_date": "2026-06-30",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 110000,
+    "deal_date": "2026-06-24",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(190-2)",
+    "district": "미아동",
+    "area_m2": 84.91,
+    "floor": 5,
+    "price_10k": 66500,
+    "deal_date": "2026-06-29",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역하이씨티",
+    "district": "수유동",
+    "area_m2": 12.02,
+    "floor": 11,
+    "price_10k": 8000,
+    "deal_date": "2026-06-20",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원상떼빌",
+    "district": "우이동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 52000,
+    "deal_date": "2026-06-29",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 59.6,
+    "floor": 7,
+    "price_10k": 94500,
+    "deal_date": "2026-06-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 84.98,
+    "floor": 5,
+    "price_10k": 104000,
+    "deal_date": "2026-06-27",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.67,
+    "floor": 1,
+    "price_10k": 106000,
+    "deal_date": "2026-06-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 127.25,
+    "floor": 4,
+    "price_10k": 70000,
+    "deal_date": "2026-06-27",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 72000,
+    "deal_date": "2026-06-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 10,
+    "price_10k": 76800,
+    "deal_date": "2026-06-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 59.82,
+    "floor": 10,
+    "price_10k": 47500,
+    "deal_date": "2026-06-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안수유",
+    "district": "수유동",
+    "area_m2": 59.88,
+    "floor": 18,
+    "price_10k": 59500,
+    "deal_date": "2026-06-08",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲한신더휴",
+    "district": "미아동",
+    "area_m2": 84.9085,
+    "floor": 2,
+    "price_10k": 85500,
+    "deal_date": "2026-06-26",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "JKapartment",
+    "district": "수유동",
+    "area_m2": 49.56,
+    "floor": 3,
+    "price_10k": 34000,
+    "deal_date": "2026-06-26",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유현대",
+    "district": "수유동",
+    "area_m2": 84.51,
+    "floor": 9,
+    "price_10k": 60000,
+    "deal_date": "2026-06-08",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 59.33,
+    "floor": 5,
+    "price_10k": 93000,
+    "deal_date": "2026-06-26",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 114.68,
+    "floor": 10,
+    "price_10k": 75500,
+    "deal_date": "2026-06-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 127.25,
+    "floor": 8,
+    "price_10k": 78000,
+    "deal_date": "2026-06-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공1단지",
+    "district": "번동",
+    "area_m2": 41.3,
+    "floor": 7,
+    "price_10k": 54000,
+    "deal_date": "2026-06-23",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 84.99,
+    "floor": 10,
+    "price_10k": 100000,
+    "deal_date": "2026-06-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 59.67,
+    "floor": 18,
+    "price_10k": 66500,
+    "deal_date": "2026-06-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 113.89,
+    "floor": 8,
+    "price_10k": 124000,
+    "deal_date": "2026-06-25",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 19,
+    "price_10k": 58000,
+    "deal_date": "2026-06-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 114.68,
+    "floor": 6,
+    "price_10k": 74000,
+    "deal_date": "2026-06-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 84.89,
+    "floor": 4,
+    "price_10k": 64000,
+    "deal_date": "2026-06-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역두산위브1",
+    "district": "번동",
+    "area_m2": 84.9986,
+    "floor": 19,
+    "price_10k": 79500,
+    "deal_date": "2026-06-24",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 7,
+    "price_10k": 90000,
+    "deal_date": "2026-06-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효성네오인텔리안",
+    "district": "번동",
+    "area_m2": 71.05,
+    "floor": 10,
+    "price_10k": 53000,
+    "deal_date": "2026-06-21",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아동부센트레빌",
+    "district": "미아동",
+    "area_m2": 84.93,
+    "floor": 11,
+    "price_10k": 117000,
+    "deal_date": "2026-06-24",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 60,
+    "floor": 4,
+    "price_10k": 64250,
+    "deal_date": "2026-06-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원",
+    "district": "번동",
+    "area_m2": 59.96,
+    "floor": 5,
+    "price_10k": 43900,
+    "deal_date": "2026-06-23",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공1단지",
+    "district": "번동",
+    "area_m2": 41.3,
+    "floor": 8,
+    "price_10k": 53000,
+    "deal_date": "2026-06-23",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유현대",
+    "district": "수유동",
+    "area_m2": 82.65,
+    "floor": 13,
+    "price_10k": 57800,
+    "deal_date": "2026-06-11",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.76,
+    "floor": 18,
+    "price_10k": 83000,
+    "deal_date": "2026-06-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원상떼빌",
+    "district": "우이동",
+    "area_m2": 71.78,
+    "floor": 14,
+    "price_10k": 40800,
+    "deal_date": "2026-06-09",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲한신더휴",
+    "district": "미아동",
+    "area_m2": 59.9812,
+    "floor": 6,
+    "price_10k": 81000,
+    "deal_date": "2026-06-18",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 17,
+    "price_10k": 87000,
+    "deal_date": "2026-06-22",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 59.36,
+    "floor": 3,
+    "price_10k": 92500,
+    "deal_date": "2026-06-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.86,
+    "floor": 9,
+    "price_10k": 109000,
+    "deal_date": "2026-06-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안수유",
+    "district": "수유동",
+    "area_m2": 59.88,
+    "floor": 10,
+    "price_10k": 59000,
+    "deal_date": "2026-06-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 13,
+    "price_10k": 78000,
+    "deal_date": "2026-06-11",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 2,
+    "price_10k": 79900,
+    "deal_date": "2026-06-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 1,
+    "price_10k": 75000,
+    "deal_date": "2026-06-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 59.82,
+    "floor": 11,
+    "price_10k": 43000,
+    "deal_date": "2026-06-20",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 59.82,
+    "floor": 13,
+    "price_10k": 48000,
+    "deal_date": "2026-06-18",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(148-494)",
+    "district": "번동",
+    "area_m2": 84.9,
+    "floor": 14,
+    "price_10k": 51500,
+    "deal_date": "2026-06-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "기산그린",
+    "district": "번동",
+    "area_m2": 59.94,
+    "floor": 9,
+    "price_10k": 40800,
+    "deal_date": "2026-06-12",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 84.89,
+    "floor": 5,
+    "price_10k": 70000,
+    "deal_date": "2026-06-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.92,
+    "floor": 24,
+    "price_10k": 82000,
+    "deal_date": "2026-06-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아동부센트레빌",
+    "district": "미아동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 100000,
+    "deal_date": "2026-06-17",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 84.93,
+    "floor": 8,
+    "price_10k": 63000,
+    "deal_date": "2026-06-17",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "번동",
+    "area_m2": 84.88,
+    "floor": 5,
+    "price_10k": 69000,
+    "deal_date": "2026-06-16",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원상떼빌",
+    "district": "우이동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 49000,
+    "deal_date": "2026-06-11",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동",
+    "district": "수유동",
+    "area_m2": 134.45,
+    "floor": 5,
+    "price_10k": 67000,
+    "deal_date": "2026-06-05",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이너스내안에",
+    "district": "미아동",
+    "area_m2": 66.01,
+    "floor": 2,
+    "price_10k": 54000,
+    "deal_date": "2026-06-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 59.38,
+    "floor": 17,
+    "price_10k": 95000,
+    "deal_date": "2026-06-13",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 114.68,
+    "floor": 6,
+    "price_10k": 75000,
+    "deal_date": "2026-06-10",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 114.88,
+    "floor": 9,
+    "price_10k": 109000,
+    "deal_date": "2026-06-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 59.36,
+    "floor": 10,
+    "price_10k": 92800,
+    "deal_date": "2026-06-13",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 84.99,
+    "floor": 8,
+    "price_10k": 100000,
+    "deal_date": "2026-06-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.76,
+    "floor": 19,
+    "price_10k": 81000,
+    "deal_date": "2026-06-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 104800,
+    "deal_date": "2026-06-13",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 20,
+    "price_10k": 86500,
+    "deal_date": "2026-06-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 59.758,
+    "floor": 7,
+    "price_10k": 75000,
+    "deal_date": "2026-06-13",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대성우",
+    "district": "미아동",
+    "area_m2": 59.4,
+    "floor": 3,
+    "price_10k": 53800,
+    "deal_date": "2026-06-12",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.86,
+    "floor": 7,
+    "price_10k": 83000,
+    "deal_date": "2026-06-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 59.6,
+    "floor": 14,
+    "price_10k": 94900,
+    "deal_date": "2026-06-12",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 99.93,
+    "floor": 8,
+    "price_10k": 125000,
+    "deal_date": "2026-06-06",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 7,
+    "price_10k": 94700,
+    "deal_date": "2026-06-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 54700,
+    "deal_date": "2026-06-11",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공4단지",
+    "district": "번동",
+    "area_m2": 59.22,
+    "floor": 1,
+    "price_10k": 51000,
+    "deal_date": "2026-06-09",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 63.78,
+    "floor": 4,
+    "price_10k": 54800,
+    "deal_date": "2026-06-08",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 2,
+    "price_10k": 104000,
+    "deal_date": "2026-06-05",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역두산위브1",
+    "district": "번동",
+    "area_m2": 84.9986,
+    "floor": 10,
+    "price_10k": 79500,
+    "deal_date": "2026-06-06",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌(1356-0)",
+    "district": "미아동",
+    "area_m2": 84.873,
+    "floor": 15,
+    "price_10k": 87000,
+    "deal_date": "2026-06-08",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 4,
+    "price_10k": 79500,
+    "deal_date": "2026-06-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 16,
+    "price_10k": 85000,
+    "deal_date": "2026-06-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.67,
+    "floor": 5,
+    "price_10k": 100000,
+    "deal_date": "2026-06-06",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 26.6863,
+    "floor": 11,
+    "price_10k": 36800,
+    "deal_date": "2026-06-06",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 114.68,
+    "floor": 17,
+    "price_10k": 72000,
+    "deal_date": "2026-06-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 98750,
+    "deal_date": "2026-06-05",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아동부센트레빌",
+    "district": "미아동",
+    "area_m2": 84.93,
+    "floor": 7,
+    "price_10k": 110000,
+    "deal_date": "2026-06-05",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 59.82,
+    "floor": 13,
+    "price_10k": 86000,
+    "deal_date": "2026-06-05",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 84.97,
+    "floor": 4,
+    "price_10k": 109000,
+    "deal_date": "2026-06-05",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공1단지",
+    "district": "번동",
+    "area_m2": 41.3,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2026-06-05",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 59.38,
+    "floor": 19,
+    "price_10k": 97000,
+    "deal_date": "2026-06-03",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2026-06-02",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 114.98,
+    "floor": 4,
+    "price_10k": 112000,
+    "deal_date": "2026-06-03",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.67,
+    "floor": 2,
+    "price_10k": 107000,
+    "deal_date": "2026-06-02",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "기산그린",
+    "district": "번동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 39300,
+    "deal_date": "2026-06-02",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 2,
+    "price_10k": 74700,
+    "deal_date": "2026-06-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아한일유앤아이",
+    "district": "미아동",
+    "area_m2": 84.552,
+    "floor": 13,
+    "price_10k": 73900,
+    "deal_date": "2026-06-01",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 114.88,
+    "floor": 8,
+    "price_10k": 84000,
+    "deal_date": "2026-06-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  }
+]

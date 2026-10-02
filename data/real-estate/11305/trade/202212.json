@@ -1,0 +1,822 @@
+[
+  {
+    "name": "젬스톤타운",
+    "district": "미아동",
+    "area_m2": 78.09,
+    "floor": 3,
+    "price_10k": 51000,
+    "deal_date": "2022-12-27",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진명",
+    "district": "수유동",
+    "area_m2": 66.12,
+    "floor": 7,
+    "price_10k": 29800,
+    "deal_date": "2022-12-30",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.67,
+    "floor": 8,
+    "price_10k": 81000,
+    "deal_date": "2022-12-24",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 5,
+    "price_10k": 62700,
+    "deal_date": "2022-12-06",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 16,
+    "price_10k": 53800,
+    "deal_date": "2022-12-03",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 56000,
+    "deal_date": "2022-12-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 60,
+    "floor": 10,
+    "price_10k": 50000,
+    "deal_date": "2022-12-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 58000,
+    "deal_date": "2022-12-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 20,
+    "price_10k": 57000,
+    "deal_date": "2022-12-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 58.99,
+    "floor": 14,
+    "price_10k": 64000,
+    "deal_date": "2022-12-09",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 24.335,
+    "floor": 2,
+    "price_10k": 25600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.93,
+    "floor": 2,
+    "price_10k": 22250,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.93,
+    "floor": 2,
+    "price_10k": 22800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 24.335,
+    "floor": 2,
+    "price_10k": 26250,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 22400,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 23000,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 23000,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 24.335,
+    "floor": 2,
+    "price_10k": 25600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.93,
+    "floor": 2,
+    "price_10k": 22250,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21200,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.93,
+    "floor": 2,
+    "price_10k": 22800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 24.335,
+    "floor": 2,
+    "price_10k": 26250,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 2,
+    "price_10k": 21800,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 2,
+    "price_10k": 22600,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 21550,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 22400,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 23000,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 19.9815,
+    "floor": 3,
+    "price_10k": 22100,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.774,
+    "floor": 3,
+    "price_10k": 23000,
+    "deal_date": "2022-12-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  }
+]

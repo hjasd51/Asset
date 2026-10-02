@@ -1,0 +1,532 @@
+[
+  {
+    "name": "정릉우성아파트 101~105동",
+    "district": "정릉동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 76000,
+    "deal_date": "2022-03-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방아파트",
+    "district": "장위동",
+    "area_m2": 114.73,
+    "floor": 9,
+    "price_10k": 79000,
+    "deal_date": "2022-03-23",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "안암동삼성래미안",
+    "district": "안암동1가",
+    "area_m2": 84.8681,
+    "floor": 15,
+    "price_10k": 110000,
+    "deal_date": "2022-03-25",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "돈암동",
+    "area_m2": 132.96,
+    "floor": 7,
+    "price_10k": 110000,
+    "deal_date": "2022-03-24",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉풍림아이원",
+    "district": "정릉동",
+    "area_m2": 59.88,
+    "floor": 14,
+    "price_10k": 62000,
+    "deal_date": "2022-03-26",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운8단지(래미안)",
+    "district": "길음동",
+    "area_m2": 114.99,
+    "floor": 13,
+    "price_10k": 138000,
+    "deal_date": "2022-03-29",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안라센트",
+    "district": "종암동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 100000,
+    "deal_date": "2022-03-23",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운8단지(래미안)",
+    "district": "길음동",
+    "area_m2": 59.99,
+    "floor": 6,
+    "price_10k": 92000,
+    "deal_date": "2022-03-29",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉풍림아이원",
+    "district": "정릉동",
+    "area_m2": 60,
+    "floor": 15,
+    "price_10k": 68000,
+    "deal_date": "2022-03-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉우성아파트 101~105동",
+    "district": "정릉동",
+    "area_m2": 59.97,
+    "floor": 2,
+    "price_10k": 60000,
+    "deal_date": "2022-03-20",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "돈암동",
+    "area_m2": 132.96,
+    "floor": 15,
+    "price_10k": 128000,
+    "deal_date": "2022-03-16",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운경남아너스빌",
+    "district": "정릉동",
+    "area_m2": 84.87,
+    "floor": 13,
+    "price_10k": 81000,
+    "deal_date": "2022-03-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉e-편한세상",
+    "district": "정릉동",
+    "area_m2": 59.77,
+    "floor": 17,
+    "price_10k": 74000,
+    "deal_date": "2022-03-18",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월곡래미안루나밸리",
+    "district": "하월곡동",
+    "area_m2": 59.98,
+    "floor": 21,
+    "price_10k": 89800,
+    "deal_date": "2022-03-20",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운1단지(래미안길음1차)",
+    "district": "길음동",
+    "area_m2": 114.98,
+    "floor": 13,
+    "price_10k": 130000,
+    "deal_date": "2022-03-23",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진(609-1)",
+    "district": "돈암동",
+    "area_m2": 59.58,
+    "floor": 19,
+    "price_10k": 64700,
+    "deal_date": "2022-03-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "돈암동",
+    "area_m2": 152.25,
+    "floor": 8,
+    "price_10k": 115000,
+    "deal_date": "2022-03-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아에코빌",
+    "district": "상월곡동",
+    "area_m2": 59.95,
+    "floor": 5,
+    "price_10k": 70000,
+    "deal_date": "2022-03-21",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안포레카운티",
+    "district": "장위동",
+    "area_m2": 84.97,
+    "floor": 7,
+    "price_10k": 117000,
+    "deal_date": "2022-03-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안아트리치",
+    "district": "석관동",
+    "area_m2": 59.96,
+    "floor": 10,
+    "price_10k": 99000,
+    "deal_date": "2022-03-19",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안길음센터피스",
+    "district": "길음동",
+    "area_m2": 59.99,
+    "floor": 8,
+    "price_10k": 107000,
+    "deal_date": "2022-03-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아에코빌",
+    "district": "상월곡동",
+    "area_m2": 59.95,
+    "floor": 5,
+    "price_10k": 70900,
+    "deal_date": "2022-03-17",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안길음센터피스",
+    "district": "길음동",
+    "area_m2": 84.66,
+    "floor": 4,
+    "price_10k": 148000,
+    "deal_date": "2022-03-31",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "정릉동",
+    "area_m2": 59.94,
+    "floor": 11,
+    "price_10k": 59300,
+    "deal_date": "2022-03-30",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아이파크종암동1차",
+    "district": "종암동",
+    "area_m2": 59.73,
+    "floor": 17,
+    "price_10k": 85000,
+    "deal_date": "2022-03-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아에코빌",
+    "district": "상월곡동",
+    "area_m2": 59.95,
+    "floor": 19,
+    "price_10k": 76000,
+    "deal_date": "2022-03-22",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "돈암현대아파트",
+    "district": "돈암동",
+    "area_m2": 56.7,
+    "floor": 6,
+    "price_10k": 66000,
+    "deal_date": "2022-03-26",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대광",
+    "district": "안암동3가",
+    "area_m2": 51.57,
+    "floor": 2,
+    "price_10k": 40000,
+    "deal_date": "2022-03-14",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보문파크뷰자이",
+    "district": "보문동6가",
+    "area_m2": 72.97,
+    "floor": 18,
+    "price_10k": 100000,
+    "deal_date": "2022-03-25",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안길음센터피스",
+    "district": "길음동",
+    "area_m2": 84.99,
+    "floor": 16,
+    "price_10k": 146000,
+    "deal_date": "2022-03-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉우성아파트 101~105동",
+    "district": "정릉동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 76000,
+    "deal_date": "2022-03-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안길음센터피스",
+    "district": "길음동",
+    "area_m2": 59.97,
+    "floor": 12,
+    "price_10k": 110000,
+    "deal_date": "2022-03-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종암2차SKVIEW",
+    "district": "종암동",
+    "area_m2": 59.98,
+    "floor": 20,
+    "price_10k": 82000,
+    "deal_date": "2022-03-12",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성북힐스테이트(101동)",
+    "district": "하월곡동",
+    "area_m2": 84.69,
+    "floor": 21,
+    "price_10k": 88000,
+    "deal_date": "2022-03-05",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보문파크뷰자이",
+    "district": "보문동6가",
+    "area_m2": 72.97,
+    "floor": 15,
+    "price_10k": 106000,
+    "deal_date": "2022-03-21",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠빌1단지",
+    "district": "정릉동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 68500,
+    "deal_date": "2022-03-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉힐스테이트3차",
+    "district": "정릉동",
+    "area_m2": 59.98,
+    "floor": 9,
+    "price_10k": 80000,
+    "deal_date": "2022-03-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안장위퍼스트하이",
+    "district": "장위동",
+    "area_m2": 59.99,
+    "floor": 12,
+    "price_10k": 94900,
+    "deal_date": "2022-03-12",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안길음센터피스",
+    "district": "길음동",
+    "area_m2": 59.9,
+    "floor": 14,
+    "price_10k": 106000,
+    "deal_date": "2022-03-28",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성아지오아파트",
+    "district": "돈암동",
+    "area_m2": 85,
+    "floor": 2,
+    "price_10k": 55500,
+    "deal_date": "2022-03-15",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠빌1단지",
+    "district": "정릉동",
+    "area_m2": 84.98,
+    "floor": 14,
+    "price_10k": 86700,
+    "deal_date": "2022-03-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "휴아름스튜디오",
+    "district": "성북동1가",
+    "area_m2": 16.27,
+    "floor": 13,
+    "price_10k": 22000,
+    "deal_date": "2022-03-08",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진(609-1)",
+    "district": "돈암동",
+    "area_m2": 113.67,
+    "floor": 2,
+    "price_10k": 82000,
+    "deal_date": "2022-03-15",
+    "build_year": 1998,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대우",
+    "district": "정릉동",
+    "area_m2": 84.83,
+    "floor": 2,
+    "price_10k": 68500,
+    "deal_date": "2022-03-22",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부센트레빌",
+    "district": "돈암동",
+    "area_m2": 80.54,
+    "floor": 10,
+    "price_10k": 98000,
+    "deal_date": "2022-03-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안아트리치",
+    "district": "석관동",
+    "area_m2": 59.42,
+    "floor": 7,
+    "price_10k": 93000,
+    "deal_date": "2022-03-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲코오롱하늘채",
+    "district": "장위동",
+    "area_m2": 84.71,
+    "floor": 9,
+    "price_10k": 124000,
+    "deal_date": "2022-03-09",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉풍림아이원",
+    "district": "정릉동",
+    "area_m2": 59.88,
+    "floor": 17,
+    "price_10k": 68500,
+    "deal_date": "2022-03-13",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운4단지(e편한세상)",
+    "district": "길음동",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 83500,
+    "deal_date": "2022-03-01",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "정릉동",
+    "area_m2": 114.84,
+    "floor": 6,
+    "price_10k": 78500,
+    "deal_date": "2022-03-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길음뉴타운4단지(e편한세상)",
+    "district": "길음동",
+    "area_m2": 84.64,
+    "floor": 7,
+    "price_10k": 105000,
+    "deal_date": "2022-03-01",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정릉스카이쌍용아파트",
+    "district": "정릉동",
+    "area_m2": 84.19,
+    "floor": 15,
+    "price_10k": 79500,
+    "deal_date": "2022-03-09",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안라센트",
+    "district": "종암동",
+    "area_m2": 84.99,
+    "floor": 2,
+    "price_10k": 90000,
+    "deal_date": "2022-03-02",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  }
+]

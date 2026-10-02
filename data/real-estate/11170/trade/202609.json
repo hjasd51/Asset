@@ -1,0 +1,112 @@
+[
+  {
+    "name": "강변삼성스위트",
+    "district": "원효로4가",
+    "area_m2": 84.9,
+    "floor": 20,
+    "price_10k": 210000,
+    "deal_date": "2026-09-19",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 84.82,
+    "floor": 10,
+    "price_10k": 206000,
+    "deal_date": "2026-09-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 9,
+    "price_10k": 102000,
+    "deal_date": "2026-09-09",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "이촌동",
+    "area_m2": 66.08,
+    "floor": 5,
+    "price_10k": 144000,
+    "deal_date": "2026-09-12",
+    "build_year": 1971,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산동아파트",
+    "district": "이태원동",
+    "area_m2": 44.76,
+    "floor": 5,
+    "price_10k": 56000,
+    "deal_date": "2026-09-02",
+    "build_year": 1969,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "서빙고동",
+    "area_m2": 166.98,
+    "floor": 4,
+    "price_10k": 460000,
+    "deal_date": "2026-09-08",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 59.88,
+    "floor": 10,
+    "price_10k": 241000,
+    "deal_date": "2026-09-05",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산동아파트",
+    "district": "이태원동",
+    "area_m2": 51.27,
+    "floor": 7,
+    "price_10k": 60000,
+    "deal_date": "2026-09-05",
+    "build_year": 1969,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "서빙고동",
+    "area_m2": 95.66,
+    "floor": 2,
+    "price_10k": 339000,
+    "deal_date": "2026-09-05",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산메가트리움",
+    "district": "한강로2가",
+    "area_m2": 84.98,
+    "floor": 17,
+    "price_10k": 180000,
+    "deal_date": "2026-09-04",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산e편한세상",
+    "district": "신계동",
+    "area_m2": 84.89,
+    "floor": 11,
+    "price_10k": 248000,
+    "deal_date": "2026-09-02",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  }
+]

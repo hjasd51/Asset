@@ -1,0 +1,92 @@
+[
+  {
+    "name": "워커힐",
+    "district": "광장동",
+    "area_m2": 226.45,
+    "floor": 7,
+    "price_10k": 270000,
+    "deal_date": "2022-10-27",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성3",
+    "district": "자양동",
+    "area_m2": 72.34,
+    "floor": 1,
+    "price_10k": 130000,
+    "deal_date": "2022-10-19",
+    "build_year": 1989,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청정(A)",
+    "district": "자양동",
+    "area_m2": 69.09,
+    "floor": 7,
+    "price_10k": 80000,
+    "deal_date": "2022-10-17",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광장동현대Ⅰ빌라트",
+    "district": "광장동",
+    "area_m2": 163.79,
+    "floor": 1,
+    "price_10k": 95000,
+    "deal_date": "2022-10-28",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 139.54,
+    "floor": 4,
+    "price_10k": 188000,
+    "deal_date": "2022-10-11",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에이탑",
+    "district": "중곡동",
+    "area_m2": 75.32,
+    "floor": 2,
+    "price_10k": 39000,
+    "deal_date": "2022-10-04",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 14.73,
+    "floor": 8,
+    "price_10k": 13000,
+    "deal_date": "2022-10-27",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상광진그랜드파크",
+    "district": "구의동",
+    "area_m2": 115.9468,
+    "floor": 24,
+    "price_10k": 160000,
+    "deal_date": "2022-10-23",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 16,
+    "price_10k": 111000,
+    "deal_date": "2022-10-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  }
+]

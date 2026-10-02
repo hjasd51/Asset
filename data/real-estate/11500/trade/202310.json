@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "신안",
+    "district": "마곡동",
+    "area_m2": 84.97,
+    "floor": 15,
+    "price_10k": 90000,
+    "deal_date": "2023-10-21",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌동아이파크",
+    "district": "등촌동",
+    "area_m2": 134.9883,
+    "floor": 16,
+    "price_10k": 129000,
+    "deal_date": "2023-10-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람하이빌",
+    "district": "등촌동",
+    "area_m2": 84.58,
+    "floor": 5,
+    "price_10k": 35000,
+    "deal_date": "2023-10-18",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신동아",
+    "district": "염창동",
+    "area_m2": 84.9,
+    "floor": 7,
+    "price_10k": 80000,
+    "deal_date": "2023-10-12",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가양2단지(성지)",
+    "district": "가양동",
+    "area_m2": 34.44,
+    "floor": 13,
+    "price_10k": 48300,
+    "deal_date": "2023-10-26",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌동아이파크",
+    "district": "등촌동",
+    "area_m2": 165.8299,
+    "floor": 2,
+    "price_10k": 128500,
+    "deal_date": "2023-10-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화곡푸르지오",
+    "district": "화곡동",
+    "area_m2": 103.92,
+    "floor": 3,
+    "price_10k": 102850,
+    "deal_date": "2023-10-31",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신안",
+    "district": "마곡동",
+    "area_m2": 84.97,
+    "floor": 15,
+    "price_10k": 90000,
+    "deal_date": "2023-10-21",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "임광",
+    "district": "등촌동",
+    "area_m2": 59.34,
+    "floor": 12,
+    "price_10k": 70000,
+    "deal_date": "2023-10-28",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "마곡금호어울림",
+    "district": "마곡동",
+    "area_m2": 84.948,
+    "floor": 5,
+    "price_10k": 79000,
+    "deal_date": "2023-10-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌동아이파크",
+    "district": "등촌동",
+    "area_m2": 165.8299,
+    "floor": 1,
+    "price_10k": 125000,
+    "deal_date": "2023-10-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "마곡동",
+    "area_m2": 84.87,
+    "floor": 1,
+    "price_10k": 90500,
+    "deal_date": "2023-10-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방화메이빌",
+    "district": "방화동",
+    "area_m2": 44.8323,
+    "floor": 4,
+    "price_10k": 42000,
+    "deal_date": "2023-10-30",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방화동동부센트레빌(875번지)",
+    "district": "방화동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 83000,
+    "deal_date": "2023-10-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서힐스테이트",
+    "district": "화곡동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 115000,
+    "deal_date": "2023-10-17",
+    "build_year": 2015,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "마곡동",
+    "area_m2": 84.87,
+    "floor": 3,
+    "price_10k": 94000,
+    "deal_date": "2023-10-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡수명산파크3단지",
+    "district": "내발산동",
+    "area_m2": 84.96,
+    "floor": 10,
+    "price_10k": 97000,
+    "deal_date": "2023-10-27",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서힐스테이트",
+    "district": "화곡동",
+    "area_m2": 152.1,
+    "floor": 16,
+    "price_10k": 182000,
+    "deal_date": "2023-10-21",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 101.65,
+    "floor": 14,
+    "price_10k": 135000,
+    "deal_date": "2023-10-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신마곡벽산블루밍",
+    "district": "방화동",
+    "area_m2": 59.7592,
+    "floor": 13,
+    "price_10k": 74000,
+    "deal_date": "2023-10-30",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "등촌동",
+    "area_m2": 37.67,
+    "floor": 7,
+    "price_10k": 49700,
+    "deal_date": "2023-10-28",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한오",
+    "district": "방화동",
+    "area_m2": 47.44,
+    "floor": 5,
+    "price_10k": 28000,
+    "deal_date": "2023-10-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "염창동예성그린캐슬",
+    "district": "염창동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 69500,
+    "deal_date": "2023-10-30",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강타운",
+    "district": "가양동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 102500,
+    "deal_date": "2023-10-30",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성",
+    "district": "등촌동",
+    "area_m2": 150.05,
+    "floor": 2,
+    "price_10k": 110000,
+    "deal_date": "2023-10-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "루체비스타",
+    "district": "화곡동",
+    "area_m2": 23.66,
+    "floor": 5,
+    "price_10k": 21900,
+    "deal_date": "2023-10-28",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼정코아",
+    "district": "방화동",
+    "area_m2": 71.18,
+    "floor": 6,
+    "price_10k": 49800,
+    "deal_date": "2023-10-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 84.97,
+    "floor": 1,
+    "price_10k": 110000,
+    "deal_date": "2023-10-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태창네스트힐",
+    "district": "화곡동",
+    "area_m2": 55.88,
+    "floor": 6,
+    "price_10k": 38500,
+    "deal_date": "2023-10-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성",
+    "district": "등촌동",
+    "area_m2": 134.94,
+    "floor": 14,
+    "price_10k": 108000,
+    "deal_date": "2023-10-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원",
+    "district": "등촌동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 68000,
+    "deal_date": "2023-10-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성아파트(연립)",
+    "district": "화곡동",
+    "area_m2": 81.89,
+    "floor": 13,
+    "price_10k": 41500,
+    "deal_date": "2023-10-30",
+    "build_year": 1987,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "프라임팰리스(1024-23)",
+    "district": "화곡동",
+    "area_m2": 84.92,
+    "floor": 5,
+    "price_10k": 66000,
+    "deal_date": "2023-10-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡엠밸리6단지",
+    "district": "마곡동",
+    "area_m2": 84.84,
+    "floor": 1,
+    "price_10k": 127300,
+    "deal_date": "2023-10-10",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공10",
+    "district": "등촌동",
+    "area_m2": 37.67,
+    "floor": 9,
+    "price_10k": 58000,
+    "deal_date": "2023-10-26",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "가양동",
+    "area_m2": 39.6,
+    "floor": 9,
+    "price_10k": 60000,
+    "deal_date": "2023-10-24",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개화",
+    "district": "방화동",
+    "area_m2": 101.86,
+    "floor": 3,
+    "price_10k": 79500,
+    "deal_date": "2023-10-28",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌동아이파크",
+    "district": "등촌동",
+    "area_m2": 134.9883,
+    "floor": 16,
+    "price_10k": 129000,
+    "deal_date": "2023-10-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신안네트빌1단지",
+    "district": "방화동",
+    "area_m2": 57.7467,
+    "floor": 11,
+    "price_10k": 58950,
+    "deal_date": "2023-10-16",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "방화동",
+    "area_m2": 59.4,
+    "floor": 10,
+    "price_10k": 61000,
+    "deal_date": "2023-10-10",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산힐스테이트",
+    "district": "내발산동",
+    "area_m2": 101.87,
+    "floor": 14,
+    "price_10k": 151500,
+    "deal_date": "2023-10-11",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡보타닉경남아너스빌",
+    "district": "마곡동",
+    "area_m2": 59.7672,
+    "floor": 5,
+    "price_10k": 67500,
+    "deal_date": "2023-10-28",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "혜성오피아파트",
+    "district": "화곡동",
+    "area_m2": 26.74,
+    "floor": 5,
+    "price_10k": 22000,
+    "deal_date": "2023-10-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌동보람쉬움아파트",
+    "district": "등촌동",
+    "area_m2": 84.51,
+    "floor": 6,
+    "price_10k": 78000,
+    "deal_date": "2023-10-28",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림경동아파트",
+    "district": "가양동",
+    "area_m2": 131.4,
+    "floor": 6,
+    "price_10k": 125000,
+    "deal_date": "2023-10-09",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서동도센트리움",
+    "district": "화곡동",
+    "area_m2": 14.677,
+    "floor": 7,
+    "price_10k": 8700,
+    "deal_date": "2023-10-26",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌퀸즈포디엄삼익",
+    "district": "등촌동",
+    "area_m2": 33.64,
+    "floor": 11,
+    "price_10k": 37500,
+    "deal_date": "2023-10-11",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "가양동",
+    "area_m2": 34.44,
+    "floor": 2,
+    "price_10k": 48000,
+    "deal_date": "2023-10-11",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대동황토방2",
+    "district": "등촌동",
+    "area_m2": 59.93,
+    "floor": 8,
+    "price_10k": 75000,
+    "deal_date": "2023-10-07",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "장미",
+    "district": "방화동",
+    "area_m2": 49.2,
+    "floor": 12,
+    "price_10k": 50750,
+    "deal_date": "2023-10-27",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "요산페어뷰",
+    "district": "화곡동",
+    "area_m2": 73.8,
+    "floor": 7,
+    "price_10k": 47100,
+    "deal_date": "2023-10-12",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대3",
+    "district": "염창동",
+    "area_m2": 59.92,
+    "floor": 10,
+    "price_10k": 70000,
+    "deal_date": "2023-10-22",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림경동아파트",
+    "district": "가양동",
+    "area_m2": 131.4,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2023-10-05",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 21.95,
+    "floor": 2,
+    "price_10k": 14400,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 21.95,
+    "floor": 2,
+    "price_10k": 13900,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 38.7508,
+    "floor": 3,
+    "price_10k": 23500,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 17.2538,
+    "floor": 3,
+    "price_10k": 11700,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 21.95,
+    "floor": 3,
+    "price_10k": 13900,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 38.7508,
+    "floor": 4,
+    "price_10k": 24800,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 21.95,
+    "floor": 4,
+    "price_10k": 15200,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 38.7508,
+    "floor": 5,
+    "price_10k": 24800,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 17.2538,
+    "floor": 5,
+    "price_10k": 12300,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 55.8376,
+    "floor": 7,
+    "price_10k": 33000,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 55.8376,
+    "floor": 7,
+    "price_10k": 33000,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 95.1132,
+    "floor": 8,
+    "price_10k": 53000,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 95.2724,
+    "floor": 8,
+    "price_10k": 53000,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 17.2538,
+    "floor": 6,
+    "price_10k": 12300,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "발쿠치네하우스",
+    "district": "공항동",
+    "area_m2": 21.95,
+    "floor": 6,
+    "price_10k": 14500,
+    "deal_date": "2023-10-16",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "주상복합태진가람",
+    "district": "염창동",
+    "area_m2": 58.86,
+    "floor": 10,
+    "price_10k": 48000,
+    "deal_date": "2023-10-23",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "지오빌",
+    "district": "염창동",
+    "area_m2": 84.65,
+    "floor": 7,
+    "price_10k": 58000,
+    "deal_date": "2023-10-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡수명산파크1단지",
+    "district": "내발산동",
+    "area_m2": 84.68,
+    "floor": 8,
+    "price_10k": 97000,
+    "deal_date": "2023-10-17",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가양강나루현대",
+    "district": "가양동",
+    "area_m2": 59.76,
+    "floor": 6,
+    "price_10k": 81300,
+    "deal_date": "2023-10-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e편한세상",
+    "district": "등촌동",
+    "area_m2": 96.73,
+    "floor": 10,
+    "price_10k": 98500,
+    "deal_date": "2023-10-28",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡13단지힐스테이트마스터",
+    "district": "마곡동",
+    "area_m2": 84.9881,
+    "floor": 15,
+    "price_10k": 137800,
+    "deal_date": "2023-10-28",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡중앙하이츠아파트",
+    "district": "방화동",
+    "area_m2": 59.34,
+    "floor": 8,
+    "price_10k": 57300,
+    "deal_date": "2023-10-17",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서동도센트리움",
+    "district": "화곡동",
+    "area_m2": 14.677,
+    "floor": 7,
+    "price_10k": 8700,
+    "deal_date": "2023-10-26",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 126000,
+    "deal_date": "2023-10-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신안네트빌1단지",
+    "district": "방화동",
+    "area_m2": 57.7467,
+    "floor": 15,
+    "price_10k": 54800,
+    "deal_date": "2023-10-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서한강월드메르디앙",
+    "district": "가양동",
+    "area_m2": 84.9,
+    "floor": 11,
+    "price_10k": 96000,
+    "deal_date": "2023-10-07",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산힐스테이트",
+    "district": "내발산동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 118500,
+    "deal_date": "2023-10-21",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 114.98,
+    "floor": 15,
+    "price_10k": 142800,
+    "deal_date": "2023-10-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2",
+    "district": "염창동",
+    "area_m2": 84.54,
+    "floor": 6,
+    "price_10k": 70000,
+    "deal_date": "2023-10-13",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가양강나루현대",
+    "district": "가양동",
+    "area_m2": 59.76,
+    "floor": 10,
+    "price_10k": 81000,
+    "deal_date": "2023-10-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡수명산파크6단지",
+    "district": "내발산동",
+    "area_m2": 84.53,
+    "floor": 7,
+    "price_10k": 90000,
+    "deal_date": "2023-10-19",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 116000,
+    "deal_date": "2023-10-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡금호어울림",
+    "district": "마곡동",
+    "area_m2": 84.948,
+    "floor": 3,
+    "price_10k": 78000,
+    "deal_date": "2023-10-11",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "GMValley",
+    "district": "화곡동",
+    "area_m2": 25.94,
+    "floor": 15,
+    "price_10k": 21000,
+    "deal_date": "2023-10-28",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변힐스테이트",
+    "district": "염창동",
+    "area_m2": 59.9,
+    "floor": 8,
+    "price_10k": 92000,
+    "deal_date": "2023-10-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운",
+    "district": "염창동",
+    "area_m2": 59.88,
+    "floor": 5,
+    "price_10k": 76700,
+    "deal_date": "2023-10-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2",
+    "district": "염창동",
+    "area_m2": 59.39,
+    "floor": 2,
+    "price_10k": 58000,
+    "deal_date": "2023-10-26",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청솔펠리체",
+    "district": "등촌동",
+    "area_m2": 83.51,
+    "floor": 3,
+    "price_10k": 69000,
+    "deal_date": "2023-10-17",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성아파트(연립)",
+    "district": "화곡동",
+    "area_m2": 119.77,
+    "floor": 5,
+    "price_10k": 69300,
+    "deal_date": "2023-10-25",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌퀸즈포디엄삼익",
+    "district": "등촌동",
+    "area_m2": 33.64,
+    "floor": 11,
+    "price_10k": 37500,
+    "deal_date": "2023-10-11",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강서힐스테이트",
+    "district": "화곡동",
+    "area_m2": 84.99,
+    "floor": 19,
+    "price_10k": 132000,
+    "deal_date": "2023-10-08",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡수명산파크5단지",
+    "district": "내발산동",
+    "area_m2": 59.76,
+    "floor": 14,
+    "price_10k": 85000,
+    "deal_date": "2023-10-08",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 59.98,
+    "floor": 10,
+    "price_10k": 95000,
+    "deal_date": "2023-10-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공3",
+    "district": "등촌동",
+    "area_m2": 37.67,
+    "floor": 5,
+    "price_10k": 57000,
+    "deal_date": "2023-10-12",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진성아파트102동",
+    "district": "화곡동",
+    "area_m2": 82.37,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2023-10-25",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "계명(350-33)",
+    "district": "화곡동",
+    "area_m2": 67.82,
+    "floor": 2,
+    "price_10k": 27500,
+    "deal_date": "2023-10-23",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌1,2단지주공아파트",
+    "district": "등촌동",
+    "area_m2": 41.85,
+    "floor": 15,
+    "price_10k": 52500,
+    "deal_date": "2023-10-15",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "등촌동",
+    "area_m2": 37.67,
+    "floor": 15,
+    "price_10k": 50000,
+    "deal_date": "2023-10-19",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가양6단지",
+    "district": "가양동",
+    "area_m2": 49.5,
+    "floor": 12,
+    "price_10k": 75700,
+    "deal_date": "2023-10-04",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산아이파크,이편한세상",
+    "district": "화곡동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 116000,
+    "deal_date": "2023-10-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공5",
+    "district": "등촌동",
+    "area_m2": 58.14,
+    "floor": 2,
+    "price_10k": 70000,
+    "deal_date": "2023-10-15",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아녜스타워4",
+    "district": "화곡동",
+    "area_m2": 12.09,
+    "floor": 12,
+    "price_10k": 10410,
+    "deal_date": "2023-10-10",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "등촌제이스카이",
+    "district": "염창동",
+    "area_m2": 28.94,
+    "floor": 14,
+    "price_10k": 33000,
+    "deal_date": "2023-10-23",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼천리",
+    "district": "염창동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 77000,
+    "deal_date": "2023-10-03",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송촌",
+    "district": "염창동",
+    "area_m2": 92.94,
+    "floor": 6,
+    "price_10k": 76900,
+    "deal_date": "2023-10-07",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "등촌동",
+    "area_m2": 84.62,
+    "floor": 3,
+    "price_10k": 71000,
+    "deal_date": "2023-10-09",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "염창1차한화꿈에그린",
+    "district": "염창동",
+    "area_m2": 59.94,
+    "floor": 1,
+    "price_10k": 99000,
+    "deal_date": "2023-10-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "염창동",
+    "area_m2": 59.91,
+    "floor": 15,
+    "price_10k": 64000,
+    "deal_date": "2023-10-16",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관음삼성",
+    "district": "염창동",
+    "area_m2": 59.96,
+    "floor": 14,
+    "price_10k": 72000,
+    "deal_date": "2023-10-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "가양동",
+    "area_m2": 49.5,
+    "floor": 10,
+    "price_10k": 77800,
+    "deal_date": "2023-10-07",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한경빌(938-26)",
+    "district": "화곡동",
+    "area_m2": 25.15,
+    "floor": 5,
+    "price_10k": 16000,
+    "deal_date": "2023-10-17",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "정원",
+    "district": "화곡동",
+    "area_m2": 52.65,
+    "floor": 5,
+    "price_10k": 20700,
+    "deal_date": "2023-10-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정원",
+    "district": "화곡동",
+    "area_m2": 60.96,
+    "floor": 2,
+    "price_10k": 25500,
+    "deal_date": "2023-10-02",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변",
+    "district": "가양동",
+    "area_m2": 34.44,
+    "floor": 12,
+    "price_10k": 51000,
+    "deal_date": "2023-10-14",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "화곡6차보람쉬움",
+    "district": "화곡동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 64000,
+    "deal_date": "2023-10-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성",
+    "district": "방화동",
+    "area_m2": 64.65,
+    "floor": 4,
+    "price_10k": 62400,
+    "deal_date": "2023-10-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림경동아파트",
+    "district": "가양동",
+    "area_m2": 131.4,
+    "floor": 4,
+    "price_10k": 115000,
+    "deal_date": "2023-10-12",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성한사랑1",
+    "district": "등촌동",
+    "area_m2": 59.73,
+    "floor": 13,
+    "price_10k": 64300,
+    "deal_date": "2023-10-09",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아녜스타워4",
+    "district": "화곡동",
+    "area_m2": 12,
+    "floor": 13,
+    "price_10k": 10050,
+    "deal_date": "2023-10-16",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡수명산파크4단지",
+    "district": "내발산동",
+    "area_m2": 59.84,
+    "floor": 11,
+    "price_10k": 82000,
+    "deal_date": "2023-10-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방화그린",
+    "district": "방화동",
+    "area_m2": 33.6,
+    "floor": 6,
+    "price_10k": 38000,
+    "deal_date": "2023-10-02",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가양2단지(성지)",
+    "district": "가양동",
+    "area_m2": 49.56,
+    "floor": 4,
+    "price_10k": 51000,
+    "deal_date": "2023-10-10",
+    "build_year": 1992,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼성하나로",
+    "district": "염창동",
+    "area_m2": 59.26,
+    "floor": 8,
+    "price_10k": 58000,
+    "deal_date": "2023-10-06",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우장산힐스테이트",
+    "district": "내발산동",
+    "area_m2": 59.98,
+    "floor": 6,
+    "price_10k": 99500,
+    "deal_date": "2023-10-05",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경동팰리스힐",
+    "district": "방화동",
+    "area_m2": 12.22,
+    "floor": 4,
+    "price_10k": 10000,
+    "deal_date": "2023-10-05",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마곡엠밸리8단지",
+    "district": "마곡동",
+    "area_m2": 84.64,
+    "floor": 10,
+    "price_10k": 105000,
+    "deal_date": "2023-10-04",
+    "build_year": 2016,
+    "deal_type": "직거래"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "인왕산아이파크",
+    "district": "무악동",
+    "area_m2": 59.993,
+    "floor": 12,
+    "price_10k": 103000,
+    "deal_date": "2024-12-28",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청운현대",
+    "district": "청운동",
+    "area_m2": 78.78,
+    "floor": 4,
+    "price_10k": 109000,
+    "deal_date": "2024-12-21",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동대문",
+    "district": "창신동",
+    "area_m2": 28.8,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2024-12-17",
+    "build_year": 1966,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "종로센트레빌",
+    "district": "숭인동",
+    "area_m2": 59.92,
+    "floor": 3,
+    "price_10k": 85500,
+    "deal_date": "2024-12-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 84.614,
+    "floor": 4,
+    "price_10k": 233000,
+    "deal_date": "2024-12-31",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로아인스빌",
+    "district": "숭인동",
+    "area_m2": 12.15,
+    "floor": 10,
+    "price_10k": 9500,
+    "deal_date": "2024-12-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "브라운스톤창신",
+    "district": "창신동",
+    "area_m2": 84.87,
+    "floor": 6,
+    "price_10k": 92900,
+    "deal_date": "2024-12-19",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남1",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 12,
+    "price_10k": 120000,
+    "deal_date": "2024-12-07",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창신쌍용2",
+    "district": "창신동",
+    "area_m2": 115.53,
+    "floor": 14,
+    "price_10k": 87000,
+    "deal_date": "2024-12-25",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 14.69,
+    "floor": 8,
+    "price_10k": 11200,
+    "deal_date": "2024-12-09",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "로얄팰리스스위트",
+    "district": "수송동",
+    "area_m2": 43.07,
+    "floor": 12,
+    "price_10k": 41000,
+    "deal_date": "2024-12-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효자",
+    "district": "통인동",
+    "area_m2": 61.49,
+    "floor": 5,
+    "price_10k": 22000,
+    "deal_date": "2024-12-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남1",
+    "district": "명륜2가",
+    "area_m2": 84.9,
+    "floor": 3,
+    "price_10k": 125000,
+    "deal_date": "2024-12-09",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "인왕산아이파크",
+    "district": "무악동",
+    "area_m2": 114.931,
+    "floor": 4,
+    "price_10k": 144000,
+    "deal_date": "2024-12-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데낙천대",
+    "district": "평창동",
+    "area_m2": 133.34,
+    "floor": 11,
+    "price_10k": 113000,
+    "deal_date": "2024-12-17",
+    "build_year": 2001,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 45.5,
+    "floor": 7,
+    "price_10k": 43500,
+    "deal_date": "2024-12-09",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창신쌍용2",
+    "district": "창신동",
+    "area_m2": 79.87,
+    "floor": 14,
+    "price_10k": 69500,
+    "deal_date": "2024-12-10",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬로잔",
+    "district": "평창동",
+    "area_m2": 219.775,
+    "floor": 3,
+    "price_10k": 232000,
+    "deal_date": "2024-12-12",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  }
+]

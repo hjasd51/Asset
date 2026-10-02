@@ -1,0 +1,412 @@
+[
+  {
+    "name": "동광갈현베르빌",
+    "district": "갈현동",
+    "area_m2": 134.715,
+    "floor": 3,
+    "price_10k": 95000,
+    "deal_date": "2022-07-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미래하임(9-46)",
+    "district": "대조동",
+    "area_m2": 39.92,
+    "floor": 11,
+    "price_10k": 37000,
+    "deal_date": "2022-07-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 12,
+    "price_10k": 116000,
+    "deal_date": "2022-07-28",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대경아르체아파트",
+    "district": "대조동",
+    "area_m2": 29.99,
+    "floor": 9,
+    "price_10k": 42000,
+    "deal_date": "2022-07-30",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "선우아파트",
+    "district": "불광동",
+    "area_m2": 70.82,
+    "floor": 3,
+    "price_10k": 46000,
+    "deal_date": "2022-07-26",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "부호(101동)",
+    "district": "역촌동",
+    "area_m2": 79.77,
+    "floor": 1,
+    "price_10k": 57500,
+    "deal_date": "2022-07-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 90000,
+    "deal_date": "2022-07-30",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동광갈현베르빌",
+    "district": "갈현동",
+    "area_m2": 134.715,
+    "floor": 3,
+    "price_10k": 95000,
+    "deal_date": "2022-07-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "자선메르시안(162-18)",
+    "district": "증산동",
+    "area_m2": 62.8,
+    "floor": 7,
+    "price_10k": 48000,
+    "deal_date": "2022-07-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.87,
+    "floor": 7,
+    "price_10k": 119000,
+    "deal_date": "2022-07-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "제이타워4",
+    "district": "대조동",
+    "area_m2": 12.16,
+    "floor": 8,
+    "price_10k": 9550,
+    "deal_date": "2022-07-22",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 4,
+    "price_10k": 12200,
+    "deal_date": "2022-07-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 102500,
+    "deal_date": "2022-07-28",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "브라운스톤구산",
+    "district": "구산동",
+    "area_m2": 84.89,
+    "floor": 11,
+    "price_10k": 83800,
+    "deal_date": "2022-07-29",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역촌월드",
+    "district": "역촌동",
+    "area_m2": 57.69,
+    "floor": 3,
+    "price_10k": 33800,
+    "deal_date": "2022-07-09",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효민아크로뷰",
+    "district": "불광동",
+    "area_m2": 15.09,
+    "floor": 14,
+    "price_10k": 24000,
+    "deal_date": "2022-07-08",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.93,
+    "floor": 4,
+    "price_10k": 102000,
+    "deal_date": "2022-07-01",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거장메카(116-22)",
+    "district": "응암동",
+    "area_m2": 24.77,
+    "floor": 7,
+    "price_10k": 36200,
+    "deal_date": "2022-07-12",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 10,
+    "price_10k": 126000,
+    "deal_date": "2022-07-15",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사씨티",
+    "district": "신사동",
+    "area_m2": 58.09,
+    "floor": 17,
+    "price_10k": 48000,
+    "deal_date": "2022-07-07",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청운퀸즈",
+    "district": "역촌동",
+    "area_m2": 76.705,
+    "floor": 2,
+    "price_10k": 48000,
+    "deal_date": "2022-07-18",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.93,
+    "floor": 4,
+    "price_10k": 102000,
+    "deal_date": "2022-07-01",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거장메카(116-22)",
+    "district": "응암동",
+    "area_m2": 24.77,
+    "floor": 9,
+    "price_10k": 36200,
+    "deal_date": "2022-07-05",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신사씨티",
+    "district": "신사동",
+    "area_m2": 58.09,
+    "floor": 17,
+    "price_10k": 48000,
+    "deal_date": "2022-07-23",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.93,
+    "floor": 6,
+    "price_10k": 104000,
+    "deal_date": "2022-07-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산포레스트",
+    "district": "대조동",
+    "area_m2": 29.02,
+    "floor": 4,
+    "price_10k": 36250,
+    "deal_date": "2022-07-06",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "거장메카",
+    "district": "녹번동",
+    "area_m2": 39.51,
+    "floor": 10,
+    "price_10k": 42800,
+    "deal_date": "2022-07-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "거장메카",
+    "district": "녹번동",
+    "area_m2": 39.51,
+    "floor": 13,
+    "price_10k": 42500,
+    "deal_date": "2022-07-03",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운솔하임",
+    "district": "진관동",
+    "area_m2": 45.044,
+    "floor": 11,
+    "price_10k": 58100,
+    "deal_date": "2022-07-08",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "엔에스아파트",
+    "district": "구산동",
+    "area_m2": 56.52,
+    "floor": 5,
+    "price_10k": 22500,
+    "deal_date": "2022-07-12",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운 제각말 푸르지오(5-1단지)",
+    "district": "진관동",
+    "area_m2": 101.83,
+    "floor": 5,
+    "price_10k": 103000,
+    "deal_date": "2022-07-15",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 59.8545,
+    "floor": 12,
+    "price_10k": 92000,
+    "deal_date": "2022-07-11",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 3,
+    "price_10k": 94500,
+    "deal_date": "2022-07-07",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경향파크",
+    "district": "구산동",
+    "area_m2": 84.75,
+    "floor": 13,
+    "price_10k": 47200,
+    "deal_date": "2022-07-02",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우물골2단지두산위브(245~255동)BL2-6",
+    "district": "진관동",
+    "area_m2": 84.54,
+    "floor": 8,
+    "price_10k": 93000,
+    "deal_date": "2022-07-14",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효민아크로뷰",
+    "district": "불광동",
+    "area_m2": 15.09,
+    "floor": 17,
+    "price_10k": 23000,
+    "deal_date": "2022-07-07",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대경홈타운",
+    "district": "대조동",
+    "area_m2": 13.79,
+    "floor": 10,
+    "price_10k": 10000,
+    "deal_date": "2022-07-01",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미래하임(6-19)",
+    "district": "대조동",
+    "area_m2": 24.41,
+    "floor": 5,
+    "price_10k": 24150,
+    "deal_date": "2022-07-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대홈타운",
+    "district": "불광동",
+    "area_m2": 84.9956,
+    "floor": 11,
+    "price_10k": 100000,
+    "deal_date": "2022-07-01",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(426~428동)BL3-11",
+    "district": "진관동",
+    "area_m2": 134.87,
+    "floor": 15,
+    "price_10k": 142000,
+    "deal_date": "2022-07-03",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC덕원",
+    "district": "증산동",
+    "area_m2": 59.57,
+    "floor": 11,
+    "price_10k": 77400,
+    "deal_date": "2022-07-02",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  }
+]

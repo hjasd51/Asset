@@ -1,0 +1,172 @@
+[
+  {
+    "name": "하루방",
+    "district": "쌍문동",
+    "area_m2": 80.25,
+    "floor": 2,
+    "price_10k": 40500,
+    "deal_date": "2022-10-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공17단지",
+    "district": "창동",
+    "area_m2": 36.16,
+    "floor": 15,
+    "price_10k": 31500,
+    "deal_date": "2022-10-26",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "도봉동",
+    "area_m2": 84.94,
+    "floor": 1,
+    "price_10k": 54200,
+    "deal_date": "2022-10-24",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양7",
+    "district": "쌍문동",
+    "area_m2": 84.86,
+    "floor": 15,
+    "price_10k": 60000,
+    "deal_date": "2022-10-19",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산아파트1",
+    "district": "방학동",
+    "area_m2": 52.36,
+    "floor": 10,
+    "price_10k": 34700,
+    "deal_date": "2022-10-19",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트1",
+    "district": "방학동",
+    "area_m2": 70.62,
+    "floor": 10,
+    "price_10k": 47000,
+    "deal_date": "2022-10-17",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방학지음재힐스",
+    "district": "방학동",
+    "area_m2": 14.86,
+    "floor": 11,
+    "price_10k": 13500,
+    "deal_date": "2022-10-14",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창동주공4단지",
+    "district": "창동",
+    "area_m2": 41.3,
+    "floor": 11,
+    "price_10k": 42000,
+    "deal_date": "2022-10-16",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창동주공2단지",
+    "district": "창동",
+    "area_m2": 45.55,
+    "floor": 6,
+    "price_10k": 44000,
+    "deal_date": "2022-10-11",
+    "build_year": 1990,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "한양2",
+    "district": "쌍문동",
+    "area_m2": 35.1,
+    "floor": 9,
+    "price_10k": 24800,
+    "deal_date": "2022-10-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "퍼스티안",
+    "district": "방학동",
+    "area_m2": 13.6794,
+    "floor": 5,
+    "price_10k": 9000,
+    "deal_date": "2022-10-25",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양2",
+    "district": "쌍문동",
+    "area_m2": 76.92,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2022-10-20",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산아이파크5차",
+    "district": "창동",
+    "area_m2": 165.1717,
+    "floor": 12,
+    "price_10k": 147000,
+    "deal_date": "2022-10-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창동주공4단지",
+    "district": "창동",
+    "area_m2": 49.94,
+    "floor": 8,
+    "price_10k": 47000,
+    "deal_date": "2022-10-06",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "도봉동",
+    "area_m2": 84.94,
+    "floor": 8,
+    "price_10k": 54500,
+    "deal_date": "2022-10-06",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월가타워",
+    "district": "창동",
+    "area_m2": 13.09,
+    "floor": 13,
+    "price_10k": 9500,
+    "deal_date": "2022-10-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공19단지(창동리버타운)",
+    "district": "창동",
+    "area_m2": 60.5,
+    "floor": 5,
+    "price_10k": 66000,
+    "deal_date": "2022-10-04",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  }
+]

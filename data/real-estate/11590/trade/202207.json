@@ -1,0 +1,142 @@
+[
+  {
+    "name": "상도휴엔하임",
+    "district": "상도동",
+    "area_m2": 14.7,
+    "floor": 9,
+    "price_10k": 14700,
+    "deal_date": "2022-07-30",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "제일",
+    "district": "사당동",
+    "area_m2": 60.03,
+    "floor": 2,
+    "price_10k": 84000,
+    "deal_date": "2022-07-28",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아리버파크",
+    "district": "노량진동",
+    "area_m2": 114.75,
+    "floor": 16,
+    "price_10k": 115000,
+    "deal_date": "2022-07-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안",
+    "district": "본동",
+    "area_m2": 84.2261,
+    "floor": 9,
+    "price_10k": 125500,
+    "deal_date": "2022-07-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버하임",
+    "district": "흑석동",
+    "area_m2": 84.9184,
+    "floor": 1,
+    "price_10k": 198000,
+    "deal_date": "2022-07-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트 상도 센트럴파크",
+    "district": "상도동",
+    "area_m2": 84.6099,
+    "floor": 11,
+    "price_10k": 155100,
+    "deal_date": "2022-07-22",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종인아네스트",
+    "district": "상도동",
+    "area_m2": 56.97,
+    "floor": 7,
+    "price_10k": 59300,
+    "deal_date": "2022-07-02",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "흑석한강센트레빌",
+    "district": "흑석동",
+    "area_m2": 84.84,
+    "floor": 11,
+    "price_10k": 169000,
+    "deal_date": "2022-07-09",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아데나339",
+    "district": "대방동",
+    "area_m2": 13.58,
+    "floor": 7,
+    "price_10k": 12250,
+    "deal_date": "2022-07-22",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "신대방동",
+    "area_m2": 84.57,
+    "floor": 2,
+    "price_10k": 96500,
+    "deal_date": "2022-07-07",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "흑석동양아파트",
+    "district": "흑석동",
+    "area_m2": 84.991,
+    "floor": 6,
+    "price_10k": 114000,
+    "deal_date": "2022-07-15",
+    "build_year": 2003,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "동작협성휴포레시그니처",
+    "district": "신대방동",
+    "area_m2": 84.9464,
+    "floor": 7,
+    "price_10k": 81000,
+    "deal_date": "2022-07-11",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "사당휴브리지(206-127)",
+    "district": "사당동",
+    "area_m2": 12.42,
+    "floor": 13,
+    "price_10k": 13700,
+    "deal_date": "2022-07-10",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아리버파크",
+    "district": "노량진동",
+    "area_m2": 114.75,
+    "floor": 6,
+    "price_10k": 90000,
+    "deal_date": "2022-07-08",
+    "build_year": 2001,
+    "deal_type": "직거래"
+  }
+]

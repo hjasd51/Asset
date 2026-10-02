@@ -1,0 +1,162 @@
+[
+  {
+    "name": "독산오르페움타워",
+    "district": "독산동",
+    "area_m2": 40.074,
+    "floor": 6,
+    "price_10k": 41000,
+    "deal_date": "2023-01-08",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 59.9662,
+    "floor": 13,
+    "price_10k": 75000,
+    "deal_date": "2023-01-30",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진도3차아파트",
+    "district": "독산동",
+    "area_m2": 59.34,
+    "floor": 16,
+    "price_10k": 47500,
+    "deal_date": "2023-01-25",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 84.8114,
+    "floor": 16,
+    "price_10k": 100000,
+    "deal_date": "2023-01-20",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 84.4623,
+    "floor": 24,
+    "price_10k": 97000,
+    "deal_date": "2023-01-27",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산오르페움타워",
+    "district": "독산동",
+    "area_m2": 40.074,
+    "floor": 6,
+    "price_10k": 41000,
+    "deal_date": "2023-01-08",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 84.786,
+    "floor": 22,
+    "price_10k": 80000,
+    "deal_date": "2023-01-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 13,
+    "price_10k": 53500,
+    "deal_date": "2023-01-12",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 134.95,
+    "floor": 24,
+    "price_10k": 95000,
+    "deal_date": "2023-01-13",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "계룡아파트",
+    "district": "독산동",
+    "area_m2": 59.34,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2023-01-17",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천현대",
+    "district": "독산동",
+    "area_m2": 59.82,
+    "floor": 1,
+    "price_10k": 49500,
+    "deal_date": "2023-01-19",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "럭키남서울아파트",
+    "district": "시흥동",
+    "area_m2": 49.75,
+    "floor": 6,
+    "price_10k": 61000,
+    "deal_date": "2023-01-13",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 20,
+    "price_10k": 53000,
+    "deal_date": "2023-01-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시흥베르빌",
+    "district": "시흥동",
+    "area_m2": 84.94,
+    "floor": 11,
+    "price_10k": 65000,
+    "deal_date": "2023-01-11",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "우방",
+    "district": "시흥동",
+    "area_m2": 84.84,
+    "floor": 11,
+    "price_10k": 59000,
+    "deal_date": "2023-01-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "시흥동",
+    "area_m2": 84.84,
+    "floor": 11,
+    "price_10k": 59000,
+    "deal_date": "2023-01-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  }
+]

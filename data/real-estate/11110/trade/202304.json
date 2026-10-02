@@ -1,0 +1,172 @@
+[
+  {
+    "name": "광화문스페이스본(101동~105동)",
+    "district": "사직동",
+    "area_m2": 160.85,
+    "floor": 12,
+    "price_10k": 190000,
+    "deal_date": "2023-04-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효성쥬얼리시티",
+    "district": "인의동",
+    "area_m2": 98.39,
+    "floor": 9,
+    "price_10k": 85000,
+    "deal_date": "2023-04-21",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(3단지)",
+    "district": "평동",
+    "area_m2": 84.8359,
+    "floor": 18,
+    "price_10k": 183500,
+    "deal_date": "2023-04-23",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 77.9737,
+    "floor": 17,
+    "price_10k": 162500,
+    "deal_date": "2023-04-27",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 59.8547,
+    "floor": 14,
+    "price_10k": 155000,
+    "deal_date": "2023-04-23",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 46.64,
+    "floor": 4,
+    "price_10k": 38000,
+    "deal_date": "2023-04-11",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효성쥬얼리시티",
+    "district": "인의동",
+    "area_m2": 92.81,
+    "floor": 14,
+    "price_10k": 90000,
+    "deal_date": "2023-04-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 84.8359,
+    "floor": 10,
+    "price_10k": 180200,
+    "deal_date": "2023-04-14",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 101.9914,
+    "floor": 10,
+    "price_10k": 240000,
+    "deal_date": "2023-04-07",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁롯데캐슬",
+    "district": "무악동",
+    "area_m2": 59.6737,
+    "floor": 15,
+    "price_10k": 118000,
+    "deal_date": "2023-04-10",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 84.8359,
+    "floor": 9,
+    "price_10k": 182000,
+    "deal_date": "2023-04-08",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "송림아마레스아파트",
+    "district": "명륜1가",
+    "area_m2": 34.7,
+    "floor": 6,
+    "price_10k": 34900,
+    "deal_date": "2023-04-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로아인스빌",
+    "district": "숭인동",
+    "area_m2": 12.15,
+    "floor": 12,
+    "price_10k": 11000,
+    "deal_date": "2023-04-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁의아침3단지",
+    "district": "내수동",
+    "area_m2": 174.55,
+    "floor": 4,
+    "price_10k": 220000,
+    "deal_date": "2023-04-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "무악동",
+    "area_m2": 114.9,
+    "floor": 9,
+    "price_10k": 110000,
+    "deal_date": "2023-04-14",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "숭인한양LEEPS",
+    "district": "숭인동",
+    "area_m2": 12.78,
+    "floor": 7,
+    "price_10k": 11000,
+    "deal_date": "2023-04-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 19.466,
+    "floor": 16,
+    "price_10k": 13500,
+    "deal_date": "2023-04-05",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.2,
+    "floor": 6,
+    "price_10k": 36300,
+    "deal_date": "2022-11-29",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.87,
+    "floor": 1,
+    "price_10k": 36300,
+    "deal_date": "2022-11-29",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 3,
+    "price_10k": 44500,
+    "deal_date": "2022-11-29",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 2,
+    "price_10k": 44500,
+    "deal_date": "2022-11-29",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.75,
+    "floor": 2,
+    "price_10k": 44500,
+    "deal_date": "2022-11-29",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 81000,
+    "deal_date": "2022-11-16",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 81000,
+    "deal_date": "2022-11-16",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "유호루하스",
+    "district": "갈현동",
+    "area_m2": 16.768,
+    "floor": 7,
+    "price_10k": 12000,
+    "deal_date": "2022-11-18",
+    "build_year": 2018,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "유호루하스",
+    "district": "갈현동",
+    "area_m2": 16.768,
+    "floor": 7,
+    "price_10k": 12000,
+    "deal_date": "2022-11-18",
+    "build_year": 2018,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 82750,
+    "deal_date": "2022-11-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상 수색 에코포레",
+    "district": "수색동",
+    "area_m2": 59.895,
+    "floor": 1,
+    "price_10k": 50000,
+    "deal_date": "2022-11-30",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 5,
+    "price_10k": 87000,
+    "deal_date": "2022-11-16",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 81000,
+    "deal_date": "2022-11-16",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(615~621동)BL1-6",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 3,
+    "price_10k": 65500,
+    "deal_date": "2022-11-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 134.83,
+    "floor": 4,
+    "price_10k": 110000,
+    "deal_date": "2022-11-19",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "프라임팰리스",
+    "district": "응암동",
+    "area_m2": 71.16,
+    "floor": 14,
+    "price_10k": 50000,
+    "deal_date": "2022-11-29",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(101~111동)BL2-12",
+    "district": "진관동",
+    "area_m2": 59.85,
+    "floor": 11,
+    "price_10k": 70000,
+    "deal_date": "2022-11-21",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운기자촌11단지",
+    "district": "진관동",
+    "area_m2": 84.94,
+    "floor": 7,
+    "price_10k": 72000,
+    "deal_date": "2022-11-17",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운솔하임",
+    "district": "진관동",
+    "area_m2": 45.044,
+    "floor": 18,
+    "price_10k": 58000,
+    "deal_date": "2022-11-21",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "구산동",
+    "area_m2": 84.69,
+    "floor": 8,
+    "price_10k": 52000,
+    "deal_date": "2022-11-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(601~605동)BL1-8",
+    "district": "진관동",
+    "area_m2": 101.93,
+    "floor": 5,
+    "price_10k": 77000,
+    "deal_date": "2022-11-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신아",
+    "district": "신사동",
+    "area_m2": 57.06,
+    "floor": 7,
+    "price_10k": 34900,
+    "deal_date": "2022-11-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.2,
+    "floor": 4,
+    "price_10k": 29200,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 5,
+    "price_10k": 34415,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 2,
+    "price_10k": 36300,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.2,
+    "floor": 2,
+    "price_10k": 29200,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 66.43,
+    "floor": 1,
+    "price_10k": 35500,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 2,
+    "price_10k": 36400,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.2,
+    "floor": 6,
+    "price_10k": 27980,
+    "deal_date": "2022-11-30",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.7488,
+    "floor": 32,
+    "price_10k": 95000,
+    "deal_date": "2022-11-06",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 5,
+    "price_10k": 11000,
+    "deal_date": "2022-11-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산포레스트",
+    "district": "대조동",
+    "area_m2": 29.02,
+    "floor": 4,
+    "price_10k": 36500,
+    "deal_date": "2022-11-23",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 59.92,
+    "floor": 4,
+    "price_10k": 75000,
+    "deal_date": "2022-11-15",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 65.78,
+    "floor": 3,
+    "price_10k": 26600,
+    "deal_date": "2022-11-22",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "역촌맨션",
+    "district": "갈현동",
+    "area_m2": 53.2,
+    "floor": 3,
+    "price_10k": 19600,
+    "deal_date": "2022-11-22",
+    "build_year": 1973,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "정익제이원5차",
+    "district": "불광동",
+    "area_m2": 16.07,
+    "floor": 7,
+    "price_10k": 23300,
+    "deal_date": "2022-11-18",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다원(107-4)",
+    "district": "응암동",
+    "area_m2": 57.23,
+    "floor": 9,
+    "price_10k": 43000,
+    "deal_date": "2022-11-07",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 39.83,
+    "floor": 1,
+    "price_10k": 50000,
+    "deal_date": "2022-11-04",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  }
+]

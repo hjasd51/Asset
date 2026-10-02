@@ -1,0 +1,172 @@
+[
+  {
+    "name": "무지개",
+    "district": "시흥동",
+    "area_m2": 84.96,
+    "floor": 2,
+    "price_10k": 99000,
+    "deal_date": "2022-02-24",
+    "build_year": 1980,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 115.801,
+    "floor": 5,
+    "price_10k": 119000,
+    "deal_date": "2022-02-03",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산현대",
+    "district": "독산동",
+    "area_m2": 58.72,
+    "floor": 7,
+    "price_10k": 62500,
+    "deal_date": "2022-02-23",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "시흥동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 64800,
+    "deal_date": "2022-02-22",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울건영아파트",
+    "district": "시흥동",
+    "area_m2": 53.39,
+    "floor": 5,
+    "price_10k": 58000,
+    "deal_date": "2022-02-24",
+    "build_year": 1982,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔아트빌라",
+    "district": "독산동",
+    "area_m2": 67.88,
+    "floor": 1,
+    "price_10k": 26000,
+    "deal_date": "2022-02-19",
+    "build_year": 2001,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대(209)",
+    "district": "시흥동",
+    "area_m2": 82.53,
+    "floor": 13,
+    "price_10k": 52000,
+    "deal_date": "2022-02-16",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산오르페움타워",
+    "district": "독산동",
+    "area_m2": 40.074,
+    "floor": 6,
+    "price_10k": 36000,
+    "deal_date": "2022-02-21",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울건영2",
+    "district": "시흥동",
+    "area_m2": 61.14,
+    "floor": 2,
+    "price_10k": 59000,
+    "deal_date": "2022-02-28",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "와이즈플레이스",
+    "district": "시흥동",
+    "area_m2": 14.22,
+    "floor": 14,
+    "price_10k": 11200,
+    "deal_date": "2022-02-15",
+    "build_year": 2012,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "남서울건영2",
+    "district": "시흥동",
+    "area_m2": 41.34,
+    "floor": 13,
+    "price_10k": 40000,
+    "deal_date": "2022-02-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금강",
+    "district": "시흥동",
+    "area_m2": 59.95,
+    "floor": 17,
+    "price_10k": 51000,
+    "deal_date": "2022-02-08",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "탑스빌",
+    "district": "시흥동",
+    "area_m2": 79.84,
+    "floor": 12,
+    "price_10k": 53200,
+    "deal_date": "2022-02-24",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산피어니빌",
+    "district": "가산동",
+    "area_m2": 13.8029,
+    "floor": 8,
+    "price_10k": 14500,
+    "deal_date": "2022-02-27",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백운한비치",
+    "district": "시흥동",
+    "area_m2": 76.0537,
+    "floor": 7,
+    "price_10k": 59800,
+    "deal_date": "2022-02-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트바이올렛5차",
+    "district": "가산동",
+    "area_m2": 12.19,
+    "floor": 14,
+    "price_10k": 12300,
+    "deal_date": "2022-02-05",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "가산양우내안에애플",
+    "district": "가산동",
+    "area_m2": 12.04,
+    "floor": 13,
+    "price_10k": 11300,
+    "deal_date": "2022-02-04",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  }
+]

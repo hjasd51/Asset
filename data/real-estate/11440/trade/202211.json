@@ -1,0 +1,202 @@
+[
+  {
+    "name": "밤섬경남아너스빌",
+    "district": "신수동",
+    "area_m2": 84.83,
+    "floor": 1,
+    "price_10k": 98000,
+    "deal_date": "2022-11-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상록",
+    "district": "염리동",
+    "area_m2": 49.8,
+    "floor": 14,
+    "price_10k": 65000,
+    "deal_date": "2022-11-30",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포래미안푸르지오3단지",
+    "district": "아현동",
+    "area_m2": 59.9656,
+    "floor": 7,
+    "price_10k": 113000,
+    "deal_date": "2022-11-29",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메세나폴리스",
+    "district": "서교동",
+    "area_m2": 142.034,
+    "floor": 23,
+    "price_10k": 250000,
+    "deal_date": "2022-11-28",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "홍익하이빌",
+    "district": "연남동",
+    "area_m2": 44.46,
+    "floor": 4,
+    "price_10k": 28800,
+    "deal_date": "2022-11-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산시영(유원)",
+    "district": "성산동",
+    "area_m2": 59.43,
+    "floor": 7,
+    "price_10k": 98000,
+    "deal_date": "2022-11-28",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상록",
+    "district": "염리동",
+    "area_m2": 57.88,
+    "floor": 13,
+    "price_10k": 68000,
+    "deal_date": "2022-11-19",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포그랑자이",
+    "district": "대흥동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 141500,
+    "deal_date": "2022-11-26",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신구강변연가",
+    "district": "상수동",
+    "area_m2": 152.336,
+    "floor": 12,
+    "price_10k": 215000,
+    "deal_date": "2022-11-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산시영(선경)",
+    "district": "성산동",
+    "area_m2": 50.54,
+    "floor": 10,
+    "price_10k": 88000,
+    "deal_date": "2022-11-09",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크2단지",
+    "district": "상암동",
+    "area_m2": 59.92,
+    "floor": 13,
+    "price_10k": 80000,
+    "deal_date": "2022-11-10",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서희스타힐스",
+    "district": "대흥동",
+    "area_m2": 12.85,
+    "floor": 16,
+    "price_10k": 16900,
+    "deal_date": "2022-11-12",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우리파크아파트",
+    "district": "염리동",
+    "area_m2": 22.92,
+    "floor": 1,
+    "price_10k": 61000,
+    "deal_date": "2022-11-29",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "우리파크아파트",
+    "district": "염리동",
+    "area_m2": 22.92,
+    "floor": 1,
+    "price_10k": 61000,
+    "deal_date": "2022-11-28",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼익플라주서교2차",
+    "district": "성산동",
+    "area_m2": 81.09,
+    "floor": 6,
+    "price_10k": 53000,
+    "deal_date": "2022-11-15",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠101동",
+    "district": "창전동",
+    "area_m2": 57.86,
+    "floor": 1,
+    "price_10k": 43000,
+    "deal_date": "2022-11-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마포그랑자이",
+    "district": "대흥동",
+    "area_m2": 84.98,
+    "floor": 4,
+    "price_10k": 153500,
+    "deal_date": "2022-11-05",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성산시영(선경)",
+    "district": "성산동",
+    "area_m2": 50.54,
+    "floor": 10,
+    "price_10k": 88000,
+    "deal_date": "2022-11-03",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대하이츠아파트",
+    "district": "성산동",
+    "area_m2": 84.7,
+    "floor": 5,
+    "price_10k": 82000,
+    "deal_date": "2022-11-18",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상암월드컵파크2단지",
+    "district": "상암동",
+    "area_m2": 59.84,
+    "floor": 11,
+    "price_10k": 85000,
+    "deal_date": "2022-11-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  }
+]

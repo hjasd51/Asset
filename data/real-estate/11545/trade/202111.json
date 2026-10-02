@@ -1,0 +1,272 @@
+[
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 134.95,
+    "floor": 20,
+    "price_10k": 110000,
+    "deal_date": "2021-11-24",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신아파트",
+    "district": "독산동",
+    "area_m2": 129.66,
+    "floor": 1,
+    "price_10k": 89800,
+    "deal_date": "2021-11-19",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산지웰에스테이트",
+    "district": "가산동",
+    "area_m2": 15.95,
+    "floor": 10,
+    "price_10k": 14800,
+    "deal_date": "2021-11-30",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 84.9,
+    "floor": 12,
+    "price_10k": 84500,
+    "deal_date": "2021-11-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산현대",
+    "district": "독산동",
+    "area_m2": 58.72,
+    "floor": 8,
+    "price_10k": 62800,
+    "deal_date": "2021-11-05",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 18,
+    "price_10k": 85300,
+    "deal_date": "2021-11-09",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산지웰에스테이트",
+    "district": "가산동",
+    "area_m2": 12.13,
+    "floor": 11,
+    "price_10k": 15900,
+    "deal_date": "2021-11-29",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "동은노보빌(887-1)",
+    "district": "독산동",
+    "area_m2": 84.6,
+    "floor": 5,
+    "price_10k": 51800,
+    "deal_date": "2021-11-05",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 59.84,
+    "floor": 3,
+    "price_10k": 70000,
+    "deal_date": "2021-11-05",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "와이즈플레이스",
+    "district": "시흥동",
+    "area_m2": 14.22,
+    "floor": 15,
+    "price_10k": 9450,
+    "deal_date": "2021-11-19",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(209)",
+    "district": "시흥동",
+    "area_m2": 59.91,
+    "floor": 4,
+    "price_10k": 40900,
+    "deal_date": "2021-11-23",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 5,
+    "price_10k": 69800,
+    "deal_date": "2021-11-08",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울건영2",
+    "district": "시흥동",
+    "area_m2": 84.82,
+    "floor": 10,
+    "price_10k": 72500,
+    "deal_date": "2021-11-23",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 59.968,
+    "floor": 37,
+    "price_10k": 103000,
+    "deal_date": "2021-11-05",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태영아파트",
+    "district": "독산동",
+    "area_m2": 59.86,
+    "floor": 5,
+    "price_10k": 49550,
+    "deal_date": "2021-11-05",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환아파트",
+    "district": "독산동",
+    "area_m2": 84.76,
+    "floor": 4,
+    "price_10k": 60000,
+    "deal_date": "2021-11-01",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환아파트",
+    "district": "독산동",
+    "area_m2": 59.94,
+    "floor": 6,
+    "price_10k": 50300,
+    "deal_date": "2021-11-01",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아파트",
+    "district": "시흥동",
+    "area_m2": 59.97,
+    "floor": 4,
+    "price_10k": 49800,
+    "deal_date": "2021-11-06",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산양우내안에애플",
+    "district": "가산동",
+    "area_m2": 12.04,
+    "floor": 13,
+    "price_10k": 10000,
+    "deal_date": "2021-11-18",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "와이즈플레이스",
+    "district": "시흥동",
+    "area_m2": 14.22,
+    "floor": 18,
+    "price_10k": 9000,
+    "deal_date": "2021-11-06",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "명도힐스티지",
+    "district": "독산동",
+    "area_m2": 29.63,
+    "floor": 15,
+    "price_10k": 29000,
+    "deal_date": "2021-11-02",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울건영2",
+    "district": "시흥동",
+    "area_m2": 61.14,
+    "floor": 10,
+    "price_10k": 60000,
+    "deal_date": "2021-11-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대광아파트",
+    "district": "독산동",
+    "area_m2": 84.6,
+    "floor": 5,
+    "price_10k": 48000,
+    "deal_date": "2021-11-06",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산지웰에스테이트",
+    "district": "가산동",
+    "area_m2": 15.96,
+    "floor": 10,
+    "price_10k": 14700,
+    "deal_date": "2021-11-11",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 13,
+    "price_10k": 68000,
+    "deal_date": "2021-11-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트바이올렛5차",
+    "district": "가산동",
+    "area_m2": 12.19,
+    "floor": 10,
+    "price_10k": 12000,
+    "deal_date": "2021-11-09",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "가산양우내안에애플",
+    "district": "가산동",
+    "area_m2": 12.04,
+    "floor": 10,
+    "price_10k": 11500,
+    "deal_date": "2021-11-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  }
+]

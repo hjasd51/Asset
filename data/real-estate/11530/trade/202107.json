@@ -1,0 +1,2782 @@
+[
+  {
+    "name": "천왕연지타운1단지",
+    "district": "천왕동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 105000,
+    "deal_date": "2021-07-29",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "M센트럴뷰",
+    "district": "구로동",
+    "area_m2": 48.61,
+    "floor": 6,
+    "price_10k": 48000,
+    "deal_date": "2021-07-09",
+    "build_year": 2020,
+    "deal_type": ""
+  },
+  {
+    "name": "현대연예인",
+    "district": "구로동",
+    "area_m2": 84.91,
+    "floor": 10,
+    "price_10k": 82000,
+    "deal_date": "2021-07-13",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 12,
+    "price_10k": 59000,
+    "deal_date": "2021-07-07",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "동선",
+    "district": "오류동",
+    "area_m2": 58.2159,
+    "floor": 17,
+    "price_10k": 51000,
+    "deal_date": "2021-07-05",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 84.85,
+    "floor": 10,
+    "price_10k": 70000,
+    "deal_date": "2021-07-12",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대림1",
+    "district": "신도림동",
+    "area_m2": 59.9,
+    "floor": 17,
+    "price_10k": 99000,
+    "deal_date": "2021-07-31",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 115,
+    "floor": 26,
+    "price_10k": 105000,
+    "deal_date": "2021-07-28",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 113.43,
+    "floor": 15,
+    "price_10k": 74000,
+    "deal_date": "2021-07-26",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "개봉동현대아이파크",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 3,
+    "price_10k": 96500,
+    "deal_date": "2021-07-28",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "서울가든",
+    "district": "고척동",
+    "area_m2": 64.39,
+    "floor": 7,
+    "price_10k": 70000,
+    "deal_date": "2021-07-31",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 9,
+    "price_10k": 56000,
+    "deal_date": "2021-07-31",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "SKVIEW",
+    "district": "신도림동",
+    "area_m2": 84.96,
+    "floor": 5,
+    "price_10k": 108700,
+    "deal_date": "2021-07-31",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "미성",
+    "district": "신도림동",
+    "area_m2": 66.03,
+    "floor": 7,
+    "price_10k": 91000,
+    "deal_date": "2021-07-31",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 84.99,
+    "floor": 8,
+    "price_10k": 90000,
+    "deal_date": "2021-07-31",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕연지타운1단지",
+    "district": "천왕동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 105000,
+    "deal_date": "2021-07-29",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 51.84,
+    "floor": 6,
+    "price_10k": 66500,
+    "deal_date": "2021-07-31",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 149.97,
+    "floor": 5,
+    "price_10k": 115000,
+    "deal_date": "2021-07-29",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 95000,
+    "deal_date": "2021-07-24",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "삼환",
+    "district": "개봉동",
+    "area_m2": 59.4,
+    "floor": 7,
+    "price_10k": 62000,
+    "deal_date": "2021-07-30",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "번영빌라",
+    "district": "구로동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 30000,
+    "deal_date": "2021-07-26",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "고척월드메르디앙",
+    "district": "고척동",
+    "area_m2": 84.93,
+    "floor": 17,
+    "price_10k": 92000,
+    "deal_date": "2021-07-26",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 71.06,
+    "floor": 11,
+    "price_10k": 62000,
+    "deal_date": "2021-07-29",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 10,
+    "price_10k": 63000,
+    "deal_date": "2021-07-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "보람쉬움",
+    "district": "구로동",
+    "area_m2": 81.0944,
+    "floor": 19,
+    "price_10k": 78000,
+    "deal_date": "2021-07-28",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인3단지",
+    "district": "항동",
+    "area_m2": 59.86,
+    "floor": 6,
+    "price_10k": 80000,
+    "deal_date": "2021-07-30",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 58.03,
+    "floor": 15,
+    "price_10k": 78700,
+    "deal_date": "2021-07-26",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "구로현대",
+    "district": "구로동",
+    "area_m2": 63.98,
+    "floor": 4,
+    "price_10k": 59000,
+    "deal_date": "2021-07-30",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 18,
+    "price_10k": 67000,
+    "deal_date": "2021-07-29",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "금호",
+    "district": "구로동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 53000,
+    "deal_date": "2021-07-21",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "대림1",
+    "district": "신도림동",
+    "area_m2": 101.48,
+    "floor": 22,
+    "price_10k": 135000,
+    "deal_date": "2021-07-21",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "디큐브시티",
+    "district": "신도림동",
+    "area_m2": 105.45,
+    "floor": 14,
+    "price_10k": 135000,
+    "deal_date": "2021-07-20",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "삼환로즈빌",
+    "district": "고척동",
+    "area_m2": 84.994,
+    "floor": 23,
+    "price_10k": 89800,
+    "deal_date": "2021-07-21",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "미성",
+    "district": "신도림동",
+    "area_m2": 37.91,
+    "floor": 9,
+    "price_10k": 65000,
+    "deal_date": "2021-07-31",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "동아1",
+    "district": "신도림동",
+    "area_m2": 59.978,
+    "floor": 2,
+    "price_10k": 97000,
+    "deal_date": "2021-07-24",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "비즈트위트레인보우",
+    "district": "구로동",
+    "area_m2": 15.58,
+    "floor": 3,
+    "price_10k": 12250,
+    "deal_date": "2021-07-20",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "오류동푸르지오",
+    "district": "오류동",
+    "area_m2": 61.257,
+    "floor": 6,
+    "price_10k": 75500,
+    "deal_date": "2021-07-30",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕연지타운1단지",
+    "district": "천왕동",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 77000,
+    "deal_date": "2021-07-21",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "우성2",
+    "district": "신도림동",
+    "area_m2": 84.82,
+    "floor": 2,
+    "price_10k": 110000,
+    "deal_date": "2021-07-23",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 58.03,
+    "floor": 19,
+    "price_10k": 77500,
+    "deal_date": "2021-07-24",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림현대",
+    "district": "구로동",
+    "area_m2": 80.01,
+    "floor": 13,
+    "price_10k": 91700,
+    "deal_date": "2021-07-20",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "서울가든",
+    "district": "고척동",
+    "area_m2": 84.99,
+    "floor": 2,
+    "price_10k": 80000,
+    "deal_date": "2021-07-19",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "오류동",
+    "area_m2": 59.83,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2021-07-25",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 3,
+    "price_10k": 57800,
+    "deal_date": "2021-07-17",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "우성꿈동산",
+    "district": "고척동",
+    "area_m2": 65.16,
+    "floor": 6,
+    "price_10k": 52100,
+    "deal_date": "2021-07-26",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "대림2",
+    "district": "신도림동",
+    "area_m2": 84.95,
+    "floor": 23,
+    "price_10k": 133000,
+    "deal_date": "2021-07-29",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "우창굿모닝",
+    "district": "오류동",
+    "area_m2": 102.99,
+    "floor": 2,
+    "price_10k": 42500,
+    "deal_date": "2021-07-24",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 54000,
+    "deal_date": "2021-07-20",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "다솜금호",
+    "district": "구로동",
+    "area_m2": 59.95,
+    "floor": 19,
+    "price_10k": 62000,
+    "deal_date": "2021-07-25",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 63500,
+    "deal_date": "2021-07-31",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 10,
+    "price_10k": 54800,
+    "deal_date": "2021-07-24",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 50.17,
+    "floor": 3,
+    "price_10k": 69500,
+    "deal_date": "2021-07-29",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 15,
+    "price_10k": 65200,
+    "deal_date": "2021-07-31",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "뉴홍현솔레디움",
+    "district": "구로동",
+    "area_m2": 84.86,
+    "floor": 2,
+    "price_10k": 72500,
+    "deal_date": "2021-07-17",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "개봉동현대아이파크",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 18,
+    "price_10k": 99700,
+    "deal_date": "2021-07-24",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "우성꿈동산",
+    "district": "고척동",
+    "area_m2": 84.19,
+    "floor": 12,
+    "price_10k": 62700,
+    "deal_date": "2021-07-22",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 58.03,
+    "floor": 18,
+    "price_10k": 79700,
+    "deal_date": "2021-07-22",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 22,
+    "price_10k": 64700,
+    "deal_date": "2021-07-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 84.915,
+    "floor": 10,
+    "price_10k": 89000,
+    "deal_date": "2021-07-31",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "영화아이닉스",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 69000,
+    "deal_date": "2021-07-19",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 12,
+    "price_10k": 55000,
+    "deal_date": "2021-07-14",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "신성미소지움",
+    "district": "구로동",
+    "area_m2": 84.23,
+    "floor": 7,
+    "price_10k": 75000,
+    "deal_date": "2021-07-22",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "다원그린빌",
+    "district": "구로동",
+    "area_m2": 114.84,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2021-07-19",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 71.06,
+    "floor": 17,
+    "price_10k": 59900,
+    "deal_date": "2021-07-17",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.97,
+    "floor": 6,
+    "price_10k": 62000,
+    "deal_date": "2021-07-15",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "고척파크푸르지오",
+    "district": "고척동",
+    "area_m2": 114.99,
+    "floor": 4,
+    "price_10k": 128000,
+    "deal_date": "2021-07-20",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 78000,
+    "deal_date": "2021-07-29",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "삼명",
+    "district": "고척동",
+    "area_m2": 43.74,
+    "floor": 4,
+    "price_10k": 40000,
+    "deal_date": "2021-07-24",
+    "build_year": 1977,
+    "deal_type": ""
+  },
+  {
+    "name": "(793-24)",
+    "district": "구로동",
+    "area_m2": 36.31,
+    "floor": 1,
+    "price_10k": 21800,
+    "deal_date": "2021-07-15",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "한신",
+    "district": "구로동",
+    "area_m2": 35.277,
+    "floor": 5,
+    "price_10k": 49300,
+    "deal_date": "2021-07-29",
+    "build_year": 1988,
+    "deal_type": ""
+  },
+  {
+    "name": "개봉동현대아이파크",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 1,
+    "price_10k": 92500,
+    "deal_date": "2021-07-19",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "동아1",
+    "district": "신도림동",
+    "area_m2": 59.978,
+    "floor": 23,
+    "price_10k": 108500,
+    "deal_date": "2021-07-21",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대연예인",
+    "district": "구로동",
+    "area_m2": 84.91,
+    "floor": 11,
+    "price_10k": 82000,
+    "deal_date": "2021-07-24",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인3단지",
+    "district": "항동",
+    "area_m2": 59.86,
+    "floor": 8,
+    "price_10k": 79000,
+    "deal_date": "2021-07-27",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "금강(343)",
+    "district": "오류동",
+    "area_m2": 84.983,
+    "floor": 4,
+    "price_10k": 89400,
+    "deal_date": "2021-07-31",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인3단지",
+    "district": "항동",
+    "area_m2": 74.85,
+    "floor": 14,
+    "price_10k": 89500,
+    "deal_date": "2021-07-21",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 58.03,
+    "floor": 16,
+    "price_10k": 77700,
+    "deal_date": "2021-07-23",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "신성미소지움",
+    "district": "구로동",
+    "area_m2": 84.23,
+    "floor": 10,
+    "price_10k": 74000,
+    "deal_date": "2021-07-21",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 21,
+    "price_10k": 79000,
+    "deal_date": "2021-07-16",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 115,
+    "floor": 16,
+    "price_10k": 98000,
+    "deal_date": "2021-07-23",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 19,
+    "price_10k": 64900,
+    "deal_date": "2021-07-30",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인4단지",
+    "district": "항동",
+    "area_m2": 59.86,
+    "floor": 10,
+    "price_10k": 79000,
+    "deal_date": "2021-07-31",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "동아3",
+    "district": "신도림동",
+    "area_m2": 84.99,
+    "floor": 15,
+    "price_10k": 140000,
+    "deal_date": "2021-07-18",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "(796-13)",
+    "district": "구로동",
+    "area_m2": 44.32,
+    "floor": 5,
+    "price_10k": 22000,
+    "deal_date": "2021-07-24",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "동아1",
+    "district": "신도림동",
+    "area_m2": 84.908,
+    "floor": 4,
+    "price_10k": 133000,
+    "deal_date": "2021-07-16",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 12,
+    "price_10k": 64500,
+    "deal_date": "2021-07-25",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대림e-편한세상7",
+    "district": "신도림동",
+    "area_m2": 84.928,
+    "floor": 5,
+    "price_10k": 136500,
+    "deal_date": "2021-07-16",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "남촌홈타운(730-2)",
+    "district": "구로동",
+    "area_m2": 65.71,
+    "floor": 4,
+    "price_10k": 40000,
+    "deal_date": "2021-07-22",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인2단지",
+    "district": "항동",
+    "area_m2": 74.83,
+    "floor": 3,
+    "price_10k": 90500,
+    "deal_date": "2021-07-23",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "세명",
+    "district": "구로동",
+    "area_m2": 30.76,
+    "floor": 5,
+    "price_10k": 24000,
+    "deal_date": "2021-07-30",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(101동~103동)",
+    "district": "오류동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 54000,
+    "deal_date": "2021-07-29",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 84.915,
+    "floor": 18,
+    "price_10k": 89000,
+    "deal_date": "2021-07-13",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 84.49,
+    "floor": 9,
+    "price_10k": 83000,
+    "deal_date": "2021-07-31",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "영광빌라",
+    "district": "구로동",
+    "area_m2": 30.72,
+    "floor": 5,
+    "price_10k": 21000,
+    "deal_date": "2021-07-30",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대림1",
+    "district": "신도림동",
+    "area_m2": 59.9,
+    "floor": 23,
+    "price_10k": 99000,
+    "deal_date": "2021-07-29",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "우성꿈동산",
+    "district": "고척동",
+    "area_m2": 80.29,
+    "floor": 12,
+    "price_10k": 54980,
+    "deal_date": "2021-07-14",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 84.97,
+    "floor": 10,
+    "price_10k": 95000,
+    "deal_date": "2021-07-22",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "영화",
+    "district": "개봉동",
+    "area_m2": 59.78,
+    "floor": 23,
+    "price_10k": 69250,
+    "deal_date": "2021-07-19",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "우원그린빌",
+    "district": "구로동",
+    "area_m2": 84.206,
+    "floor": 6,
+    "price_10k": 58000,
+    "deal_date": "2021-07-27",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 8,
+    "price_10k": 56900,
+    "deal_date": "2021-07-25",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대연예인",
+    "district": "구로동",
+    "area_m2": 84.91,
+    "floor": 10,
+    "price_10k": 82000,
+    "deal_date": "2021-07-13",
+    "build_year": 1989,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 6,
+    "price_10k": 80700,
+    "deal_date": "2021-07-17",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 59.49,
+    "floor": 19,
+    "price_10k": 72800,
+    "deal_date": "2021-07-24",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "하나세인스톤2차",
+    "district": "구로동",
+    "area_m2": 19.33,
+    "floor": 12,
+    "price_10k": 14200,
+    "deal_date": "2021-07-15",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 59.819,
+    "floor": 16,
+    "price_10k": 72000,
+    "deal_date": "2021-07-19",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 36.88,
+    "floor": 15,
+    "price_10k": 60000,
+    "deal_date": "2021-07-13",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "한진",
+    "district": "개봉동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 72650,
+    "deal_date": "2021-07-30",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "서해그랑블",
+    "district": "오류동",
+    "area_m2": 84.71,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2021-07-21",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 50.14,
+    "floor": 11,
+    "price_10k": 71500,
+    "deal_date": "2021-07-16",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(101동~103동)",
+    "district": "오류동",
+    "area_m2": 84.89,
+    "floor": 4,
+    "price_10k": 62500,
+    "deal_date": "2021-07-12",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성래미안",
+    "district": "구로동",
+    "area_m2": 78.665,
+    "floor": 15,
+    "price_10k": 94800,
+    "deal_date": "2021-07-29",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 84.741,
+    "floor": 11,
+    "price_10k": 80000,
+    "deal_date": "2021-07-09",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "신개봉삼환",
+    "district": "개봉동",
+    "area_m2": 59.81,
+    "floor": 10,
+    "price_10k": 64800,
+    "deal_date": "2021-07-17",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "구로현대",
+    "district": "구로동",
+    "area_m2": 56.49,
+    "floor": 15,
+    "price_10k": 63200,
+    "deal_date": "2021-07-17",
+    "build_year": 1992,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 56800,
+    "deal_date": "2021-07-17",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "금호",
+    "district": "구로동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 51000,
+    "deal_date": "2021-07-13",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 50.14,
+    "floor": 16,
+    "price_10k": 71800,
+    "deal_date": "2021-07-13",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 50.03,
+    "floor": 13,
+    "price_10k": 71800,
+    "deal_date": "2021-07-21",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "시티월드",
+    "district": "오류동",
+    "area_m2": 84.89,
+    "floor": 17,
+    "price_10k": 45000,
+    "deal_date": "2021-07-29",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕연지타운1단지",
+    "district": "천왕동",
+    "area_m2": 84.99,
+    "floor": 2,
+    "price_10k": 89900,
+    "deal_date": "2021-07-17",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "썬앤빌",
+    "district": "오류동",
+    "area_m2": 14.064,
+    "floor": 16,
+    "price_10k": 9000,
+    "deal_date": "2021-07-16",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕연지타운2단지",
+    "district": "천왕동",
+    "area_m2": 84.98,
+    "floor": 5,
+    "price_10k": 91500,
+    "deal_date": "2021-07-23",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "다청림시티",
+    "district": "온수동",
+    "area_m2": 41.16,
+    "floor": 2,
+    "price_10k": 24400,
+    "deal_date": "2021-07-29",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "구로동",
+    "area_m2": 84.57,
+    "floor": 7,
+    "price_10k": 76500,
+    "deal_date": "2021-07-17",
+    "build_year": 1988,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 1,
+    "price_10k": 48500,
+    "deal_date": "2021-07-23",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한진",
+    "district": "개봉동",
+    "area_m2": 84.96,
+    "floor": 9,
+    "price_10k": 74700,
+    "deal_date": "2021-07-19",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "대림e-편한세상4",
+    "district": "신도림동",
+    "area_m2": 84.78,
+    "floor": 23,
+    "price_10k": 153500,
+    "deal_date": "2021-07-02",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한진",
+    "district": "개봉동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 74000,
+    "deal_date": "2021-07-22",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "(752-13)",
+    "district": "구로동",
+    "area_m2": 33.51,
+    "floor": 2,
+    "price_10k": 12000,
+    "deal_date": "2021-07-04",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "(752-13)",
+    "district": "구로동",
+    "area_m2": 33.42,
+    "floor": 2,
+    "price_10k": 12000,
+    "deal_date": "2021-07-04",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 89950,
+    "deal_date": "2021-07-09",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "대상",
+    "district": "개봉동",
+    "area_m2": 59.93,
+    "floor": 8,
+    "price_10k": 52900,
+    "deal_date": "2021-07-15",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "청솔우성",
+    "district": "고척동",
+    "area_m2": 84.66,
+    "floor": 6,
+    "price_10k": 63800,
+    "deal_date": "2021-07-22",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "한진",
+    "district": "개봉동",
+    "area_m2": 84.96,
+    "floor": 16,
+    "price_10k": 69800,
+    "deal_date": "2021-07-21",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 1,
+    "price_10k": 57000,
+    "deal_date": "2021-07-31",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 59.98,
+    "floor": 6,
+    "price_10k": 78000,
+    "deal_date": "2021-07-05",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 18,
+    "price_10k": 76000,
+    "deal_date": "2021-07-05",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대림e-편한세상4",
+    "district": "신도림동",
+    "area_m2": 84.78,
+    "floor": 23,
+    "price_10k": 153500,
+    "deal_date": "2021-07-02",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운스위트",
+    "district": "항동",
+    "area_m2": 114.9844,
+    "floor": 5,
+    "price_10k": 89000,
+    "deal_date": "2021-07-05",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림현대",
+    "district": "구로동",
+    "area_m2": 80.01,
+    "floor": 20,
+    "price_10k": 89900,
+    "deal_date": "2021-07-24",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "개봉동현대아이파크",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 95500,
+    "deal_date": "2021-07-07",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "삼천리",
+    "district": "오류동",
+    "area_m2": 134.64,
+    "floor": 15,
+    "price_10k": 84000,
+    "deal_date": "2021-07-06",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림태영타운",
+    "district": "구로동",
+    "area_m2": 84.87,
+    "floor": 5,
+    "price_10k": 116000,
+    "deal_date": "2021-07-09",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 84.741,
+    "floor": 13,
+    "price_10k": 81000,
+    "deal_date": "2021-07-08",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "오류동푸르지오",
+    "district": "오류동",
+    "area_m2": 84.853,
+    "floor": 5,
+    "price_10k": 75000,
+    "deal_date": "2021-07-09",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 59.819,
+    "floor": 23,
+    "price_10k": 67800,
+    "deal_date": "2021-07-07",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림 아르디에",
+    "district": "신도림동",
+    "area_m2": 18.79,
+    "floor": 4,
+    "price_10k": 18500,
+    "deal_date": "2021-07-08",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "우성(1058)",
+    "district": "구로동",
+    "area_m2": 59.34,
+    "floor": 15,
+    "price_10k": 69000,
+    "deal_date": "2021-07-10",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 102.6,
+    "floor": 5,
+    "price_10k": 98800,
+    "deal_date": "2021-07-02",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "성호메이플라워멤버스빌",
+    "district": "구로동",
+    "area_m2": 41.4,
+    "floor": 5,
+    "price_10k": 21400,
+    "deal_date": "2021-07-29",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 17,
+    "price_10k": 62000,
+    "deal_date": "2021-07-09",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "우성(1058)",
+    "district": "구로동",
+    "area_m2": 84.38,
+    "floor": 8,
+    "price_10k": 88800,
+    "deal_date": "2021-07-15",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "삼환로즈빌",
+    "district": "고척동",
+    "area_m2": 84.994,
+    "floor": 14,
+    "price_10k": 89500,
+    "deal_date": "2021-07-19",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "우성꿈동산",
+    "district": "고척동",
+    "area_m2": 84.19,
+    "floor": 2,
+    "price_10k": 57700,
+    "deal_date": "2021-07-16",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "우성5",
+    "district": "신도림동",
+    "area_m2": 79.56,
+    "floor": 5,
+    "price_10k": 103500,
+    "deal_date": "2021-07-09",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "한양수자인에듀힐즈",
+    "district": "항동",
+    "area_m2": 84.8784,
+    "floor": 8,
+    "price_10k": 120000,
+    "deal_date": "2021-07-19",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "주공2",
+    "district": "구로동",
+    "area_m2": 41.3,
+    "floor": 7,
+    "price_10k": 68000,
+    "deal_date": "2021-07-16",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 114.95,
+    "floor": 12,
+    "price_10k": 82700,
+    "deal_date": "2021-07-16",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "송림주택",
+    "district": "구로동",
+    "area_m2": 46.08,
+    "floor": 4,
+    "price_10k": 23700,
+    "deal_date": "2021-07-24",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 51.84,
+    "floor": 20,
+    "price_10k": 58000,
+    "deal_date": "2021-07-14",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 13,
+    "price_10k": 78000,
+    "deal_date": "2021-07-15",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 36.88,
+    "floor": 1,
+    "price_10k": 45500,
+    "deal_date": "2021-07-10",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 84.741,
+    "floor": 15,
+    "price_10k": 77000,
+    "deal_date": "2021-07-10",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "금강(343)",
+    "district": "오류동",
+    "area_m2": 60.054,
+    "floor": 5,
+    "price_10k": 73000,
+    "deal_date": "2021-07-15",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "미성",
+    "district": "신도림동",
+    "area_m2": 52.45,
+    "floor": 11,
+    "price_10k": 83500,
+    "deal_date": "2021-07-17",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "동보",
+    "district": "오류동",
+    "area_m2": 59.72,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2021-07-14",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "삼익(1단지)",
+    "district": "고척동",
+    "area_m2": 84.96,
+    "floor": 9,
+    "price_10k": 65200,
+    "deal_date": "2021-07-16",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 94500,
+    "deal_date": "2021-07-17",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "고척동",
+    "area_m2": 84.878,
+    "floor": 22,
+    "price_10k": 98700,
+    "deal_date": "2021-07-17",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "거성푸르뫼2",
+    "district": "개봉동",
+    "area_m2": 84.96,
+    "floor": 5,
+    "price_10k": 67000,
+    "deal_date": "2021-07-16",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 3,
+    "price_10k": 73800,
+    "deal_date": "2021-07-15",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대상",
+    "district": "개봉동",
+    "area_m2": 74.56,
+    "floor": 4,
+    "price_10k": 57500,
+    "deal_date": "2021-07-08",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 90000,
+    "deal_date": "2021-07-20",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(101동~103동)",
+    "district": "오류동",
+    "area_m2": 59.98,
+    "floor": 10,
+    "price_10k": 53500,
+    "deal_date": "2021-07-10",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "비즈트위트블루",
+    "district": "구로동",
+    "area_m2": 15.12,
+    "floor": 4,
+    "price_10k": 11000,
+    "deal_date": "2021-07-28",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 5,
+    "price_10k": 54000,
+    "deal_date": "2021-07-14",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "고척동",
+    "area_m2": 84.878,
+    "floor": 5,
+    "price_10k": 96000,
+    "deal_date": "2021-07-22",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 24,
+    "price_10k": 76300,
+    "deal_date": "2021-07-13",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 70.98,
+    "floor": 5,
+    "price_10k": 66800,
+    "deal_date": "2021-07-22",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대림1",
+    "district": "신도림동",
+    "area_m2": 59.88,
+    "floor": 13,
+    "price_10k": 96500,
+    "deal_date": "2021-07-08",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "이화우성",
+    "district": "구로동",
+    "area_m2": 59.82,
+    "floor": 10,
+    "price_10k": 67900,
+    "deal_date": "2021-07-10",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "청구",
+    "district": "고척동",
+    "area_m2": 59.94,
+    "floor": 19,
+    "price_10k": 57000,
+    "deal_date": "2021-07-09",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "우성2",
+    "district": "신도림동",
+    "area_m2": 84.82,
+    "floor": 6,
+    "price_10k": 113500,
+    "deal_date": "2021-07-08",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 61000,
+    "deal_date": "2021-07-09",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성래미안",
+    "district": "구로동",
+    "area_m2": 78.665,
+    "floor": 6,
+    "price_10k": 94000,
+    "deal_date": "2021-07-17",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한마을",
+    "district": "개봉동",
+    "area_m2": 59.57,
+    "floor": 15,
+    "price_10k": 77500,
+    "deal_date": "2021-07-07",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "이화우성",
+    "district": "구로동",
+    "area_m2": 114.92,
+    "floor": 14,
+    "price_10k": 91700,
+    "deal_date": "2021-07-23",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "신안타워",
+    "district": "구로동",
+    "area_m2": 59.43,
+    "floor": 6,
+    "price_10k": 50000,
+    "deal_date": "2021-07-10",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 114.47,
+    "floor": 9,
+    "price_10k": 95000,
+    "deal_date": "2021-07-16",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 102.6,
+    "floor": 11,
+    "price_10k": 98000,
+    "deal_date": "2021-07-01",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 16,
+    "price_10k": 63500,
+    "deal_date": "2021-07-09",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 59.97,
+    "floor": 14,
+    "price_10k": 61700,
+    "deal_date": "2021-07-02",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "한양아이클래스구로",
+    "district": "개봉동",
+    "area_m2": 47.74,
+    "floor": 5,
+    "price_10k": 34300,
+    "deal_date": "2021-07-03",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "동아3",
+    "district": "신도림동",
+    "area_m2": 84.99,
+    "floor": 13,
+    "price_10k": 134000,
+    "deal_date": "2021-07-10",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "대성",
+    "district": "구로동",
+    "area_m2": 41.01,
+    "floor": 5,
+    "price_10k": 24000,
+    "deal_date": "2021-07-23",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "한양아이클래스구로",
+    "district": "개봉동",
+    "area_m2": 48.24,
+    "floor": 10,
+    "price_10k": 39000,
+    "deal_date": "2021-07-10",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림태영타운",
+    "district": "구로동",
+    "area_m2": 84.87,
+    "floor": 5,
+    "price_10k": 120800,
+    "deal_date": "2021-07-01",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 50.14,
+    "floor": 7,
+    "price_10k": 71200,
+    "deal_date": "2021-07-10",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "한신휴플러스(1280-0)",
+    "district": "구로동",
+    "area_m2": 50.03,
+    "floor": 19,
+    "price_10k": 67900,
+    "deal_date": "2021-07-10",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 84.915,
+    "floor": 8,
+    "price_10k": 87800,
+    "deal_date": "2021-07-07",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 84.97,
+    "floor": 4,
+    "price_10k": 85000,
+    "deal_date": "2021-07-03",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "우방",
+    "district": "구로동",
+    "area_m2": 84.9,
+    "floor": 6,
+    "price_10k": 70000,
+    "deal_date": "2021-07-16",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 50.14,
+    "floor": 18,
+    "price_10k": 70800,
+    "deal_date": "2021-07-13",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 59.49,
+    "floor": 12,
+    "price_10k": 73500,
+    "deal_date": "2021-07-14",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "새솔금호",
+    "district": "구로동",
+    "area_m2": 59.9,
+    "floor": 15,
+    "price_10k": 58500,
+    "deal_date": "2021-07-05",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "삼환",
+    "district": "개봉동",
+    "area_m2": 59.4,
+    "floor": 18,
+    "price_10k": 62000,
+    "deal_date": "2021-07-10",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 7,
+    "price_10k": 52800,
+    "deal_date": "2021-07-19",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "도림두산베어스타워",
+    "district": "구로동",
+    "area_m2": 109.25,
+    "floor": 11,
+    "price_10k": 61000,
+    "deal_date": "2021-07-11",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "도림두산베어스타워",
+    "district": "구로동",
+    "area_m2": 84.94,
+    "floor": 23,
+    "price_10k": 60000,
+    "deal_date": "2021-07-06",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 51.84,
+    "floor": 6,
+    "price_10k": 63200,
+    "deal_date": "2021-07-10",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "대상",
+    "district": "개봉동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 57800,
+    "deal_date": "2021-07-19",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 20,
+    "price_10k": 58000,
+    "deal_date": "2021-07-07",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 84.49,
+    "floor": 11,
+    "price_10k": 80000,
+    "deal_date": "2021-07-20",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "동아3",
+    "district": "신도림동",
+    "area_m2": 84.99,
+    "floor": 2,
+    "price_10k": 130000,
+    "deal_date": "2021-07-14",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "파인마루오피스텔",
+    "district": "구로동",
+    "area_m2": 15.75,
+    "floor": 11,
+    "price_10k": 14000,
+    "deal_date": "2021-07-15",
+    "build_year": 2016,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 36.88,
+    "floor": 17,
+    "price_10k": 59350,
+    "deal_date": "2021-07-07",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "한스타워",
+    "district": "구로동",
+    "area_m2": 59.96,
+    "floor": 13,
+    "price_10k": 40500,
+    "deal_date": "2021-07-09",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 36.88,
+    "floor": 7,
+    "price_10k": 57500,
+    "deal_date": "2021-07-08",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "길훈",
+    "district": "오류동",
+    "area_m2": 48.81,
+    "floor": 3,
+    "price_10k": 33500,
+    "deal_date": "2021-07-08",
+    "build_year": 1986,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(105동~106동)",
+    "district": "오류동",
+    "area_m2": 59.79,
+    "floor": 18,
+    "price_10k": 57400,
+    "deal_date": "2021-07-14",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "구로동",
+    "area_m2": 79.97,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2021-07-06",
+    "build_year": 1987,
+    "deal_type": ""
+  },
+  {
+    "name": "동선",
+    "district": "오류동",
+    "area_m2": 58.2159,
+    "floor": 17,
+    "price_10k": 51000,
+    "deal_date": "2021-07-05",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 59.819,
+    "floor": 14,
+    "price_10k": 68800,
+    "deal_date": "2021-07-08",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "대림역와이즈플레이스",
+    "district": "구로동",
+    "area_m2": 24.647,
+    "floor": 18,
+    "price_10k": 15300,
+    "deal_date": "2021-07-02",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "대림역포스큐",
+    "district": "구로동",
+    "area_m2": 14.579,
+    "floor": 18,
+    "price_10k": 10500,
+    "deal_date": "2021-07-21",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "로제리움2차",
+    "district": "구로동",
+    "area_m2": 14.91,
+    "floor": 15,
+    "price_10k": 12000,
+    "deal_date": "2021-07-20",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 56000,
+    "deal_date": "2021-07-04",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "삼익(2단지)",
+    "district": "고척동",
+    "area_m2": 114.9,
+    "floor": 1,
+    "price_10k": 71500,
+    "deal_date": "2021-07-03",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "신성은하수",
+    "district": "신도림동",
+    "area_m2": 59.88,
+    "floor": 15,
+    "price_10k": 84000,
+    "deal_date": "2021-07-06",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "영풍마드레빌",
+    "district": "오류동",
+    "area_m2": 84.741,
+    "floor": 9,
+    "price_10k": 79500,
+    "deal_date": "2021-07-02",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 13,
+    "price_10k": 62700,
+    "deal_date": "2021-07-10",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 10,
+    "price_10k": 53000,
+    "deal_date": "2021-07-03",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 84.49,
+    "floor": 7,
+    "price_10k": 77500,
+    "deal_date": "2021-07-02",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 85000,
+    "deal_date": "2021-07-01",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(105동~106동)",
+    "district": "오류동",
+    "area_m2": 59.58,
+    "floor": 19,
+    "price_10k": 50000,
+    "deal_date": "2021-07-15",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "비즈트위트오렌지",
+    "district": "구로동",
+    "area_m2": 15.6,
+    "floor": 4,
+    "price_10k": 11800,
+    "deal_date": "2021-07-16",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "금강",
+    "district": "오류동",
+    "area_m2": 84.96,
+    "floor": 8,
+    "price_10k": 56300,
+    "deal_date": "2021-07-05",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 84.99,
+    "floor": 4,
+    "price_10k": 87000,
+    "deal_date": "2021-07-03",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(105동~106동)",
+    "district": "오류동",
+    "area_m2": 59.79,
+    "floor": 9,
+    "price_10k": 56900,
+    "deal_date": "2021-07-12",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "금강(343)",
+    "district": "오류동",
+    "area_m2": 84.983,
+    "floor": 5,
+    "price_10k": 105000,
+    "deal_date": "2021-07-10",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "온수힐스테이트",
+    "district": "온수동",
+    "area_m2": 121.26,
+    "floor": 4,
+    "price_10k": 98000,
+    "deal_date": "2021-07-05",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "성삼하이츠",
+    "district": "구로동",
+    "area_m2": 78.88,
+    "floor": 6,
+    "price_10k": 54700,
+    "deal_date": "2021-07-01",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한백고은",
+    "district": "오류동",
+    "area_m2": 84.69,
+    "floor": 4,
+    "price_10k": 35000,
+    "deal_date": "2021-07-17",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "한진",
+    "district": "개봉동",
+    "area_m2": 59.95,
+    "floor": 22,
+    "price_10k": 62700,
+    "deal_date": "2021-07-03",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "다청림(356)",
+    "district": "오류동",
+    "area_m2": 36.01,
+    "floor": 6,
+    "price_10k": 25900,
+    "deal_date": "2021-07-01",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "동아3",
+    "district": "신도림동",
+    "area_m2": 138.412,
+    "floor": 8,
+    "price_10k": 155000,
+    "deal_date": "2021-07-05",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "(777-3)두암호은리버빌",
+    "district": "구로동",
+    "area_m2": 54.53,
+    "floor": 2,
+    "price_10k": 33000,
+    "deal_date": "2021-07-15",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "한일유앤아이",
+    "district": "구로동",
+    "area_m2": 84.962,
+    "floor": 2,
+    "price_10k": 73500,
+    "deal_date": "2021-07-02",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "태경하이빌",
+    "district": "개봉동",
+    "area_m2": 60.43,
+    "floor": 7,
+    "price_10k": 32500,
+    "deal_date": "2021-07-07",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "길훈",
+    "district": "오류동",
+    "area_m2": 53.94,
+    "floor": 2,
+    "price_10k": 34000,
+    "deal_date": "2021-07-02",
+    "build_year": 1986,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운스위트",
+    "district": "항동",
+    "area_m2": 84.9852,
+    "floor": 3,
+    "price_10k": 70000,
+    "deal_date": "2021-07-09",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 14,
+    "price_10k": 54500,
+    "deal_date": "2021-07-06",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕이펜하우스4단지",
+    "district": "천왕동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 85900,
+    "deal_date": "2021-07-03",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 84.85,
+    "floor": 10,
+    "price_10k": 70000,
+    "deal_date": "2021-07-12",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림롯데아파트",
+    "district": "구로동",
+    "area_m2": 84.93,
+    "floor": 7,
+    "price_10k": 104000,
+    "deal_date": "2021-07-04",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "이화우성",
+    "district": "구로동",
+    "area_m2": 59.82,
+    "floor": 15,
+    "price_10k": 67500,
+    "deal_date": "2021-07-03",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "구일우성",
+    "district": "구로동",
+    "area_m2": 59.44,
+    "floor": 20,
+    "price_10k": 65000,
+    "deal_date": "2021-07-02",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "천왕연지타운1단지",
+    "district": "천왕동",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 80000,
+    "deal_date": "2021-07-03",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 59.49,
+    "floor": 12,
+    "price_10k": 70000,
+    "deal_date": "2021-07-10",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "구로두산위브",
+    "district": "구로동",
+    "area_m2": 36.88,
+    "floor": 1,
+    "price_10k": 48000,
+    "deal_date": "2021-07-05",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산",
+    "district": "고척동",
+    "area_m2": 84.878,
+    "floor": 6,
+    "price_10k": 96000,
+    "deal_date": "2021-07-03",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "이화우성",
+    "district": "구로동",
+    "area_m2": 84.98,
+    "floor": 10,
+    "price_10k": 81500,
+    "deal_date": "2021-07-04",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "오류동삼전솔하임",
+    "district": "오류동",
+    "area_m2": 37.759,
+    "floor": 5,
+    "price_10k": 27000,
+    "deal_date": "2021-07-05",
+    "build_year": 2020,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림3차푸르지오",
+    "district": "신도림동",
+    "area_m2": 90.08,
+    "floor": 19,
+    "price_10k": 107000,
+    "deal_date": "2021-07-03",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "삼호빌라",
+    "district": "구로동",
+    "area_m2": 47.1,
+    "floor": 1,
+    "price_10k": 21000,
+    "deal_date": "2021-07-08",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "대우",
+    "district": "고척동",
+    "area_m2": 114.95,
+    "floor": 9,
+    "price_10k": 79500,
+    "deal_date": "2021-07-03",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "하버라인3단지",
+    "district": "항동",
+    "area_m2": 74.87,
+    "floor": 2,
+    "price_10k": 88300,
+    "deal_date": "2021-07-10",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "동부(101동~103동)",
+    "district": "오류동",
+    "area_m2": 84.89,
+    "floor": 9,
+    "price_10k": 66800,
+    "deal_date": "2021-07-07",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "삼호",
+    "district": "개봉동",
+    "area_m2": 59.86,
+    "floor": 14,
+    "price_10k": 64800,
+    "deal_date": "2021-07-05",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "삼호",
+    "district": "개봉동",
+    "area_m2": 59.86,
+    "floor": 8,
+    "price_10k": 64500,
+    "deal_date": "2021-07-07",
+    "build_year": 1996,
+    "deal_type": ""
+  },
+  {
+    "name": "썬앤빌",
+    "district": "오류동",
+    "area_m2": 14.064,
+    "floor": 8,
+    "price_10k": 9800,
+    "deal_date": "2021-07-07",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "썬앤빌",
+    "district": "오류동",
+    "area_m2": 14.064,
+    "floor": 8,
+    "price_10k": 9800,
+    "deal_date": "2021-07-07",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "우리유앤미",
+    "district": "구로동",
+    "area_m2": 59.45,
+    "floor": 3,
+    "price_10k": 54000,
+    "deal_date": "2021-07-02",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "경남2",
+    "district": "고척동",
+    "area_m2": 59.96,
+    "floor": 12,
+    "price_10k": 59000,
+    "deal_date": "2021-07-07",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "신도림태영타운",
+    "district": "구로동",
+    "area_m2": 84.87,
+    "floor": 18,
+    "price_10k": 122000,
+    "deal_date": "2021-07-04",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "동부골든",
+    "district": "오류동",
+    "area_m2": 59.94,
+    "floor": 11,
+    "price_10k": 54500,
+    "deal_date": "2021-07-04",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "(807-16)",
+    "district": "구로동",
+    "area_m2": 59.93,
+    "floor": 3,
+    "price_10k": 29500,
+    "deal_date": "2021-07-03",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "비즈트위트오렌지",
+    "district": "구로동",
+    "area_m2": 15.54,
+    "floor": 3,
+    "price_10k": 12500,
+    "deal_date": "2021-07-02",
+    "build_year": 2013,
+    "deal_type": ""
+  }
+]

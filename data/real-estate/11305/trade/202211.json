@@ -1,0 +1,82 @@
+[
+  {
+    "name": "주공4단지",
+    "district": "번동",
+    "area_m2": 84.79,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2022-11-24",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 12,
+    "price_10k": 56000,
+    "deal_date": "2022-11-21",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 80000,
+    "deal_date": "2022-11-12",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 114.68,
+    "floor": 4,
+    "price_10k": 81000,
+    "deal_date": "2022-11-21",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.76,
+    "floor": 12,
+    "price_10k": 69750,
+    "deal_date": "2022-11-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태솔에버빌",
+    "district": "수유동",
+    "area_m2": 60.7,
+    "floor": 1,
+    "price_10k": 25000,
+    "deal_date": "2022-11-04",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 14,
+    "price_10k": 82200,
+    "deal_date": "2022-11-08",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 24,
+    "price_10k": 56000,
+    "deal_date": "2022-11-07",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  }
+]

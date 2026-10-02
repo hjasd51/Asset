@@ -1,0 +1,132 @@
+[
+  {
+    "name": "이튼타워리버5차",
+    "district": "자양동",
+    "area_m2": 159.89,
+    "floor": 21,
+    "price_10k": 305000,
+    "deal_date": "2022-06-11",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 163.53,
+    "floor": 15,
+    "price_10k": 260000,
+    "deal_date": "2022-06-21",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이튼타워리버2차",
+    "district": "자양동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 143000,
+    "deal_date": "2022-06-27",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔리베르",
+    "district": "자양동",
+    "area_m2": 83.31,
+    "floor": 24,
+    "price_10k": 154000,
+    "deal_date": "2022-06-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진We’vePark",
+    "district": "군자동",
+    "area_m2": 131.96,
+    "floor": 10,
+    "price_10k": 134500,
+    "deal_date": "2022-06-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "로얄동아",
+    "district": "자양동",
+    "area_m2": 84.75,
+    "floor": 21,
+    "price_10k": 151000,
+    "deal_date": "2022-06-27",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "테라팰리스건대1차",
+    "district": "화양동",
+    "area_m2": 68,
+    "floor": 7,
+    "price_10k": 81000,
+    "deal_date": "2022-06-11",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안파크스위트",
+    "district": "구의동",
+    "area_m2": 102.88,
+    "floor": 8,
+    "price_10k": 214000,
+    "deal_date": "2022-06-22",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은진아파트5차",
+    "district": "구의동",
+    "area_m2": 51.48,
+    "floor": 5,
+    "price_10k": 39000,
+    "deal_date": "2022-06-02",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성5",
+    "district": "자양동",
+    "area_m2": 84.72,
+    "floor": 3,
+    "price_10k": 110000,
+    "deal_date": "2022-06-08",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "광장동",
+    "area_m2": 84.86,
+    "floor": 20,
+    "price_10k": 150000,
+    "deal_date": "2022-06-07",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진We’vePark",
+    "district": "군자동",
+    "area_m2": 131.35,
+    "floor": 15,
+    "price_10k": 129000,
+    "deal_date": "2022-06-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "워커힐 팰리스",
+    "district": "광장동",
+    "area_m2": 104.42,
+    "floor": 4,
+    "price_10k": 67000,
+    "deal_date": "2022-06-10",
+    "build_year": 2005,
+    "deal_type": "직거래"
+  }
+]

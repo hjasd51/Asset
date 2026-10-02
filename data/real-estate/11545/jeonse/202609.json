@@ -1,0 +1,211 @@
+[
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 18,
+    "deposit_10k": 44100,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-11",
+    "build_year": 2004
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 115.801,
+    "floor": 16,
+    "deposit_10k": 56000,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-16",
+    "build_year": 2014
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 84.9,
+    "floor": 6,
+    "deposit_10k": 52000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-17",
+    "build_year": 1998
+  },
+  {
+    "name": "독산주공14단지",
+    "district": "독산동",
+    "area_m2": 38.64,
+    "floor": 7,
+    "deposit_10k": 23000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-17",
+    "build_year": 1990
+  },
+  {
+    "name": "남서울건영아파트",
+    "district": "시흥동",
+    "area_m2": 53.39,
+    "floor": 8,
+    "deposit_10k": 24150,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-12",
+    "build_year": 1982
+  },
+  {
+    "name": "진도3차아파트",
+    "district": "독산동",
+    "area_m2": 59.34,
+    "floor": 4,
+    "deposit_10k": 40000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-16",
+    "build_year": 1999
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 59.9935,
+    "floor": 26,
+    "deposit_10k": 33680,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-16",
+    "build_year": 2016
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 84.677,
+    "floor": 15,
+    "deposit_10k": 67000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-12",
+    "build_year": 2014
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 59.87,
+    "floor": 13,
+    "deposit_10k": 60000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-08",
+    "build_year": 2014
+  },
+  {
+    "name": "진도2차",
+    "district": "독산동",
+    "area_m2": 84.58,
+    "floor": 2,
+    "deposit_10k": 39900,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-05",
+    "build_year": 1997
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 59.9935,
+    "floor": 17,
+    "deposit_10k": 33680,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-16",
+    "build_year": 2016
+  },
+  {
+    "name": "남서울건영아파트",
+    "district": "시흥동",
+    "area_m2": 53.39,
+    "floor": 12,
+    "deposit_10k": 24000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-15",
+    "build_year": 1982
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 15,
+    "deposit_10k": 40000,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-13",
+    "build_year": 2004
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 84.3963,
+    "floor": 23,
+    "deposit_10k": 73500,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-10",
+    "build_year": 2016
+  },
+  {
+    "name": "무지개",
+    "district": "시흥동",
+    "area_m2": 67.93,
+    "floor": 7,
+    "deposit_10k": 12000,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-10",
+    "build_year": 1980
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 84.9,
+    "floor": 4,
+    "deposit_10k": 53000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-14",
+    "build_year": 1998
+  },
+  {
+    "name": "럭키남서울아파트",
+    "district": "시흥동",
+    "area_m2": 49.75,
+    "floor": 2,
+    "deposit_10k": 26000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-12",
+    "build_year": 1981
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 59.9384,
+    "floor": 5,
+    "deposit_10k": 32992,
+    "monthly_rent_10k": 0,
+    "contract_type": "갱신",
+    "deal_date": "2026-09-14",
+    "build_year": 2016
+  },
+  {
+    "name": "벽산",
+    "district": "시흥동",
+    "area_m2": 84.99,
+    "floor": 8,
+    "deposit_10k": 41000,
+    "monthly_rent_10k": 0,
+    "contract_type": "신규",
+    "deal_date": "2026-09-11",
+    "build_year": 2000
+  }
+]

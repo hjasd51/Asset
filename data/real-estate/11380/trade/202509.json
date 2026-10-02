@@ -1,0 +1,3162 @@
+[
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 105000,
+    "deal_date": "2025-09-13",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 53.95,
+    "floor": 3,
+    "price_10k": 87000,
+    "deal_date": "2025-09-08",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 100000,
+    "deal_date": "2025-09-15",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대암아파트",
+    "district": "불광동",
+    "area_m2": 65.25,
+    "floor": 7,
+    "price_10k": 52000,
+    "deal_date": "2025-09-11",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 107000,
+    "deal_date": "2025-09-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경원파발리안",
+    "district": "녹번동",
+    "area_m2": 56.5,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2025-09-23",
+    "build_year": 2011,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "자선메르시안(103)",
+    "district": "증산동",
+    "area_m2": 63.98,
+    "floor": 7,
+    "price_10k": 41000,
+    "deal_date": "2025-09-06",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(719~729동)BL1-13",
+    "district": "진관동",
+    "area_m2": 167.07,
+    "floor": 10,
+    "price_10k": 113500,
+    "deal_date": "2025-09-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 106000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 84.59,
+    "floor": 6,
+    "price_10k": 84000,
+    "deal_date": "2025-09-21",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 84.9965,
+    "floor": 17,
+    "price_10k": 146500,
+    "deal_date": "2025-09-16",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(706~708동)BL1-3",
+    "district": "진관동",
+    "area_m2": 84.83,
+    "floor": 6,
+    "price_10k": 79900,
+    "deal_date": "2025-09-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 84.59,
+    "floor": 3,
+    "price_10k": 85000,
+    "deal_date": "2025-09-29",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.94,
+    "floor": 12,
+    "price_10k": 129500,
+    "deal_date": "2025-09-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC센트럴자이(3단지)",
+    "district": "증산동",
+    "area_m2": 84.96,
+    "floor": 13,
+    "price_10k": 166000,
+    "deal_date": "2025-09-29",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC센트럴자이(3단지)",
+    "district": "증산동",
+    "area_m2": 84.88,
+    "floor": 25,
+    "price_10k": 169000,
+    "deal_date": "2025-09-30",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대경아르체",
+    "district": "갈현동",
+    "area_m2": 42.48,
+    "floor": 9,
+    "price_10k": 62000,
+    "deal_date": "2025-09-22",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 114.98,
+    "floor": 5,
+    "price_10k": 123000,
+    "deal_date": "2025-09-27",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남청파인힐",
+    "district": "응암동",
+    "area_m2": 60.9,
+    "floor": 4,
+    "price_10k": 45700,
+    "deal_date": "2025-09-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디앤제이하우징(281-89)",
+    "district": "불광동",
+    "area_m2": 25.23,
+    "floor": 8,
+    "price_10k": 29000,
+    "deal_date": "2025-09-28",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "DMC센트럴자이(2단지)",
+    "district": "증산동",
+    "area_m2": 59.96,
+    "floor": 7,
+    "price_10k": 133500,
+    "deal_date": "2025-09-27",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC 진흥",
+    "district": "수색동",
+    "area_m2": 57.5033,
+    "floor": 15,
+    "price_10k": 64000,
+    "deal_date": "2025-09-24",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 16,
+    "price_10k": 114500,
+    "deal_date": "2025-09-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 3,
+    "price_10k": 113500,
+    "deal_date": "2025-09-18",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남청파인힐",
+    "district": "응암동",
+    "area_m2": 55.14,
+    "floor": 11,
+    "price_10k": 43800,
+    "deal_date": "2025-09-26",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 59.9865,
+    "floor": 14,
+    "price_10k": 124000,
+    "deal_date": "2025-09-27",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 86000,
+    "deal_date": "2025-09-20",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번JR아파트",
+    "district": "녹번동",
+    "area_m2": 59.866,
+    "floor": 13,
+    "price_10k": 61000,
+    "deal_date": "2025-09-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 112.8737,
+    "floor": 3,
+    "price_10k": 170000,
+    "deal_date": "2025-09-20",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "무궁화",
+    "district": "역촌동",
+    "area_m2": 60.1,
+    "floor": 1,
+    "price_10k": 21000,
+    "deal_date": "2025-09-25",
+    "build_year": 1972,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 2,
+    "price_10k": 100000,
+    "deal_date": "2025-09-28",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 107000,
+    "deal_date": "2025-09-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 59.9865,
+    "floor": 10,
+    "price_10k": 124000,
+    "deal_date": "2025-09-27",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디앤제이하우징(281-89)",
+    "district": "불광동",
+    "area_m2": 27.96,
+    "floor": 6,
+    "price_10k": 27700,
+    "deal_date": "2025-09-16",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대림아파트(276)",
+    "district": "녹번동",
+    "area_m2": 84.68,
+    "floor": 8,
+    "price_10k": 71000,
+    "deal_date": "2025-09-30",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "호림리슈리안",
+    "district": "갈현동",
+    "area_m2": 75.11,
+    "floor": 6,
+    "price_10k": 56000,
+    "deal_date": "2025-09-23",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(310~322동)BL2-3",
+    "district": "진관동",
+    "area_m2": 84.04,
+    "floor": 4,
+    "price_10k": 101000,
+    "deal_date": "2025-09-27",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.93,
+    "floor": 16,
+    "price_10k": 120000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.813,
+    "floor": 11,
+    "price_10k": 110000,
+    "deal_date": "2025-09-29",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 114.977,
+    "floor": 9,
+    "price_10k": 160000,
+    "deal_date": "2025-09-26",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 107000,
+    "deal_date": "2025-09-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 11,
+    "price_10k": 114000,
+    "deal_date": "2025-09-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아르지움주상복합",
+    "district": "응암동",
+    "area_m2": 50.42,
+    "floor": 3,
+    "price_10k": 56000,
+    "deal_date": "2025-09-20",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "두산위브",
+    "district": "증산동",
+    "area_m2": 84.4215,
+    "floor": 13,
+    "price_10k": 90500,
+    "deal_date": "2025-09-27",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남청파인힐",
+    "district": "응암동",
+    "area_m2": 60.9,
+    "floor": 4,
+    "price_10k": 45700,
+    "deal_date": "2025-09-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프미성",
+    "district": "불광동",
+    "area_m2": 66.7,
+    "floor": 12,
+    "price_10k": 70000,
+    "deal_date": "2025-09-30",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번JR아파트",
+    "district": "녹번동",
+    "area_m2": 59.866,
+    "floor": 18,
+    "price_10k": 60500,
+    "deal_date": "2025-09-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 84.59,
+    "floor": 3,
+    "price_10k": 85000,
+    "deal_date": "2025-09-29",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 59.8545,
+    "floor": 25,
+    "price_10k": 91500,
+    "deal_date": "2025-09-27",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 3,
+    "price_10k": 106000,
+    "deal_date": "2025-09-21",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "모아아파트(103동)",
+    "district": "대조동",
+    "area_m2": 42.51,
+    "floor": 10,
+    "price_10k": 40000,
+    "deal_date": "2025-09-29",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(730~742동)BL1-14",
+    "district": "진관동",
+    "area_m2": 167.69,
+    "floor": 3,
+    "price_10k": 88000,
+    "deal_date": "2025-09-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 59.9865,
+    "floor": 14,
+    "price_10k": 128000,
+    "deal_date": "2025-09-26",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC 진흥",
+    "district": "수색동",
+    "area_m2": 78.2853,
+    "floor": 8,
+    "price_10k": 72000,
+    "deal_date": "2025-09-27",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 4,
+    "price_10k": 105000,
+    "deal_date": "2025-09-23",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산한양수자인아파트",
+    "district": "불광동",
+    "area_m2": 59.69,
+    "floor": 3,
+    "price_10k": 57000,
+    "deal_date": "2025-09-27",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 15,
+    "price_10k": 108300,
+    "deal_date": "2025-09-27",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 84.59,
+    "floor": 2,
+    "price_10k": 79800,
+    "deal_date": "2025-09-11",
+    "build_year": 2011,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "녹번역센트레빌",
+    "district": "응암동",
+    "area_m2": 84.97,
+    "floor": 1,
+    "price_10k": 80000,
+    "deal_date": "2025-09-29",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남",
+    "district": "응암동",
+    "area_m2": 84.9,
+    "floor": 6,
+    "price_10k": 54500,
+    "deal_date": "2025-09-27",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경원파발리안",
+    "district": "녹번동",
+    "area_m2": 56.56,
+    "floor": 8,
+    "price_10k": 49400,
+    "deal_date": "2025-09-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "소망",
+    "district": "역촌동",
+    "area_m2": 43.17,
+    "floor": 6,
+    "price_10k": 15500,
+    "deal_date": "2025-09-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "수색동",
+    "area_m2": 84.76,
+    "floor": 5,
+    "price_10k": 95000,
+    "deal_date": "2025-09-30",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 84.9926,
+    "floor": 25,
+    "price_10k": 150000,
+    "deal_date": "2025-09-25",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "펠리시티",
+    "district": "응암동",
+    "area_m2": 55.69,
+    "floor": 8,
+    "price_10k": 57500,
+    "deal_date": "2025-09-10",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "구파발10단지어울림(1011~1019동)BL3-1",
+    "district": "진관동",
+    "area_m2": 166.19,
+    "floor": 7,
+    "price_10k": 113500,
+    "deal_date": "2025-09-11",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 82000,
+    "deal_date": "2025-09-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우물골2단지두산위브(209~222동)BL2-8",
+    "district": "진관동",
+    "area_m2": 84.51,
+    "floor": 6,
+    "price_10k": 85500,
+    "deal_date": "2025-09-22",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 106000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "제이타워4",
+    "district": "대조동",
+    "area_m2": 12.16,
+    "floor": 8,
+    "price_10k": 10000,
+    "deal_date": "2025-09-29",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 105000,
+    "deal_date": "2025-09-26",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.94,
+    "floor": 12,
+    "price_10k": 129500,
+    "deal_date": "2025-09-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(709~712동)BL1-10",
+    "district": "진관동",
+    "area_m2": 134.96,
+    "floor": 5,
+    "price_10k": 104000,
+    "deal_date": "2025-09-29",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운 제각말 푸르지오(5-1단지)",
+    "district": "진관동",
+    "area_m2": 84.89,
+    "floor": 9,
+    "price_10k": 85000,
+    "deal_date": "2025-09-27",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운솔하임",
+    "district": "진관동",
+    "area_m2": 45.034,
+    "floor": 3,
+    "price_10k": 49000,
+    "deal_date": "2025-09-16",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아파트(276)",
+    "district": "녹번동",
+    "area_m2": 84.94,
+    "floor": 3,
+    "price_10k": 71000,
+    "deal_date": "2025-09-17",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 3,
+    "price_10k": 104000,
+    "deal_date": "2025-09-19",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미래하임",
+    "district": "대조동",
+    "area_m2": 32.79,
+    "floor": 5,
+    "price_10k": 29500,
+    "deal_date": "2025-09-20",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이랜드타운아파트",
+    "district": "신사동",
+    "area_m2": 59.982,
+    "floor": 5,
+    "price_10k": 54400,
+    "deal_date": "2025-09-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 59.97,
+    "floor": 3,
+    "price_10k": 98000,
+    "deal_date": "2025-09-27",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(615~621동)BL1-6",
+    "district": "진관동",
+    "area_m2": 84.84,
+    "floor": 3,
+    "price_10k": 76700,
+    "deal_date": "2025-09-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갈현현대",
+    "district": "구산동",
+    "area_m2": 59.94,
+    "floor": 6,
+    "price_10k": 44400,
+    "deal_date": "2025-09-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 59.9335,
+    "floor": 5,
+    "price_10k": 88500,
+    "deal_date": "2025-09-22",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을8단지롯데캐슬(821~830동)BL1-12",
+    "district": "진관동",
+    "area_m2": 84.97,
+    "floor": 7,
+    "price_10k": 93000,
+    "deal_date": "2025-09-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을8단지롯데캐슬(821~830동)BL1-12",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 6,
+    "price_10k": 92500,
+    "deal_date": "2025-09-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 15,
+    "price_10k": 125000,
+    "deal_date": "2025-09-30",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.99,
+    "floor": 3,
+    "price_10k": 100000,
+    "deal_date": "2025-09-21",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프미성",
+    "district": "불광동",
+    "area_m2": 66.7,
+    "floor": 13,
+    "price_10k": 67000,
+    "deal_date": "2025-09-25",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 22,
+    "price_10k": 113000,
+    "deal_date": "2025-09-17",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 112000,
+    "deal_date": "2025-09-22",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 59.817,
+    "floor": 5,
+    "price_10k": 77500,
+    "deal_date": "2025-09-23",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(408~422동)BL3-9",
+    "district": "진관동",
+    "area_m2": 101.93,
+    "floor": 2,
+    "price_10k": 91000,
+    "deal_date": "2025-09-27",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을8단지롯데캐슬(801~809동)BL1-2",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 2,
+    "price_10k": 95000,
+    "deal_date": "2025-09-30",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.789,
+    "floor": 9,
+    "price_10k": 84500,
+    "deal_date": "2025-09-23",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상백련산",
+    "district": "응암동",
+    "area_m2": 84.72,
+    "floor": 8,
+    "price_10k": 88600,
+    "deal_date": "2025-09-16",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 101.83,
+    "floor": 7,
+    "price_10k": 121500,
+    "deal_date": "2025-09-30",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 74.91,
+    "floor": 5,
+    "price_10k": 90500,
+    "deal_date": "2025-09-26",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(101~111동)BL2-12",
+    "district": "진관동",
+    "area_m2": 84.72,
+    "floor": 1,
+    "price_10k": 100500,
+    "deal_date": "2025-09-13",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사씨티",
+    "district": "신사동",
+    "area_m2": 58.09,
+    "floor": 6,
+    "price_10k": 43000,
+    "deal_date": "2025-09-13",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 15,
+    "price_10k": 115000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 84.369,
+    "floor": 12,
+    "price_10k": 93000,
+    "deal_date": "2025-09-22",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(310~322동)BL2-3",
+    "district": "진관동",
+    "area_m2": 167.14,
+    "floor": 11,
+    "price_10k": 137200,
+    "deal_date": "2025-09-26",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 12,
+    "price_10k": 115800,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갈현1단지e-편한세상",
+    "district": "구산동",
+    "area_m2": 84.618,
+    "floor": 4,
+    "price_10k": 65000,
+    "deal_date": "2025-09-10",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서강스카이빌2",
+    "district": "응암동",
+    "area_m2": 156.39,
+    "floor": 3,
+    "price_10k": 85000,
+    "deal_date": "2025-09-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 8,
+    "price_10k": 108000,
+    "deal_date": "2025-09-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 59.8545,
+    "floor": 3,
+    "price_10k": 89500,
+    "deal_date": "2025-09-27",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대주피오레",
+    "district": "응암동",
+    "area_m2": 84.92,
+    "floor": 9,
+    "price_10k": 68000,
+    "deal_date": "2025-09-30",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역촌센트레빌",
+    "district": "역촌동",
+    "area_m2": 84.89,
+    "floor": 4,
+    "price_10k": 74000,
+    "deal_date": "2025-09-30",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미래하임(6-19)",
+    "district": "대조동",
+    "area_m2": 24.41,
+    "floor": 7,
+    "price_10k": 29000,
+    "deal_date": "2025-09-16",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 6,
+    "price_10k": 79500,
+    "deal_date": "2025-09-07",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 114000,
+    "deal_date": "2025-09-30",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 11,
+    "price_10k": 76700,
+    "deal_date": "2025-09-30",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC파인시티자이",
+    "district": "수색동",
+    "area_m2": 84.94,
+    "floor": 7,
+    "price_10k": 127000,
+    "deal_date": "2025-09-30",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "증산중앙하이츠",
+    "district": "증산동",
+    "area_m2": 116.27,
+    "floor": 10,
+    "price_10k": 89700,
+    "deal_date": "2025-09-13",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우물골2단지두산위브(204~208동)BL2-5",
+    "district": "진관동",
+    "area_m2": 84.85,
+    "floor": 6,
+    "price_10k": 96000,
+    "deal_date": "2025-09-17",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 5,
+    "price_10k": 12000,
+    "deal_date": "2025-09-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.97,
+    "floor": 11,
+    "price_10k": 129000,
+    "deal_date": "2025-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운엘크루",
+    "district": "진관동",
+    "area_m2": 59.98,
+    "floor": 6,
+    "price_10k": 70000,
+    "deal_date": "2025-09-28",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 84.901,
+    "floor": 15,
+    "price_10k": 94500,
+    "deal_date": "2025-09-26",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 10,
+    "price_10k": 107800,
+    "deal_date": "2025-09-29",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 84.91,
+    "floor": 8,
+    "price_10k": 100000,
+    "deal_date": "2025-09-20",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 7,
+    "price_10k": 128000,
+    "deal_date": "2025-09-30",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 8,
+    "price_10k": 79900,
+    "deal_date": "2025-09-13",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 115000,
+    "deal_date": "2025-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 84.59,
+    "floor": 11,
+    "price_10k": 86500,
+    "deal_date": "2025-09-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC 진흥",
+    "district": "수색동",
+    "area_m2": 57.5033,
+    "floor": 6,
+    "price_10k": 66000,
+    "deal_date": "2025-09-29",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남청파인힐",
+    "district": "응암동",
+    "area_m2": 55.14,
+    "floor": 13,
+    "price_10k": 41500,
+    "deal_date": "2025-09-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건우샹그리라",
+    "district": "역촌동",
+    "area_m2": 84.16,
+    "floor": 6,
+    "price_10k": 55500,
+    "deal_date": "2025-09-29",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(323~335동)BL2-2",
+    "district": "진관동",
+    "area_m2": 101.81,
+    "floor": 8,
+    "price_10k": 108000,
+    "deal_date": "2025-09-25",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 59.981,
+    "floor": 11,
+    "price_10k": 95000,
+    "deal_date": "2025-09-29",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하늘애",
+    "district": "역촌동",
+    "area_m2": 84.84,
+    "floor": 6,
+    "price_10k": 75000,
+    "deal_date": "2025-09-04",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불광롯데캐슬",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 4,
+    "price_10k": 89900,
+    "deal_date": "2025-09-25",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.94,
+    "floor": 8,
+    "price_10k": 130000,
+    "deal_date": "2025-09-20",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 59.85,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2025-09-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 9,
+    "price_10k": 81000,
+    "deal_date": "2025-09-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 59.9865,
+    "floor": 11,
+    "price_10k": 122000,
+    "deal_date": "2025-09-28",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대주피오레",
+    "district": "응암동",
+    "area_m2": 128.92,
+    "floor": 10,
+    "price_10k": 88000,
+    "deal_date": "2025-09-27",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산래미안아파트(2단지)",
+    "district": "불광동",
+    "area_m2": 59.9932,
+    "floor": 8,
+    "price_10k": 83500,
+    "deal_date": "2025-09-19",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 50.74,
+    "floor": 8,
+    "price_10k": 73500,
+    "deal_date": "2025-09-27",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 7,
+    "price_10k": 74700,
+    "deal_date": "2025-09-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 15,
+    "price_10k": 115000,
+    "deal_date": "2025-09-27",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 19,
+    "price_10k": 115000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 84.96,
+    "floor": 3,
+    "price_10k": 89000,
+    "deal_date": "2025-09-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.97,
+    "floor": 15,
+    "price_10k": 119000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 81500,
+    "deal_date": "2025-09-22",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산래미안아파트(2단지)",
+    "district": "불광동",
+    "area_m2": 59.9932,
+    "floor": 2,
+    "price_10k": 77800,
+    "deal_date": "2025-09-19",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC센트럴자이(2단지)",
+    "district": "증산동",
+    "area_m2": 59.96,
+    "floor": 7,
+    "price_10k": 133500,
+    "deal_date": "2025-09-27",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 20,
+    "price_10k": 115000,
+    "deal_date": "2025-09-27",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 6,
+    "price_10k": 75300,
+    "deal_date": "2025-09-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 51.68,
+    "floor": 6,
+    "price_10k": 90000,
+    "deal_date": "2025-09-27",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 39.83,
+    "floor": 3,
+    "price_10k": 61000,
+    "deal_date": "2025-09-20",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC센트럴자이(2단지)",
+    "district": "증산동",
+    "area_m2": 74.78,
+    "floor": 5,
+    "price_10k": 141000,
+    "deal_date": "2025-09-26",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 105000,
+    "deal_date": "2025-09-26",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 1,
+    "price_10k": 72500,
+    "deal_date": "2025-09-06",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대주파크빌",
+    "district": "신사동",
+    "area_m2": 83.07,
+    "floor": 12,
+    "price_10k": 65000,
+    "deal_date": "2025-09-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아르지움주상복합",
+    "district": "응암동",
+    "area_m2": 49.76,
+    "floor": 9,
+    "price_10k": 56500,
+    "deal_date": "2025-09-06",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "구산동",
+    "area_m2": 84.69,
+    "floor": 9,
+    "price_10k": 63000,
+    "deal_date": "2025-09-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대힐스테이트3차아파트",
+    "district": "불광동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 86000,
+    "deal_date": "2025-09-26",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남양구르미아파트",
+    "district": "불광동",
+    "area_m2": 71.49,
+    "floor": 7,
+    "price_10k": 34000,
+    "deal_date": "2025-09-10",
+    "build_year": 2005,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.3363,
+    "floor": 7,
+    "price_10k": 107000,
+    "deal_date": "2025-09-15",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익(217-9)",
+    "district": "불광동",
+    "area_m2": 84.71,
+    "floor": 3,
+    "price_10k": 57000,
+    "deal_date": "2025-09-13",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사성원",
+    "district": "신사동",
+    "area_m2": 59.94,
+    "floor": 7,
+    "price_10k": 49200,
+    "deal_date": "2025-09-20",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 83000,
+    "deal_date": "2025-09-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평스카이뷰자이",
+    "district": "진관동",
+    "area_m2": 84.7488,
+    "floor": 23,
+    "price_10k": 112500,
+    "deal_date": "2025-09-24",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 134.83,
+    "floor": 6,
+    "price_10k": 113500,
+    "deal_date": "2025-09-21",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정익제이원",
+    "district": "대조동",
+    "area_m2": 26.37,
+    "floor": 12,
+    "price_10k": 27200,
+    "deal_date": "2025-09-10",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "뉴월드(402-42)",
+    "district": "응암동",
+    "area_m2": 79.88,
+    "floor": 2,
+    "price_10k": 45000,
+    "deal_date": "2025-09-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월드그린",
+    "district": "불광동",
+    "area_m2": 83.43,
+    "floor": 5,
+    "price_10k": 52000,
+    "deal_date": "2025-09-25",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.947,
+    "floor": 4,
+    "price_10k": 115000,
+    "deal_date": "2025-09-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "신사동",
+    "area_m2": 83.27,
+    "floor": 10,
+    "price_10k": 68500,
+    "deal_date": "2025-09-10",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.93,
+    "floor": 5,
+    "price_10k": 124000,
+    "deal_date": "2025-09-19",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위산일리온시티",
+    "district": "응암동",
+    "area_m2": 19.28,
+    "floor": 20,
+    "price_10k": 22600,
+    "deal_date": "2025-09-19",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대홈타운",
+    "district": "불광동",
+    "area_m2": 59.9765,
+    "floor": 8,
+    "price_10k": 85000,
+    "deal_date": "2025-09-23",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "응암동금호",
+    "district": "응암동",
+    "area_m2": 59.73,
+    "floor": 13,
+    "price_10k": 58200,
+    "deal_date": "2025-09-25",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 12,
+    "price_10k": 104800,
+    "deal_date": "2025-09-25",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.813,
+    "floor": 12,
+    "price_10k": 114500,
+    "deal_date": "2025-09-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 117700,
+    "deal_date": "2025-09-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 84.9965,
+    "floor": 27,
+    "price_10k": 140000,
+    "deal_date": "2025-09-25",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSKVIEW",
+    "district": "수색동",
+    "area_m2": 84.9965,
+    "floor": 10,
+    "price_10k": 137600,
+    "deal_date": "2025-09-09",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 59.85,
+    "floor": 4,
+    "price_10k": 88000,
+    "deal_date": "2025-09-17",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 5,
+    "price_10k": 122500,
+    "deal_date": "2025-09-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산래미안아파트(2단지)",
+    "district": "불광동",
+    "area_m2": 59.9932,
+    "floor": 5,
+    "price_10k": 53000,
+    "deal_date": "2025-09-22",
+    "build_year": 2010,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.98,
+    "floor": 9,
+    "price_10k": 105000,
+    "deal_date": "2025-09-20",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 84.901,
+    "floor": 18,
+    "price_10k": 93800,
+    "deal_date": "2025-09-24",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "불광롯데캐슬",
+    "district": "불광동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 112000,
+    "deal_date": "2025-09-24",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.986,
+    "floor": 6,
+    "price_10k": 110000,
+    "deal_date": "2025-09-06",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 59.8545,
+    "floor": 16,
+    "price_10k": 91500,
+    "deal_date": "2025-09-24",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 6,
+    "price_10k": 105000,
+    "deal_date": "2025-09-13",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사씨티",
+    "district": "신사동",
+    "area_m2": 49.76,
+    "floor": 16,
+    "price_10k": 39000,
+    "deal_date": "2025-09-20",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(622~629동)BL1-5",
+    "district": "진관동",
+    "area_m2": 59.8,
+    "floor": 7,
+    "price_10k": 66000,
+    "deal_date": "2025-09-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 3,
+    "price_10k": 104000,
+    "deal_date": "2025-09-19",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC파인시티자이",
+    "district": "수색동",
+    "area_m2": 59.64,
+    "floor": 14,
+    "price_10k": 114900,
+    "deal_date": "2025-09-23",
+    "build_year": 2025,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "e편한세상 수색 에코포레",
+    "district": "수색동",
+    "area_m2": 84.951,
+    "floor": 13,
+    "price_10k": 74800,
+    "deal_date": "2025-09-06",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(101~111동)BL2-12",
+    "district": "진관동",
+    "area_m2": 84.72,
+    "floor": 13,
+    "price_10k": 106000,
+    "deal_date": "2025-09-23",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 15,
+    "price_10k": 103000,
+    "deal_date": "2025-09-23",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 74.99,
+    "floor": 19,
+    "price_10k": 123000,
+    "deal_date": "2025-09-05",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "소망",
+    "district": "역촌동",
+    "area_m2": 43.17,
+    "floor": 6,
+    "price_10k": 15500,
+    "deal_date": "2025-09-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 3,
+    "price_10k": 102000,
+    "deal_date": "2025-09-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 59.99,
+    "floor": 5,
+    "price_10k": 112000,
+    "deal_date": "2025-09-22",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 100000,
+    "deal_date": "2025-09-22",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 166.75,
+    "floor": 2,
+    "price_10k": 118500,
+    "deal_date": "2025-09-15",
+    "build_year": 2010,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(622~629동)BL1-5",
+    "district": "진관동",
+    "area_m2": 59.8,
+    "floor": 2,
+    "price_10k": 65000,
+    "deal_date": "2025-09-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 4,
+    "price_10k": 112000,
+    "deal_date": "2025-09-21",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e-편한세상2",
+    "district": "구산동",
+    "area_m2": 84.618,
+    "floor": 3,
+    "price_10k": 63500,
+    "deal_date": "2025-09-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대홈타운",
+    "district": "불광동",
+    "area_m2": 84.9956,
+    "floor": 8,
+    "price_10k": 88000,
+    "deal_date": "2025-09-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트1차",
+    "district": "응암동",
+    "area_m2": 84.42,
+    "floor": 1,
+    "price_10k": 80000,
+    "deal_date": "2025-09-23",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "증산중앙하이츠",
+    "district": "증산동",
+    "area_m2": 84.81,
+    "floor": 5,
+    "price_10k": 81800,
+    "deal_date": "2025-09-13",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 84.95,
+    "floor": 17,
+    "price_10k": 123000,
+    "deal_date": "2025-09-22",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 11,
+    "price_10k": 114000,
+    "deal_date": "2025-09-22",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 3,
+    "price_10k": 121850,
+    "deal_date": "2025-09-22",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을8단지롯데캐슬(821~830동)BL1-12",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 9,
+    "price_10k": 93500,
+    "deal_date": "2025-09-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(706~708동)BL1-3",
+    "district": "진관동",
+    "area_m2": 84.83,
+    "floor": 6,
+    "price_10k": 79900,
+    "deal_date": "2025-09-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 101200,
+    "deal_date": "2025-09-03",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프미성",
+    "district": "불광동",
+    "area_m2": 66.7,
+    "floor": 11,
+    "price_10k": 45000,
+    "deal_date": "2025-09-16",
+    "build_year": 1988,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "DMC파인시티자이",
+    "district": "수색동",
+    "area_m2": 84.98,
+    "floor": 6,
+    "price_10k": 129500,
+    "deal_date": "2025-09-15",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 84.9039,
+    "floor": 9,
+    "price_10k": 103000,
+    "deal_date": "2025-09-06",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 14,
+    "price_10k": 104000,
+    "deal_date": "2025-09-16",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "자선메르시안(103)",
+    "district": "증산동",
+    "area_m2": 63.98,
+    "floor": 7,
+    "price_10k": 41000,
+    "deal_date": "2025-09-06",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상백련산",
+    "district": "응암동",
+    "area_m2": 84.31,
+    "floor": 12,
+    "price_10k": 89000,
+    "deal_date": "2025-09-24",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 59.93,
+    "floor": 3,
+    "price_10k": 79000,
+    "deal_date": "2025-09-20",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우물골2단지두산위브(204~208동)BL2-5",
+    "district": "진관동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 78000,
+    "deal_date": "2025-09-08",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 84.98,
+    "floor": 2,
+    "price_10k": 86000,
+    "deal_date": "2025-09-18",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성타운",
+    "district": "대조동",
+    "area_m2": 59.4,
+    "floor": 17,
+    "price_10k": 58500,
+    "deal_date": "2025-09-21",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(615~621동)BL1-6",
+    "district": "진관동",
+    "area_m2": 101.61,
+    "floor": 10,
+    "price_10k": 88000,
+    "deal_date": "2025-09-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사씨티",
+    "district": "신사동",
+    "area_m2": 58.09,
+    "floor": 17,
+    "price_10k": 44800,
+    "deal_date": "2025-09-20",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 106000,
+    "deal_date": "2025-09-20",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은평뉴타운엘크루",
+    "district": "진관동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 72500,
+    "deal_date": "2025-09-19",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 134500,
+    "deal_date": "2025-09-09",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(706~708동)BL1-3",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 3,
+    "price_10k": 80500,
+    "deal_date": "2025-09-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 7,
+    "price_10k": 76000,
+    "deal_date": "2025-09-20",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트4차",
+    "district": "응암동",
+    "area_m2": 59.98,
+    "floor": 13,
+    "price_10k": 85000,
+    "deal_date": "2025-09-21",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.9,
+    "floor": 5,
+    "price_10k": 122500,
+    "deal_date": "2025-09-16",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미미",
+    "district": "갈현동",
+    "area_m2": 59.595,
+    "floor": 6,
+    "price_10k": 54300,
+    "deal_date": "2025-09-18",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 59.817,
+    "floor": 8,
+    "price_10k": 85500,
+    "deal_date": "2025-09-19",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "박석고개1단지힐스테이트(116~131동)BL2-1",
+    "district": "진관동",
+    "area_m2": 59.87,
+    "floor": 13,
+    "price_10k": 85000,
+    "deal_date": "2025-09-15",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서강아파트",
+    "district": "불광동",
+    "area_m2": 202.2,
+    "floor": 3,
+    "price_10k": 62000,
+    "deal_date": "2025-09-19",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 84.99,
+    "floor": 13,
+    "price_10k": 134000,
+    "deal_date": "2025-09-19",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프미성",
+    "district": "불광동",
+    "area_m2": 66.7,
+    "floor": 9,
+    "price_10k": 70000,
+    "deal_date": "2025-09-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경향파크",
+    "district": "구산동",
+    "area_m2": 84.06,
+    "floor": 10,
+    "price_10k": 42000,
+    "deal_date": "2025-09-07",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 84.99,
+    "floor": 8,
+    "price_10k": 126500,
+    "deal_date": "2025-09-13",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성수정",
+    "district": "신사동",
+    "area_m2": 59.67,
+    "floor": 9,
+    "price_10k": 44900,
+    "deal_date": "2025-09-02",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 3,
+    "price_10k": 12100,
+    "deal_date": "2025-09-18",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번역",
+    "district": "응암동",
+    "area_m2": 84.99,
+    "floor": 10,
+    "price_10k": 123000,
+    "deal_date": "2025-09-03",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 98000,
+    "deal_date": "2025-09-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갈현1단지e-편한세상",
+    "district": "구산동",
+    "area_m2": 84.618,
+    "floor": 6,
+    "price_10k": 63800,
+    "deal_date": "2025-09-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발10단지어울림(1011~1019동)BL3-1",
+    "district": "진관동",
+    "area_m2": 84.8,
+    "floor": 1,
+    "price_10k": 88000,
+    "deal_date": "2025-09-14",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안베라힐즈",
+    "district": "녹번동",
+    "area_m2": 59.99,
+    "floor": 9,
+    "price_10k": 102500,
+    "deal_date": "2025-09-17",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트1차",
+    "district": "응암동",
+    "area_m2": 84.49,
+    "floor": 4,
+    "price_10k": 80000,
+    "deal_date": "2025-09-17",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 114.65,
+    "floor": 12,
+    "price_10k": 75000,
+    "deal_date": "2025-09-17",
+    "build_year": 2011,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "경향파크",
+    "district": "구산동",
+    "area_m2": 84.06,
+    "floor": 8,
+    "price_10k": 41500,
+    "deal_date": "2025-09-06",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "캐슬아파트(18-10)",
+    "district": "구산동",
+    "area_m2": 84.73,
+    "floor": 3,
+    "price_10k": 51000,
+    "deal_date": "2025-09-13",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이랜드타운아파트",
+    "district": "신사동",
+    "area_m2": 84.9287,
+    "floor": 5,
+    "price_10k": 61500,
+    "deal_date": "2025-09-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우공아트빌",
+    "district": "구산동",
+    "area_m2": 62.6,
+    "floor": 5,
+    "price_10k": 23000,
+    "deal_date": "2025-09-16",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.905,
+    "floor": 6,
+    "price_10k": 81500,
+    "deal_date": "2025-09-02",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위산일리온시티",
+    "district": "응암동",
+    "area_m2": 19.42,
+    "floor": 10,
+    "price_10k": 22000,
+    "deal_date": "2025-09-17",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디오반",
+    "district": "증산동",
+    "area_m2": 14.46,
+    "floor": 3,
+    "price_10k": 11100,
+    "deal_date": "2025-09-11",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "신사동",
+    "area_m2": 63.53,
+    "floor": 9,
+    "price_10k": 54000,
+    "deal_date": "2025-09-04",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 49.759,
+    "floor": 7,
+    "price_10k": 68000,
+    "deal_date": "2025-09-13",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 11,
+    "price_10k": 103000,
+    "deal_date": "2025-09-06",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "응암동",
+    "area_m2": 64.62,
+    "floor": 6,
+    "price_10k": 45500,
+    "deal_date": "2025-09-13",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 53.95,
+    "floor": 3,
+    "price_10k": 87000,
+    "deal_date": "2025-09-08",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 84.898,
+    "floor": 13,
+    "price_10k": 124750,
+    "deal_date": "2025-09-15",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "신사동",
+    "area_m2": 84.17,
+    "floor": 10,
+    "price_10k": 58500,
+    "deal_date": "2025-09-15",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대호아파트",
+    "district": "불광동",
+    "area_m2": 59.7,
+    "floor": 8,
+    "price_10k": 58000,
+    "deal_date": "2025-09-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마고정3단지센트레빌(310~322동)BL2-3",
+    "district": "진관동",
+    "area_m2": 59.37,
+    "floor": 7,
+    "price_10k": 75300,
+    "deal_date": "2025-09-16",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현재트윈빌",
+    "district": "갈현동",
+    "area_m2": 148.77,
+    "floor": 11,
+    "price_10k": 76500,
+    "deal_date": "2025-09-09",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산현대홈타운",
+    "district": "불광동",
+    "area_m2": 84.9956,
+    "floor": 10,
+    "price_10k": 90500,
+    "deal_date": "2025-09-14",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "효민아크로뷰",
+    "district": "갈현동",
+    "area_m2": 29.92,
+    "floor": 11,
+    "price_10k": 46800,
+    "deal_date": "2025-09-10",
+    "build_year": 2024,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 13,
+    "price_10k": 83500,
+    "deal_date": "2025-09-14",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구파발9단지래미안(916~928동)BL3-2",
+    "district": "진관동",
+    "area_m2": 101.92,
+    "floor": 6,
+    "price_10k": 105000,
+    "deal_date": "2025-09-07",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구산그린빌",
+    "district": "구산동",
+    "area_m2": 59.76,
+    "floor": 8,
+    "price_10k": 46600,
+    "deal_date": "2025-09-08",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을7단지아이파크(713~718동)BL1-11",
+    "district": "진관동",
+    "area_m2": 84.95,
+    "floor": 6,
+    "price_10k": 84000,
+    "deal_date": "2025-09-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 3,
+    "price_10k": 101500,
+    "deal_date": "2025-09-13",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "새천년3차드림",
+    "district": "구산동",
+    "area_m2": 84.23,
+    "floor": 4,
+    "price_10k": 53000,
+    "deal_date": "2025-09-13",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 97.06,
+    "floor": 2,
+    "price_10k": 132500,
+    "deal_date": "2025-09-13",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트7차",
+    "district": "불광동",
+    "area_m2": 84.947,
+    "floor": 8,
+    "price_10k": 110000,
+    "deal_date": "2025-09-13",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.97,
+    "floor": 8,
+    "price_10k": 114000,
+    "deal_date": "2025-09-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "캐슬아파트(18-10)",
+    "district": "구산동",
+    "area_m2": 84.73,
+    "floor": 3,
+    "price_10k": 51000,
+    "deal_date": "2025-09-13",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "응암역효성해링턴플레이스",
+    "district": "신사동",
+    "area_m2": 59.94,
+    "floor": 9,
+    "price_10k": 75300,
+    "deal_date": "2025-09-12",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이랜드타운아파트",
+    "district": "신사동",
+    "area_m2": 84.9287,
+    "floor": 14,
+    "price_10k": 61500,
+    "deal_date": "2025-09-01",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한국리치빌",
+    "district": "역촌동",
+    "area_m2": 84.2164,
+    "floor": 8,
+    "price_10k": 65000,
+    "deal_date": "2025-09-05",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 84.94,
+    "floor": 17,
+    "price_10k": 129000,
+    "deal_date": "2025-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갈현1단지e-편한세상",
+    "district": "구산동",
+    "area_m2": 84.618,
+    "floor": 4,
+    "price_10k": 66000,
+    "deal_date": "2025-09-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산힐스테이트1차아파트",
+    "district": "불광동",
+    "area_m2": 59.817,
+    "floor": 5,
+    "price_10k": 77000,
+    "deal_date": "2025-09-11",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "폭포동4단지힐스테이트(426~428동)BL3-11",
+    "district": "진관동",
+    "area_m2": 101.95,
+    "floor": 2,
+    "price_10k": 92000,
+    "deal_date": "2025-09-09",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트1차",
+    "district": "응암동",
+    "area_m2": 84.21,
+    "floor": 2,
+    "price_10k": 83800,
+    "deal_date": "2025-09-10",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아파트(276)",
+    "district": "녹번동",
+    "area_m2": 84.94,
+    "floor": 3,
+    "price_10k": 66500,
+    "deal_date": "2025-09-03",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "응암동",
+    "area_m2": 52.71,
+    "floor": 8,
+    "price_10k": 44800,
+    "deal_date": "2025-09-03",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 39.1,
+    "floor": 9,
+    "price_10k": 52500,
+    "deal_date": "2025-09-09",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메트하임",
+    "district": "대조동",
+    "area_m2": 14.03,
+    "floor": 11,
+    "price_10k": 18200,
+    "deal_date": "2025-09-10",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 39.97,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2025-09-06",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산에스케이뷰아이파크",
+    "district": "응암동",
+    "area_m2": 100.9852,
+    "floor": 7,
+    "price_10k": 124700,
+    "deal_date": "2025-09-09",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프미성",
+    "district": "불광동",
+    "area_m2": 66.7,
+    "floor": 9,
+    "price_10k": 69900,
+    "deal_date": "2025-09-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 84.97,
+    "floor": 13,
+    "price_10k": 120200,
+    "deal_date": "2025-09-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산파크자이",
+    "district": "응암동",
+    "area_m2": 59.905,
+    "floor": 4,
+    "price_10k": 81000,
+    "deal_date": "2025-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상 수색 에코포레",
+    "district": "수색동",
+    "area_m2": 84.951,
+    "floor": 3,
+    "price_10k": 72500,
+    "deal_date": "2025-09-07",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신사동한신휴플러스",
+    "district": "신사동",
+    "area_m2": 114.49,
+    "floor": 9,
+    "price_10k": 73000,
+    "deal_date": "2025-09-07",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMCSK뷰아이파크포레",
+    "district": "수색동",
+    "area_m2": 76.65,
+    "floor": 13,
+    "price_10k": 114800,
+    "deal_date": "2025-09-05",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC롯데캐슬더퍼스트",
+    "district": "수색동",
+    "area_m2": 59.96,
+    "floor": 7,
+    "price_10k": 104000,
+    "deal_date": "2025-09-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트2차",
+    "district": "응암동",
+    "area_m2": 84.37,
+    "floor": 3,
+    "price_10k": 81000,
+    "deal_date": "2025-09-06",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 84.99,
+    "floor": 7,
+    "price_10k": 103800,
+    "deal_date": "2025-09-06",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 115000,
+    "deal_date": "2025-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 102750,
+    "deal_date": "2025-09-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼흥리치",
+    "district": "응암동",
+    "area_m2": 56.43,
+    "floor": 3,
+    "price_10k": 53000,
+    "deal_date": "2025-09-06",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산해모로",
+    "district": "응암동",
+    "area_m2": 50.74,
+    "floor": 5,
+    "price_10k": 72500,
+    "deal_date": "2025-09-06",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갤럭시타운",
+    "district": "불광동",
+    "area_m2": 44.85,
+    "floor": 10,
+    "price_10k": 43000,
+    "deal_date": "2025-09-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상림마을6단지푸르지오(606~614동)BL1-7",
+    "district": "진관동",
+    "area_m2": 84.79,
+    "floor": 4,
+    "price_10k": 76500,
+    "deal_date": "2025-09-04",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 59.94,
+    "floor": 7,
+    "price_10k": 105000,
+    "deal_date": "2025-09-04",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정명네스트",
+    "district": "신사동",
+    "area_m2": 82.62,
+    "floor": 3,
+    "price_10k": 45000,
+    "deal_date": "2025-09-02",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산푸르지오",
+    "district": "녹번동",
+    "area_m2": 59.99,
+    "floor": 14,
+    "price_10k": 95500,
+    "deal_date": "2025-09-04",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트녹번",
+    "district": "녹번동",
+    "area_m2": 59.938,
+    "floor": 18,
+    "price_10k": 111000,
+    "deal_date": "2025-09-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은혜스카이빌아파트",
+    "district": "불광동",
+    "area_m2": 84.335,
+    "floor": 7,
+    "price_10k": 62500,
+    "deal_date": "2025-09-03",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백련산힐스테이트3차",
+    "district": "응암동",
+    "area_m2": 59.63,
+    "floor": 8,
+    "price_10k": 75500,
+    "deal_date": "2025-09-03",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "녹번역e편한세상캐슬",
+    "district": "응암동",
+    "area_m2": 99.76,
+    "floor": 2,
+    "price_10k": 146000,
+    "deal_date": "2025-09-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "홍익",
+    "district": "신사동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 43300,
+    "deal_date": "2025-09-01",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  }
+]

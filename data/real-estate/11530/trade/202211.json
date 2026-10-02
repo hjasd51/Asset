@@ -1,0 +1,262 @@
+[
+  {
+    "name": "금호",
+    "district": "구로동",
+    "area_m2": 84.86,
+    "floor": 10,
+    "price_10k": 54000,
+    "deal_date": "2022-11-29",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성,현대아파트",
+    "district": "고척동",
+    "area_m2": 68.7,
+    "floor": 10,
+    "price_10k": 58500,
+    "deal_date": "2022-11-29",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고척파크푸르지오",
+    "district": "고척동",
+    "area_m2": 84.94,
+    "floor": 1,
+    "price_10k": 72000,
+    "deal_date": "2022-11-29",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하나세인스톤2차",
+    "district": "구로동",
+    "area_m2": 19.33,
+    "floor": 17,
+    "price_10k": 14500,
+    "deal_date": "2022-11-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 61800,
+    "deal_date": "2022-11-09",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 59.49,
+    "floor": 21,
+    "price_10k": 52500,
+    "deal_date": "2022-11-21",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "구로동",
+    "area_m2": 32.39,
+    "floor": 9,
+    "price_10k": 52800,
+    "deal_date": "2022-11-16",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 8,
+    "price_10k": 41100,
+    "deal_date": "2022-11-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 6,
+    "price_10k": 40000,
+    "deal_date": "2022-11-26",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "(751-5)",
+    "district": "구로동",
+    "area_m2": 53.45,
+    "floor": 5,
+    "price_10k": 28000,
+    "deal_date": "2022-11-08",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성",
+    "district": "신도림동",
+    "area_m2": 52.45,
+    "floor": 6,
+    "price_10k": 74000,
+    "deal_date": "2022-11-12",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "천왕이펜하우스6단지",
+    "district": "천왕동",
+    "area_m2": 84.97,
+    "floor": 7,
+    "price_10k": 65000,
+    "deal_date": "2022-11-28",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "(794-17)",
+    "district": "구로동",
+    "area_m2": 38.96,
+    "floor": 2,
+    "price_10k": 23800,
+    "deal_date": "2022-11-08",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "개봉동",
+    "area_m2": 59.49,
+    "floor": 3,
+    "price_10k": 54000,
+    "deal_date": "2022-11-10",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트레인보우",
+    "district": "구로동",
+    "area_m2": 15.92,
+    "floor": 6,
+    "price_10k": 12200,
+    "deal_date": "2022-11-23",
+    "build_year": 2012,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 19,
+    "price_10k": 43800,
+    "deal_date": "2022-11-01",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구로두산",
+    "district": "구로동",
+    "area_m2": 44.64,
+    "floor": 6,
+    "price_10k": 39500,
+    "deal_date": "2022-11-09",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해담채3",
+    "district": "구로동",
+    "area_m2": 13.39,
+    "floor": 11,
+    "price_10k": 11200,
+    "deal_date": "2022-11-21",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "로제리움2차",
+    "district": "구로동",
+    "area_m2": 14.04,
+    "floor": 18,
+    "price_10k": 11300,
+    "deal_date": "2022-11-21",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대",
+    "district": "개봉동",
+    "area_m2": 114.99,
+    "floor": 8,
+    "price_10k": 85000,
+    "deal_date": "2022-11-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "로제리움2차",
+    "district": "구로동",
+    "area_m2": 14.91,
+    "floor": 17,
+    "price_10k": 11500,
+    "deal_date": "2022-11-14",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환로즈빌",
+    "district": "고척동",
+    "area_m2": 84.994,
+    "floor": 18,
+    "price_10k": 70000,
+    "deal_date": "2022-11-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "덕영드림",
+    "district": "구로동",
+    "area_m2": 70.23,
+    "floor": 7,
+    "price_10k": 57200,
+    "deal_date": "2022-11-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트레드",
+    "district": "구로동",
+    "area_m2": 20.54,
+    "floor": 4,
+    "price_10k": 17850,
+    "deal_date": "2022-11-10",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트블루",
+    "district": "구로동",
+    "area_m2": 16.04,
+    "floor": 8,
+    "price_10k": 12500,
+    "deal_date": "2022-11-04",
+    "build_year": 2012,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "구로오네뜨시티",
+    "district": "구로동",
+    "area_m2": 16.71,
+    "floor": 15,
+    "price_10k": 18400,
+    "deal_date": "2022-11-03",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  }
+]

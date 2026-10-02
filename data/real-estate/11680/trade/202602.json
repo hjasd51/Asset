@@ -1,0 +1,1642 @@
+[
+  {
+    "name": "쎄비앙102동",
+    "district": "역삼동",
+    "area_m2": 109.35,
+    "floor": 3,
+    "price_10k": 148000,
+    "deal_date": "2026-02-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남논현",
+    "district": "논현동",
+    "area_m2": 84.89,
+    "floor": 3,
+    "price_10k": 184500,
+    "deal_date": "2026-02-23",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신현대12차",
+    "district": "압구정동",
+    "area_m2": 107.16,
+    "floor": 2,
+    "price_10k": 638000,
+    "deal_date": "2026-02-27",
+    "build_year": 1982,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안블레스티지",
+    "district": "개포동",
+    "area_m2": 84.94,
+    "floor": 28,
+    "price_10k": 374000,
+    "deal_date": "2026-02-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "압구정하이츠파크",
+    "district": "신사동",
+    "area_m2": 184.02,
+    "floor": 17,
+    "price_10k": 633000,
+    "deal_date": "2026-02-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역삼엔스위트102동",
+    "district": "역삼동",
+    "area_m2": 90.15,
+    "floor": 7,
+    "price_10k": 110000,
+    "deal_date": "2026-02-28",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌",
+    "district": "역삼동",
+    "area_m2": 30.03,
+    "floor": 14,
+    "price_10k": 30500,
+    "deal_date": "2026-02-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포자이프레지던스",
+    "district": "개포동",
+    "area_m2": 59.9751,
+    "floor": 21,
+    "price_10k": 307000,
+    "deal_date": "2026-02-28",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "뉴현대",
+    "district": "신사동",
+    "area_m2": 115.84,
+    "floor": 4,
+    "price_10k": 145000,
+    "deal_date": "2026-02-20",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대1",
+    "district": "대치동",
+    "area_m2": 84.27,
+    "floor": 6,
+    "price_10k": 250000,
+    "deal_date": "2026-02-19",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안청담로이뷰",
+    "district": "청담동",
+    "area_m2": 110.2,
+    "floor": 5,
+    "price_10k": 375000,
+    "deal_date": "2026-02-13",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남 더샵 포레스트",
+    "district": "수서동",
+    "area_m2": 146.7139,
+    "floor": 10,
+    "price_10k": 390000,
+    "deal_date": "2026-02-24",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡아이파크",
+    "district": "자곡동",
+    "area_m2": 74.89,
+    "floor": 13,
+    "price_10k": 215000,
+    "deal_date": "2026-02-21",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안대치팰리스",
+    "district": "대치동",
+    "area_m2": 151.31,
+    "floor": 24,
+    "price_10k": 655000,
+    "deal_date": "2026-02-21",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대그린1",
+    "district": "도곡동",
+    "area_m2": 84.93,
+    "floor": 2,
+    "price_10k": 245000,
+    "deal_date": "2026-02-23",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 7,
+    "price_10k": 149000,
+    "deal_date": "2026-02-05",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대치우성아파트1동,2동,3동,5동,6동,7동",
+    "district": "대치동",
+    "area_m2": 84.69,
+    "floor": 5,
+    "price_10k": 355000,
+    "deal_date": "2026-02-25",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 101.94,
+    "floor": 10,
+    "price_10k": 240000,
+    "deal_date": "2026-02-28",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안라클래시",
+    "district": "삼성동",
+    "area_m2": 71.99,
+    "floor": 20,
+    "price_10k": 391000,
+    "deal_date": "2026-02-21",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성동센트럴아이파크",
+    "district": "삼성동",
+    "area_m2": 123.3,
+    "floor": 6,
+    "price_10k": 478000,
+    "deal_date": "2026-02-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "테헤란아이파크",
+    "district": "역삼동",
+    "area_m2": 70.8333,
+    "floor": 1,
+    "price_10k": 267000,
+    "deal_date": "2026-02-14",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은마",
+    "district": "대치동",
+    "area_m2": 76.79,
+    "floor": 6,
+    "price_10k": 360000,
+    "deal_date": "2026-02-26",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌",
+    "district": "역삼동",
+    "area_m2": 59.145,
+    "floor": 5,
+    "price_10k": 63000,
+    "deal_date": "2026-02-27",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로힐스논현",
+    "district": "논현동",
+    "area_m2": 113.087,
+    "floor": 18,
+    "price_10k": 345000,
+    "deal_date": "2026-02-20",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 94.91,
+    "floor": 1,
+    "price_10k": 236000,
+    "deal_date": "2026-02-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대2차(10,11,20,23,24,25동)",
+    "district": "압구정동",
+    "area_m2": 196.84,
+    "floor": 1,
+    "price_10k": 970000,
+    "deal_date": "2026-02-21",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대7차(73~77,82,85동)",
+    "district": "압구정동",
+    "area_m2": 144.2,
+    "floor": 1,
+    "price_10k": 780000,
+    "deal_date": "2026-02-20",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성8",
+    "district": "개포동",
+    "area_m2": 79.61,
+    "floor": 5,
+    "price_10k": 272000,
+    "deal_date": "2026-02-23",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대비젼21",
+    "district": "도곡동",
+    "area_m2": 32.65,
+    "floor": 16,
+    "price_10k": 43300,
+    "deal_date": "2026-02-28",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대까르띠에710",
+    "district": "역삼동",
+    "area_m2": 149.7,
+    "floor": 21,
+    "price_10k": 390000,
+    "deal_date": "2026-02-23",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 101.95,
+    "floor": 2,
+    "price_10k": 230000,
+    "deal_date": "2026-02-10",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담우방아파트",
+    "district": "청담동",
+    "area_m2": 118.53,
+    "floor": 13,
+    "price_10k": 267000,
+    "deal_date": "2026-02-26",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남데시앙파크",
+    "district": "세곡동",
+    "area_m2": 114.69,
+    "floor": 7,
+    "price_10k": 183500,
+    "deal_date": "2026-02-12",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시티프라디움더강남201동",
+    "district": "역삼동",
+    "area_m2": 70.54,
+    "floor": 9,
+    "price_10k": 161000,
+    "deal_date": "2026-02-12",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포래미안포레스트",
+    "district": "개포동",
+    "area_m2": 96.91,
+    "floor": 16,
+    "price_10k": 390000,
+    "deal_date": "2026-02-12",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "타워팰리스2",
+    "district": "도곡동",
+    "area_m2": 160.17,
+    "floor": 36,
+    "price_10k": 450000,
+    "deal_date": "2026-02-07",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌",
+    "district": "역삼동",
+    "area_m2": 30.03,
+    "floor": 10,
+    "price_10k": 28000,
+    "deal_date": "2026-02-06",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포더샵트리에",
+    "district": "개포동",
+    "area_m2": 108.2017,
+    "floor": 3,
+    "price_10k": 305000,
+    "deal_date": "2026-02-23",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역삼I'PARK",
+    "district": "역삼동",
+    "area_m2": 28.246,
+    "floor": 2,
+    "price_10k": 86500,
+    "deal_date": "2026-02-21",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아이파크",
+    "district": "삼성동",
+    "area_m2": 156.857,
+    "floor": 42,
+    "price_10k": 780000,
+    "deal_date": "2026-02-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목화",
+    "district": "청담동",
+    "area_m2": 133.97,
+    "floor": 4,
+    "price_10k": 300000,
+    "deal_date": "2026-02-25",
+    "build_year": 1995,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼성동힐스테이트 1단지",
+    "district": "삼성동",
+    "area_m2": 84.236,
+    "floor": 5,
+    "price_10k": 355000,
+    "deal_date": "2026-02-06",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원대치2단지아파트",
+    "district": "개포동",
+    "area_m2": 39.53,
+    "floor": 4,
+    "price_10k": 175000,
+    "deal_date": "2026-02-27",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담우방아파트",
+    "district": "청담동",
+    "area_m2": 84.91,
+    "floor": 14,
+    "price_10k": 255000,
+    "deal_date": "2026-02-28",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포주공5단지",
+    "district": "개포동",
+    "area_m2": 74.25,
+    "floor": 10,
+    "price_10k": 388000,
+    "deal_date": "2026-02-13",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡아이파크",
+    "district": "자곡동",
+    "area_m2": 84.92,
+    "floor": 7,
+    "price_10k": 232000,
+    "deal_date": "2026-02-21",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 91.96,
+    "floor": 10,
+    "price_10k": 217000,
+    "deal_date": "2026-02-28",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우찬",
+    "district": "신사동",
+    "area_m2": 22.68,
+    "floor": 2,
+    "price_10k": 41800,
+    "deal_date": "2026-02-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 157000,
+    "deal_date": "2026-02-28",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대치아이파크",
+    "district": "대치동",
+    "area_m2": 119.58,
+    "floor": 4,
+    "price_10k": 440000,
+    "deal_date": "2026-02-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌",
+    "district": "역삼동",
+    "area_m2": 30.03,
+    "floor": 14,
+    "price_10k": 30500,
+    "deal_date": "2026-02-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안 개포 루체하임",
+    "district": "일원동",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 270000,
+    "deal_date": "2026-02-26",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡렉슬",
+    "district": "도곡동",
+    "area_m2": 84.9231,
+    "floor": 2,
+    "price_10k": 365000,
+    "deal_date": "2026-02-11",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남센트럴아이파크",
+    "district": "역삼동",
+    "area_m2": 59.994,
+    "floor": 8,
+    "price_10k": 310000,
+    "deal_date": "2026-02-12",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환(101동)",
+    "district": "청담동",
+    "area_m2": 99.01,
+    "floor": 4,
+    "price_10k": 249000,
+    "deal_date": "2026-02-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성청담공원아파트",
+    "district": "청담동",
+    "area_m2": 107.22,
+    "floor": 9,
+    "price_10k": 300000,
+    "deal_date": "2026-02-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡스타클래스",
+    "district": "도곡동",
+    "area_m2": 112.75,
+    "floor": 5,
+    "price_10k": 179000,
+    "deal_date": "2026-02-07",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서광아파트",
+    "district": "삼성동",
+    "area_m2": 59.67,
+    "floor": 6,
+    "price_10k": 255000,
+    "deal_date": "2026-02-07",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡우성아파트",
+    "district": "도곡동",
+    "area_m2": 84.83,
+    "floor": 11,
+    "price_10k": 275000,
+    "deal_date": "2026-02-07",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대5차(71,72동)",
+    "district": "압구정동",
+    "area_m2": 82.23,
+    "floor": 11,
+    "price_10k": 610000,
+    "deal_date": "2026-02-07",
+    "build_year": 1977,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸른마을아파트101동~111동",
+    "district": "일원동",
+    "area_m2": 59.76,
+    "floor": 9,
+    "price_10k": 230000,
+    "deal_date": "2026-02-10",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대비젼21",
+    "district": "도곡동",
+    "area_m2": 32.65,
+    "floor": 23,
+    "price_10k": 43000,
+    "deal_date": "2026-02-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부센트레빌",
+    "district": "대치동",
+    "area_m2": 121.74,
+    "floor": 22,
+    "price_10k": 548000,
+    "deal_date": "2026-02-26",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우아이빌멤버스(891-26)",
+    "district": "대치동",
+    "area_m2": 35.796,
+    "floor": 8,
+    "price_10k": 30000,
+    "deal_date": "2026-02-24",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담신원아침도시마인",
+    "district": "청담동",
+    "area_m2": 28.3132,
+    "floor": 6,
+    "price_10k": 34000,
+    "deal_date": "2026-02-20",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림역삼",
+    "district": "역삼동",
+    "area_m2": 59.66,
+    "floor": 15,
+    "price_10k": 202000,
+    "deal_date": "2026-02-11",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 101.94,
+    "floor": 2,
+    "price_10k": 215000,
+    "deal_date": "2026-02-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포스코더샵",
+    "district": "대치동",
+    "area_m2": 164.88,
+    "floor": 8,
+    "price_10k": 405000,
+    "deal_date": "2026-02-19",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쎄비앙102동",
+    "district": "역삼동",
+    "area_m2": 109.35,
+    "floor": 3,
+    "price_10k": 148000,
+    "deal_date": "2026-02-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한화진넥스빌",
+    "district": "역삼동",
+    "area_m2": 43.58,
+    "floor": 25,
+    "price_10k": 48500,
+    "deal_date": "2026-02-26",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 8,
+    "price_10k": 150000,
+    "deal_date": "2026-02-14",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디에이치아너힐즈",
+    "district": "개포동",
+    "area_m2": 106.9845,
+    "floor": 17,
+    "price_10k": 500000,
+    "deal_date": "2026-02-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청학아파트에이동,비동,씨동",
+    "district": "논현동",
+    "area_m2": 97.18,
+    "floor": 6,
+    "price_10k": 150000,
+    "deal_date": "2026-02-12",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아(22)",
+    "district": "논현동",
+    "area_m2": 35.73,
+    "floor": 3,
+    "price_10k": 123000,
+    "deal_date": "2026-02-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡렉슬",
+    "district": "도곡동",
+    "area_m2": 120.8233,
+    "floor": 11,
+    "price_10k": 434000,
+    "deal_date": "2026-02-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "테크노빌라트",
+    "district": "논현동",
+    "area_m2": 114.3,
+    "floor": 5,
+    "price_10k": 129000,
+    "deal_date": "2026-02-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 51.96,
+    "floor": 2,
+    "price_10k": 120000,
+    "deal_date": "2026-02-25",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 39.6,
+    "floor": 4,
+    "price_10k": 155700,
+    "deal_date": "2026-02-25",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 59.93,
+    "floor": 2,
+    "price_10k": 149500,
+    "deal_date": "2026-02-25",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안블레스티지",
+    "district": "개포동",
+    "area_m2": 59.837,
+    "floor": 16,
+    "price_10k": 305000,
+    "deal_date": "2026-02-11",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우아이빌멤버스(891-26)",
+    "district": "대치동",
+    "area_m2": 35.796,
+    "floor": 8,
+    "price_10k": 30000,
+    "deal_date": "2026-02-24",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아크로빌",
+    "district": "도곡동",
+    "area_m2": 130.545,
+    "floor": 17,
+    "price_10k": 300000,
+    "deal_date": "2026-02-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남논현",
+    "district": "논현동",
+    "area_m2": 59.56,
+    "floor": 8,
+    "price_10k": 147000,
+    "deal_date": "2026-02-10",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남센트럴아이파크",
+    "district": "역삼동",
+    "area_m2": 125.462,
+    "floor": 21,
+    "price_10k": 490000,
+    "deal_date": "2026-02-07",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 39.6,
+    "floor": 7,
+    "price_10k": 168000,
+    "deal_date": "2026-02-23",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성동힐스테이트 1단지",
+    "district": "삼성동",
+    "area_m2": 84.419,
+    "floor": 7,
+    "price_10k": 348000,
+    "deal_date": "2026-02-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아크로빌",
+    "district": "도곡동",
+    "area_m2": 84.072,
+    "floor": 3,
+    "price_10k": 225000,
+    "deal_date": "2026-02-09",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안삼성2차",
+    "district": "삼성동",
+    "area_m2": 119.29,
+    "floor": 9,
+    "price_10k": 386000,
+    "deal_date": "2026-02-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남논현",
+    "district": "논현동",
+    "area_m2": 84.89,
+    "floor": 3,
+    "price_10k": 184500,
+    "deal_date": "2026-02-23",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "수서동",
+    "area_m2": 49.96,
+    "floor": 3,
+    "price_10k": 200000,
+    "deal_date": "2026-02-05",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "역삼래미안",
+    "district": "역삼동",
+    "area_m2": 80.87,
+    "floor": 17,
+    "price_10k": 331500,
+    "deal_date": "2026-02-23",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한보미도맨션2",
+    "district": "대치동",
+    "area_m2": 126.33,
+    "floor": 9,
+    "price_10k": 495000,
+    "deal_date": "2026-02-03",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아크로빌",
+    "district": "도곡동",
+    "area_m2": 130.545,
+    "floor": 32,
+    "price_10k": 294500,
+    "deal_date": "2026-02-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양1차(영동한양)",
+    "district": "압구정동",
+    "area_m2": 49.98,
+    "floor": 9,
+    "price_10k": 420000,
+    "deal_date": "2026-02-06",
+    "build_year": 1977,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안",
+    "district": "도곡동",
+    "area_m2": 122.81,
+    "floor": 20,
+    "price_10k": 405000,
+    "deal_date": "2026-02-10",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담동삼성1차(101동)",
+    "district": "청담동",
+    "area_m2": 84.57,
+    "floor": 14,
+    "price_10k": 229000,
+    "deal_date": "2026-02-20",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하야트빌",
+    "district": "신사동",
+    "area_m2": 70.95,
+    "floor": 2,
+    "price_10k": 94000,
+    "deal_date": "2026-02-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신현대11차",
+    "district": "압구정동",
+    "area_m2": 183.41,
+    "floor": 2,
+    "price_10k": 970000,
+    "deal_date": "2026-02-04",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌플러스",
+    "district": "역삼동",
+    "area_m2": 34.41,
+    "floor": 13,
+    "price_10k": 30900,
+    "deal_date": "2026-02-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담자이",
+    "district": "청담동",
+    "area_m2": 49.619,
+    "floor": 28,
+    "price_10k": 289000,
+    "deal_date": "2026-02-06",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "수서동",
+    "area_m2": 49.96,
+    "floor": 2,
+    "price_10k": 209000,
+    "deal_date": "2026-02-10",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "수서동",
+    "area_m2": 33.18,
+    "floor": 7,
+    "price_10k": 151500,
+    "deal_date": "2026-02-21",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성동힐스테이트 1단지",
+    "district": "삼성동",
+    "area_m2": 31.402,
+    "floor": 17,
+    "price_10k": 170000,
+    "deal_date": "2026-02-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 151000,
+    "deal_date": "2026-02-21",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아크로빌",
+    "district": "도곡동",
+    "area_m2": 130.545,
+    "floor": 32,
+    "price_10k": 294500,
+    "deal_date": "2026-02-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 10,
+    "price_10k": 154000,
+    "deal_date": "2026-02-19",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대아이리스1",
+    "district": "도곡동",
+    "area_m2": 113.18,
+    "floor": 4,
+    "price_10k": 148000,
+    "deal_date": "2026-02-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디에이치아너힐즈",
+    "district": "개포동",
+    "area_m2": 59.7479,
+    "floor": 21,
+    "price_10k": 337000,
+    "deal_date": "2026-02-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담2차이-편한세상(204동)",
+    "district": "청담동",
+    "area_m2": 98.05,
+    "floor": 6,
+    "price_10k": 261500,
+    "deal_date": "2026-02-11",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선릉역풍림아이원레몬",
+    "district": "대치동",
+    "area_m2": 76.73,
+    "floor": 9,
+    "price_10k": 100000,
+    "deal_date": "2026-02-09",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡렉슬",
+    "district": "도곡동",
+    "area_m2": 84.9231,
+    "floor": 3,
+    "price_10k": 380000,
+    "deal_date": "2026-02-14",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담자이",
+    "district": "청담동",
+    "area_m2": 49.619,
+    "floor": 29,
+    "price_10k": 295000,
+    "deal_date": "2026-02-11",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 5,
+    "price_10k": 145000,
+    "deal_date": "2026-02-20",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "은마",
+    "district": "대치동",
+    "area_m2": 76.79,
+    "floor": 7,
+    "price_10k": 364000,
+    "deal_date": "2026-02-13",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동부센트레빌",
+    "district": "대치동",
+    "area_m2": 161.47,
+    "floor": 3,
+    "price_10k": 620000,
+    "deal_date": "2026-02-10",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "럭키(963)",
+    "district": "도곡동",
+    "area_m2": 124.66,
+    "floor": 8,
+    "price_10k": 327000,
+    "deal_date": "2026-02-11",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "논현동한화꿈에그린",
+    "district": "논현동",
+    "area_m2": 67.671,
+    "floor": 4,
+    "price_10k": 127500,
+    "deal_date": "2026-02-14",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대4",
+    "district": "일원동",
+    "area_m2": 73,
+    "floor": 7,
+    "price_10k": 262500,
+    "deal_date": "2026-02-13",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성동한솔아파트",
+    "district": "삼성동",
+    "area_m2": 85,
+    "floor": 12,
+    "price_10k": 253000,
+    "deal_date": "2026-02-13",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포자이프레지던스",
+    "district": "개포동",
+    "area_m2": 49.9528,
+    "floor": 10,
+    "price_10k": 267500,
+    "deal_date": "2026-02-14",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 84.39,
+    "floor": 3,
+    "price_10k": 162500,
+    "deal_date": "2026-02-13",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸른마을아파트101동~111동",
+    "district": "일원동",
+    "area_m2": 59.76,
+    "floor": 11,
+    "price_10k": 237500,
+    "deal_date": "2026-02-10",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남엘에이치1단지",
+    "district": "세곡동",
+    "area_m2": 59.89,
+    "floor": 12,
+    "price_10k": 176800,
+    "deal_date": "2026-02-13",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안라클래시",
+    "district": "삼성동",
+    "area_m2": 71.95,
+    "floor": 8,
+    "price_10k": 355000,
+    "deal_date": "2026-02-13",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우디오빌",
+    "district": "역삼동",
+    "area_m2": 30.03,
+    "floor": 15,
+    "price_10k": 30000,
+    "deal_date": "2026-02-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬프레미어",
+    "district": "삼성동",
+    "area_m2": 84.465,
+    "floor": 13,
+    "price_10k": 341000,
+    "deal_date": "2026-02-13",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "제이빌",
+    "district": "논현동",
+    "area_m2": 75.12,
+    "floor": 3,
+    "price_10k": 75000,
+    "deal_date": "2026-02-13",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "대우디오빌플러스",
+    "district": "역삼동",
+    "area_m2": 43.99,
+    "floor": 11,
+    "price_10k": 43000,
+    "deal_date": "2026-02-13",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "역삼동",
+    "area_m2": 84.688,
+    "floor": 13,
+    "price_10k": 150000,
+    "deal_date": "2026-02-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시티프라디움더강남101동",
+    "district": "역삼동",
+    "area_m2": 59.99,
+    "floor": 10,
+    "price_10k": 160000,
+    "deal_date": "2026-02-05",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남브리즈힐(토지임대부아파트)",
+    "district": "자곡동",
+    "area_m2": 74.04,
+    "floor": 14,
+    "price_10k": 115000,
+    "deal_date": "2026-02-07",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "새롬(1164-12)",
+    "district": "개포동",
+    "area_m2": 73.5,
+    "floor": 2,
+    "price_10k": 100000,
+    "deal_date": "2026-02-11",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신성아파트101동",
+    "district": "신사동",
+    "area_m2": 84.9,
+    "floor": 3,
+    "price_10k": 235000,
+    "deal_date": "2026-02-06",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크힐",
+    "district": "도곡동",
+    "area_m2": 47.6,
+    "floor": 2,
+    "price_10k": 75500,
+    "deal_date": "2026-02-10",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포주공7단지",
+    "district": "개포동",
+    "area_m2": 53.46,
+    "floor": 13,
+    "price_10k": 312000,
+    "deal_date": "2026-02-10",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대힐스테이트2단지",
+    "district": "삼성동",
+    "area_m2": 40.763,
+    "floor": 2,
+    "price_10k": 199000,
+    "deal_date": "2026-02-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미성1차",
+    "district": "압구정동",
+    "area_m2": 105.65,
+    "floor": 9,
+    "price_10k": 555000,
+    "deal_date": "2026-02-01",
+    "build_year": 1982,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "토미",
+    "district": "신사동",
+    "area_m2": 80.83,
+    "floor": 2,
+    "price_10k": 90000,
+    "deal_date": "2026-02-02",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남엘에이치1단지",
+    "district": "세곡동",
+    "area_m2": 84.83,
+    "floor": 9,
+    "price_10k": 195000,
+    "deal_date": "2026-02-02",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안블레스티지",
+    "district": "개포동",
+    "area_m2": 84.943,
+    "floor": 19,
+    "price_10k": 367000,
+    "deal_date": "2026-02-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포주공5단지",
+    "district": "개포동",
+    "area_m2": 83.17,
+    "floor": 3,
+    "price_10k": 414000,
+    "deal_date": "2026-02-02",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "개포주공5단지",
+    "district": "개포동",
+    "area_m2": 53.98,
+    "floor": 7,
+    "price_10k": 345000,
+    "deal_date": "2026-02-05",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "마일스디오빌",
+    "district": "논현동",
+    "area_m2": 36.29,
+    "floor": 3,
+    "price_10k": 35000,
+    "deal_date": "2026-02-09",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안강남힐즈",
+    "district": "자곡동",
+    "area_m2": 91.96,
+    "floor": 3,
+    "price_10k": 205000,
+    "deal_date": "2026-02-09",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아카데미스위트1",
+    "district": "도곡동",
+    "area_m2": 122.07,
+    "floor": 8,
+    "price_10k": 275000,
+    "deal_date": "2026-02-04",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담현대3차아파트",
+    "district": "청담동",
+    "area_m2": 109.53,
+    "floor": 1,
+    "price_10k": 340000,
+    "deal_date": "2026-02-03",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 1,
+    "price_10k": 137000,
+    "deal_date": "2026-02-08",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도곡스타클래스",
+    "district": "도곡동",
+    "area_m2": 112.05,
+    "floor": 18,
+    "price_10k": 177000,
+    "deal_date": "2026-02-07",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성동힐스테이트 1단지",
+    "district": "삼성동",
+    "area_m2": 31.402,
+    "floor": 6,
+    "price_10k": 158500,
+    "deal_date": "2026-02-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세곡푸르지오",
+    "district": "세곡동",
+    "area_m2": 84.84,
+    "floor": 11,
+    "price_10k": 190000,
+    "deal_date": "2026-02-07",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한일",
+    "district": "삼성동",
+    "area_m2": 80.29,
+    "floor": 6,
+    "price_10k": 235000,
+    "deal_date": "2026-02-07",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 34.44,
+    "floor": 13,
+    "price_10k": 154000,
+    "deal_date": "2026-02-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청담우방아파트",
+    "district": "청담동",
+    "area_m2": 118.47,
+    "floor": 7,
+    "price_10k": 265000,
+    "deal_date": "2026-02-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디에이치퍼스티어아이파크",
+    "district": "개포동",
+    "area_m2": 35,
+    "floor": 12,
+    "price_10k": 165000,
+    "deal_date": "2026-02-05",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남 더샵 포레스트",
+    "district": "수서동",
+    "area_m2": 124.5802,
+    "floor": 5,
+    "price_10k": 320000,
+    "deal_date": "2026-02-05",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원대치2단지아파트",
+    "district": "개포동",
+    "area_m2": 33.18,
+    "floor": 8,
+    "price_10k": 165500,
+    "deal_date": "2026-02-04",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 126000,
+    "deal_date": "2026-02-05",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 59.93,
+    "floor": 10,
+    "price_10k": 149500,
+    "deal_date": "2026-02-05",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남데시앙포레",
+    "district": "수서동",
+    "area_m2": 59.74,
+    "floor": 3,
+    "price_10k": 228000,
+    "deal_date": "2026-02-03",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아(22)",
+    "district": "논현동",
+    "area_m2": 35.73,
+    "floor": 1,
+    "price_10k": 110000,
+    "deal_date": "2026-02-03",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안삼성1차(103-22)",
+    "district": "삼성동",
+    "area_m2": 106.98,
+    "floor": 7,
+    "price_10k": 342000,
+    "deal_date": "2026-02-03",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강남자곡 힐스테이트",
+    "district": "자곡동",
+    "area_m2": 74.8,
+    "floor": 17,
+    "price_10k": 167000,
+    "deal_date": "2026-02-02",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "까치마을",
+    "district": "수서동",
+    "area_m2": 39.6,
+    "floor": 8,
+    "price_10k": 160000,
+    "deal_date": "2026-02-02",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우아이빌멤버스(891-26)",
+    "district": "대치동",
+    "area_m2": 35.796,
+    "floor": 6,
+    "price_10k": 34000,
+    "deal_date": "2026-02-02",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  }
+]

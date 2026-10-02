@@ -1,0 +1,302 @@
+[
+  {
+    "name": "목동신시가지9",
+    "district": "신정동",
+    "area_m2": 100.33,
+    "floor": 5,
+    "price_10k": 156000,
+    "deal_date": "2022-12-29",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지13",
+    "district": "신정동",
+    "area_m2": 53.9,
+    "floor": 5,
+    "price_10k": 94000,
+    "deal_date": "2022-12-21",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브2단지",
+    "district": "신월동",
+    "area_m2": 84.97,
+    "floor": 13,
+    "price_10k": 86000,
+    "deal_date": "2022-12-24",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동청구한신아파트",
+    "district": "목동",
+    "area_m2": 84.76,
+    "floor": 11,
+    "price_10k": 119500,
+    "deal_date": "2022-12-24",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수산팰리스",
+    "district": "목동",
+    "area_m2": 84.98,
+    "floor": 5,
+    "price_10k": 59500,
+    "deal_date": "2022-12-15",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동도(729-5)",
+    "district": "목동",
+    "area_m2": 64.02,
+    "floor": 5,
+    "price_10k": 37000,
+    "deal_date": "2022-12-31",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동에버하임",
+    "district": "목동",
+    "area_m2": 41.06,
+    "floor": 9,
+    "price_10k": 43500,
+    "deal_date": "2022-12-16",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동서",
+    "district": "신월동",
+    "area_m2": 76.82,
+    "floor": 6,
+    "price_10k": 34800,
+    "deal_date": "2022-12-29",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지11",
+    "district": "신정동",
+    "area_m2": 51.48,
+    "floor": 2,
+    "price_10k": 93000,
+    "deal_date": "2022-12-29",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브3단지",
+    "district": "신월동",
+    "area_m2": 84.98,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2022-12-12",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "부영2",
+    "district": "목동",
+    "area_m2": 141.7,
+    "floor": 18,
+    "price_10k": 169000,
+    "deal_date": "2022-12-14",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 156.24,
+    "floor": 13,
+    "price_10k": 214500,
+    "deal_date": "2022-12-07",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원2",
+    "district": "목동",
+    "area_m2": 79.21,
+    "floor": 3,
+    "price_10k": 65000,
+    "deal_date": "2022-12-10",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지6",
+    "district": "목동",
+    "area_m2": 47.94,
+    "floor": 12,
+    "price_10k": 114000,
+    "deal_date": "2022-12-27",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성재세인트",
+    "district": "신정동",
+    "area_m2": 32.63,
+    "floor": 4,
+    "price_10k": 26000,
+    "deal_date": "2022-12-26",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길훈",
+    "district": "신월동",
+    "area_m2": 49.77,
+    "floor": 1,
+    "price_10k": 35000,
+    "deal_date": "2022-12-22",
+    "build_year": 1987,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신정6현대",
+    "district": "신정동",
+    "area_m2": 59.4,
+    "floor": 18,
+    "price_10k": 42000,
+    "deal_date": "2022-12-19",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "목동신시가지13",
+    "district": "신정동",
+    "area_m2": 70.73,
+    "floor": 5,
+    "price_10k": 120000,
+    "deal_date": "2022-12-22",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지14",
+    "district": "신정동",
+    "area_m2": 55.02,
+    "floor": 1,
+    "price_10k": 103000,
+    "deal_date": "2022-12-12",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신도브래뉴2차",
+    "district": "신월동",
+    "area_m2": 107.04,
+    "floor": 8,
+    "price_10k": 45000,
+    "deal_date": "2022-12-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지14",
+    "district": "신정동",
+    "area_m2": 108.28,
+    "floor": 14,
+    "price_10k": 123000,
+    "deal_date": "2022-12-21",
+    "build_year": 1987,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "목동신시가지6",
+    "district": "목동",
+    "area_m2": 47.94,
+    "floor": 11,
+    "price_10k": 118000,
+    "deal_date": "2022-12-17",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길훈로즈빌",
+    "district": "신정동",
+    "area_m2": 84.95,
+    "floor": 14,
+    "price_10k": 116000,
+    "deal_date": "2022-12-19",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지11",
+    "district": "신정동",
+    "area_m2": 51.48,
+    "floor": 7,
+    "price_10k": 94000,
+    "deal_date": "2022-12-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해태",
+    "district": "신월동",
+    "area_m2": 59.91,
+    "floor": 9,
+    "price_10k": 40000,
+    "deal_date": "2022-12-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지13",
+    "district": "신정동",
+    "area_m2": 122.3,
+    "floor": 8,
+    "price_10k": 180000,
+    "deal_date": "2022-12-03",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길훈로즈빌",
+    "district": "신정동",
+    "area_m2": 84.95,
+    "floor": 14,
+    "price_10k": 116000,
+    "deal_date": "2022-12-16",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길훈",
+    "district": "신월동",
+    "area_m2": 42.57,
+    "floor": 2,
+    "price_10k": 36000,
+    "deal_date": "2022-12-12",
+    "build_year": 1987,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 105.58,
+    "floor": 10,
+    "price_10k": 174000,
+    "deal_date": "2022-12-07",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "엘리시아",
+    "district": "목동",
+    "area_m2": 62.14,
+    "floor": 6,
+    "price_10k": 51000,
+    "deal_date": "2022-12-08",
+    "build_year": 2009,
+    "deal_type": "직거래"
+  }
+]

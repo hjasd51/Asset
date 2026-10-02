@@ -1,0 +1,502 @@
+[
+  {
+    "name": "서울숲푸르지오",
+    "district": "금호동4가",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 150000,
+    "deal_date": "2021-11-05",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갤러리아포레",
+    "district": "성수동1가",
+    "area_m2": 195.2,
+    "floor": 15,
+    "price_10k": 550000,
+    "deal_date": "2021-11-08",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계대주파크빌",
+    "district": "홍익동",
+    "area_m2": 84.94,
+    "floor": 9,
+    "price_10k": 104000,
+    "deal_date": "2021-11-29",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동옥정",
+    "district": "옥수동",
+    "area_m2": 84.93,
+    "floor": 12,
+    "price_10k": 113000,
+    "deal_date": "2021-11-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "텐즈힐(1단지)",
+    "district": "하왕십리동",
+    "area_m2": 84.88,
+    "floor": 1,
+    "price_10k": 163500,
+    "deal_date": "2021-11-27",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "옥수하이츠",
+    "district": "옥수동",
+    "area_m2": 114.78,
+    "floor": 15,
+    "price_10k": 213000,
+    "deal_date": "2021-11-22",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e-편한세상",
+    "district": "행당동",
+    "area_m2": 84.87,
+    "floor": 3,
+    "price_10k": 140000,
+    "deal_date": "2021-11-23",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "마장동",
+    "area_m2": 134.79,
+    "floor": 1,
+    "price_10k": 147000,
+    "deal_date": "2021-11-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동미라주",
+    "district": "하왕십리동",
+    "area_m2": 84.33,
+    "floor": 4,
+    "price_10k": 110500,
+    "deal_date": "2021-11-19",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "행당한진타운",
+    "district": "행당동",
+    "area_m2": 59.96,
+    "floor": 11,
+    "price_10k": 109000,
+    "deal_date": "2021-11-18",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "덕현해밀",
+    "district": "용답동",
+    "area_m2": 84.99,
+    "floor": 6,
+    "price_10k": 100000,
+    "deal_date": "2021-11-20",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "옥수삼성",
+    "district": "옥수동",
+    "area_m2": 114.666,
+    "floor": 3,
+    "price_10k": 183000,
+    "deal_date": "2021-11-18",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "행당한진타운",
+    "district": "행당동",
+    "area_m2": 114.62,
+    "floor": 7,
+    "price_10k": 145000,
+    "deal_date": "2021-11-21",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "강변건영아파트",
+    "district": "성수동1가",
+    "area_m2": 84.941,
+    "floor": 1,
+    "price_10k": 179500,
+    "deal_date": "2021-11-24",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "옥수삼성",
+    "district": "옥수동",
+    "area_m2": 84.822,
+    "floor": 15,
+    "price_10k": 167500,
+    "deal_date": "2021-11-16",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호현대",
+    "district": "응봉동",
+    "area_m2": 59.91,
+    "floor": 4,
+    "price_10k": 100000,
+    "deal_date": "2021-11-18",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "하왕십리동",
+    "area_m2": 114.46,
+    "floor": 4,
+    "price_10k": 142000,
+    "deal_date": "2021-11-19",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬파크",
+    "district": "성수동2가",
+    "area_m2": 81.567,
+    "floor": 5,
+    "price_10k": 163000,
+    "deal_date": "2021-11-20",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호1차푸르지오",
+    "district": "금호동3가",
+    "area_m2": 84.92,
+    "floor": 2,
+    "price_10k": 132500,
+    "deal_date": "2021-11-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아",
+    "district": "응봉동",
+    "area_m2": 84.81,
+    "floor": 5,
+    "price_10k": 115000,
+    "deal_date": "2021-11-22",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "왕십리풍림아이원",
+    "district": "하왕십리동",
+    "area_m2": 59.936,
+    "floor": 12,
+    "price_10k": 110000,
+    "deal_date": "2021-11-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "금호동4가",
+    "area_m2": 84.71,
+    "floor": 13,
+    "price_10k": 159000,
+    "deal_date": "2021-11-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진타운",
+    "district": "성수동1가",
+    "area_m2": 84.21,
+    "floor": 15,
+    "price_10k": 175000,
+    "deal_date": "2021-11-17",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데",
+    "district": "금호동4가",
+    "area_m2": 84.99,
+    "floor": 3,
+    "price_10k": 139000,
+    "deal_date": "2021-11-13",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "금호동4가",
+    "area_m2": 59.97,
+    "floor": 9,
+    "price_10k": 122500,
+    "deal_date": "2021-11-15",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "행당한진타운",
+    "district": "행당동",
+    "area_m2": 114.62,
+    "floor": 6,
+    "price_10k": 160000,
+    "deal_date": "2021-11-24",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "갤러리아포레",
+    "district": "성수동1가",
+    "area_m2": 195.2,
+    "floor": 15,
+    "price_10k": 550000,
+    "deal_date": "2021-11-08",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호타운2차아파트",
+    "district": "성수동2가",
+    "area_m2": 59.94,
+    "floor": 13,
+    "price_10k": 102000,
+    "deal_date": "2021-11-13",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "행당한진타운",
+    "district": "행당동",
+    "area_m2": 114.62,
+    "floor": 15,
+    "price_10k": 163000,
+    "deal_date": "2021-11-15",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용",
+    "district": "성수동1가",
+    "area_m2": 84.78,
+    "floor": 3,
+    "price_10k": 150000,
+    "deal_date": "2021-11-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲2차푸르지오",
+    "district": "금호동4가",
+    "area_m2": 59.907,
+    "floor": 9,
+    "price_10k": 160000,
+    "deal_date": "2021-11-06",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "마장동",
+    "area_m2": 84.91,
+    "floor": 26,
+    "price_10k": 125000,
+    "deal_date": "2021-11-27",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호1차푸르지오",
+    "district": "금호동3가",
+    "area_m2": 84.92,
+    "floor": 10,
+    "price_10k": 130000,
+    "deal_date": "2021-11-02",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e-편한세상",
+    "district": "행당동",
+    "area_m2": 84.87,
+    "floor": 7,
+    "price_10k": 137000,
+    "deal_date": "2021-11-18",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "텐즈힐(1단지)",
+    "district": "하왕십리동",
+    "area_m2": 59.88,
+    "floor": 4,
+    "price_10k": 147500,
+    "deal_date": "2021-11-06",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "금호동4가",
+    "area_m2": 59.97,
+    "floor": 7,
+    "price_10k": 123300,
+    "deal_date": "2021-11-12",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용",
+    "district": "성수동1가",
+    "area_m2": 59.76,
+    "floor": 10,
+    "price_10k": 133000,
+    "deal_date": "2021-11-05",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "왕십리풍림아이원",
+    "district": "하왕십리동",
+    "area_m2": 84.417,
+    "floor": 2,
+    "price_10k": 114000,
+    "deal_date": "2021-11-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성쉐르빌",
+    "district": "도선동",
+    "area_m2": 84.93,
+    "floor": 17,
+    "price_10k": 114000,
+    "deal_date": "2021-11-06",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성수1차대우아파트",
+    "district": "성수동2가",
+    "area_m2": 59.49,
+    "floor": 6,
+    "price_10k": 73000,
+    "deal_date": "2021-11-15",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용",
+    "district": "성수동1가",
+    "area_m2": 59.76,
+    "floor": 7,
+    "price_10k": 129000,
+    "deal_date": "2021-11-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "옥수삼성",
+    "district": "옥수동",
+    "area_m2": 114.666,
+    "floor": 6,
+    "price_10k": 180000,
+    "deal_date": "2021-11-08",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e-편한세상",
+    "district": "행당동",
+    "area_m2": 84.87,
+    "floor": 1,
+    "price_10k": 129500,
+    "deal_date": "2021-11-01",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양마이라움",
+    "district": "사근동",
+    "area_m2": 17.99,
+    "floor": 2,
+    "price_10k": 17500,
+    "deal_date": "2021-11-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲푸르지오",
+    "district": "금호동4가",
+    "area_m2": 59.99,
+    "floor": 7,
+    "price_10k": 150000,
+    "deal_date": "2021-11-05",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리마제",
+    "district": "성수동1가",
+    "area_m2": 140.3099,
+    "floor": 41,
+    "price_10k": 459000,
+    "deal_date": "2021-11-19",
+    "build_year": 2017,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "극동옥정",
+    "district": "옥수동",
+    "area_m2": 84.93,
+    "floor": 8,
+    "price_10k": 115000,
+    "deal_date": "2021-11-12",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이편한세상금호파크힐스",
+    "district": "금호동1가",
+    "area_m2": 59.949,
+    "floor": 12,
+    "price_10k": 158000,
+    "deal_date": "2021-11-01",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "왕십리지웰",
+    "district": "하왕십리동",
+    "area_m2": 84.981,
+    "floor": 1,
+    "price_10k": 105000,
+    "deal_date": "2021-11-08",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림강변타운",
+    "district": "응봉동",
+    "area_m2": 59.76,
+    "floor": 1,
+    "price_10k": 109500,
+    "deal_date": "2021-11-06",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  }
+]

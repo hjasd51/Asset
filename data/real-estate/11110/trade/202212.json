@@ -1,0 +1,82 @@
+[
+  {
+    "name": "이화에수풀",
+    "district": "연건동",
+    "area_m2": 19.86,
+    "floor": 9,
+    "price_10k": 19500,
+    "deal_date": "2022-12-31",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "효제동",
+    "area_m2": 20.3861,
+    "floor": 5,
+    "price_10k": 20000,
+    "deal_date": "2022-12-17",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이화에수풀",
+    "district": "연건동",
+    "area_m2": 16.98,
+    "floor": 10,
+    "price_10k": 20200,
+    "deal_date": "2022-12-30",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "효제동",
+    "area_m2": 16.672,
+    "floor": 5,
+    "price_10k": 16000,
+    "deal_date": "2022-12-08",
+    "build_year": 2017,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "익성씨티하임",
+    "district": "숭인동",
+    "area_m2": 15.76,
+    "floor": 14,
+    "price_10k": 13000,
+    "deal_date": "2022-12-28",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청호그린빌",
+    "district": "누상동",
+    "area_m2": 29.76,
+    "floor": 4,
+    "price_10k": 19000,
+    "deal_date": "2022-12-19",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로청계힐스테이트",
+    "district": "숭인동",
+    "area_m2": 59.9426,
+    "floor": 18,
+    "price_10k": 73000,
+    "deal_date": "2022-12-22",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "무악동",
+    "area_m2": 60,
+    "floor": 13,
+    "price_10k": 75000,
+    "deal_date": "2022-12-15",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  }
+]

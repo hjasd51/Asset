@@ -1,0 +1,262 @@
+[
+  {
+    "name": "홍제맨션",
+    "district": "홍제동",
+    "area_m2": 88.72,
+    "floor": 2,
+    "price_10k": 38500,
+    "deal_date": "2022-12-22",
+    "build_year": 1971,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "DMC에코자이",
+    "district": "남가좌동",
+    "area_m2": 59.79,
+    "floor": 6,
+    "price_10k": 84000,
+    "deal_date": "2022-12-21",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC래미안클라시스",
+    "district": "남가좌동",
+    "area_m2": 59.97,
+    "floor": 11,
+    "price_10k": 68000,
+    "deal_date": "2022-12-24",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC래미안e편한세상",
+    "district": "북가좌동",
+    "area_m2": 120.95,
+    "floor": 9,
+    "price_10k": 125000,
+    "deal_date": "2022-12-26",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "연희동",
+    "area_m2": 135.2,
+    "floor": 14,
+    "price_10k": 123000,
+    "deal_date": "2022-12-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "풍림2",
+    "district": "홍은동",
+    "area_m2": 66.69,
+    "floor": 13,
+    "price_10k": 60500,
+    "deal_date": "2022-12-23",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "북아현동",
+    "area_m2": 59.96,
+    "floor": 2,
+    "price_10k": 65000,
+    "deal_date": "2022-12-24",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC파크뷰자이1단지",
+    "district": "남가좌동",
+    "area_m2": 59.981,
+    "floor": 12,
+    "price_10k": 88000,
+    "deal_date": "2022-12-24",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC파크뷰자이1단지",
+    "district": "남가좌동",
+    "area_m2": 84.968,
+    "floor": 16,
+    "price_10k": 85000,
+    "deal_date": "2022-12-14",
+    "build_year": 2015,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "홍제센트럴IPARK",
+    "district": "홍제동",
+    "area_m2": 84.9644,
+    "floor": 6,
+    "price_10k": 90000,
+    "deal_date": "2022-12-14",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남가좌동현대",
+    "district": "남가좌동",
+    "area_m2": 114.9,
+    "floor": 16,
+    "price_10k": 91500,
+    "deal_date": "2022-12-24",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "연희웨스트팰리스",
+    "district": "연희동",
+    "area_m2": 13.12,
+    "floor": 2,
+    "price_10k": 12300,
+    "deal_date": "2022-12-14",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대그린",
+    "district": "홍제동",
+    "area_m2": 84.96,
+    "floor": 12,
+    "price_10k": 58900,
+    "deal_date": "2022-12-10",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "인왕궁맨숀",
+    "district": "홍제동",
+    "area_m2": 54.02,
+    "floor": 2,
+    "price_10k": 53459,
+    "deal_date": "2022-12-30",
+    "build_year": 1974,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "두산",
+    "district": "북아현동",
+    "area_m2": 59.96,
+    "floor": 14,
+    "price_10k": 68000,
+    "deal_date": "2022-12-07",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남가좌동현대",
+    "district": "남가좌동",
+    "area_m2": 84.78,
+    "floor": 13,
+    "price_10k": 85000,
+    "deal_date": "2022-12-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상신촌3단지",
+    "district": "북아현동",
+    "area_m2": 59.97,
+    "floor": 16,
+    "price_10k": 117000,
+    "deal_date": "2022-12-14",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산더샵",
+    "district": "홍은동",
+    "area_m2": 84.832,
+    "floor": 17,
+    "price_10k": 103000,
+    "deal_date": "2022-12-17",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태영으뜸(데시앙)",
+    "district": "홍제동",
+    "area_m2": 48.97,
+    "floor": 9,
+    "price_10k": 40500,
+    "deal_date": "2022-12-17",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독립문극동(200-0)",
+    "district": "현저동",
+    "area_m2": 102.45,
+    "floor": 22,
+    "price_10k": 100000,
+    "deal_date": "2022-12-21",
+    "build_year": 1998,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "e편한세상신촌4단지",
+    "district": "북아현동",
+    "area_m2": 84.89,
+    "floor": 19,
+    "price_10k": 150000,
+    "deal_date": "2022-12-03",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안루센티아",
+    "district": "남가좌동",
+    "area_m2": 59.98,
+    "floor": 5,
+    "price_10k": 89000,
+    "deal_date": "2022-12-05",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "홍은동벽산",
+    "district": "홍은동",
+    "area_m2": 84.78,
+    "floor": 4,
+    "price_10k": 65600,
+    "deal_date": "2022-12-15",
+    "build_year": 1997,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "파라타워",
+    "district": "대현동",
+    "area_m2": 15.792,
+    "floor": 5,
+    "price_10k": 24700,
+    "deal_date": "2022-12-04",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "홍제한양",
+    "district": "홍제동",
+    "area_m2": 84.77,
+    "floor": 12,
+    "price_10k": 79700,
+    "deal_date": "2022-12-06",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DMC래미안e편한세상",
+    "district": "북가좌동",
+    "area_m2": 84.92,
+    "floor": 6,
+    "price_10k": 69000,
+    "deal_date": "2022-12-08",
+    "build_year": 2012,
+    "deal_type": "직거래"
+  }
+]

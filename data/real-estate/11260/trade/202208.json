@@ -1,0 +1,252 @@
+[
+  {
+    "name": "프레미어스엠코",
+    "district": "상봉동",
+    "area_m2": 107.12,
+    "floor": 11,
+    "price_10k": 130000,
+    "deal_date": "2022-08-15",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신내11대명",
+    "district": "신내동",
+    "area_m2": 49.77,
+    "floor": 5,
+    "price_10k": 48000,
+    "deal_date": "2022-08-30",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사가정센트럴아이파크",
+    "district": "면목동",
+    "area_m2": 84.87,
+    "floor": 16,
+    "price_10k": 133700,
+    "deal_date": "2022-08-30",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 13.42,
+    "floor": 11,
+    "price_10k": 10000,
+    "deal_date": "2022-08-31",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문수해오름",
+    "district": "망우동",
+    "area_m2": 83.61,
+    "floor": 10,
+    "price_10k": 54000,
+    "deal_date": "2022-08-23",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원팰리스",
+    "district": "묵동",
+    "area_m2": 20.42,
+    "floor": 7,
+    "price_10k": 34900,
+    "deal_date": "2022-08-20",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "우남푸르미아",
+    "district": "신내동",
+    "area_m2": 84.67,
+    "floor": 19,
+    "price_10k": 70000,
+    "deal_date": "2022-08-29",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동성1",
+    "district": "신내동",
+    "area_m2": 59.4,
+    "floor": 10,
+    "price_10k": 53500,
+    "deal_date": "2022-08-24",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양수자인사가정파크",
+    "district": "면목동",
+    "area_m2": 23.1074,
+    "floor": 4,
+    "price_10k": 32500,
+    "deal_date": "2022-08-22",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금강",
+    "district": "중화동",
+    "area_m2": 58.05,
+    "floor": 5,
+    "price_10k": 23000,
+    "deal_date": "2022-08-31",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한일써너스빌",
+    "district": "상봉동",
+    "area_m2": 84.55,
+    "floor": 11,
+    "price_10k": 91200,
+    "deal_date": "2022-08-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 13.42,
+    "floor": 5,
+    "price_10k": 9300,
+    "deal_date": "2022-08-27",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한울네세창",
+    "district": "망우동",
+    "area_m2": 78.75,
+    "floor": 5,
+    "price_10k": 54000,
+    "deal_date": "2022-08-26",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 49.77,
+    "floor": 7,
+    "price_10k": 57500,
+    "deal_date": "2022-08-18",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신천빌리지",
+    "district": "신내동",
+    "area_m2": 81.76,
+    "floor": 2,
+    "price_10k": 54500,
+    "deal_date": "2022-08-18",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원팰리스",
+    "district": "묵동",
+    "area_m2": 32.49,
+    "floor": 7,
+    "price_10k": 45500,
+    "deal_date": "2022-08-15",
+    "build_year": 2020,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "EGSoulLeader",
+    "district": "망우동",
+    "area_m2": 13.42,
+    "floor": 5,
+    "price_10k": 9300,
+    "deal_date": "2022-08-27",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동일스카이시티101동",
+    "district": "상봉동",
+    "area_m2": 61.37,
+    "floor": 5,
+    "price_10k": 45000,
+    "deal_date": "2022-08-05",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 6,
+    "price_10k": 71000,
+    "deal_date": "2022-08-12",
+    "build_year": 1997,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신내11대명",
+    "district": "신내동",
+    "area_m2": 49.77,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2022-08-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.32,
+    "floor": 20,
+    "price_10k": 72500,
+    "deal_date": "2022-08-07",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "신내동",
+    "area_m2": 84.93,
+    "floor": 20,
+    "price_10k": 64000,
+    "deal_date": "2022-08-18",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "신내동",
+    "area_m2": 84.32,
+    "floor": 15,
+    "price_10k": 70000,
+    "deal_date": "2022-08-05",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상봉힐스테이",
+    "district": "상봉동",
+    "area_m2": 17.25,
+    "floor": 8,
+    "price_10k": 30500,
+    "deal_date": "2022-08-11",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신영",
+    "district": "면목동",
+    "area_m2": 14.43,
+    "floor": 6,
+    "price_10k": 14200,
+    "deal_date": "2022-08-02",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  }
+]

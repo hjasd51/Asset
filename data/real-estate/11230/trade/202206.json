@@ -1,0 +1,432 @@
+[
+  {
+    "name": "래미안 허브리츠",
+    "district": "용두동",
+    "area_m2": 59.98,
+    "floor": 7,
+    "price_10k": 105000,
+    "deal_date": "2022-06-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "캠퍼스드림오피스텔",
+    "district": "휘경동",
+    "area_m2": 16.04,
+    "floor": 6,
+    "price_10k": 22000,
+    "deal_date": "2022-06-22",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안엘파인아파트",
+    "district": "답십리동",
+    "area_m2": 59.95,
+    "floor": 11,
+    "price_10k": 84800,
+    "deal_date": "2022-06-25",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "휘경동",
+    "area_m2": 84.94,
+    "floor": 8,
+    "price_10k": 70000,
+    "deal_date": "2022-06-29",
+    "build_year": 1992,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "베라체캠퍼스",
+    "district": "회기동",
+    "area_m2": 24.011,
+    "floor": 12,
+    "price_10k": 24000,
+    "deal_date": "2022-06-25",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신아파트",
+    "district": "장안동",
+    "area_m2": 84.83,
+    "floor": 10,
+    "price_10k": 74000,
+    "deal_date": "2022-06-29",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "전농동삼성래미안",
+    "district": "전농동",
+    "area_m2": 59.93,
+    "floor": 4,
+    "price_10k": 80000,
+    "deal_date": "2022-06-27",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브",
+    "district": "답십리동",
+    "area_m2": 84.91,
+    "floor": 2,
+    "price_10k": 116000,
+    "deal_date": "2022-06-25",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한일노벨리아",
+    "district": "답십리동",
+    "area_m2": 14.76,
+    "floor": 17,
+    "price_10k": 13500,
+    "deal_date": "2022-06-01",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이문휘경지웰에스테이트",
+    "district": "휘경동",
+    "area_m2": 14.1448,
+    "floor": 11,
+    "price_10k": 18000,
+    "deal_date": "2022-06-21",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "휘경SK뷰",
+    "district": "휘경동",
+    "area_m2": 84.31,
+    "floor": 9,
+    "price_10k": 133000,
+    "deal_date": "2022-06-16",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선일크라시아",
+    "district": "장안동",
+    "area_m2": 66.13,
+    "floor": 13,
+    "price_10k": 43000,
+    "deal_date": "2022-06-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센시티16",
+    "district": "답십리동",
+    "area_m2": 14.244,
+    "floor": 14,
+    "price_10k": 10000,
+    "deal_date": "2022-06-23",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계지웰에스테이트",
+    "district": "답십리동",
+    "area_m2": 19.525,
+    "floor": 8,
+    "price_10k": 13900,
+    "deal_date": "2022-06-10",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계푸르지오시티",
+    "district": "답십리동",
+    "area_m2": 18.92,
+    "floor": 20,
+    "price_10k": 14300,
+    "deal_date": "2022-06-10",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안미드카운티",
+    "district": "답십리동",
+    "area_m2": 84.97,
+    "floor": 12,
+    "price_10k": 149990,
+    "deal_date": "2022-06-14",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "베라체캠퍼스",
+    "district": "회기동",
+    "area_m2": 24.319,
+    "floor": 13,
+    "price_10k": 24500,
+    "deal_date": "2022-06-26",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신현대",
+    "district": "회기동",
+    "area_m2": 84.96,
+    "floor": 1,
+    "price_10k": 81000,
+    "deal_date": "2022-06-10",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운2차",
+    "district": "장안동",
+    "area_m2": 84.97,
+    "floor": 8,
+    "price_10k": 92000,
+    "deal_date": "2022-06-15",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "이문동",
+    "area_m2": 114.521,
+    "floor": 2,
+    "price_10k": 103000,
+    "deal_date": "2022-06-04",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬피렌체",
+    "district": "용두동",
+    "area_m2": 84.99,
+    "floor": 14,
+    "price_10k": 103000,
+    "deal_date": "2022-06-10",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "휘경리오포레아파트(2단지)",
+    "district": "휘경동",
+    "area_m2": 39.98,
+    "floor": 9,
+    "price_10k": 57200,
+    "deal_date": "2022-06-07",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "청량리동",
+    "area_m2": 84.92,
+    "floor": 5,
+    "price_10k": 95000,
+    "deal_date": "2022-06-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "이문동",
+    "area_m2": 114.521,
+    "floor": 2,
+    "price_10k": 103000,
+    "deal_date": "2022-06-04",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신답극동",
+    "district": "답십리동",
+    "area_m2": 46.53,
+    "floor": 14,
+    "price_10k": 78500,
+    "deal_date": "2022-06-11",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동대문롯데캐슬노블레스",
+    "district": "전농동",
+    "area_m2": 84.98,
+    "floor": 20,
+    "price_10k": 149000,
+    "deal_date": "2022-06-03",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "민족통일MJ캠퍼스외대3차",
+    "district": "이문동",
+    "area_m2": 18,
+    "floor": 15,
+    "price_10k": 26400,
+    "deal_date": "2022-06-24",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "장안푸르미에",
+    "district": "장안동",
+    "area_m2": 12.9043,
+    "floor": 2,
+    "price_10k": 12800,
+    "deal_date": "2022-06-23",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안크레시티",
+    "district": "전농동",
+    "area_m2": 59.99,
+    "floor": 10,
+    "price_10k": 122500,
+    "deal_date": "2022-06-10",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "답십리청솔우성",
+    "district": "답십리동",
+    "area_m2": 84.94,
+    "floor": 6,
+    "price_10k": 104000,
+    "deal_date": "2022-06-04",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "휘경SK뷰",
+    "district": "휘경동",
+    "area_m2": 59.39,
+    "floor": 18,
+    "price_10k": 105500,
+    "deal_date": "2022-06-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보광타워",
+    "district": "답십리동",
+    "area_m2": 24.27,
+    "floor": 12,
+    "price_10k": 22000,
+    "deal_date": "2022-06-21",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신일해피트리아파트101동",
+    "district": "장안동",
+    "area_m2": 84.71,
+    "floor": 6,
+    "price_10k": 77000,
+    "deal_date": "2022-06-18",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대썬앤빌청계",
+    "district": "답십리동",
+    "area_m2": 18.38,
+    "floor": 7,
+    "price_10k": 15000,
+    "deal_date": "2022-06-08",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운2차",
+    "district": "장안동",
+    "area_m2": 84.97,
+    "floor": 8,
+    "price_10k": 92000,
+    "deal_date": "2022-06-15",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계지웰에스테이트",
+    "district": "답십리동",
+    "area_m2": 19.525,
+    "floor": 14,
+    "price_10k": 13900,
+    "deal_date": "2022-06-14",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "민족통일MJ캠퍼스외대3차",
+    "district": "이문동",
+    "area_m2": 18.54,
+    "floor": 12,
+    "price_10k": 23000,
+    "deal_date": "2022-06-08",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "민족통일MJ캠퍼스외대3차",
+    "district": "이문동",
+    "area_m2": 18.72,
+    "floor": 14,
+    "price_10k": 23000,
+    "deal_date": "2022-06-11",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안미드카운티",
+    "district": "답십리동",
+    "area_m2": 123.06,
+    "floor": 11,
+    "price_10k": 183000,
+    "deal_date": "2022-06-08",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성2차아파트(334-6)",
+    "district": "장안동",
+    "area_m2": 71.35,
+    "floor": 6,
+    "price_10k": 56000,
+    "deal_date": "2022-06-07",
+    "build_year": 2005,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청계지웰에스테이트",
+    "district": "답십리동",
+    "area_m2": 18.585,
+    "floor": 14,
+    "price_10k": 13800,
+    "deal_date": "2022-06-09",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안 허브리츠",
+    "district": "용두동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 130700,
+    "deal_date": "2022-06-07",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동대문푸르지오시티(도시형생활주택)",
+    "district": "용두동",
+    "area_m2": 19.51,
+    "floor": 8,
+    "price_10k": 18000,
+    "deal_date": "2022-06-03",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  }
+]

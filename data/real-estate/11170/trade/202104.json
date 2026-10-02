@@ -1,0 +1,882 @@
+[
+  {
+    "name": "삼각아파트C동",
+    "district": "한강로1가",
+    "area_m2": 56.1,
+    "floor": 5,
+    "price_10k": 75000,
+    "deal_date": "2021-04-09",
+    "build_year": 1970,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 134.45,
+    "floor": 15,
+    "price_10k": 270000,
+    "deal_date": "2021-04-21",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한강수",
+    "district": "원효로4가",
+    "area_m2": 136.62,
+    "floor": 6,
+    "price_10k": 140000,
+    "deal_date": "2021-04-01",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "한남동동원베네스트",
+    "district": "한남동",
+    "area_m2": 81.83,
+    "floor": 7,
+    "price_10k": 140000,
+    "deal_date": "2021-04-13",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "리버티하우스",
+    "district": "한남동",
+    "area_m2": 217.42,
+    "floor": 5,
+    "price_10k": 220000,
+    "deal_date": "2021-04-30",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 66.39,
+    "floor": 9,
+    "price_10k": 183000,
+    "deal_date": "2021-04-30",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "다원",
+    "district": "이태원동",
+    "area_m2": 135.14,
+    "floor": 2,
+    "price_10k": 76000,
+    "deal_date": "2021-04-30",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 84.89,
+    "floor": 3,
+    "price_10k": 206000,
+    "deal_date": "2021-04-30",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "강변삼성스위트",
+    "district": "원효로4가",
+    "area_m2": 84.94,
+    "floor": 14,
+    "price_10k": 150000,
+    "deal_date": "2021-04-29",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "용산파크타워(24-1)",
+    "district": "용산동5가",
+    "area_m2": 140.31,
+    "floor": 3,
+    "price_10k": 261500,
+    "deal_date": "2021-04-25",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "나인원한남",
+    "district": "한남동",
+    "area_m2": 244.3478,
+    "floor": 4,
+    "price_10k": 790000,
+    "deal_date": "2021-04-28",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "시티파크(2단지)",
+    "district": "한강로3가",
+    "area_m2": 149.23,
+    "floor": 8,
+    "price_10k": 325000,
+    "deal_date": "2021-04-27",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "한남힐스테이트",
+    "district": "한남동",
+    "area_m2": 131.913,
+    "floor": 9,
+    "price_10k": 207500,
+    "deal_date": "2021-04-23",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "용산e편한세상",
+    "district": "신계동",
+    "area_m2": 59.66,
+    "floor": 5,
+    "price_10k": 145000,
+    "deal_date": "2021-04-27",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "힐탑트레져1동",
+    "district": "한남동",
+    "area_m2": 182.85,
+    "floor": 11,
+    "price_10k": 309000,
+    "deal_date": "2021-04-02",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 203.21,
+    "floor": 22,
+    "price_10k": 395000,
+    "deal_date": "2021-04-30",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "산호",
+    "district": "원효로4가",
+    "area_m2": 86.12,
+    "floor": 9,
+    "price_10k": 170000,
+    "deal_date": "2021-04-24",
+    "build_year": 1977,
+    "deal_type": ""
+  },
+  {
+    "name": "우성",
+    "district": "이촌동",
+    "area_m2": 114.74,
+    "floor": 10,
+    "price_10k": 201000,
+    "deal_date": "2021-04-27",
+    "build_year": 1995,
+    "deal_type": ""
+  },
+  {
+    "name": "용산시티파크(1단지)",
+    "district": "한강로3가",
+    "area_m2": 177.52,
+    "floor": 37,
+    "price_10k": 320000,
+    "deal_date": "2021-04-23",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "용산파크타워(24-1)",
+    "district": "용산동5가",
+    "area_m2": 130.56,
+    "floor": 13,
+    "price_10k": 302500,
+    "deal_date": "2021-04-26",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "장미1",
+    "district": "한남동",
+    "area_m2": 74.38,
+    "floor": 3,
+    "price_10k": 195000,
+    "deal_date": "2021-04-27",
+    "build_year": 1976,
+    "deal_type": ""
+  },
+  {
+    "name": "한강대우트럼프월드3",
+    "district": "한강로3가",
+    "area_m2": 153.61,
+    "floor": 5,
+    "price_10k": 170000,
+    "deal_date": "2021-04-19",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "효창로즈",
+    "district": "효창동",
+    "area_m2": 84.81,
+    "floor": 2,
+    "price_10k": 72000,
+    "deal_date": "2021-04-30",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "용산더프라임",
+    "district": "원효로1가",
+    "area_m2": 239.044,
+    "floor": 36,
+    "price_10k": 320000,
+    "deal_date": "2021-04-22",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "신동아",
+    "district": "서빙고동",
+    "area_m2": 167.08,
+    "floor": 1,
+    "price_10k": 300000,
+    "deal_date": "2021-04-03",
+    "build_year": 1984,
+    "deal_type": ""
+  },
+  {
+    "name": "브라운스톤남산",
+    "district": "후암동",
+    "area_m2": 163.27,
+    "floor": 2,
+    "price_10k": 170000,
+    "deal_date": "2021-04-20",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 59.88,
+    "floor": 2,
+    "price_10k": 150000,
+    "deal_date": "2021-04-17",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "산호",
+    "district": "원효로4가",
+    "area_m2": 100.56,
+    "floor": 9,
+    "price_10k": 178000,
+    "deal_date": "2021-04-16",
+    "build_year": 1977,
+    "deal_type": ""
+  },
+  {
+    "name": "이촌코오롱(A)",
+    "district": "이촌동",
+    "area_m2": 59.82,
+    "floor": 2,
+    "price_10k": 157000,
+    "deal_date": "2021-04-16",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성하이츠",
+    "district": "용문동",
+    "area_m2": 73.52,
+    "floor": 6,
+    "price_10k": 73000,
+    "deal_date": "2021-04-20",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "풍전",
+    "district": "원효로4가",
+    "area_m2": 67.04,
+    "floor": 4,
+    "price_10k": 82500,
+    "deal_date": "2021-04-26",
+    "build_year": 1971,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 84.89,
+    "floor": 6,
+    "price_10k": 199000,
+    "deal_date": "2021-04-21",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "반도",
+    "district": "이촌동",
+    "area_m2": 136.21,
+    "floor": 5,
+    "price_10k": 245000,
+    "deal_date": "2021-04-23",
+    "build_year": 1977,
+    "deal_type": ""
+  },
+  {
+    "name": "현대맨숀",
+    "district": "이촌동",
+    "area_m2": 146.38,
+    "floor": 2,
+    "price_10k": 190000,
+    "deal_date": "2021-04-17",
+    "build_year": 1974,
+    "deal_type": ""
+  },
+  {
+    "name": "아스테리움용산",
+    "district": "한강로2가",
+    "area_m2": 191.11,
+    "floor": 35,
+    "price_10k": 415000,
+    "deal_date": "2021-04-14",
+    "build_year": 2012,
+    "deal_type": ""
+  },
+  {
+    "name": "한남더힐",
+    "district": "한남동",
+    "area_m2": 208.478,
+    "floor": 6,
+    "price_10k": 600000,
+    "deal_date": "2021-04-15",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성래미안",
+    "district": "도원동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 110000,
+    "deal_date": "2021-04-19",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "용산파크타워(24-1)",
+    "district": "용산동5가",
+    "area_m2": 128.36,
+    "floor": 15,
+    "price_10k": 253500,
+    "deal_date": "2021-04-18",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "한남동동원베네스트",
+    "district": "한남동",
+    "area_m2": 81.83,
+    "floor": 7,
+    "price_10k": 140000,
+    "deal_date": "2021-04-13",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "청화1",
+    "district": "이태원동",
+    "area_m2": 174.38,
+    "floor": 3,
+    "price_10k": 249000,
+    "deal_date": "2021-04-18",
+    "build_year": 1982,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안첼리투스",
+    "district": "이촌동",
+    "area_m2": 124.02,
+    "floor": 45,
+    "price_10k": 362500,
+    "deal_date": "2021-04-23",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "한남더힐",
+    "district": "한남동",
+    "area_m2": 233.062,
+    "floor": 4,
+    "price_10k": 595000,
+    "deal_date": "2021-04-20",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 14,
+    "price_10k": 94000,
+    "deal_date": "2021-04-09",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "SK청암대(64-29)",
+    "district": "청암동",
+    "area_m2": 244.95,
+    "floor": 11,
+    "price_10k": 200000,
+    "deal_date": "2021-04-16",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "한남동리첸시아",
+    "district": "한남동",
+    "area_m2": 32.21,
+    "floor": 10,
+    "price_10k": 65000,
+    "deal_date": "2021-04-23",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 84.89,
+    "floor": 22,
+    "price_10k": 187000,
+    "deal_date": "2021-04-16",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 114.96,
+    "floor": 2,
+    "price_10k": 208000,
+    "deal_date": "2021-04-17",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "이촌코오롱(A)",
+    "district": "이촌동",
+    "area_m2": 114.69,
+    "floor": 4,
+    "price_10k": 220000,
+    "deal_date": "2021-04-10",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 48.7897,
+    "floor": 16,
+    "price_10k": 97500,
+    "deal_date": "2021-04-10",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "현대한강",
+    "district": "이촌동",
+    "area_m2": 84.88,
+    "floor": 13,
+    "price_10k": 157000,
+    "deal_date": "2021-04-07",
+    "build_year": 1997,
+    "deal_type": ""
+  },
+  {
+    "name": "왕궁",
+    "district": "이촌동",
+    "area_m2": 102.48,
+    "floor": 1,
+    "price_10k": 200000,
+    "deal_date": "2021-04-21",
+    "build_year": 1974,
+    "deal_type": ""
+  },
+  {
+    "name": "용산KCC웰츠타워",
+    "district": "문배동",
+    "area_m2": 84.03,
+    "floor": 38,
+    "price_10k": 150000,
+    "deal_date": "2021-04-14",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성래미안",
+    "district": "도원동",
+    "area_m2": 59.94,
+    "floor": 11,
+    "price_10k": 114500,
+    "deal_date": "2021-04-12",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 134.45,
+    "floor": 15,
+    "price_10k": 270000,
+    "deal_date": "2021-04-21",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 114.595,
+    "floor": 6,
+    "price_10k": 210000,
+    "deal_date": "2021-04-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한강수",
+    "district": "원효로4가",
+    "area_m2": 136.62,
+    "floor": 6,
+    "price_10k": 140000,
+    "deal_date": "2021-04-01",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "한강로대우아이빌",
+    "district": "한강로2가",
+    "area_m2": 28.22,
+    "floor": 15,
+    "price_10k": 30400,
+    "deal_date": "2021-04-30",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한강로대우아이빌",
+    "district": "한강로2가",
+    "area_m2": 28.22,
+    "floor": 15,
+    "price_10k": 30400,
+    "deal_date": "2021-04-30",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한강로대우아이빌",
+    "district": "한강로2가",
+    "area_m2": 28.22,
+    "floor": 14,
+    "price_10k": 30400,
+    "deal_date": "2021-04-30",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "세방리버하이빌",
+    "district": "신창동",
+    "area_m2": 84.54,
+    "floor": 2,
+    "price_10k": 103000,
+    "deal_date": "2021-04-20",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안용산더센트럴",
+    "district": "한강로2가",
+    "area_m2": 135.27,
+    "floor": 24,
+    "price_10k": 294000,
+    "deal_date": "2021-04-09",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "한강맨숀",
+    "district": "이촌동",
+    "area_m2": 89.82,
+    "floor": 3,
+    "price_10k": 280000,
+    "deal_date": "2021-04-21",
+    "build_year": 1971,
+    "deal_type": ""
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 114.595,
+    "floor": 10,
+    "price_10k": 225000,
+    "deal_date": "2021-04-05",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "이촌동삼성리버스위트",
+    "district": "이촌동",
+    "area_m2": 134.9,
+    "floor": 2,
+    "price_10k": 208000,
+    "deal_date": "2021-04-02",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "신동아",
+    "district": "서빙고동",
+    "area_m2": 210.25,
+    "floor": 8,
+    "price_10k": 380000,
+    "deal_date": "2021-04-19",
+    "build_year": 1984,
+    "deal_type": ""
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 114.595,
+    "floor": 8,
+    "price_10k": 215000,
+    "deal_date": "2021-04-22",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "용산파크타워(24-0)",
+    "district": "용산동5가",
+    "area_m2": 149.92,
+    "floor": 38,
+    "price_10k": 322000,
+    "deal_date": "2021-04-02",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 203.12,
+    "floor": 15,
+    "price_10k": 383000,
+    "deal_date": "2021-04-23",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "용산시티파크(1단지)",
+    "district": "한강로3가",
+    "area_m2": 181.89,
+    "floor": 34,
+    "price_10k": 244500,
+    "deal_date": "2021-04-13",
+    "build_year": 2007,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 210.01,
+    "floor": 5,
+    "price_10k": 315000,
+    "deal_date": "2021-04-27",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한강로대우아이빌",
+    "district": "한강로2가",
+    "area_m2": 28.22,
+    "floor": 14,
+    "price_10k": 33000,
+    "deal_date": "2021-04-22",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 84.89,
+    "floor": 16,
+    "price_10k": 194000,
+    "deal_date": "2021-04-06",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한남더힐",
+    "district": "한남동",
+    "area_m2": 235.312,
+    "floor": 12,
+    "price_10k": 600000,
+    "deal_date": "2021-04-19",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 11,
+    "price_10k": 93500,
+    "deal_date": "2021-04-10",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "원효",
+    "district": "원효로2가",
+    "area_m2": 39.97,
+    "floor": 7,
+    "price_10k": 29800,
+    "deal_date": "2021-04-02",
+    "build_year": 1970,
+    "deal_type": ""
+  },
+  {
+    "name": "반도",
+    "district": "이촌동",
+    "area_m2": 167.18,
+    "floor": 11,
+    "price_10k": 257000,
+    "deal_date": "2021-04-16",
+    "build_year": 1977,
+    "deal_type": ""
+  },
+  {
+    "name": "한가람",
+    "district": "이촌동",
+    "area_m2": 59.88,
+    "floor": 7,
+    "price_10k": 159500,
+    "deal_date": "2021-04-02",
+    "build_year": 1998,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 8,
+    "price_10k": 91000,
+    "deal_date": "2021-04-05",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "LG한강자이",
+    "district": "이촌동",
+    "area_m2": 66.39,
+    "floor": 16,
+    "price_10k": 182000,
+    "deal_date": "2021-04-03",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6971,
+    "floor": 7,
+    "price_10k": 93000,
+    "deal_date": "2021-04-02",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "효창PALACEVILLE",
+    "district": "청파동3가",
+    "area_m2": 128.68,
+    "floor": 5,
+    "price_10k": 89500,
+    "deal_date": "2021-04-12",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "한강타운",
+    "district": "산천동",
+    "area_m2": 59.69,
+    "floor": 5,
+    "price_10k": 97500,
+    "deal_date": "2021-04-07",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "강변",
+    "district": "이촌동",
+    "area_m2": 65.55,
+    "floor": -1,
+    "price_10k": 89000,
+    "deal_date": "2021-04-10",
+    "build_year": 1971,
+    "deal_type": ""
+  },
+  {
+    "name": "풍전",
+    "district": "원효로4가",
+    "area_m2": 81.72,
+    "floor": 3,
+    "price_10k": 94000,
+    "deal_date": "2021-04-03",
+    "build_year": 1971,
+    "deal_type": ""
+  },
+  {
+    "name": "한남아이파크애비뉴",
+    "district": "한남동",
+    "area_m2": 49.6243,
+    "floor": 10,
+    "price_10k": 86000,
+    "deal_date": "2021-04-05",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "한강대우트럼프월드3",
+    "district": "한강로3가",
+    "area_m2": 126.19,
+    "floor": 12,
+    "price_10k": 178000,
+    "deal_date": "2021-04-10",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "리버힐삼성",
+    "district": "산천동",
+    "area_m2": 84.98,
+    "floor": 3,
+    "price_10k": 129000,
+    "deal_date": "2021-04-06",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 59.12,
+    "floor": 10,
+    "price_10k": 156000,
+    "deal_date": "2021-04-03",
+    "build_year": 1998,
+    "deal_type": ""
+  }
+]

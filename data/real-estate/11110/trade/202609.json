@@ -1,0 +1,62 @@
+[
+  {
+    "name": "블루빌",
+    "district": "숭인동",
+    "area_m2": 44.56,
+    "floor": 5,
+    "price_10k": 30000,
+    "deal_date": "2026-09-11",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에비뉴청계Ⅱ",
+    "district": "숭인동",
+    "area_m2": 16.95,
+    "floor": 8,
+    "price_10k": 25000,
+    "deal_date": "2026-09-14",
+    "build_year": 2025,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로센트레빌",
+    "district": "숭인동",
+    "area_m2": 59.92,
+    "floor": 5,
+    "price_10k": 105000,
+    "deal_date": "2026-09-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "교북동",
+    "area_m2": 59.98,
+    "floor": 9,
+    "price_10k": 89400,
+    "deal_date": "2026-09-11",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남2",
+    "district": "명륜2가",
+    "area_m2": 59.4,
+    "floor": 1,
+    "price_10k": 88500,
+    "deal_date": "2026-09-01",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아남1",
+    "district": "명륜2가",
+    "area_m2": 84.8,
+    "floor": 20,
+    "price_10k": 129500,
+    "deal_date": "2026-09-03",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  }
+]

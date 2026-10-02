@@ -1,0 +1,232 @@
+[
+  {
+    "name": "건영1",
+    "district": "상봉동",
+    "area_m2": 84.96,
+    "floor": 6,
+    "price_10k": 75000,
+    "deal_date": "2022-10-25",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "새한",
+    "district": "신내동",
+    "area_m2": 59.77,
+    "floor": 22,
+    "price_10k": 42500,
+    "deal_date": "2022-10-31",
+    "build_year": 1998,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "신내11대명",
+    "district": "신내동",
+    "area_m2": 39.76,
+    "floor": 11,
+    "price_10k": 38300,
+    "deal_date": "2022-10-24",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용더플래티넘용마산",
+    "district": "면목동",
+    "area_m2": 84.9731,
+    "floor": 4,
+    "price_10k": 111000,
+    "deal_date": "2022-10-16",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포시티",
+    "district": "상봉동",
+    "area_m2": 14.855,
+    "floor": 5,
+    "price_10k": 10500,
+    "deal_date": "2022-10-20",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 35.44,
+    "floor": 6,
+    "price_10k": 38000,
+    "deal_date": "2022-10-08",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신내",
+    "district": "묵동",
+    "area_m2": 59.76,
+    "floor": 1,
+    "price_10k": 51000,
+    "deal_date": "2022-10-08",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상봉어반뷰",
+    "district": "상봉동",
+    "area_m2": 18.45,
+    "floor": 16,
+    "price_10k": 17300,
+    "deal_date": "2022-10-29",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사가정센트럴아이파크",
+    "district": "면목동",
+    "area_m2": 84.956,
+    "floor": 7,
+    "price_10k": 115000,
+    "deal_date": "2022-10-15",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 60000,
+    "deal_date": "2022-10-18",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사가정센트럴아이파크",
+    "district": "면목동",
+    "area_m2": 84.87,
+    "floor": 12,
+    "price_10k": 120000,
+    "deal_date": "2022-10-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성",
+    "district": "묵동",
+    "area_m2": 48.13,
+    "floor": 4,
+    "price_10k": 33000,
+    "deal_date": "2022-10-08",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "문수해오름",
+    "district": "망우동",
+    "area_m2": 83.61,
+    "floor": 5,
+    "price_10k": 50000,
+    "deal_date": "2022-10-31",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "용마한신",
+    "district": "면목동",
+    "area_m2": 59.22,
+    "floor": 10,
+    "price_10k": 45500,
+    "deal_date": "2022-10-03",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신영",
+    "district": "면목동",
+    "area_m2": 14.43,
+    "floor": 6,
+    "price_10k": 8650,
+    "deal_date": "2022-10-09",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "백림금호",
+    "district": "망우동",
+    "area_m2": 84.23,
+    "floor": 11,
+    "price_10k": 54000,
+    "deal_date": "2022-10-08",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상봉베스트원",
+    "district": "상봉동",
+    "area_m2": 22.14,
+    "floor": 9,
+    "price_10k": 22000,
+    "deal_date": "2022-10-21",
+    "build_year": 2019,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "범양프레체",
+    "district": "중화동",
+    "area_m2": 17.94,
+    "floor": 8,
+    "price_10k": 11500,
+    "deal_date": "2022-10-03",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "묵동포레시타",
+    "district": "묵동",
+    "area_m2": 14.95,
+    "floor": 4,
+    "price_10k": 12500,
+    "deal_date": "2022-10-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더하이어",
+    "district": "망우동",
+    "area_m2": 12.0156,
+    "floor": 15,
+    "price_10k": 10500,
+    "deal_date": "2022-10-14",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더하이어",
+    "district": "망우동",
+    "area_m2": 12.0156,
+    "floor": 5,
+    "price_10k": 10000,
+    "deal_date": "2022-10-14",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "신내동",
+    "area_m2": 84.97,
+    "floor": 1,
+    "price_10k": 58000,
+    "deal_date": "2022-10-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포시티",
+    "district": "상봉동",
+    "area_m2": 14.855,
+    "floor": 5,
+    "price_10k": 13600,
+    "deal_date": "2022-10-13",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "e편한세상서울대입구1단지",
+    "district": "봉천동",
+    "area_m2": 84.93,
+    "floor": 9,
+    "price_10k": 100000,
+    "deal_date": "2022-12-30",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신림큐브",
+    "district": "신림동",
+    "area_m2": 12.96,
+    "floor": 10,
+    "price_10k": 16000,
+    "deal_date": "2022-12-27",
+    "build_year": 2015,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "벽산블루밍",
+    "district": "봉천동",
+    "area_m2": 59.99,
+    "floor": 12,
+    "price_10k": 59500,
+    "deal_date": "2022-12-26",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "봉천동",
+    "area_m2": 59.92,
+    "floor": 7,
+    "price_10k": 71500,
+    "deal_date": "2022-12-19",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악위버폴리스",
+    "district": "봉천동",
+    "area_m2": 82.265,
+    "floor": 19,
+    "price_10k": 86000,
+    "deal_date": "2022-12-06",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸리마타운",
+    "district": "신림동",
+    "area_m2": 12.25,
+    "floor": 16,
+    "price_10k": 12900,
+    "deal_date": "2022-12-22",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악드림(동아)",
+    "district": "봉천동",
+    "area_m2": 84.96,
+    "floor": 8,
+    "price_10k": 79500,
+    "deal_date": "2022-12-17",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악청광플러스원",
+    "district": "봉천동",
+    "area_m2": 59.81,
+    "floor": 13,
+    "price_10k": 59000,
+    "deal_date": "2022-12-11",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상서울대입구1단지",
+    "district": "봉천동",
+    "area_m2": 84.92,
+    "floor": 11,
+    "price_10k": 108500,
+    "deal_date": "2022-12-07",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악푸르지오",
+    "district": "봉천동",
+    "area_m2": 59.58,
+    "floor": 4,
+    "price_10k": 61000,
+    "deal_date": "2022-12-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악드림(동아)",
+    "district": "봉천동",
+    "area_m2": 84.96,
+    "floor": 12,
+    "price_10k": 80000,
+    "deal_date": "2022-12-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악드림(동아)",
+    "district": "봉천동",
+    "area_m2": 84.96,
+    "floor": 16,
+    "price_10k": 65000,
+    "deal_date": "2022-12-15",
+    "build_year": 2003,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "서울대역마에스트로",
+    "district": "봉천동",
+    "area_m2": 23.09,
+    "floor": 15,
+    "price_10k": 18500,
+    "deal_date": "2022-12-01",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "봉천동",
+    "area_m2": 59.92,
+    "floor": 18,
+    "price_10k": 63000,
+    "deal_date": "2022-12-02",
+    "build_year": 2000,
+    "deal_type": "직거래"
+  }
+]

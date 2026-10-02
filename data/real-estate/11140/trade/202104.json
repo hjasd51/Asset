@@ -1,0 +1,572 @@
+[
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 114.92,
+    "floor": 17,
+    "price_10k": 165000,
+    "deal_date": "2021-04-30",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "약수(372-13)",
+    "district": "신당동",
+    "area_m2": 50.91,
+    "floor": 3,
+    "price_10k": 30000,
+    "deal_date": "2021-04-30",
+    "build_year": 1968,
+    "deal_type": ""
+  },
+  {
+    "name": "남산센트럴자이",
+    "district": "충무로4가",
+    "area_m2": 128.952,
+    "floor": 11,
+    "price_10k": 144500,
+    "deal_date": "2021-04-30",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 9,
+    "price_10k": 114700,
+    "deal_date": "2021-04-24",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 1,
+    "price_10k": 125000,
+    "deal_date": "2021-04-24",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 12,
+    "price_10k": 113000,
+    "deal_date": "2021-04-28",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "토토타워(5차)",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 4,
+    "price_10k": 22700,
+    "deal_date": "2021-04-29",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.7,
+    "floor": 13,
+    "price_10k": 117500,
+    "deal_date": "2021-04-27",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 84.76,
+    "floor": 19,
+    "price_10k": 120000,
+    "deal_date": "2021-04-24",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "남산FORESTHOUSE",
+    "district": "신당동",
+    "area_m2": 219.89,
+    "floor": 4,
+    "price_10k": 280000,
+    "deal_date": "2021-04-20",
+    "build_year": 2008,
+    "deal_type": ""
+  },
+  {
+    "name": "장충",
+    "district": "장충동2가",
+    "area_m2": 31.24,
+    "floor": 5,
+    "price_10k": 11100,
+    "deal_date": "2021-04-30",
+    "build_year": 1981,
+    "deal_type": ""
+  },
+  {
+    "name": "한진해모로",
+    "district": "신당동",
+    "area_m2": 84.96,
+    "floor": 4,
+    "price_10k": 96000,
+    "deal_date": "2021-04-22",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "바비엥3",
+    "district": "순화동",
+    "area_m2": 70.81,
+    "floor": 16,
+    "price_10k": 57000,
+    "deal_date": "2021-04-16",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "오장동오팰리오",
+    "district": "오장동",
+    "area_m2": 39.69,
+    "floor": 12,
+    "price_10k": 55400,
+    "deal_date": "2021-04-21",
+    "build_year": 2021,
+    "deal_type": ""
+  },
+  {
+    "name": "묵정",
+    "district": "묵정동",
+    "area_m2": 52.46,
+    "floor": 10,
+    "price_10k": 39000,
+    "deal_date": "2021-04-19",
+    "build_year": 1981,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성",
+    "district": "신당동",
+    "area_m2": 114.91,
+    "floor": 22,
+    "price_10k": 129700,
+    "deal_date": "2021-04-27",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "충무",
+    "district": "묵정동",
+    "area_m2": 67.77,
+    "floor": 2,
+    "price_10k": 52000,
+    "deal_date": "2021-04-17",
+    "build_year": 1982,
+    "deal_type": ""
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 18,
+    "price_10k": 105000,
+    "deal_date": "2021-04-19",
+    "build_year": 2008,
+    "deal_type": ""
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 118.31,
+    "floor": 11,
+    "price_10k": 179000,
+    "deal_date": "2021-04-23",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성",
+    "district": "신당동",
+    "area_m2": 84.96,
+    "floor": 17,
+    "price_10k": 100000,
+    "deal_date": "2021-04-14",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "충무",
+    "district": "묵정동",
+    "area_m2": 67.77,
+    "floor": 8,
+    "price_10k": 54000,
+    "deal_date": "2021-04-15",
+    "build_year": 1982,
+    "deal_type": ""
+  },
+  {
+    "name": "현대",
+    "district": "신당동",
+    "area_m2": 122.275,
+    "floor": 14,
+    "price_10k": 113000,
+    "deal_date": "2021-04-29",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 10,
+    "price_10k": 98500,
+    "deal_date": "2021-04-14",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 3,
+    "price_10k": 86500,
+    "deal_date": "2021-04-09",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "충무로헤센스마트",
+    "district": "충무로5가",
+    "area_m2": 21.04,
+    "floor": 7,
+    "price_10k": 25500,
+    "deal_date": "2021-04-24",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 14,
+    "price_10k": 123000,
+    "deal_date": "2021-04-10",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "황학아크로타워",
+    "district": "황학동",
+    "area_m2": 109.146,
+    "floor": 10,
+    "price_10k": 110000,
+    "deal_date": "2021-04-07",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 10,
+    "price_10k": 127000,
+    "deal_date": "2021-04-17",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 3,
+    "price_10k": 104000,
+    "deal_date": "2021-04-10",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 10,
+    "price_10k": 133000,
+    "deal_date": "2021-04-13",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "충무로헤센스마트",
+    "district": "충무로5가",
+    "area_m2": 19.76,
+    "floor": 4,
+    "price_10k": 22400,
+    "deal_date": "2021-04-10",
+    "build_year": 2018,
+    "deal_type": ""
+  },
+  {
+    "name": "태원팰리스5차(432-1132)",
+    "district": "신당동",
+    "area_m2": 84.15,
+    "floor": 2,
+    "price_10k": 58500,
+    "deal_date": "2021-04-07",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 23,
+    "price_10k": 130000,
+    "deal_date": "2021-04-20",
+    "build_year": 2008,
+    "deal_type": ""
+  },
+  {
+    "name": "충무로엘크루메크로시티2차",
+    "district": "충무로5가",
+    "area_m2": 35.55,
+    "floor": 13,
+    "price_10k": 33000,
+    "deal_date": "2021-04-10",
+    "build_year": 2016,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 10,
+    "price_10k": 123000,
+    "deal_date": "2021-04-06",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 84.39,
+    "floor": 23,
+    "price_10k": 128500,
+    "deal_date": "2021-04-11",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "동대문와이즈캐슬",
+    "district": "흥인동",
+    "area_m2": 15.55,
+    "floor": 15,
+    "price_10k": 14000,
+    "deal_date": "2021-04-22",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 114.88,
+    "floor": 18,
+    "price_10k": 127000,
+    "deal_date": "2021-04-21",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "한양I-Class",
+    "district": "황학동",
+    "area_m2": 16.37,
+    "floor": 15,
+    "price_10k": 11800,
+    "deal_date": "2021-04-24",
+    "build_year": 2013,
+    "deal_type": ""
+  },
+  {
+    "name": "청계천두산위브더제니스",
+    "district": "흥인동",
+    "area_m2": 146.9679,
+    "floor": 30,
+    "price_10k": 174500,
+    "deal_date": "2021-04-19",
+    "build_year": 2014,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안하이베르",
+    "district": "신당동",
+    "area_m2": 84.97,
+    "floor": 14,
+    "price_10k": 120000,
+    "deal_date": "2021-04-05",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 150000,
+    "deal_date": "2021-04-11",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "덕수궁롯데캐슬",
+    "district": "순화동",
+    "area_m2": 82.3212,
+    "floor": 9,
+    "price_10k": 154500,
+    "deal_date": "2021-04-07",
+    "build_year": 2016,
+    "deal_type": ""
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 2,
+    "price_10k": 103500,
+    "deal_date": "2021-04-12",
+    "build_year": 2002,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 4,
+    "price_10k": 87800,
+    "deal_date": "2021-04-10",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "도현블랑빌",
+    "district": "신당동",
+    "area_m2": 91.86,
+    "floor": 2,
+    "price_10k": 84200,
+    "deal_date": "2021-04-03",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 114.48,
+    "floor": 10,
+    "price_10k": 150950,
+    "deal_date": "2021-04-11",
+    "build_year": 2005,
+    "deal_type": ""
+  },
+  {
+    "name": "우일타운",
+    "district": "흥인동",
+    "area_m2": 69.39,
+    "floor": 14,
+    "price_10k": 53500,
+    "deal_date": "2021-04-04",
+    "build_year": 1994,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 84.93,
+    "floor": 2,
+    "price_10k": 124000,
+    "deal_date": "2021-04-05",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "남산센트럴자이",
+    "district": "충무로4가",
+    "area_m2": 139.936,
+    "floor": 23,
+    "price_10k": 130000,
+    "deal_date": "2021-04-16",
+    "build_year": 2009,
+    "deal_type": ""
+  },
+  {
+    "name": "진양상가",
+    "district": "충무로4가",
+    "area_m2": 71.93,
+    "floor": 10,
+    "price_10k": 48000,
+    "deal_date": "2021-04-10",
+    "build_year": 1970,
+    "deal_type": ""
+  },
+  {
+    "name": "성요셉",
+    "district": "중림동",
+    "area_m2": 41.32,
+    "floor": 3,
+    "price_10k": 21200,
+    "deal_date": "2021-04-15",
+    "build_year": 1971,
+    "deal_type": ""
+  },
+  {
+    "name": "한진해모로",
+    "district": "신당동",
+    "area_m2": 59.76,
+    "floor": 7,
+    "price_10k": 87300,
+    "deal_date": "2021-04-03",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 84.95,
+    "floor": 9,
+    "price_10k": 149500,
+    "deal_date": "2021-04-10",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "청계리버팰리스A",
+    "district": "황학동",
+    "area_m2": 27.84,
+    "floor": 11,
+    "price_10k": 23500,
+    "deal_date": "2021-04-06",
+    "build_year": 2019,
+    "deal_type": ""
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 14,
+    "price_10k": 83500,
+    "deal_date": "2021-04-02",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "한양I-Class",
+    "district": "황학동",
+    "area_m2": 16.37,
+    "floor": 14,
+    "price_10k": 13500,
+    "deal_date": "2021-04-06",
+    "build_year": 2013,
+    "deal_type": ""
+  }
+]

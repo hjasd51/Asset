@@ -1,0 +1,202 @@
+[
+  {
+    "name": "경희궁자이(4단지)",
+    "district": "교북동",
+    "area_m2": 45.879,
+    "floor": 16,
+    "price_10k": 102000,
+    "deal_date": "2023-12-26",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(4단지)",
+    "district": "교북동",
+    "area_m2": 45.879,
+    "floor": 16,
+    "price_10k": 102000,
+    "deal_date": "2023-12-28",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 9,
+    "price_10k": 10800,
+    "deal_date": "2023-12-30",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁자이(2단지)",
+    "district": "홍파동",
+    "area_m2": 84.8359,
+    "floor": 8,
+    "price_10k": 194000,
+    "deal_date": "2023-12-27",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁롯데캐슬",
+    "district": "무악동",
+    "area_m2": 59.6737,
+    "floor": 9,
+    "price_10k": 128000,
+    "deal_date": "2023-12-22",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경희궁롯데캐슬",
+    "district": "무악동",
+    "area_m2": 84.8792,
+    "floor": 14,
+    "price_10k": 150000,
+    "deal_date": "2023-12-16",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "엘리시아",
+    "district": "평창동",
+    "area_m2": 236.07,
+    "floor": 2,
+    "price_10k": 114000,
+    "deal_date": "2023-12-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데낙천대",
+    "district": "평창동",
+    "area_m2": 110.53,
+    "floor": 4,
+    "price_10k": 118000,
+    "deal_date": "2023-12-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디팰리스",
+    "district": "신문로2가",
+    "area_m2": 118.749,
+    "floor": 16,
+    "price_10k": 280000,
+    "deal_date": "2023-12-11",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창신쌍용1",
+    "district": "창신동",
+    "area_m2": 79.87,
+    "floor": 11,
+    "price_10k": 69000,
+    "deal_date": "2023-12-08",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도시그린빌라",
+    "district": "숭인동",
+    "area_m2": 44.4,
+    "floor": 6,
+    "price_10k": 23900,
+    "deal_date": "2023-12-23",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "포레스트힐시티",
+    "district": "효제동",
+    "area_m2": 18.505,
+    "floor": 12,
+    "price_10k": 16000,
+    "deal_date": "2023-12-26",
+    "build_year": 2017,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 17.811,
+    "floor": 11,
+    "price_10k": 10500,
+    "deal_date": "2023-12-04",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "경희궁자이(3단지)",
+    "district": "평동",
+    "area_m2": 59.7547,
+    "floor": 4,
+    "price_10k": 148000,
+    "deal_date": "2023-12-17",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로유케이201",
+    "district": "숭인동",
+    "area_m2": 12.08,
+    "floor": 12,
+    "price_10k": 10000,
+    "deal_date": "2023-12-24",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "창신쌍용1",
+    "district": "창신동",
+    "area_m2": 79.87,
+    "floor": 10,
+    "price_10k": 70000,
+    "deal_date": "2023-12-02",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광화문스페이스본(101동~105동)",
+    "district": "사직동",
+    "area_m2": 151.81,
+    "floor": 11,
+    "price_10k": 179000,
+    "deal_date": "2023-12-02",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로유케이201",
+    "district": "숭인동",
+    "area_m2": 12.09,
+    "floor": 9,
+    "price_10k": 10400,
+    "deal_date": "2023-12-19",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "두레엘리시안",
+    "district": "필운동",
+    "area_m2": 84.74,
+    "floor": 2,
+    "price_10k": 90000,
+    "deal_date": "2023-12-01",
+    "build_year": 2007,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "종로청계힐스테이트",
+    "district": "숭인동",
+    "area_m2": 84.9478,
+    "floor": 9,
+    "price_10k": 98500,
+    "deal_date": "2023-12-01",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  }
+]

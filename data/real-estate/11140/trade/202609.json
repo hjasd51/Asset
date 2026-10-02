@@ -1,0 +1,112 @@
+[
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 8,
+    "price_10k": 186500,
+    "deal_date": "2026-09-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 10,
+    "price_10k": 149000,
+    "deal_date": "2026-09-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "인현상가/신성아파트",
+    "district": "인현동2가",
+    "area_m2": 42.31,
+    "floor": 7,
+    "price_10k": 36900,
+    "deal_date": "2026-09-09",
+    "build_year": 1968,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "골드캐슬Ⅲ",
+    "district": "황학동",
+    "area_m2": 32.75,
+    "floor": 13,
+    "price_10k": 33000,
+    "deal_date": "2026-09-09",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 33,
+    "price_10k": 140000,
+    "deal_date": "2026-09-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이지마루오장",
+    "district": "오장동",
+    "area_m2": 23.94,
+    "floor": 15,
+    "price_10k": 42000,
+    "deal_date": "2026-09-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 11,
+    "price_10k": 130000,
+    "deal_date": "2026-09-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울역센트럴자이",
+    "district": "만리동2가",
+    "area_m2": 59.943,
+    "floor": 25,
+    "price_10k": 198000,
+    "deal_date": "2026-09-05",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 10,
+    "price_10k": 149000,
+    "deal_date": "2026-09-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 8,
+    "price_10k": 186500,
+    "deal_date": "2026-09-04",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동대문솔하임",
+    "district": "흥인동",
+    "area_m2": 19.67,
+    "floor": 15,
+    "price_10k": 17500,
+    "deal_date": "2026-09-02",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  }
+]

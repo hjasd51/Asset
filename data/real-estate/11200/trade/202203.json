@@ -1,0 +1,272 @@
+[
+  {
+    "name": "트리마제",
+    "district": "성수동1가",
+    "area_m2": 25.3284,
+    "floor": 16,
+    "price_10k": 109000,
+    "deal_date": "2022-03-26",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신금호파크자이",
+    "district": "금호동2가",
+    "area_m2": 84.98,
+    "floor": 6,
+    "price_10k": 169000,
+    "deal_date": "2022-03-29",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲리버그린동아아파트",
+    "district": "응봉동",
+    "area_m2": 84.83,
+    "floor": 9,
+    "price_10k": 154000,
+    "deal_date": "2022-03-29",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "건영",
+    "district": "송정동",
+    "area_m2": 84.945,
+    "floor": 13,
+    "price_10k": 95000,
+    "deal_date": "2022-03-26",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림강변타운",
+    "district": "응봉동",
+    "area_m2": 59.76,
+    "floor": 14,
+    "price_10k": 108500,
+    "deal_date": "2022-03-23",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세림",
+    "district": "마장동",
+    "area_m2": 84.93,
+    "floor": 9,
+    "price_10k": 88000,
+    "deal_date": "2022-03-31",
+    "build_year": 1986,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "행복드림",
+    "district": "마장동",
+    "area_m2": 84.56,
+    "floor": 5,
+    "price_10k": 77400,
+    "deal_date": "2022-03-22",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진해모로",
+    "district": "하왕십리동",
+    "area_m2": 112.26,
+    "floor": 2,
+    "price_10k": 125000,
+    "deal_date": "2022-03-22",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림(1차)",
+    "district": "응봉동",
+    "area_m2": 75.51,
+    "floor": 15,
+    "price_10k": 138500,
+    "deal_date": "2022-03-25",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "행당한진타운",
+    "district": "행당동",
+    "area_m2": 59.96,
+    "floor": 19,
+    "price_10k": 117000,
+    "deal_date": "2022-03-26",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림(1차)",
+    "district": "응봉동",
+    "area_m2": 75.51,
+    "floor": 8,
+    "price_10k": 136500,
+    "deal_date": "2022-03-19",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진타운",
+    "district": "성수동1가",
+    "area_m2": 59.4,
+    "floor": 12,
+    "price_10k": 159750,
+    "deal_date": "2022-03-16",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "금호동4가",
+    "area_m2": 59.97,
+    "floor": 1,
+    "price_10k": 114000,
+    "deal_date": "2022-03-14",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변건영아파트",
+    "district": "성수동1가",
+    "area_m2": 84.941,
+    "floor": 1,
+    "price_10k": 169000,
+    "deal_date": "2022-03-30",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲 한신 더 휴",
+    "district": "행당동",
+    "area_m2": 84.95,
+    "floor": 13,
+    "price_10k": 155000,
+    "deal_date": "2022-03-28",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신금호파크자이",
+    "district": "금호동2가",
+    "area_m2": 59.98,
+    "floor": 10,
+    "price_10k": 145000,
+    "deal_date": "2022-03-16",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲푸르지오",
+    "district": "금호동4가",
+    "area_m2": 59.99,
+    "floor": 10,
+    "price_10k": 152000,
+    "deal_date": "2022-03-12",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림e-편한세상",
+    "district": "행당동",
+    "area_m2": 59.96,
+    "floor": 9,
+    "price_10k": 118800,
+    "deal_date": "2022-03-20",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양마이라움",
+    "district": "사근동",
+    "area_m2": 18.36,
+    "floor": 5,
+    "price_10k": 17500,
+    "deal_date": "2022-03-01",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "하왕십리동",
+    "area_m2": 114.46,
+    "floor": 8,
+    "price_10k": 137000,
+    "deal_date": "2022-03-09",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "트리마제",
+    "district": "성수동1가",
+    "area_m2": 69.7244,
+    "floor": 6,
+    "price_10k": 249500,
+    "deal_date": "2022-03-07",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울숲행당푸르지오",
+    "district": "행당동",
+    "area_m2": 59.68,
+    "floor": 11,
+    "price_10k": 119500,
+    "deal_date": "2022-03-12",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신한강",
+    "district": "성수동2가",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 237000,
+    "deal_date": "2022-03-10",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "금호동1가",
+    "area_m2": 59.9,
+    "floor": 15,
+    "price_10k": 110000,
+    "deal_date": "2022-03-03",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림강변타운",
+    "district": "응봉동",
+    "area_m2": 84.42,
+    "floor": 8,
+    "price_10k": 135000,
+    "deal_date": "2022-03-15",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "텐즈힐(2단지)",
+    "district": "상왕십리동",
+    "area_m2": 59.98,
+    "floor": 7,
+    "price_10k": 139500,
+    "deal_date": "2022-03-12",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호자이1차",
+    "district": "금호동2가",
+    "area_m2": 59.99,
+    "floor": 4,
+    "price_10k": 127000,
+    "deal_date": "2022-03-12",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  }
+]

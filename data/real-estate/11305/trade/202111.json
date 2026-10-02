@@ -1,0 +1,212 @@
+[
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 7,
+    "price_10k": 86250,
+    "deal_date": "2021-11-16",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 15,
+    "price_10k": 13460,
+    "deal_date": "2021-11-27",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.92,
+    "floor": 20,
+    "price_10k": 89000,
+    "deal_date": "2021-11-29",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.92,
+    "floor": 5,
+    "price_10k": 87500,
+    "deal_date": "2021-11-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 63.78,
+    "floor": 1,
+    "price_10k": 55000,
+    "deal_date": "2021-11-24",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 7,
+    "price_10k": 87000,
+    "deal_date": "2021-11-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미아한일유앤아이",
+    "district": "미아동",
+    "area_m2": 84.552,
+    "floor": 5,
+    "price_10k": 75000,
+    "deal_date": "2021-11-08",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산굿모닝",
+    "district": "우이동",
+    "area_m2": 71.36,
+    "floor": 2,
+    "price_10k": 34900,
+    "deal_date": "2021-11-18",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔솔파크",
+    "district": "번동",
+    "area_m2": 84.88,
+    "floor": 10,
+    "price_10k": 70000,
+    "deal_date": "2021-11-09",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "정원",
+    "district": "수유동",
+    "area_m2": 59.48,
+    "floor": 4,
+    "price_10k": 31900,
+    "deal_date": "2021-11-15",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "기산그린",
+    "district": "번동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 55900,
+    "deal_date": "2021-11-20",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역하이씨티",
+    "district": "수유동",
+    "area_m2": 12.33,
+    "floor": 10,
+    "price_10k": 9500,
+    "deal_date": "2021-11-26",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 84.95,
+    "floor": 11,
+    "price_10k": 79500,
+    "deal_date": "2021-11-17",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 84.92,
+    "floor": 2,
+    "price_10k": 55000,
+    "deal_date": "2021-11-27",
+    "build_year": 1993,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 59.82,
+    "floor": 17,
+    "price_10k": 59000,
+    "deal_date": "2021-11-06",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 7,
+    "price_10k": 84800,
+    "deal_date": "2021-11-17",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 59.97,
+    "floor": 4,
+    "price_10k": 89000,
+    "deal_date": "2021-11-07",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "북한산굿모닝",
+    "district": "우이동",
+    "area_m2": 77.71,
+    "floor": 2,
+    "price_10k": 41000,
+    "deal_date": "2021-11-09",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아너스빌",
+    "district": "미아동",
+    "area_m2": 84.9134,
+    "floor": 4,
+    "price_10k": 82000,
+    "deal_date": "2021-11-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 1,
+    "price_10k": 74500,
+    "deal_date": "2021-11-01",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "꿈의숲해링턴플레이스",
+    "district": "미아동",
+    "area_m2": 84.67,
+    "floor": 1,
+    "price_10k": 108000,
+    "deal_date": "2021-11-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  }
+]

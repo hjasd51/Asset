@@ -1,0 +1,1592 @@
+[
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 243500,
+    "deal_date": "2023-09-26",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대슈퍼빌",
+    "district": "서초동",
+    "area_m2": 214.92,
+    "floor": 9,
+    "price_10k": 300000,
+    "deal_date": "2023-09-18",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포4",
+    "district": "잠원동",
+    "area_m2": 107.39,
+    "floor": 12,
+    "price_10k": 309000,
+    "deal_date": "2023-09-02",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포25",
+    "district": "잠원동",
+    "area_m2": 84.49,
+    "floor": 2,
+    "price_10k": 240000,
+    "deal_date": "2023-09-16",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버파크",
+    "district": "반포동",
+    "area_m2": 112.93,
+    "floor": 12,
+    "price_10k": 509000,
+    "deal_date": "2023-09-04",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포리체",
+    "district": "반포동",
+    "area_m2": 59.993,
+    "floor": 31,
+    "price_10k": 230000,
+    "deal_date": "2023-09-02",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대이에스에이아파트",
+    "district": "서초동",
+    "area_m2": 144.26,
+    "floor": 17,
+    "price_10k": 150000,
+    "deal_date": "2023-09-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "파크사이드",
+    "district": "양재동",
+    "area_m2": 66.24,
+    "floor": 2,
+    "price_10k": 88500,
+    "deal_date": "2023-09-13",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버파크",
+    "district": "반포동",
+    "area_m2": 112.96,
+    "floor": 12,
+    "price_10k": 500000,
+    "deal_date": "2023-09-20",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포센트럴자이",
+    "district": "잠원동",
+    "area_m2": 84.98,
+    "floor": 4,
+    "price_10k": 330000,
+    "deal_date": "2023-09-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대타운",
+    "district": "양재동",
+    "area_m2": 81.1,
+    "floor": 3,
+    "price_10k": 93000,
+    "deal_date": "2023-09-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼풍아파트",
+    "district": "서초동",
+    "area_m2": 130.73,
+    "floor": 6,
+    "price_10k": 322000,
+    "deal_date": "2023-09-26",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안서초유니빌",
+    "district": "서초동",
+    "area_m2": 34.052,
+    "floor": 12,
+    "price_10k": 39000,
+    "deal_date": "2023-09-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "테마하우스",
+    "district": "반포동",
+    "area_m2": 113.08,
+    "floor": 6,
+    "price_10k": 147000,
+    "deal_date": "2023-09-17",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 59.98,
+    "floor": 3,
+    "price_10k": 243500,
+    "deal_date": "2023-09-26",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한라비발디스튜디오193",
+    "district": "서초동",
+    "area_m2": 19.99,
+    "floor": 7,
+    "price_10k": 25000,
+    "deal_date": "2023-09-16",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초센트럴IPARK",
+    "district": "서초동",
+    "area_m2": 80.5154,
+    "floor": 16,
+    "price_10k": 163000,
+    "deal_date": "2023-09-25",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포4",
+    "district": "잠원동",
+    "area_m2": 96.48,
+    "floor": 4,
+    "price_10k": 280000,
+    "deal_date": "2023-09-27",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "잠원동",
+    "area_m2": 59.93,
+    "floor": 3,
+    "price_10k": 143750,
+    "deal_date": "2023-09-24",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초중흥S-클래스(도시형생활주택)",
+    "district": "서초동",
+    "area_m2": 25.82,
+    "floor": 7,
+    "price_10k": 22000,
+    "deal_date": "2023-09-27",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한라",
+    "district": "우면동",
+    "area_m2": 59.98,
+    "floor": 2,
+    "price_10k": 108000,
+    "deal_date": "2023-09-27",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 84.93,
+    "floor": 18,
+    "price_10k": 394000,
+    "deal_date": "2023-09-25",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포16",
+    "district": "잠원동",
+    "area_m2": 52.26,
+    "floor": 8,
+    "price_10k": 180000,
+    "deal_date": "2023-09-25",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 245000,
+    "deal_date": "2023-09-26",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 59.98,
+    "floor": 7,
+    "price_10k": 250000,
+    "deal_date": "2023-09-24",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 59.971,
+    "floor": 16,
+    "price_10k": 253000,
+    "deal_date": "2023-09-27",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초교대e편한세상",
+    "district": "서초동",
+    "area_m2": 84.68,
+    "floor": 9,
+    "price_10k": 233500,
+    "deal_date": "2023-09-27",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포4",
+    "district": "잠원동",
+    "area_m2": 96.48,
+    "floor": 4,
+    "price_10k": 280000,
+    "deal_date": "2023-09-26",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포리체",
+    "district": "반포동",
+    "area_m2": 106.148,
+    "floor": 11,
+    "price_10k": 338000,
+    "deal_date": "2023-09-25",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초그랑자이",
+    "district": "서초동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 221500,
+    "deal_date": "2023-09-25",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로비스타",
+    "district": "서초동",
+    "area_m2": 149.84,
+    "floor": 17,
+    "price_10k": 292000,
+    "deal_date": "2023-09-24",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포4",
+    "district": "잠원동",
+    "area_m2": 105.44,
+    "floor": 3,
+    "price_10k": 299300,
+    "deal_date": "2023-09-20",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다우탑스빌라트",
+    "district": "반포동",
+    "area_m2": 159.75,
+    "floor": 4,
+    "price_10k": 80000,
+    "deal_date": "2023-09-25",
+    "build_year": 1997,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "반포센트럴자이",
+    "district": "잠원동",
+    "area_m2": 84.95,
+    "floor": 10,
+    "price_10k": 340000,
+    "deal_date": "2023-09-22",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬갤럭시(50-1)",
+    "district": "잠원동",
+    "area_m2": 132.78,
+    "floor": 7,
+    "price_10k": 274000,
+    "deal_date": "2023-09-26",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포서래빌",
+    "district": "반포동",
+    "area_m2": 149.49,
+    "floor": 1,
+    "price_10k": 130000,
+    "deal_date": "2023-09-18",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 84.943,
+    "floor": 4,
+    "price_10k": 330000,
+    "deal_date": "2023-09-26",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안신반포리오센트",
+    "district": "잠원동",
+    "area_m2": 59.92,
+    "floor": 6,
+    "price_10k": 215000,
+    "deal_date": "2023-09-25",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한라",
+    "district": "우면동",
+    "area_m2": 59.98,
+    "floor": 5,
+    "price_10k": 100000,
+    "deal_date": "2023-09-20",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대임페리움",
+    "district": "서초동",
+    "area_m2": 172.22,
+    "floor": 5,
+    "price_10k": 100000,
+    "deal_date": "2023-09-21",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배그랑자이",
+    "district": "방배동",
+    "area_m2": 84.972,
+    "floor": 11,
+    "price_10k": 240000,
+    "deal_date": "2023-09-17",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진흥아파트",
+    "district": "서초동",
+    "area_m2": 131.07,
+    "floor": 7,
+    "price_10k": 290000,
+    "deal_date": "2023-09-25",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬갤럭시(50-1)",
+    "district": "잠원동",
+    "area_m2": 132.16,
+    "floor": 14,
+    "price_10k": 284000,
+    "deal_date": "2023-09-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포19",
+    "district": "잠원동",
+    "area_m2": 80.25,
+    "floor": 2,
+    "price_10k": 212000,
+    "deal_date": "2023-09-16",
+    "build_year": 1982,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "유원서초",
+    "district": "서초동",
+    "area_m2": 84.82,
+    "floor": 13,
+    "price_10k": 191500,
+    "deal_date": "2023-09-18",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포센트럴자이",
+    "district": "잠원동",
+    "area_m2": 84.98,
+    "floor": 15,
+    "price_10k": 335700,
+    "deal_date": "2023-09-28",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트(1차)",
+    "district": "서초동",
+    "area_m2": 102.21,
+    "floor": 10,
+    "price_10k": 230000,
+    "deal_date": "2023-09-16",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "훼미리타운",
+    "district": "방배동",
+    "area_m2": 35.34,
+    "floor": 3,
+    "price_10k": 48000,
+    "deal_date": "2023-09-16",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초자이",
+    "district": "서초동",
+    "area_m2": 133.47,
+    "floor": 9,
+    "price_10k": 240000,
+    "deal_date": "2023-09-18",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포써밋",
+    "district": "반포동",
+    "area_m2": 59.9207,
+    "floor": 7,
+    "price_10k": 227000,
+    "deal_date": "2023-09-23",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버파크",
+    "district": "반포동",
+    "area_m2": 84.95,
+    "floor": 6,
+    "price_10k": 360000,
+    "deal_date": "2023-09-20",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로비스타",
+    "district": "서초동",
+    "area_m2": 172.94,
+    "floor": 23,
+    "price_10k": 370000,
+    "deal_date": "2023-09-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬아르떼",
+    "district": "방배동",
+    "area_m2": 121.6356,
+    "floor": 5,
+    "price_10k": 280000,
+    "deal_date": "2023-09-15",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배아트자이",
+    "district": "방배동",
+    "area_m2": 59.9938,
+    "floor": 5,
+    "price_10k": 178000,
+    "deal_date": "2023-09-03",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "우면동",
+    "area_m2": 130.89,
+    "floor": 14,
+    "price_10k": 168000,
+    "deal_date": "2023-09-16",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초더샵포레",
+    "district": "내곡동",
+    "area_m2": 84.3,
+    "floor": 6,
+    "price_10k": 132000,
+    "deal_date": "2023-09-13",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대슈퍼빌",
+    "district": "서초동",
+    "area_m2": 239.22,
+    "floor": 36,
+    "price_10k": 450000,
+    "deal_date": "2023-09-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 74.92,
+    "floor": 10,
+    "price_10k": 322000,
+    "deal_date": "2023-09-24",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안퍼스티지",
+    "district": "반포동",
+    "area_m2": 59.96,
+    "floor": 24,
+    "price_10k": 255500,
+    "deal_date": "2023-09-16",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "호반써밋서초파크",
+    "district": "우면동",
+    "area_m2": 84.95,
+    "floor": 15,
+    "price_10k": 130000,
+    "deal_date": "2023-09-22",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초동삼성쉐르빌2",
+    "district": "서초동",
+    "area_m2": 35.22,
+    "floor": 7,
+    "price_10k": 32000,
+    "deal_date": "2023-09-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "레미안서초6차(1520-9)",
+    "district": "서초동",
+    "area_m2": 119.97,
+    "floor": 7,
+    "price_10k": 194000,
+    "deal_date": "2023-09-15",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초그랑자이",
+    "district": "서초동",
+    "area_m2": 59.98,
+    "floor": 29,
+    "price_10k": 233500,
+    "deal_date": "2023-09-16",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배타운하우스",
+    "district": "방배동",
+    "area_m2": 80.64,
+    "floor": 5,
+    "price_10k": 92000,
+    "deal_date": "2023-09-22",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서리풀e편한세상",
+    "district": "방배동",
+    "area_m2": 59.97,
+    "floor": 2,
+    "price_10k": 155000,
+    "deal_date": "2023-09-26",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "쌍용예가클래식",
+    "district": "방배동",
+    "area_m2": 121.0751,
+    "floor": 8,
+    "price_10k": 207000,
+    "deal_date": "2023-09-16",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트서초젠트리스",
+    "district": "신원동",
+    "area_m2": 101.9,
+    "floor": 3,
+    "price_10k": 190000,
+    "deal_date": "2023-09-16",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포리체",
+    "district": "반포동",
+    "area_m2": 59.994,
+    "floor": 33,
+    "price_10k": 234000,
+    "deal_date": "2023-09-03",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초힐스",
+    "district": "우면동",
+    "area_m2": 84.98,
+    "floor": 8,
+    "price_10k": 142000,
+    "deal_date": "2023-09-16",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "잠원동",
+    "area_m2": 84.52,
+    "floor": 9,
+    "price_10k": 235000,
+    "deal_date": "2023-09-12",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신로얄",
+    "district": "잠원동",
+    "area_m2": 81.23,
+    "floor": 5,
+    "price_10k": 185000,
+    "deal_date": "2023-09-18",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "잠원동",
+    "area_m2": 84.52,
+    "floor": 15,
+    "price_10k": 231000,
+    "deal_date": "2023-09-16",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배2차현대홈타운",
+    "district": "방배동",
+    "area_m2": 84.94,
+    "floor": 20,
+    "price_10k": 205000,
+    "deal_date": "2023-09-16",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안서초에스티지S",
+    "district": "서초동",
+    "area_m2": 84.17,
+    "floor": 10,
+    "price_10k": 260000,
+    "deal_date": "2023-09-18",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로비스타",
+    "district": "서초동",
+    "area_m2": 138.96,
+    "floor": 21,
+    "price_10k": 265000,
+    "deal_date": "2023-09-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 84.984,
+    "floor": 27,
+    "price_10k": 330000,
+    "deal_date": "2023-09-18",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "호반써밋서초파크뷰(토지임대부아파트)",
+    "district": "우면동",
+    "area_m2": 84.99,
+    "floor": 15,
+    "price_10k": 117000,
+    "deal_date": "2023-09-11",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "잠원동",
+    "area_m2": 84.91,
+    "floor": 19,
+    "price_10k": 265000,
+    "deal_date": "2023-09-14",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초이오빌",
+    "district": "서초동",
+    "area_m2": 36.66,
+    "floor": 11,
+    "price_10k": 38800,
+    "deal_date": "2023-09-11",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "우면동",
+    "area_m2": 130.89,
+    "floor": 13,
+    "price_10k": 170000,
+    "deal_date": "2023-09-13",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신서래",
+    "district": "반포동",
+    "area_m2": 64.53,
+    "floor": 7,
+    "price_10k": 172000,
+    "deal_date": "2023-09-17",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트(1차)",
+    "district": "서초동",
+    "area_m2": 86.61,
+    "floor": 4,
+    "price_10k": 209000,
+    "deal_date": "2023-09-16",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포써밋",
+    "district": "반포동",
+    "area_m2": 84.4182,
+    "floor": 14,
+    "price_10k": 278000,
+    "deal_date": "2023-09-22",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안퍼스티지",
+    "district": "반포동",
+    "area_m2": 59.89,
+    "floor": 17,
+    "price_10k": 274500,
+    "deal_date": "2023-09-16",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포미도2차아파트",
+    "district": "반포동",
+    "area_m2": 71.49,
+    "floor": 5,
+    "price_10k": 190000,
+    "deal_date": "2023-09-14",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신원아침도시",
+    "district": "방배동",
+    "area_m2": 120.215,
+    "floor": 6,
+    "price_10k": 86000,
+    "deal_date": "2023-09-23",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 84.97,
+    "floor": 30,
+    "price_10k": 430000,
+    "deal_date": "2023-09-09",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트서초젠트리스",
+    "district": "신원동",
+    "area_m2": 84.99,
+    "floor": 5,
+    "price_10k": 163000,
+    "deal_date": "2023-09-11",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "잠원동",
+    "area_m2": 59.92,
+    "floor": 11,
+    "price_10k": 200000,
+    "deal_date": "2023-09-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대멤피스",
+    "district": "방배동",
+    "area_m2": 186.53,
+    "floor": 13,
+    "price_10k": 280000,
+    "deal_date": "2023-09-09",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대슈퍼빌",
+    "district": "서초동",
+    "area_m2": 214.92,
+    "floor": 9,
+    "price_10k": 300000,
+    "deal_date": "2023-09-19",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초네이처힐4단지",
+    "district": "우면동",
+    "area_m2": 84.61,
+    "floor": 4,
+    "price_10k": 141000,
+    "deal_date": "2023-09-09",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포미도2차아파트",
+    "district": "반포동",
+    "area_m2": 71.49,
+    "floor": 8,
+    "price_10k": 195000,
+    "deal_date": "2023-09-21",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초네이처힐6단지",
+    "district": "우면동",
+    "area_m2": 84.77,
+    "floor": 10,
+    "price_10k": 146000,
+    "deal_date": "2023-09-10",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 84.943,
+    "floor": 2,
+    "price_10k": 310000,
+    "deal_date": "2023-09-11",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포자이",
+    "district": "잠원동",
+    "area_m2": 114.94,
+    "floor": 5,
+    "price_10k": 411000,
+    "deal_date": "2023-09-07",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버파크",
+    "district": "반포동",
+    "area_m2": 112.93,
+    "floor": 12,
+    "price_10k": 509000,
+    "deal_date": "2023-09-04",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포25",
+    "district": "잠원동",
+    "area_m2": 84.49,
+    "floor": 2,
+    "price_10k": 240000,
+    "deal_date": "2023-09-16",
+    "build_year": 1984,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호2",
+    "district": "방배동",
+    "area_m2": 131.41,
+    "floor": 2,
+    "price_10k": 209500,
+    "deal_date": "2023-09-11",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 116.97,
+    "floor": 27,
+    "price_10k": 575000,
+    "deal_date": "2023-09-04",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포2",
+    "district": "잠원동",
+    "area_m2": 107.31,
+    "floor": 11,
+    "price_10k": 343000,
+    "deal_date": "2023-09-23",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 375000,
+    "deal_date": "2023-09-06",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대홈타운",
+    "district": "서초동",
+    "area_m2": 84.97,
+    "floor": 10,
+    "price_10k": 160000,
+    "deal_date": "2023-09-15",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더샵반포리버파크",
+    "district": "반포동",
+    "area_m2": 49.7795,
+    "floor": 1,
+    "price_10k": 160000,
+    "deal_date": "2023-09-27",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초동아이파크",
+    "district": "서초동",
+    "area_m2": 156.53,
+    "floor": 1,
+    "price_10k": 199000,
+    "deal_date": "2023-09-12",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포리체",
+    "district": "반포동",
+    "area_m2": 59.993,
+    "floor": 31,
+    "price_10k": 230000,
+    "deal_date": "2023-09-15",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "방배동",
+    "area_m2": 88.26,
+    "floor": 11,
+    "price_10k": 200000,
+    "deal_date": "2023-09-08",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포써밋",
+    "district": "반포동",
+    "area_m2": 59.9207,
+    "floor": 6,
+    "price_10k": 222000,
+    "deal_date": "2023-09-03",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안신반포리오센트",
+    "district": "잠원동",
+    "area_m2": 84.92,
+    "floor": 27,
+    "price_10k": 284000,
+    "deal_date": "2023-09-15",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "디에이치반포라클라스",
+    "district": "반포동",
+    "area_m2": 59.9928,
+    "floor": 30,
+    "price_10k": 241000,
+    "deal_date": "2023-09-02",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트서초젠트리스",
+    "district": "신원동",
+    "area_m2": 84.95,
+    "floor": 5,
+    "price_10k": 161000,
+    "deal_date": "2023-09-21",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배2차현대홈타운",
+    "district": "방배동",
+    "area_m2": 59.86,
+    "floor": 4,
+    "price_10k": 150000,
+    "deal_date": "2023-09-16",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초네이처힐6단지",
+    "district": "우면동",
+    "area_m2": 84.77,
+    "floor": 6,
+    "price_10k": 152000,
+    "deal_date": "2023-09-01",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초그랑자이",
+    "district": "서초동",
+    "area_m2": 90.72,
+    "floor": 27,
+    "price_10k": 326000,
+    "deal_date": "2023-09-04",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "블루힐하우스",
+    "district": "잠원동",
+    "area_m2": 59.85,
+    "floor": 8,
+    "price_10k": 165000,
+    "deal_date": "2023-09-01",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 400000,
+    "deal_date": "2023-09-03",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신",
+    "district": "잠원동",
+    "area_m2": 84.52,
+    "floor": 15,
+    "price_10k": 239500,
+    "deal_date": "2023-09-03",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬갤럭시(50-1)",
+    "district": "잠원동",
+    "area_m2": 132.16,
+    "floor": 5,
+    "price_10k": 287500,
+    "deal_date": "2023-09-02",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안신반포팰리스",
+    "district": "잠원동",
+    "area_m2": 84.49,
+    "floor": 30,
+    "price_10k": 293000,
+    "deal_date": "2023-09-01",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안퍼스티지",
+    "district": "반포동",
+    "area_m2": 84.93,
+    "floor": 16,
+    "price_10k": 358000,
+    "deal_date": "2023-09-19",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 84.95,
+    "floor": 7,
+    "price_10k": 375000,
+    "deal_date": "2023-09-06",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초동삼성쉐르빌2",
+    "district": "서초동",
+    "area_m2": 35.17,
+    "floor": 7,
+    "price_10k": 30000,
+    "deal_date": "2023-09-26",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 216.49,
+    "floor": 17,
+    "price_10k": 650000,
+    "deal_date": "2023-09-04",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안퍼스티지",
+    "district": "반포동",
+    "area_m2": 84.93,
+    "floor": 17,
+    "price_10k": 338000,
+    "deal_date": "2023-09-03",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포써밋",
+    "district": "반포동",
+    "area_m2": 59.9207,
+    "floor": 16,
+    "price_10k": 224000,
+    "deal_date": "2023-09-10",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초푸르지오써밋",
+    "district": "서초동",
+    "area_m2": 120.98,
+    "floor": 15,
+    "price_10k": 326000,
+    "deal_date": "2023-09-02",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포미도2차아파트",
+    "district": "반포동",
+    "area_m2": 71.49,
+    "floor": 5,
+    "price_10k": 190000,
+    "deal_date": "2023-09-04",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버뷰신반포",
+    "district": "잠원동",
+    "area_m2": 84.82,
+    "floor": 13,
+    "price_10k": 349500,
+    "deal_date": "2023-09-20",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초현대",
+    "district": "서초동",
+    "area_m2": 54.45,
+    "floor": 5,
+    "price_10k": 125000,
+    "deal_date": "2023-09-01",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안1",
+    "district": "방배동",
+    "area_m2": 84.91,
+    "floor": 7,
+    "price_10k": 160000,
+    "deal_date": "2023-09-02",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안1",
+    "district": "방배동",
+    "area_m2": 59.9,
+    "floor": 5,
+    "price_10k": 150000,
+    "deal_date": "2023-09-02",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포래미안아이파크",
+    "district": "반포동",
+    "area_m2": 59.95,
+    "floor": 10,
+    "price_10k": 240000,
+    "deal_date": "2023-09-07",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼호1동~3동",
+    "district": "방배동",
+    "area_m2": 80.33,
+    "floor": 10,
+    "price_10k": 149000,
+    "deal_date": "2023-09-13",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초네이처힐7단지",
+    "district": "우면동",
+    "area_m2": 59.99,
+    "floor": 15,
+    "price_10k": 114000,
+    "deal_date": "2023-09-09",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안원베일리",
+    "district": "반포동",
+    "area_m2": 101.97,
+    "floor": 34,
+    "price_10k": 470000,
+    "deal_date": "2023-09-13",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "잠원동",
+    "area_m2": 84.91,
+    "floor": 6,
+    "price_10k": 250000,
+    "deal_date": "2023-09-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "베로니스5차",
+    "district": "방배동",
+    "area_m2": 178.71,
+    "floor": 2,
+    "price_10k": 188500,
+    "deal_date": "2023-09-20",
+    "build_year": 2007,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안방배에버뉴",
+    "district": "방배동",
+    "area_m2": 181.481,
+    "floor": 12,
+    "price_10k": 163000,
+    "deal_date": "2023-09-19",
+    "build_year": 1977,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "방배 서리풀 그랑블",
+    "district": "방배동",
+    "area_m2": 39.545,
+    "floor": 1,
+    "price_10k": 85000,
+    "deal_date": "2023-09-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버파크",
+    "district": "반포동",
+    "area_m2": 59.98,
+    "floor": 4,
+    "price_10k": 259000,
+    "deal_date": "2023-09-02",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방배대우디오빌",
+    "district": "방배동",
+    "area_m2": 29.6,
+    "floor": 14,
+    "price_10k": 30000,
+    "deal_date": "2023-09-16",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신영체르니",
+    "district": "양재동",
+    "area_m2": 32.08,
+    "floor": 5,
+    "price_10k": 42000,
+    "deal_date": "2023-09-18",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포센트럴자이",
+    "district": "잠원동",
+    "area_m2": 98.87,
+    "floor": 27,
+    "price_10k": 399000,
+    "deal_date": "2023-09-06",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트(1차)",
+    "district": "서초동",
+    "area_m2": 75.86,
+    "floor": 9,
+    "price_10k": 180000,
+    "deal_date": "2023-09-04",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초푸르지오써밋",
+    "district": "서초동",
+    "area_m2": 120.98,
+    "floor": 8,
+    "price_10k": 329000,
+    "deal_date": "2023-09-02",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초포레스타3단지",
+    "district": "신원동",
+    "area_m2": 84.34,
+    "floor": 19,
+    "price_10k": 153000,
+    "deal_date": "2023-09-09",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초더샵포레",
+    "district": "내곡동",
+    "area_m2": 114.71,
+    "floor": 13,
+    "price_10k": 170500,
+    "deal_date": "2023-09-04",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포자이",
+    "district": "반포동",
+    "area_m2": 244.543,
+    "floor": 2,
+    "price_10k": 645000,
+    "deal_date": "2023-09-01",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포자이",
+    "district": "잠원동",
+    "area_m2": 114.94,
+    "floor": 13,
+    "price_10k": 415000,
+    "deal_date": "2023-09-15",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신반포4",
+    "district": "잠원동",
+    "area_m2": 107.39,
+    "floor": 12,
+    "price_10k": 309000,
+    "deal_date": "2023-09-02",
+    "build_year": 1979,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동원베네스트아파트",
+    "district": "서초동",
+    "area_m2": 84.9,
+    "floor": 7,
+    "price_10k": 160000,
+    "deal_date": "2023-09-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안서초에스티지S",
+    "district": "서초동",
+    "area_m2": 134.27,
+    "floor": 23,
+    "price_10k": 395000,
+    "deal_date": "2023-09-06",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트(1차)",
+    "district": "서초동",
+    "area_m2": 101.6,
+    "floor": 11,
+    "price_10k": 228000,
+    "deal_date": "2023-09-01",
+    "build_year": 1978,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "반포리체",
+    "district": "반포동",
+    "area_m2": 84.967,
+    "floor": 19,
+    "price_10k": 300000,
+    "deal_date": "2023-09-09",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안퍼스티지",
+    "district": "반포동",
+    "area_m2": 169.31,
+    "floor": 12,
+    "price_10k": 620000,
+    "deal_date": "2023-09-05",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "킴스빌리지",
+    "district": "잠원동",
+    "area_m2": 37.38,
+    "floor": 7,
+    "price_10k": 99000,
+    "deal_date": "2023-09-14",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "방배동",
+    "area_m2": 91.47,
+    "floor": 15,
+    "price_10k": 205000,
+    "deal_date": "2023-09-05",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서초그랑자이",
+    "district": "서초동",
+    "area_m2": 84.51,
+    "floor": 31,
+    "price_10k": 310000,
+    "deal_date": "2023-09-06",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신호",
+    "district": "방배동",
+    "area_m2": 82.71,
+    "floor": 10,
+    "price_10k": 179400,
+    "deal_date": "2023-09-01",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  }
+]

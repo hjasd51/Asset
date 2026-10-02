@@ -1,0 +1,872 @@
+[
+  {
+    "name": "탑건위너빌",
+    "district": "성내동",
+    "area_m2": 63.54,
+    "floor": 2,
+    "price_10k": 47700,
+    "deal_date": "2023-11-27",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 72.85,
+    "floor": 4,
+    "price_10k": 96500,
+    "deal_date": "2023-11-29",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼환",
+    "district": "명일동",
+    "area_m2": 84.92,
+    "floor": 6,
+    "price_10k": 112000,
+    "deal_date": "2023-11-29",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 59.64,
+    "floor": 15,
+    "price_10k": 81000,
+    "deal_date": "2023-11-25",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕자이",
+    "district": "상일동",
+    "area_m2": 74.3069,
+    "floor": 4,
+    "price_10k": 86870,
+    "deal_date": "2023-11-30",
+    "build_year": 2021,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "한솔애리즈1",
+    "district": "성내동",
+    "area_m2": 84.89,
+    "floor": 3,
+    "price_10k": 73000,
+    "deal_date": "2023-11-11",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬퍼스트",
+    "district": "암사동",
+    "area_m2": 59.99,
+    "floor": 27,
+    "price_10k": 105000,
+    "deal_date": "2023-11-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "천호e-편한세상",
+    "district": "천호동",
+    "area_m2": 84.95,
+    "floor": 3,
+    "price_10k": 85000,
+    "deal_date": "2023-11-29",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대(고덕)",
+    "district": "명일동",
+    "area_m2": 84.91,
+    "floor": 13,
+    "price_10k": 123000,
+    "deal_date": "2023-11-27",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 59.785,
+    "floor": 16,
+    "price_10k": 120000,
+    "deal_date": "2023-11-21",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.93,
+    "floor": 5,
+    "price_10k": 152500,
+    "deal_date": "2023-11-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강동역신동아파밀리에",
+    "district": "천호동",
+    "area_m2": 107.34,
+    "floor": 26,
+    "price_10k": 119500,
+    "deal_date": "2023-11-23",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우한강베네시티",
+    "district": "천호동",
+    "area_m2": 164.61,
+    "floor": 22,
+    "price_10k": 170000,
+    "deal_date": "2023-11-18",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.95,
+    "floor": 3,
+    "price_10k": 138250,
+    "deal_date": "2023-11-29",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한영해시안아파트",
+    "district": "성내동",
+    "area_m2": 64.24,
+    "floor": 4,
+    "price_10k": 77900,
+    "deal_date": "2023-11-20",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "태천해오름103동",
+    "district": "명일동",
+    "area_m2": 65.93,
+    "floor": 7,
+    "price_10k": 45000,
+    "deal_date": "2023-11-16",
+    "build_year": 2004,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "둔촌푸르지오",
+    "district": "둔촌동",
+    "area_m2": 84.92,
+    "floor": 14,
+    "price_10k": 124500,
+    "deal_date": "2023-11-28",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에이치비골드빌(102동)",
+    "district": "길동",
+    "area_m2": 64.19,
+    "floor": 6,
+    "price_10k": 57500,
+    "deal_date": "2023-11-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아파밀리에",
+    "district": "둔촌동",
+    "area_m2": 58.75,
+    "floor": 17,
+    "price_10k": 82000,
+    "deal_date": "2023-11-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "천호동",
+    "area_m2": 84.99,
+    "floor": 14,
+    "price_10k": 74000,
+    "deal_date": "2023-11-10",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에이치비골드빌(102동)",
+    "district": "길동",
+    "area_m2": 64.19,
+    "floor": 4,
+    "price_10k": 57000,
+    "deal_date": "2023-11-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다성이즈빌(주상복합)",
+    "district": "길동",
+    "area_m2": 39.92,
+    "floor": 8,
+    "price_10k": 34000,
+    "deal_date": "2023-11-13",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크한양수자인",
+    "district": "성내동",
+    "area_m2": 59.55,
+    "floor": 22,
+    "price_10k": 111500,
+    "deal_date": "2023-11-16",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "프라이어팰리스",
+    "district": "암사동",
+    "area_m2": 84.988,
+    "floor": 7,
+    "price_10k": 118000,
+    "deal_date": "2023-11-18",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다성이즈빌(주상복합)",
+    "district": "길동",
+    "area_m2": 39.92,
+    "floor": 13,
+    "price_10k": 34000,
+    "deal_date": "2023-11-13",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강일리버파크6단지",
+    "district": "강일동",
+    "area_m2": 84.74,
+    "floor": 13,
+    "price_10k": 85000,
+    "deal_date": "2023-11-11",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "길동",
+    "area_m2": 59.85,
+    "floor": 7,
+    "price_10k": 76200,
+    "deal_date": "2023-11-18",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 59.785,
+    "floor": 19,
+    "price_10k": 122000,
+    "deal_date": "2023-11-11",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다성이즈빌",
+    "district": "길동",
+    "area_m2": 69.98,
+    "floor": 3,
+    "price_10k": 52500,
+    "deal_date": "2023-11-13",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산위브센티움",
+    "district": "천호동",
+    "area_m2": 31.37,
+    "floor": 7,
+    "price_10k": 14800,
+    "deal_date": "2023-11-15",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강일리버파크2단지",
+    "district": "강일동",
+    "area_m2": 84.53,
+    "floor": 9,
+    "price_10k": 85500,
+    "deal_date": "2023-11-18",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.95,
+    "floor": 17,
+    "price_10k": 148000,
+    "deal_date": "2023-11-10",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구빌라트",
+    "district": "성내동",
+    "area_m2": 244.59,
+    "floor": 11,
+    "price_10k": 192000,
+    "deal_date": "2023-11-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "천호태영아파트",
+    "district": "천호동",
+    "area_m2": 84.88,
+    "floor": 23,
+    "price_10k": 94000,
+    "deal_date": "2023-11-22",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕센트럴푸르지오",
+    "district": "고덕동",
+    "area_m2": 59.09,
+    "floor": 23,
+    "price_10k": 100000,
+    "deal_date": "2023-11-29",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 113.192,
+    "floor": 12,
+    "price_10k": 224000,
+    "deal_date": "2023-11-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청광플러스원큐브2차",
+    "district": "길동",
+    "area_m2": 14.495,
+    "floor": 18,
+    "price_10k": 9900,
+    "deal_date": "2023-11-18",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.93,
+    "floor": 11,
+    "price_10k": 145000,
+    "deal_date": "2023-11-27",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강일리버파크7단지",
+    "district": "강일동",
+    "area_m2": 84.74,
+    "floor": 15,
+    "price_10k": 91000,
+    "deal_date": "2023-11-21",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕자이",
+    "district": "상일동",
+    "area_m2": 84.9712,
+    "floor": 13,
+    "price_10k": 137000,
+    "deal_date": "2023-11-18",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금호아파트",
+    "district": "천호동",
+    "area_m2": 27.61,
+    "floor": 4,
+    "price_10k": 32000,
+    "deal_date": "2023-11-26",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안힐스테이트고덕",
+    "district": "고덕동",
+    "area_m2": 84.83,
+    "floor": 25,
+    "price_10k": 147000,
+    "deal_date": "2023-11-22",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트 강동 리버뷰",
+    "district": "암사동",
+    "area_m2": 84.9979,
+    "floor": 20,
+    "price_10k": 134000,
+    "deal_date": "2023-11-24",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하나플러스",
+    "district": "길동",
+    "area_m2": 84.88,
+    "floor": 6,
+    "price_10k": 67000,
+    "deal_date": "2023-11-25",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕주공9",
+    "district": "명일동",
+    "area_m2": 83.34,
+    "floor": 6,
+    "price_10k": 115500,
+    "deal_date": "2023-11-09",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "성원",
+    "district": "둔촌동",
+    "area_m2": 73.98,
+    "floor": 11,
+    "price_10k": 73500,
+    "deal_date": "2023-11-18",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 59.052,
+    "floor": 9,
+    "price_10k": 128000,
+    "deal_date": "2023-11-01",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아파밀리에",
+    "district": "둔촌동",
+    "area_m2": 59.4,
+    "floor": 9,
+    "price_10k": 79000,
+    "deal_date": "2023-11-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.97,
+    "floor": 2,
+    "price_10k": 131500,
+    "deal_date": "2023-11-01",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한솔애리즈202동",
+    "district": "성내동",
+    "area_m2": 102.58,
+    "floor": 7,
+    "price_10k": 73200,
+    "deal_date": "2023-11-04",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬퍼스트",
+    "district": "암사동",
+    "area_m2": 84.81,
+    "floor": 29,
+    "price_10k": 132500,
+    "deal_date": "2023-11-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 118000,
+    "deal_date": "2023-11-06",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬퍼스트",
+    "district": "암사동",
+    "area_m2": 59.99,
+    "floor": 17,
+    "price_10k": 112000,
+    "deal_date": "2023-11-11",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강일리버파크8단지",
+    "district": "강일동",
+    "area_m2": 84.53,
+    "floor": 9,
+    "price_10k": 88000,
+    "deal_date": "2023-11-01",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "올림픽파크한양수자인",
+    "district": "성내동",
+    "area_m2": 84.88,
+    "floor": 8,
+    "price_10k": 126000,
+    "deal_date": "2023-11-18",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동방",
+    "district": "성내동",
+    "area_m2": 71.4,
+    "floor": 4,
+    "price_10k": 50000,
+    "deal_date": "2023-11-08",
+    "build_year": 1995,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 59.64,
+    "floor": 13,
+    "price_10k": 87500,
+    "deal_date": "2023-11-07",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안힐스테이트고덕",
+    "district": "고덕동",
+    "area_m2": 59.35,
+    "floor": 7,
+    "price_10k": 116000,
+    "deal_date": "2023-11-11",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안솔베뉴",
+    "district": "명일동",
+    "area_m2": 78.84,
+    "floor": 4,
+    "price_10k": 141000,
+    "deal_date": "2023-11-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 59.64,
+    "floor": 18,
+    "price_10k": 81000,
+    "deal_date": "2023-11-06",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "태천와이드빌",
+    "district": "천호동",
+    "area_m2": 84.75,
+    "floor": 3,
+    "price_10k": 58400,
+    "deal_date": "2023-11-06",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중앙하이츠",
+    "district": "암사동",
+    "area_m2": 59.52,
+    "floor": 7,
+    "price_10k": 56000,
+    "deal_date": "2023-11-18",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "미사아름채아파트",
+    "district": "천호동",
+    "area_m2": 12.995,
+    "floor": 16,
+    "price_10k": 23000,
+    "deal_date": "2023-11-07",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대코아아파트",
+    "district": "천호동",
+    "area_m2": 59.9,
+    "floor": 12,
+    "price_10k": 57500,
+    "deal_date": "2023-11-02",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안힐스테이트고덕",
+    "district": "고덕동",
+    "area_m2": 97.26,
+    "floor": 18,
+    "price_10k": 172000,
+    "deal_date": "2023-11-03",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안힐스테이트고덕",
+    "district": "고덕동",
+    "area_m2": 59.35,
+    "floor": 11,
+    "price_10k": 121000,
+    "deal_date": "2023-11-11",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 72.85,
+    "floor": 19,
+    "price_10k": 100000,
+    "deal_date": "2023-11-11",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길동우성",
+    "district": "길동",
+    "area_m2": 84.75,
+    "floor": 5,
+    "price_10k": 88500,
+    "deal_date": "2023-11-04",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "천호네스빌",
+    "district": "천호동",
+    "area_m2": 46.01,
+    "floor": 4,
+    "price_10k": 30000,
+    "deal_date": "2023-11-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "둔촌푸르지오",
+    "district": "둔촌동",
+    "area_m2": 113.67,
+    "floor": 15,
+    "price_10k": 145000,
+    "deal_date": "2023-11-11",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "선사현대아파트",
+    "district": "암사동",
+    "area_m2": 59.64,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2023-11-02",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 73.566,
+    "floor": 11,
+    "price_10k": 145500,
+    "deal_date": "2023-11-04",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "길동우성",
+    "district": "길동",
+    "area_m2": 40.36,
+    "floor": 8,
+    "price_10k": 59500,
+    "deal_date": "2023-11-01",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다성이즈빌(명일4차)",
+    "district": "명일동",
+    "area_m2": 84.02,
+    "floor": 2,
+    "price_10k": 68000,
+    "deal_date": "2023-11-12",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테스미소지움",
+    "district": "상일동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 139000,
+    "deal_date": "2023-11-04",
+    "build_year": 2022,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕그라시움",
+    "district": "고덕동",
+    "area_m2": 84.244,
+    "floor": 8,
+    "price_10k": 162250,
+    "deal_date": "2023-11-12",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕 아이파크",
+    "district": "고덕동",
+    "area_m2": 177.99,
+    "floor": 12,
+    "price_10k": 220000,
+    "deal_date": "2023-11-04",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "고덕아르테온",
+    "district": "상일동",
+    "area_m2": 84.97,
+    "floor": 26,
+    "price_10k": 146000,
+    "deal_date": "2023-11-03",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "엘림스퀘어II",
+    "district": "천호동",
+    "area_m2": 17.07,
+    "floor": 13,
+    "price_10k": 14000,
+    "deal_date": "2023-11-03",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강동리버스트4단지",
+    "district": "강일동",
+    "area_m2": 49.82,
+    "floor": 9,
+    "price_10k": 67900,
+    "deal_date": "2023-11-04",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "율전에버그린",
+    "district": "둔촌동",
+    "area_m2": 84.24,
+    "floor": 3,
+    "price_10k": 56000,
+    "deal_date": "2023-11-06",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청광플러스원큐브3차",
+    "district": "길동",
+    "area_m2": 13.265,
+    "floor": 14,
+    "price_10k": 12600,
+    "deal_date": "2023-11-06",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "청광플러스원큐브3차",
+    "district": "길동",
+    "area_m2": 13.265,
+    "floor": 13,
+    "price_10k": 12600,
+    "deal_date": "2023-11-06",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "천호네스빌",
+    "district": "천호동",
+    "area_m2": 46.01,
+    "floor": 4,
+    "price_10k": 30000,
+    "deal_date": "2023-11-03",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청광플러스원(큐브1차)",
+    "district": "길동",
+    "area_m2": 16.685,
+    "floor": 7,
+    "price_10k": 11900,
+    "deal_date": "2023-11-05",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청광플러스원큐브3차",
+    "district": "길동",
+    "area_m2": 13.265,
+    "floor": 13,
+    "price_10k": 12300,
+    "deal_date": "2023-11-05",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강동큐브(2차)",
+    "district": "길동",
+    "area_m2": 12.52,
+    "floor": 6,
+    "price_10k": 13500,
+    "deal_date": "2023-11-01",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  }
+]

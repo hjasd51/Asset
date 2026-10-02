@@ -1,0 +1,342 @@
+[
+  {
+    "name": "대우",
+    "district": "창동",
+    "area_m2": 84.88,
+    "floor": 7,
+    "price_10k": 70000,
+    "deal_date": "2022-08-31",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방학동삼성래미안2",
+    "district": "방학동",
+    "area_m2": 84.937,
+    "floor": 13,
+    "price_10k": 86000,
+    "deal_date": "2022-08-26",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공17단지",
+    "district": "창동",
+    "area_m2": 36.16,
+    "floor": 4,
+    "price_10k": 42000,
+    "deal_date": "2022-08-23",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중흥에스클래스",
+    "district": "창동",
+    "area_m2": 164.097,
+    "floor": 8,
+    "price_10k": 115000,
+    "deal_date": "2022-08-18",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양6",
+    "district": "쌍문동",
+    "area_m2": 83.86,
+    "floor": 8,
+    "price_10k": 55000,
+    "deal_date": "2022-08-19",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트1",
+    "district": "방학동",
+    "area_m2": 70.62,
+    "floor": 4,
+    "price_10k": 55700,
+    "deal_date": "2022-08-16",
+    "build_year": 1986,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대상타운현대아파트",
+    "district": "방학동",
+    "area_m2": 101.4,
+    "floor": 12,
+    "price_10k": 93000,
+    "deal_date": "2022-08-24",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공17단지",
+    "district": "창동",
+    "area_m2": 36.34,
+    "floor": 13,
+    "price_10k": 41500,
+    "deal_date": "2022-08-17",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "퍼스티안",
+    "district": "방학동",
+    "area_m2": 13.6794,
+    "floor": 10,
+    "price_10k": 10000,
+    "deal_date": "2022-08-16",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공17단지",
+    "district": "창동",
+    "area_m2": 36.16,
+    "floor": 6,
+    "price_10k": 41600,
+    "deal_date": "2022-08-20",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대우",
+    "district": "창동",
+    "area_m2": 84.88,
+    "floor": 18,
+    "price_10k": 69000,
+    "deal_date": "2022-08-08",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도봉파크빌3",
+    "district": "도봉동",
+    "area_m2": 84.163,
+    "floor": 10,
+    "price_10k": 60000,
+    "deal_date": "2022-08-06",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신동아아파트4",
+    "district": "방학동",
+    "area_m2": 59.92,
+    "floor": 1,
+    "price_10k": 41500,
+    "deal_date": "2022-08-16",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대상타운현대아파트",
+    "district": "방학동",
+    "area_m2": 84.78,
+    "floor": 9,
+    "price_10k": 85500,
+    "deal_date": "2022-08-29",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "시그마팰리스",
+    "district": "쌍문동",
+    "area_m2": 59.41,
+    "floor": 6,
+    "price_10k": 34500,
+    "deal_date": "2022-08-24",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양2",
+    "district": "쌍문동",
+    "area_m2": 59.67,
+    "floor": 10,
+    "price_10k": 46000,
+    "deal_date": "2022-08-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이에스에이아파트3",
+    "district": "방학동",
+    "area_m2": 84.87,
+    "floor": 6,
+    "price_10k": 63000,
+    "deal_date": "2022-08-16",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성래미안",
+    "district": "창동",
+    "area_m2": 66.48,
+    "floor": 16,
+    "price_10k": 70000,
+    "deal_date": "2022-08-17",
+    "build_year": 1992,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "창동주공18단지",
+    "district": "창동",
+    "area_m2": 41.34,
+    "floor": 2,
+    "price_10k": 45000,
+    "deal_date": "2022-08-08",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "방학지음재힐스",
+    "district": "방학동",
+    "area_m2": 14.86,
+    "floor": 7,
+    "price_10k": 12600,
+    "deal_date": "2022-08-05",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공17단지",
+    "district": "창동",
+    "area_m2": 36.16,
+    "floor": 15,
+    "price_10k": 41000,
+    "deal_date": "2022-08-13",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "영창하모니A",
+    "district": "창동",
+    "area_m2": 83.99,
+    "floor": 2,
+    "price_10k": 29000,
+    "deal_date": "2022-08-16",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "스마트트라움",
+    "district": "창동",
+    "area_m2": 16.42,
+    "floor": 7,
+    "price_10k": 17000,
+    "deal_date": "2022-08-19",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "도봉산리베니움",
+    "district": "도봉동",
+    "area_m2": 84.19,
+    "floor": 2,
+    "price_10k": 42000,
+    "deal_date": "2022-08-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아청솔",
+    "district": "창동",
+    "area_m2": 59.96,
+    "floor": 1,
+    "price_10k": 70000,
+    "deal_date": "2022-08-22",
+    "build_year": 1997,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼익세라믹",
+    "district": "쌍문동",
+    "area_m2": 58.77,
+    "floor": 8,
+    "price_10k": 49000,
+    "deal_date": "2022-08-09",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "퍼스티안",
+    "district": "방학동",
+    "area_m2": 13.6794,
+    "floor": 11,
+    "price_10k": 9900,
+    "deal_date": "2022-08-12",
+    "build_year": 2013,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "e편한세상",
+    "district": "쌍문동",
+    "area_m2": 84.754,
+    "floor": 13,
+    "price_10k": 74800,
+    "deal_date": "2022-08-04",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동아",
+    "district": "창동",
+    "area_m2": 88.23,
+    "floor": 13,
+    "price_10k": 88000,
+    "deal_date": "2022-08-11",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대1",
+    "district": "쌍문동",
+    "area_m2": 84.66,
+    "floor": 2,
+    "price_10k": 55000,
+    "deal_date": "2022-08-04",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "스마트트라움",
+    "district": "창동",
+    "area_m2": 16.42,
+    "floor": 12,
+    "price_10k": 16800,
+    "deal_date": "2022-08-03",
+    "build_year": 2021,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양1",
+    "district": "쌍문동",
+    "area_m2": 66.33,
+    "floor": 7,
+    "price_10k": 53000,
+    "deal_date": "2022-08-08",
+    "build_year": 1986,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "우성아파트1",
+    "district": "방학동",
+    "area_m2": 83.85,
+    "floor": 9,
+    "price_10k": 40500,
+    "deal_date": "2022-08-05",
+    "build_year": 1992,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "창동주공2단지",
+    "district": "창동",
+    "area_m2": 36.16,
+    "floor": 14,
+    "price_10k": 48500,
+    "deal_date": "2022-08-04",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  }
+]

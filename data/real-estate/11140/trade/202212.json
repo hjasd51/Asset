@@ -1,0 +1,112 @@
+[
+  {
+    "name": "현대",
+    "district": "신당동",
+    "area_m2": 139.275,
+    "floor": 7,
+    "price_10k": 96000,
+    "deal_date": "2022-12-23",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "순화동더샵",
+    "district": "순화동",
+    "area_m2": 84.99,
+    "floor": 10,
+    "price_10k": 110000,
+    "deal_date": "2022-12-28",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.91,
+    "floor": 13,
+    "price_10k": 63000,
+    "deal_date": "2022-12-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.92,
+    "floor": 33,
+    "price_10k": 93000,
+    "deal_date": "2022-12-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.97,
+    "floor": 22,
+    "price_10k": 85000,
+    "deal_date": "2022-12-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DUO302",
+    "district": "황학동",
+    "area_m2": 15.97,
+    "floor": 13,
+    "price_10k": 15000,
+    "deal_date": "2022-12-01",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울역센트럴자이",
+    "district": "만리동2가",
+    "area_m2": 59.9707,
+    "floor": 9,
+    "price_10k": 145000,
+    "deal_date": "2022-12-14",
+    "build_year": 2017,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "DUO302",
+    "district": "황학동",
+    "area_m2": 15.97,
+    "floor": 5,
+    "price_10k": 15200,
+    "deal_date": "2022-12-29",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진양상가",
+    "district": "충무로4가",
+    "area_m2": 72.6,
+    "floor": 5,
+    "price_10k": 56000,
+    "deal_date": "2022-12-28",
+    "build_year": 1970,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한진해모로",
+    "district": "신당동",
+    "area_m2": 59.76,
+    "floor": 6,
+    "price_10k": 87000,
+    "deal_date": "2022-12-27",
+    "build_year": 2001,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 22,
+    "price_10k": 63000,
+    "deal_date": "2022-12-10",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 48.54,
+    "floor": 7,
+    "price_10k": 40000,
+    "deal_date": "2022-08-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "CS타워",
+    "district": "충신동",
+    "area_m2": 21.94,
+    "floor": 5,
+    "price_10k": 16000,
+    "deal_date": "2022-08-03",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 17.811,
+    "floor": 8,
+    "price_10k": 13300,
+    "deal_date": "2022-08-22",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 28.1,
+    "floor": 9,
+    "price_10k": 31000,
+    "deal_date": "2022-08-01",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼전솔하임2차",
+    "district": "숭인동",
+    "area_m2": 16.67,
+    "floor": 8,
+    "price_10k": 13000,
+    "deal_date": "2022-08-13",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "종로중흥S클래스",
+    "district": "숭인동",
+    "area_m2": 19.466,
+    "floor": 7,
+    "price_10k": 13570,
+    "deal_date": "2022-08-04",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대뜨레비앙",
+    "district": "익선동",
+    "area_m2": 48.54,
+    "floor": 2,
+    "price_10k": 37500,
+    "deal_date": "2022-08-04",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "현대한강",
+    "district": "이촌동",
+    "area_m2": 84.88,
+    "floor": 22,
+    "price_10k": 205000,
+    "deal_date": "2022-08-12",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한남해피트리",
+    "district": "한남동",
+    "area_m2": 65.17,
+    "floor": 1,
+    "price_10k": 130000,
+    "deal_date": "2022-08-22",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "센트럴파크",
+    "district": "한강로3가",
+    "area_m2": 92.7398,
+    "floor": 28,
+    "price_10k": 200100,
+    "deal_date": "2022-08-28",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동원베네스트",
+    "district": "이촌동",
+    "area_m2": 84.973,
+    "floor": 11,
+    "price_10k": 140100,
+    "deal_date": "2022-08-18",
+    "build_year": 2005,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "동아그린",
+    "district": "이촌동",
+    "area_m2": 43.02,
+    "floor": 5,
+    "price_10k": 97000,
+    "deal_date": "2022-08-13",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산큐브",
+    "district": "문배동",
+    "area_m2": 13.01,
+    "floor": 20,
+    "price_10k": 19550,
+    "deal_date": "2022-08-30",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강촌",
+    "district": "이촌동",
+    "area_m2": 114.595,
+    "floor": 8,
+    "price_10k": 255000,
+    "deal_date": "2022-08-10",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동자",
+    "district": "동자동",
+    "area_m2": 44,
+    "floor": 1,
+    "price_10k": 50000,
+    "deal_date": "2022-08-19",
+    "build_year": 1969,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "용산큐브",
+    "district": "문배동",
+    "area_m2": 13.01,
+    "floor": 16,
+    "price_10k": 19100,
+    "deal_date": "2022-08-19",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림",
+    "district": "이촌동",
+    "area_m2": 84.78,
+    "floor": 8,
+    "price_10k": 210000,
+    "deal_date": "2022-08-12",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  }
+]

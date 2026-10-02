@@ -1,0 +1,402 @@
+[
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 84.9,
+    "floor": 14,
+    "price_10k": 71600,
+    "deal_date": "2023-05-29",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산주공14단지",
+    "district": "독산동",
+    "area_m2": 59.22,
+    "floor": 9,
+    "price_10k": 48000,
+    "deal_date": "2023-05-25",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 59.84,
+    "floor": 15,
+    "price_10k": 63500,
+    "deal_date": "2023-05-30",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 84.2236,
+    "floor": 40,
+    "price_10k": 113500,
+    "deal_date": "2023-05-19",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아파트",
+    "district": "시흥동",
+    "area_m2": 59.97,
+    "floor": 1,
+    "price_10k": 32200,
+    "deal_date": "2023-05-24",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진도1차",
+    "district": "독산동",
+    "area_m2": 59.94,
+    "floor": 6,
+    "price_10k": 45000,
+    "deal_date": "2023-05-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 53000,
+    "deal_date": "2023-05-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프",
+    "district": "독산동",
+    "area_m2": 74.72,
+    "floor": 9,
+    "price_10k": 45000,
+    "deal_date": "2023-05-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크2차201동202동",
+    "district": "독산동",
+    "area_m2": 84.95,
+    "floor": 5,
+    "price_10k": 91000,
+    "deal_date": "2023-05-16",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 59.34,
+    "floor": 17,
+    "price_10k": 42300,
+    "deal_date": "2023-05-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 59.968,
+    "floor": 13,
+    "price_10k": 82000,
+    "deal_date": "2023-05-24",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 59.817,
+    "floor": 1,
+    "price_10k": 60000,
+    "deal_date": "2023-05-19",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 84.697,
+    "floor": 10,
+    "price_10k": 85000,
+    "deal_date": "2023-05-29",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "두산",
+    "district": "가산동",
+    "area_m2": 84.9,
+    "floor": 9,
+    "price_10k": 71300,
+    "deal_date": "2023-05-13",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 115.801,
+    "floor": 10,
+    "price_10k": 102500,
+    "deal_date": "2023-05-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 59.87,
+    "floor": 9,
+    "price_10k": 69500,
+    "deal_date": "2023-05-08",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한신아파트",
+    "district": "독산동",
+    "area_m2": 89.46,
+    "floor": 4,
+    "price_10k": 45100,
+    "deal_date": "2023-05-13",
+    "build_year": 1991,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 8,
+    "price_10k": 51500,
+    "deal_date": "2023-05-28",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 13,
+    "price_10k": 58500,
+    "deal_date": "2023-05-04",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 84.786,
+    "floor": 20,
+    "price_10k": 88500,
+    "deal_date": "2023-05-08",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "경남아파트",
+    "district": "시흥동",
+    "area_m2": 97.99,
+    "floor": 2,
+    "price_10k": 59600,
+    "deal_date": "2023-05-23",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우방",
+    "district": "시흥동",
+    "area_m2": 114.89,
+    "floor": 12,
+    "price_10k": 72200,
+    "deal_date": "2023-05-25",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 59.9662,
+    "floor": 39,
+    "price_10k": 88000,
+    "deal_date": "2023-05-27",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "시흥동",
+    "area_m2": 84.96,
+    "floor": 15,
+    "price_10k": 53000,
+    "deal_date": "2023-05-09",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 4,
+    "price_10k": 50900,
+    "deal_date": "2023-05-22",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천현대",
+    "district": "독산동",
+    "area_m2": 59.82,
+    "floor": 9,
+    "price_10k": 50800,
+    "deal_date": "2023-05-17",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동심",
+    "district": "독산동",
+    "area_m2": 84.3668,
+    "floor": 2,
+    "price_10k": 49500,
+    "deal_date": "2023-05-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "라이프",
+    "district": "독산동",
+    "area_m2": 74.72,
+    "floor": 17,
+    "price_10k": 46000,
+    "deal_date": "2023-05-02",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 84.4214,
+    "floor": 9,
+    "price_10k": 93500,
+    "deal_date": "2023-05-03",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크2차201동202동",
+    "district": "독산동",
+    "area_m2": 84.95,
+    "floor": 26,
+    "price_10k": 96500,
+    "deal_date": "2023-05-03",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산",
+    "district": "시흥동",
+    "area_m2": 84.99,
+    "floor": 2,
+    "price_10k": 47250,
+    "deal_date": "2023-05-07",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 20,
+    "price_10k": 52000,
+    "deal_date": "2023-05-04",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 113.329,
+    "floor": 17,
+    "price_10k": 100000,
+    "deal_date": "2023-05-16",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "독산동",
+    "area_m2": 59.96,
+    "floor": 12,
+    "price_10k": 40000,
+    "deal_date": "2023-05-15",
+    "build_year": 1998,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상독산더타워",
+    "district": "독산동",
+    "area_m2": 84.9256,
+    "floor": 15,
+    "price_10k": 86000,
+    "deal_date": "2023-05-09",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 84.8114,
+    "floor": 24,
+    "price_10k": 104000,
+    "deal_date": "2023-05-11",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남서울힐스테이트",
+    "district": "시흥동",
+    "area_m2": 84.677,
+    "floor": 3,
+    "price_10k": 85000,
+    "deal_date": "2023-05-01",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산현대",
+    "district": "독산동",
+    "area_m2": 58.72,
+    "floor": 7,
+    "price_10k": 49000,
+    "deal_date": "2023-05-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "독산현대",
+    "district": "독산동",
+    "area_m2": 83.73,
+    "floor": 12,
+    "price_10k": 59000,
+    "deal_date": "2023-05-11",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산신도브래뉴",
+    "district": "시흥동",
+    "area_m2": 84.8,
+    "floor": 3,
+    "price_10k": 59500,
+    "deal_date": "2023-05-06",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  }
+]

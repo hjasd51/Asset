@@ -1,0 +1,312 @@
+[
+  {
+    "name": "센트로힐",
+    "district": "번동",
+    "area_m2": 72.7695,
+    "floor": 9,
+    "price_10k": 59800,
+    "deal_date": "2021-10-30",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 2,
+    "price_10k": 84500,
+    "deal_date": "2021-10-25",
+    "build_year": 1993,
+    "deal_type": ""
+  },
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 59.33,
+    "floor": 4,
+    "price_10k": 84300,
+    "deal_date": "2021-10-30",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 114.98,
+    "floor": 2,
+    "price_10k": 110000,
+    "deal_date": "2021-10-23",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안트리베라1단지",
+    "district": "미아동",
+    "area_m2": 59.6,
+    "floor": 10,
+    "price_10k": 91700,
+    "deal_date": "2021-10-25",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 18,
+    "price_10k": 78000,
+    "deal_date": "2021-10-19",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "래미안수유",
+    "district": "수유동",
+    "area_m2": 59.88,
+    "floor": 14,
+    "price_10k": 65000,
+    "deal_date": "2021-10-13",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 59.99,
+    "floor": 2,
+    "price_10k": 83500,
+    "deal_date": "2021-10-11",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 84.98,
+    "floor": 12,
+    "price_10k": 113500,
+    "deal_date": "2021-10-30",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "꿈의숲롯데캐슬",
+    "district": "미아동",
+    "area_m2": 84.98,
+    "floor": 8,
+    "price_10k": 117000,
+    "deal_date": "2021-10-19",
+    "build_year": 2017,
+    "deal_type": ""
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 8,
+    "price_10k": 89900,
+    "deal_date": "2021-10-22",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 1,
+    "price_10k": 69850,
+    "deal_date": "2021-10-11",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "미아1차래미안",
+    "district": "미아동",
+    "area_m2": 59.9,
+    "floor": 2,
+    "price_10k": 73200,
+    "deal_date": "2021-10-29",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "FIRSTVIEW",
+    "district": "수유동",
+    "area_m2": 46.61,
+    "floor": 7,
+    "price_10k": 29000,
+    "deal_date": "2021-10-16",
+    "build_year": 2010,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 20,
+    "price_10k": 74700,
+    "deal_date": "2021-10-16",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "오동공원현대",
+    "district": "번동",
+    "area_m2": 117.2775,
+    "floor": 2,
+    "price_10k": 79300,
+    "deal_date": "2021-10-08",
+    "build_year": 2001,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 2,
+    "price_10k": 76500,
+    "deal_date": "2021-10-10",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 12,
+    "price_10k": 72300,
+    "deal_date": "2021-10-14",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "두산위브트레지움",
+    "district": "미아동",
+    "area_m2": 114.88,
+    "floor": 2,
+    "price_10k": 120000,
+    "deal_date": "2021-10-20",
+    "build_year": 2011,
+    "deal_type": ""
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 60,
+    "floor": 3,
+    "price_10k": 70000,
+    "deal_date": "2021-10-05",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 59.758,
+    "floor": 6,
+    "price_10k": 79000,
+    "deal_date": "2021-10-09",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 2,
+    "price_10k": 73000,
+    "deal_date": "2021-10-13",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "미아1차래미안",
+    "district": "미아동",
+    "area_m2": 84.58,
+    "floor": 9,
+    "price_10k": 88000,
+    "deal_date": "2021-10-05",
+    "build_year": 2006,
+    "deal_type": ""
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 10,
+    "price_10k": 90000,
+    "deal_date": "2021-10-16",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "경남아너스빌(1356-0)",
+    "district": "미아동",
+    "area_m2": 114.922,
+    "floor": 1,
+    "price_10k": 96000,
+    "deal_date": "2021-10-07",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 84.93,
+    "floor": 6,
+    "price_10k": 77500,
+    "deal_date": "2021-10-02",
+    "build_year": 2003,
+    "deal_type": ""
+  },
+  {
+    "name": "북한산네이처파크",
+    "district": "수유동",
+    "area_m2": 50.26,
+    "floor": 2,
+    "price_10k": 41500,
+    "deal_date": "2021-10-11",
+    "build_year": 2015,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 114.85,
+    "floor": 1,
+    "price_10k": 89900,
+    "deal_date": "2021-10-04",
+    "build_year": 2004,
+    "deal_type": ""
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 59.82,
+    "floor": 6,
+    "price_10k": 54700,
+    "deal_date": "2021-10-01",
+    "build_year": 1999,
+    "deal_type": ""
+  },
+  {
+    "name": "풍산쉐르빌A동",
+    "district": "수유동",
+    "area_m2": 79.75,
+    "floor": 3,
+    "price_10k": 29000,
+    "deal_date": "2021-10-04",
+    "build_year": 2000,
+    "deal_type": ""
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 9,
+    "price_10k": 77500,
+    "deal_date": "2021-10-04",
+    "build_year": 2004,
+    "deal_type": ""
+  }
+]

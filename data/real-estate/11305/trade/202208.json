@@ -1,0 +1,162 @@
+[
+  {
+    "name": "삼성래미안트리베라2단지",
+    "district": "미아동",
+    "area_m2": 58.99,
+    "floor": 4,
+    "price_10k": 72000,
+    "deal_date": "2022-08-29",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "벽산라이브파크",
+    "district": "미아동",
+    "area_m2": 59.67,
+    "floor": 17,
+    "price_10k": 59500,
+    "deal_date": "2022-08-19",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "칸타빌수유팰리스",
+    "district": "수유동",
+    "area_m2": 20.665,
+    "floor": 3,
+    "price_10k": 20800,
+    "deal_date": "2022-08-06",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼성타운",
+    "district": "수유동",
+    "area_m2": 84.97,
+    "floor": 2,
+    "price_10k": 45500,
+    "deal_date": "2022-08-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "다우(459-63)",
+    "district": "번동",
+    "area_m2": 41.47,
+    "floor": 5,
+    "price_10k": 18800,
+    "deal_date": "2022-08-26",
+    "build_year": 2003,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 11,
+    "price_10k": 62000,
+    "deal_date": "2022-08-20",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 2,
+    "price_10k": 57500,
+    "deal_date": "2022-08-04",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우암센스뷰",
+    "district": "수유동",
+    "area_m2": 84.83,
+    "floor": 7,
+    "price_10k": 55000,
+    "deal_date": "2022-08-01",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우암센스뷰",
+    "district": "수유동",
+    "area_m2": 84.83,
+    "floor": 5,
+    "price_10k": 55000,
+    "deal_date": "2022-08-16",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 59.98,
+    "floor": 15,
+    "price_10k": 62000,
+    "deal_date": "2022-08-18",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 7,
+    "price_10k": 13300,
+    "deal_date": "2022-08-04",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 9,
+    "price_10k": 13200,
+    "deal_date": "2022-08-04",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 5,
+    "price_10k": 13400,
+    "deal_date": "2022-08-19",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유벽산1차",
+    "district": "수유동",
+    "area_m2": 122.58,
+    "floor": 6,
+    "price_10k": 86000,
+    "deal_date": "2022-08-02",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 8,
+    "price_10k": 66000,
+    "deal_date": "2022-08-08",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸르지오시티",
+    "district": "미아동",
+    "area_m2": 18.6479,
+    "floor": 7,
+    "price_10k": 13500,
+    "deal_date": "2022-08-04",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  }
+]

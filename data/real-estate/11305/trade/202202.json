@@ -1,0 +1,122 @@
+[
+  {
+    "name": "현대캐슬",
+    "district": "미아동",
+    "area_m2": 68.74,
+    "floor": 4,
+    "price_10k": 44400,
+    "deal_date": "2022-02-28",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "오동공원현대",
+    "district": "번동",
+    "area_m2": 117.9794,
+    "floor": 12,
+    "price_10k": 88000,
+    "deal_date": "2022-02-21",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 1,
+    "price_10k": 78500,
+    "deal_date": "2022-02-26",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "번동솔그린",
+    "district": "번동",
+    "area_m2": 84.6,
+    "floor": 1,
+    "price_10k": 62000,
+    "deal_date": "2022-02-19",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공1단지",
+    "district": "번동",
+    "area_m2": 41.3,
+    "floor": 12,
+    "price_10k": 52500,
+    "deal_date": "2022-02-10",
+    "build_year": 1991,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "해모로아파트",
+    "district": "번동",
+    "area_m2": 84.93,
+    "floor": 19,
+    "price_10k": 70000,
+    "deal_date": "2022-02-23",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에스케이북한산시티",
+    "district": "미아동",
+    "area_m2": 84.86,
+    "floor": 15,
+    "price_10k": 80900,
+    "deal_date": "2022-02-12",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유프리미어엠",
+    "district": "수유동",
+    "area_m2": 19,
+    "floor": 4,
+    "price_10k": 11000,
+    "deal_date": "2022-02-22",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "예도팔라티움",
+    "district": "수유동",
+    "area_m2": 13.47,
+    "floor": 8,
+    "price_10k": 17800,
+    "deal_date": "2022-02-11",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "수유역하이씨티",
+    "district": "수유동",
+    "area_m2": 12.33,
+    "floor": 5,
+    "price_10k": 9000,
+    "deal_date": "2022-02-22",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "훼밀리힐",
+    "district": "번동",
+    "area_m2": 59.16,
+    "floor": 7,
+    "price_10k": 40300,
+    "deal_date": "2022-02-09",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼각산아이원",
+    "district": "미아동",
+    "area_m2": 84.705,
+    "floor": 1,
+    "price_10k": 78800,
+    "deal_date": "2022-02-04",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  }
+]

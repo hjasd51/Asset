@@ -1,0 +1,362 @@
+[
+  {
+    "name": "광나루현대",
+    "district": "광장동",
+    "area_m2": 84.92,
+    "floor": 1,
+    "price_10k": 85000,
+    "deal_date": "2023-01-30",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진하우스토리한강",
+    "district": "자양동",
+    "area_m2": 143.36,
+    "floor": 14,
+    "price_10k": 155000,
+    "deal_date": "2023-01-31",
+    "build_year": 2008,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "현대3",
+    "district": "광장동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 120000,
+    "deal_date": "2023-01-30",
+    "build_year": 1990,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구의현대2단지",
+    "district": "구의동",
+    "area_m2": 84.91,
+    "floor": 11,
+    "price_10k": 135200,
+    "deal_date": "2023-01-30",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 4,
+    "price_10k": 88300,
+    "deal_date": "2023-01-27",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "스타파크",
+    "district": "구의동",
+    "area_m2": 54.91,
+    "floor": 10,
+    "price_10k": 64000,
+    "deal_date": "2023-01-26",
+    "build_year": 2022,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "에스케이",
+    "district": "중곡동",
+    "area_m2": 58.43,
+    "floor": 1,
+    "price_10k": 48000,
+    "deal_date": "2023-01-20",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한양",
+    "district": "자양동",
+    "area_m2": 157.87,
+    "floor": 12,
+    "price_10k": 180000,
+    "deal_date": "2023-01-20",
+    "build_year": 1983,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구",
+    "district": "광장동",
+    "area_m2": 59.95,
+    "floor": 19,
+    "price_10k": 85000,
+    "deal_date": "2023-01-26",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강성원",
+    "district": "자양동",
+    "area_m2": 59.46,
+    "floor": 6,
+    "price_10k": 90000,
+    "deal_date": "2023-01-16",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대8(803동)",
+    "district": "광장동",
+    "area_m2": 84.95,
+    "floor": 21,
+    "price_10k": 117000,
+    "deal_date": "2023-01-24",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광나루현대",
+    "district": "광장동",
+    "area_m2": 84.92,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2023-01-13",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대파크빌",
+    "district": "광장동",
+    "area_m2": 59.55,
+    "floor": 11,
+    "price_10k": 109000,
+    "deal_date": "2023-01-14",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1",
+    "district": "자양동",
+    "area_m2": 51.57,
+    "floor": 4,
+    "price_10k": 75000,
+    "deal_date": "2023-01-27",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "테라팰리스건대2차",
+    "district": "자양동",
+    "area_m2": 52.66,
+    "floor": 5,
+    "price_10k": 82000,
+    "deal_date": "2023-01-31",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광나루현대",
+    "district": "광장동",
+    "area_m2": 84.92,
+    "floor": 7,
+    "price_10k": 110000,
+    "deal_date": "2023-01-17",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광나루현대",
+    "district": "광장동",
+    "area_m2": 84.92,
+    "floor": 6,
+    "price_10k": 85000,
+    "deal_date": "2023-01-13",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대파크빌",
+    "district": "광장동",
+    "area_m2": 84.81,
+    "floor": 17,
+    "price_10k": 130000,
+    "deal_date": "2023-01-19",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대5",
+    "district": "광장동",
+    "area_m2": 84.56,
+    "floor": 12,
+    "price_10k": 132000,
+    "deal_date": "2023-01-20",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "강변현대하이엘",
+    "district": "구의동",
+    "area_m2": 130.89,
+    "floor": 2,
+    "price_10k": 107000,
+    "deal_date": "2023-01-06",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아스하임(111-102)",
+    "district": "화양동",
+    "area_m2": 14.11,
+    "floor": 11,
+    "price_10k": 19500,
+    "deal_date": "2023-01-31",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성2",
+    "district": "자양동",
+    "area_m2": 51.57,
+    "floor": 2,
+    "price_10k": 79000,
+    "deal_date": "2023-01-30",
+    "build_year": 1989,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아스하임(111-102)",
+    "district": "화양동",
+    "area_m2": 14.11,
+    "floor": 11,
+    "price_10k": 19500,
+    "deal_date": "2023-01-31",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "더샵스타시티",
+    "district": "자양동",
+    "area_m2": 243.94,
+    "floor": 42,
+    "price_10k": 420000,
+    "deal_date": "2023-01-03",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강성원",
+    "district": "자양동",
+    "area_m2": 84.12,
+    "floor": 3,
+    "price_10k": 106000,
+    "deal_date": "2023-01-07",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구의현대홈시티",
+    "district": "자양동",
+    "area_m2": 84.93,
+    "floor": 18,
+    "price_10k": 90000,
+    "deal_date": "2023-01-11",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광장자이",
+    "district": "광장동",
+    "area_m2": 158.26,
+    "floor": 9,
+    "price_10k": 180000,
+    "deal_date": "2023-01-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "중곡2단지",
+    "district": "중곡동",
+    "area_m2": 55.87,
+    "floor": 3,
+    "price_10k": 55000,
+    "deal_date": "2023-01-05",
+    "build_year": 1976,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아스하임(111-102)",
+    "district": "화양동",
+    "area_m2": 14.11,
+    "floor": 11,
+    "price_10k": 19600,
+    "deal_date": "2023-01-21",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "구의현대2단지",
+    "district": "구의동",
+    "area_m2": 84.75,
+    "floor": 15,
+    "price_10k": 130000,
+    "deal_date": "2023-01-16",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이튼타워리버2차",
+    "district": "자양동",
+    "area_m2": 84.61,
+    "floor": 6,
+    "price_10k": 95000,
+    "deal_date": "2023-01-19",
+    "build_year": 2006,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "래미안파크스위트",
+    "district": "구의동",
+    "area_m2": 59.98,
+    "floor": 1,
+    "price_10k": 84700,
+    "deal_date": "2023-01-10",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대프라임",
+    "district": "구의동",
+    "area_m2": 59.82,
+    "floor": 17,
+    "price_10k": 82000,
+    "deal_date": "2023-01-17",
+    "build_year": 1997,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 15.63,
+    "floor": 5,
+    "price_10k": 12700,
+    "deal_date": "2023-01-06",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "광진코지웰",
+    "district": "화양동",
+    "area_m2": 18.63,
+    "floor": 8,
+    "price_10k": 16000,
+    "deal_date": "2023-01-06",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성3",
+    "district": "자양동",
+    "area_m2": 84.91,
+    "floor": 2,
+    "price_10k": 113000,
+    "deal_date": "2023-01-05",
+    "build_year": 1989,
+    "deal_type": "직거래"
+  }
+]

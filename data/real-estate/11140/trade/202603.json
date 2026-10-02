@@ -1,0 +1,1042 @@
+[
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 156000,
+    "deal_date": "2026-03-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 65.37,
+    "floor": 16,
+    "price_10k": 149500,
+    "deal_date": "2026-03-14",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 33,
+    "price_10k": 145000,
+    "deal_date": "2026-03-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "명경",
+    "district": "신당동",
+    "area_m2": 59.22,
+    "floor": 5,
+    "price_10k": 33000,
+    "deal_date": "2026-03-27",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 2,
+    "price_10k": 152000,
+    "deal_date": "2026-03-30",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "SK리더스뷰남산",
+    "district": "회현동1가",
+    "area_m2": 176.26,
+    "floor": 24,
+    "price_10k": 250000,
+    "deal_date": "2026-03-18",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 156000,
+    "deal_date": "2026-03-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노블레스2",
+    "district": "신당동",
+    "area_m2": 74.1,
+    "floor": 4,
+    "price_10k": 99000,
+    "deal_date": "2026-03-31",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 114.88,
+    "floor": 17,
+    "price_10k": 195000,
+    "deal_date": "2026-03-14",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 16,
+    "price_10k": 168000,
+    "deal_date": "2026-03-29",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트남산",
+    "district": "묵정동",
+    "area_m2": 49.41,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2026-03-25",
+    "build_year": 2024,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산센트럴자이",
+    "district": "충무로4가",
+    "area_m2": 89.307,
+    "floor": 31,
+    "price_10k": 146000,
+    "deal_date": "2026-03-28",
+    "build_year": 2009,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "SK리더스뷰남산",
+    "district": "회현동1가",
+    "area_m2": 176.26,
+    "floor": 24,
+    "price_10k": 250000,
+    "deal_date": "2026-03-18",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 95000,
+    "deal_date": "2026-03-19",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 12,
+    "price_10k": 166000,
+    "deal_date": "2026-03-09",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계리버팰리스A",
+    "district": "황학동",
+    "area_m2": 34.26,
+    "floor": 8,
+    "price_10k": 31300,
+    "deal_date": "2026-03-28",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트세운센트럴2단지",
+    "district": "입정동",
+    "area_m2": 59.9851,
+    "floor": 11,
+    "price_10k": 138500,
+    "deal_date": "2026-03-28",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.97,
+    "floor": 20,
+    "price_10k": 118000,
+    "deal_date": "2026-03-26",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 25,
+    "price_10k": 143000,
+    "deal_date": "2026-03-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "오렌지카운티을지로",
+    "district": "오장동",
+    "area_m2": 24.19,
+    "floor": 12,
+    "price_10k": 29500,
+    "deal_date": "2026-03-06",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.93,
+    "floor": 6,
+    "price_10k": 156000,
+    "deal_date": "2026-03-20",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 84.39,
+    "floor": 4,
+    "price_10k": 120000,
+    "deal_date": "2026-03-31",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "하이1(113-5)",
+    "district": "신당동",
+    "area_m2": 84.24,
+    "floor": 2,
+    "price_10k": 79000,
+    "deal_date": "2026-03-30",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우일타운",
+    "district": "흥인동",
+    "area_m2": 75.45,
+    "floor": 20,
+    "price_10k": 66300,
+    "deal_date": "2026-03-31",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 33,
+    "price_10k": 145000,
+    "deal_date": "2026-03-31",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노블레스2",
+    "district": "신당동",
+    "area_m2": 84.84,
+    "floor": 2,
+    "price_10k": 85000,
+    "deal_date": "2026-03-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산정은스카이",
+    "district": "신당동",
+    "area_m2": 143.049,
+    "floor": 8,
+    "price_10k": 145000,
+    "deal_date": "2026-03-20",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트남산",
+    "district": "묵정동",
+    "area_m2": 44.55,
+    "floor": 9,
+    "price_10k": 87000,
+    "deal_date": "2026-03-30",
+    "build_year": 2024,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "황학동코아루",
+    "district": "황학동",
+    "area_m2": 84.94,
+    "floor": 6,
+    "price_10k": 99500,
+    "deal_date": "2026-03-30",
+    "build_year": 2010,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 32,
+    "price_10k": 99700,
+    "deal_date": "2026-03-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트세운센트럴2단지",
+    "district": "입정동",
+    "area_m2": 42.998,
+    "floor": 23,
+    "price_10k": 79000,
+    "deal_date": "2026-03-29",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "힐스테이트세운센트럴1단지",
+    "district": "입정동",
+    "area_m2": 46.6997,
+    "floor": 25,
+    "price_10k": 86200,
+    "deal_date": "2026-03-28",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 13,
+    "price_10k": 148000,
+    "deal_date": "2026-03-28",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안하이베르",
+    "district": "신당동",
+    "area_m2": 59.95,
+    "floor": 5,
+    "price_10k": 160000,
+    "deal_date": "2026-03-28",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 84.76,
+    "floor": 19,
+    "price_10k": 154000,
+    "deal_date": "2026-03-28",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.91,
+    "floor": 27,
+    "price_10k": 105000,
+    "deal_date": "2026-03-27",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 18,
+    "price_10k": 98000,
+    "deal_date": "2026-03-27",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청구e편한세상",
+    "district": "신당동",
+    "area_m2": 118.47,
+    "floor": 1,
+    "price_10k": 200000,
+    "deal_date": "2026-03-27",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "청계천두산위브더제니스",
+    "district": "흥인동",
+    "area_m2": 116.6232,
+    "floor": 14,
+    "price_10k": 148000,
+    "deal_date": "2026-03-25",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 14,
+    "price_10k": 168000,
+    "deal_date": "2026-03-26",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "신당동",
+    "area_m2": 59.98,
+    "floor": 5,
+    "price_10k": 147000,
+    "deal_date": "2026-03-25",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.7,
+    "floor": 18,
+    "price_10k": 149990,
+    "deal_date": "2026-03-25",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성",
+    "district": "신당동",
+    "area_m2": 59.98,
+    "floor": 21,
+    "price_10k": 147000,
+    "deal_date": "2026-03-22",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.91,
+    "floor": 31,
+    "price_10k": 102000,
+    "deal_date": "2026-03-25",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 2,
+    "price_10k": 151500,
+    "deal_date": "2026-03-24",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 32,
+    "price_10k": 99700,
+    "deal_date": "2026-03-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 20,
+    "price_10k": 143000,
+    "deal_date": "2026-03-24",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산롯데캐슬아이리스",
+    "district": "회현동1가",
+    "area_m2": 103.49,
+    "floor": 27,
+    "price_10k": 185000,
+    "deal_date": "2026-03-23",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안하이베르",
+    "district": "신당동",
+    "area_m2": 59.74,
+    "floor": 8,
+    "price_10k": 142000,
+    "deal_date": "2026-03-23",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.92,
+    "floor": 32,
+    "price_10k": 117000,
+    "deal_date": "2026-03-20",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신신(2차)",
+    "district": "신당동",
+    "area_m2": 59.04,
+    "floor": 5,
+    "price_10k": 44000,
+    "deal_date": "2026-03-21",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.92,
+    "floor": 29,
+    "price_10k": 120000,
+    "deal_date": "2026-03-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 7,
+    "price_10k": 100000,
+    "deal_date": "2026-03-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "LIG서울역리가",
+    "district": "만리동1가",
+    "area_m2": 84.9581,
+    "floor": 6,
+    "price_10k": 163000,
+    "deal_date": "2026-03-20",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 9,
+    "price_10k": 154000,
+    "deal_date": "2026-03-21",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 28,
+    "price_10k": 115000,
+    "deal_date": "2026-03-21",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 1,
+    "price_10k": 159700,
+    "deal_date": "2026-03-21",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 14,
+    "price_10k": 159000,
+    "deal_date": "2026-03-20",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼성사이버빌리지",
+    "district": "중림동",
+    "area_m2": 59.7,
+    "floor": 2,
+    "price_10k": 149300,
+    "deal_date": "2026-03-08",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세운푸르지오헤리시티",
+    "district": "인현동2가",
+    "area_m2": 29.4564,
+    "floor": 9,
+    "price_10k": 38000,
+    "deal_date": "2026-03-20",
+    "build_year": 2023,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울역센트럴자이",
+    "district": "만리동2가",
+    "area_m2": 84.9791,
+    "floor": 18,
+    "price_10k": 220000,
+    "deal_date": "2026-03-19",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동평화패션타운",
+    "district": "신당동",
+    "area_m2": 66.32,
+    "floor": 7,
+    "price_10k": 26500,
+    "deal_date": "2026-03-17",
+    "build_year": 1968,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당동파라다이스",
+    "district": "신당동",
+    "area_m2": 84.85,
+    "floor": 7,
+    "price_10k": 93500,
+    "deal_date": "2026-03-05",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.9,
+    "floor": 15,
+    "price_10k": 124500,
+    "deal_date": "2026-03-17",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우일타운",
+    "district": "흥인동",
+    "area_m2": 84.87,
+    "floor": 20,
+    "price_10k": 68000,
+    "deal_date": "2026-03-11",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 11,
+    "price_10k": 95000,
+    "deal_date": "2026-03-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 65.37,
+    "floor": 7,
+    "price_10k": 159000,
+    "deal_date": "2026-03-14",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 21,
+    "price_10k": 113000,
+    "deal_date": "2026-03-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 57.63,
+    "floor": 7,
+    "price_10k": 152500,
+    "deal_date": "2026-03-14",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.91,
+    "floor": 33,
+    "price_10k": 100000,
+    "deal_date": "2026-03-16",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "덕수궁롯데캐슬",
+    "district": "순화동",
+    "area_m2": 69.5135,
+    "floor": 7,
+    "price_10k": 139000,
+    "deal_date": "2026-03-15",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 11,
+    "price_10k": 116000,
+    "deal_date": "2026-03-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당푸르지오",
+    "district": "신당동",
+    "area_m2": 84.39,
+    "floor": 12,
+    "price_10k": 155000,
+    "deal_date": "2026-03-13",
+    "build_year": 2005,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 11,
+    "price_10k": 171800,
+    "deal_date": "2026-03-14",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.97,
+    "floor": 22,
+    "price_10k": 119000,
+    "deal_date": "2026-03-14",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "약수하이츠",
+    "district": "신당동",
+    "area_m2": 65.37,
+    "floor": 16,
+    "price_10k": 149500,
+    "deal_date": "2026-03-14",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "순화동더샵",
+    "district": "순화동",
+    "area_m2": 57.58,
+    "floor": 11,
+    "price_10k": 64000,
+    "deal_date": "2026-03-07",
+    "build_year": 2007,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 32,
+    "price_10k": 115000,
+    "deal_date": "2026-03-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "충무로엘크루메크로시티2차",
+    "district": "충무로5가",
+    "area_m2": 22.75,
+    "floor": 4,
+    "price_10k": 21000,
+    "deal_date": "2026-03-13",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안하이베르",
+    "district": "신당동",
+    "area_m2": 59.74,
+    "floor": 5,
+    "price_10k": 160000,
+    "deal_date": "2026-03-12",
+    "build_year": 2011,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.91,
+    "floor": 32,
+    "price_10k": 95500,
+    "deal_date": "2026-03-13",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "세운푸르지오헤리시티",
+    "district": "인현동2가",
+    "area_m2": 28.4064,
+    "floor": 11,
+    "price_10k": 37000,
+    "deal_date": "2026-03-07",
+    "build_year": 2023,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.92,
+    "floor": 25,
+    "price_10k": 115000,
+    "deal_date": "2026-03-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "위더스하임",
+    "district": "흥인동",
+    "area_m2": 23.82,
+    "floor": 11,
+    "price_10k": 26500,
+    "deal_date": "2026-03-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.97,
+    "floor": 17,
+    "price_10k": 118500,
+    "deal_date": "2026-03-12",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "현대",
+    "district": "신당동",
+    "area_m2": 79.11,
+    "floor": 1,
+    "price_10k": 120000,
+    "deal_date": "2026-03-11",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 59.94,
+    "floor": 5,
+    "price_10k": 150000,
+    "deal_date": "2026-03-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 26,
+    "price_10k": 101000,
+    "deal_date": "2026-03-10",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "그랜드힐오피스텔",
+    "district": "황학동",
+    "area_m2": 24.15,
+    "floor": 10,
+    "price_10k": 20000,
+    "deal_date": "2026-03-08",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 23,
+    "price_10k": 145000,
+    "deal_date": "2026-03-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 10,
+    "price_10k": 171000,
+    "deal_date": "2026-03-10",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "골드캐슬Ⅲ",
+    "district": "황학동",
+    "area_m2": 33.47,
+    "floor": 7,
+    "price_10k": 32800,
+    "deal_date": "2026-03-07",
+    "build_year": 2017,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 59.94,
+    "floor": 32,
+    "price_10k": 103500,
+    "deal_date": "2026-03-09",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 114.9,
+    "floor": 8,
+    "price_10k": 130000,
+    "deal_date": "2026-03-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.97,
+    "floor": 16,
+    "price_10k": 118500,
+    "deal_date": "2026-03-07",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신당블루카운티",
+    "district": "황학동",
+    "area_m2": 59.95,
+    "floor": 9,
+    "price_10k": 60000,
+    "deal_date": "2026-03-06",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "DUO302",
+    "district": "황학동",
+    "area_m2": 15.97,
+    "floor": 10,
+    "price_10k": 16000,
+    "deal_date": "2026-03-04",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "남산타운",
+    "district": "신당동",
+    "area_m2": 84.88,
+    "floor": 9,
+    "price_10k": 175000,
+    "deal_date": "2026-03-05",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "서울역한라비발디센트럴",
+    "district": "만리동2가",
+    "area_m2": 84.9774,
+    "floor": 11,
+    "price_10k": 121000,
+    "deal_date": "2026-03-05",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.89,
+    "floor": 10,
+    "price_10k": 110000,
+    "deal_date": "2026-03-05",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "충무로엘크루메크로시티2차",
+    "district": "충무로5가",
+    "area_m2": 35.55,
+    "floor": 13,
+    "price_10k": 35500,
+    "deal_date": "2026-03-18",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "롯데캐슬",
+    "district": "황학동",
+    "area_m2": 84.9,
+    "floor": 8,
+    "price_10k": 112500,
+    "deal_date": "2026-03-03",
+    "build_year": 2008,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노블레스2",
+    "district": "신당동",
+    "area_m2": 84.78,
+    "floor": 2,
+    "price_10k": 88500,
+    "deal_date": "2026-03-03",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼풍",
+    "district": "회현동1가",
+    "area_m2": 59.5,
+    "floor": 1,
+    "price_10k": 40000,
+    "deal_date": "2026-03-02",
+    "build_year": 1975,
+    "deal_type": "중개거래"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "세아쎄닛빌",
+    "district": "신월동",
+    "area_m2": 66.9,
+    "floor": 9,
+    "price_10k": 41000,
+    "deal_date": "2022-11-22",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "보람쉬움1",
+    "district": "신월동",
+    "area_m2": 58.15,
+    "floor": 13,
+    "price_10k": 50000,
+    "deal_date": "2022-11-21",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브1단지",
+    "district": "신월동",
+    "area_m2": 84.97,
+    "floor": 6,
+    "price_10k": 89500,
+    "deal_date": "2022-11-24",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브2단지",
+    "district": "신월동",
+    "area_m2": 84.97,
+    "floor": 10,
+    "price_10k": 92500,
+    "deal_date": "2022-11-20",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지11",
+    "district": "신정동",
+    "area_m2": 51.48,
+    "floor": 14,
+    "price_10k": 85000,
+    "deal_date": "2022-11-29",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브4단지",
+    "district": "신월동",
+    "area_m2": 84.98,
+    "floor": 16,
+    "price_10k": 92250,
+    "deal_date": "2022-11-19",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지11",
+    "district": "신정동",
+    "area_m2": 66.24,
+    "floor": 4,
+    "price_10k": 125000,
+    "deal_date": "2022-11-24",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동센트럴아이파크위브3단지",
+    "district": "신월동",
+    "area_m2": 52.85,
+    "floor": 8,
+    "price_10k": 67000,
+    "deal_date": "2022-11-18",
+    "build_year": 2020,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 105.58,
+    "floor": 9,
+    "price_10k": 176000,
+    "deal_date": "2022-11-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "새롬",
+    "district": "신월동",
+    "area_m2": 84.83,
+    "floor": 1,
+    "price_10k": 40000,
+    "deal_date": "2022-11-21",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "월드메르디앙2",
+    "district": "목동",
+    "area_m2": 84.3,
+    "floor": 10,
+    "price_10k": 80000,
+    "deal_date": "2022-11-12",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 53.82,
+    "floor": 8,
+    "price_10k": 101000,
+    "deal_date": "2022-11-26",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지1",
+    "district": "목동",
+    "area_m2": 47.52,
+    "floor": 10,
+    "price_10k": 110000,
+    "deal_date": "2022-11-05",
+    "build_year": 1985,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "푸른마을4",
+    "district": "신정동",
+    "area_m2": 84.88,
+    "floor": 8,
+    "price_10k": 75000,
+    "deal_date": "2022-11-21",
+    "build_year": 2002,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "훼미리주상복합",
+    "district": "신월동",
+    "area_m2": 100.3,
+    "floor": 6,
+    "price_10k": 43000,
+    "deal_date": "2022-11-03",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 70.2,
+    "floor": 10,
+    "price_10k": 135000,
+    "deal_date": "2022-11-18",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "에이원",
+    "district": "신월동",
+    "area_m2": 51.15,
+    "floor": 6,
+    "price_10k": 20800,
+    "deal_date": "2022-11-04",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동그린빌라트",
+    "district": "신정동",
+    "area_m2": 119.92,
+    "floor": 6,
+    "price_10k": 88000,
+    "deal_date": "2022-11-15",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "양천벽산블루밍1단지",
+    "district": "신월동",
+    "area_m2": 84.77,
+    "floor": 1,
+    "price_10k": 65000,
+    "deal_date": "2022-11-12",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "목동신시가지10",
+    "district": "신정동",
+    "area_m2": 105.58,
+    "floor": 2,
+    "price_10k": 172000,
+    "deal_date": "2022-11-09",
+    "build_year": 1987,
+    "deal_type": "중개거래"
+  }
+]

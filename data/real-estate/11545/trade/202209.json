@@ -1,0 +1,142 @@
+[
+  {
+    "name": "금천롯데캐슬골드파크1차",
+    "district": "독산동",
+    "area_m2": 59.9935,
+    "floor": 29,
+    "price_10k": 83500,
+    "deal_date": "2022-09-30",
+    "build_year": 2016,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신화아파트(200-4)",
+    "district": "시흥동",
+    "area_m2": 56.01,
+    "floor": 5,
+    "price_10k": 29000,
+    "deal_date": "2022-09-27",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "럭키남서울아파트",
+    "district": "시흥동",
+    "area_m2": 41.22,
+    "floor": 1,
+    "price_10k": 55000,
+    "deal_date": "2022-09-30",
+    "build_year": 1981,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천현대",
+    "district": "독산동",
+    "area_m2": 59.82,
+    "floor": 10,
+    "price_10k": 56000,
+    "deal_date": "2022-09-30",
+    "build_year": 2002,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트바이올렛5차",
+    "district": "가산동",
+    "area_m2": 12.19,
+    "floor": 8,
+    "price_10k": 12600,
+    "deal_date": "2022-09-29",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 84.97,
+    "floor": 9,
+    "price_10k": 62000,
+    "deal_date": "2022-09-30",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "관악산벽산타운5",
+    "district": "시흥동",
+    "area_m2": 114.84,
+    "floor": 1,
+    "price_10k": 69000,
+    "deal_date": "2022-09-23",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "시흥동",
+    "area_m2": 59.9,
+    "floor": 16,
+    "price_10k": 47500,
+    "deal_date": "2022-09-05",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "와이즈플레이스",
+    "district": "시흥동",
+    "area_m2": 14.22,
+    "floor": 20,
+    "price_10k": 9500,
+    "deal_date": "2022-09-23",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "가산지웰에스테이트",
+    "district": "가산동",
+    "area_m2": 15.52,
+    "floor": 11,
+    "price_10k": 12000,
+    "deal_date": "2022-09-17",
+    "build_year": 2013,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "금천롯데캐슬골드파크3차",
+    "district": "독산동",
+    "area_m2": 59.9662,
+    "floor": 22,
+    "price_10k": 90000,
+    "deal_date": "2022-09-13",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트바이올렛5차",
+    "district": "가산동",
+    "area_m2": 12.19,
+    "floor": 9,
+    "price_10k": 11500,
+    "deal_date": "2022-09-19",
+    "build_year": 2014,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "진도1차",
+    "district": "독산동",
+    "area_m2": 59.94,
+    "floor": 10,
+    "price_10k": 51500,
+    "deal_date": "2022-09-08",
+    "build_year": 1996,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "비즈트위트바이올렛5차",
+    "district": "가산동",
+    "area_m2": 12.31,
+    "floor": 8,
+    "price_10k": 14000,
+    "deal_date": "2022-09-02",
+    "build_year": 2014,
+    "deal_type": "직거래"
+  }
+]

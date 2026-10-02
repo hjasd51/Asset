@@ -1,0 +1,402 @@
+[
+  {
+    "name": "사당우성3",
+    "district": "사당동",
+    "area_m2": 118.25,
+    "floor": 9,
+    "price_10k": 125000,
+    "deal_date": "2021-12-31",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "유원강변",
+    "district": "본동",
+    "area_m2": 59.79,
+    "floor": 9,
+    "price_10k": 115000,
+    "deal_date": "2021-12-28",
+    "build_year": 2000,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도고구아파트",
+    "district": "상도동",
+    "area_m2": 70.68,
+    "floor": 2,
+    "price_10k": 45800,
+    "deal_date": "2021-12-23",
+    "build_year": 2019,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "삼성래미안",
+    "district": "본동",
+    "area_m2": 84.2261,
+    "floor": 4,
+    "price_10k": 130500,
+    "deal_date": "2021-12-30",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "흑석동양아파트",
+    "district": "흑석동",
+    "area_m2": 84.991,
+    "floor": 1,
+    "price_10k": 105000,
+    "deal_date": "2021-12-31",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "사당자이",
+    "district": "사당동",
+    "area_m2": 60,
+    "floor": 17,
+    "price_10k": 90000,
+    "deal_date": "2021-12-26",
+    "build_year": 1999,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "한강현대",
+    "district": "흑석동",
+    "area_m2": 131.4,
+    "floor": 9,
+    "price_10k": 267000,
+    "deal_date": "2021-12-23",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 16.01,
+    "floor": 13,
+    "price_10k": 16500,
+    "deal_date": "2021-12-29",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도동삼호아파트",
+    "district": "상도동",
+    "area_m2": 84.52,
+    "floor": 16,
+    "price_10k": 97000,
+    "deal_date": "2021-12-19",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버하임",
+    "district": "흑석동",
+    "area_m2": 84.7536,
+    "floor": 11,
+    "price_10k": 230000,
+    "deal_date": "2021-12-18",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도동삼호아파트",
+    "district": "상도동",
+    "area_m2": 114.63,
+    "floor": 17,
+    "price_10k": 113000,
+    "deal_date": "2021-12-17",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1차",
+    "district": "신대방동",
+    "area_m2": 66.69,
+    "floor": 9,
+    "price_10k": 104500,
+    "deal_date": "2021-12-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "삼익",
+    "district": "노량진동",
+    "area_m2": 84.68,
+    "floor": 19,
+    "price_10k": 85300,
+    "deal_date": "2021-12-18",
+    "build_year": 2001,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1차",
+    "district": "신대방동",
+    "area_m2": 126.16,
+    "floor": 1,
+    "price_10k": 142000,
+    "deal_date": "2021-12-16",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아크로리버하임",
+    "district": "흑석동",
+    "area_m2": 59.9154,
+    "floor": 5,
+    "price_10k": 181000,
+    "deal_date": "2021-12-29",
+    "build_year": 2019,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상상도노빌리티",
+    "district": "상도동",
+    "area_m2": 59.7827,
+    "floor": 27,
+    "price_10k": 146000,
+    "deal_date": "2021-12-17",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "아데나339",
+    "district": "대방동",
+    "area_m2": 15.36,
+    "floor": 4,
+    "price_10k": 13600,
+    "deal_date": "2021-12-24",
+    "build_year": 2012,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "주공2",
+    "district": "대방동",
+    "area_m2": 59.97,
+    "floor": 1,
+    "price_10k": 112500,
+    "deal_date": "2021-12-15",
+    "build_year": 1995,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안상도3차",
+    "district": "상도동",
+    "area_m2": 114.97,
+    "floor": 1,
+    "price_10k": 145000,
+    "deal_date": "2021-12-17",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 21.746,
+    "floor": 13,
+    "price_10k": 23500,
+    "deal_date": "2021-12-28",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 15.974,
+    "floor": 9,
+    "price_10k": 14500,
+    "deal_date": "2021-12-11",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "동작상떼빌",
+    "district": "신대방동",
+    "area_m2": 132.43,
+    "floor": 15,
+    "price_10k": 132500,
+    "deal_date": "2021-12-10",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상상도노빌리티",
+    "district": "상도동",
+    "area_m2": 84.8746,
+    "floor": 22,
+    "price_10k": 176000,
+    "deal_date": "2021-12-16",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "극동(105)",
+    "district": "사당동",
+    "area_m2": 110.14,
+    "floor": 12,
+    "price_10k": 128000,
+    "deal_date": "2021-12-07",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이수교KCC스위첸",
+    "district": "동작동",
+    "area_m2": 120.71,
+    "floor": 7,
+    "price_10k": 150000,
+    "deal_date": "2021-12-06",
+    "build_year": 2006,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "신한토탈",
+    "district": "대방동",
+    "area_m2": 84.64,
+    "floor": 13,
+    "price_10k": 82600,
+    "deal_date": "2021-12-06",
+    "build_year": 1997,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 16.01,
+    "floor": 11,
+    "price_10k": 16000,
+    "deal_date": "2021-12-01",
+    "build_year": 2015,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "상도동래미안1차",
+    "district": "상도동",
+    "area_m2": 114.171,
+    "floor": 1,
+    "price_10k": 138000,
+    "deal_date": "2021-12-01",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도동삼호아파트",
+    "district": "상도동",
+    "area_m2": 114.63,
+    "floor": 17,
+    "price_10k": 110000,
+    "deal_date": "2021-12-02",
+    "build_year": 1994,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "노량진맨션",
+    "district": "노량진동",
+    "area_m2": 56.06,
+    "floor": 4,
+    "price_10k": 123000,
+    "deal_date": "2021-12-24",
+    "build_year": 1974,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "우성1차",
+    "district": "신대방동",
+    "area_m2": 84.99,
+    "floor": 16,
+    "price_10k": 137000,
+    "deal_date": "2021-12-02",
+    "build_year": 1988,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "이수자이",
+    "district": "사당동",
+    "area_m2": 120.17,
+    "floor": 14,
+    "price_10k": 150000,
+    "deal_date": "2021-12-07",
+    "build_year": 2010,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "숭실그랜드",
+    "district": "상도1동",
+    "area_m2": 71.37,
+    "floor": 5,
+    "price_10k": 40000,
+    "deal_date": "2021-12-15",
+    "build_year": 2003,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "대림아파트",
+    "district": "대방동",
+    "area_m2": 59.84,
+    "floor": 11,
+    "price_10k": 113000,
+    "deal_date": "2021-12-14",
+    "build_year": 1993,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "래미안상도3차",
+    "district": "상도동",
+    "area_m2": 84.96,
+    "floor": 7,
+    "price_10k": 142150,
+    "deal_date": "2021-12-11",
+    "build_year": 2004,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도고구아파트",
+    "district": "상도동",
+    "area_m2": 70.68,
+    "floor": 2,
+    "price_10k": 46000,
+    "deal_date": "2021-12-01",
+    "build_year": 2019,
+    "deal_type": "직거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 15.974,
+    "floor": 10,
+    "price_10k": 15600,
+    "deal_date": "2021-12-03",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "e편한세상상도노빌리티",
+    "district": "상도동",
+    "area_m2": 84.9704,
+    "floor": 14,
+    "price_10k": 168000,
+    "deal_date": "2021-12-04",
+    "build_year": 2018,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "메가스터디타워",
+    "district": "노량진동",
+    "area_m2": 15.974,
+    "floor": 9,
+    "price_10k": 12800,
+    "deal_date": "2021-12-07",
+    "build_year": 2015,
+    "deal_type": "중개거래"
+  },
+  {
+    "name": "상도휴엔하임",
+    "district": "상도동",
+    "area_m2": 16.84,
+    "floor": 15,
+    "price_10k": 17000,
+    "deal_date": "2021-12-01",
+    "build_year": 2016,
+    "deal_type": "직거래"
+  }
+]
