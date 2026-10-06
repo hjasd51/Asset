@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { API_BASE } from '@/lib/api'
 import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
@@ -32,7 +33,7 @@ export default function Apartments() {
 
   useEffect(() => {
     if (!gu) { setDongs([]); setDong(''); return }
-    fetch(`/api/apartments/dongs?gu=${encodeURIComponent(gu)}`)
+    fetch(`${API_BASE}/api/apartments/dongs?gu=${encodeURIComponent(gu)}`)
       .then((r) => r.json())
       .then((data: string[]) => setDongs(data))
       .catch(() => setDongs([]))
@@ -45,7 +46,7 @@ export default function Apartments() {
       const params = new URLSearchParams({ limit: '50' })
       if (gu) params.set('gu', gu)
       if (dong) params.set('dong', dong)
-      const res = await fetch(`/api/apartments?${params}`)
+      const res = await fetch(`${API_BASE}/api/apartments?${params}`)
       if (!res.ok) throw new Error('조회 실패')
       const data = await res.json() as ApartmentItem[]
       setItems(data)

@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Label } from '@/components/ui/label'
+import { API_BASE } from '@/lib/api'
 
 const now = new Date()
 const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
@@ -39,7 +40,7 @@ export default function Ranking() {
     setError('')
     setLoading(true)
     try {
-      const res = await fetch(`/api/analytics/ranking?dealYmd=${dealYmd}&kind=${kind}`)
+      const res = await fetch(`${API_BASE}/api/analytics/ranking?dealYmd=${dealYmd}&kind=${kind}`)
       if (!res.ok) throw new Error('조회 실패')
       const data = await res.json() as RankingItem[]
       setItems(data)

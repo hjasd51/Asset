@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, useCallback, useMemo } from 'react'
+import { API_BASE } from '@/lib/api'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -450,7 +451,7 @@ export default function Complex() {
 
   const fetchSuggestions = useCallback(async (q: string) => {
     if (!q) { setSuggestions([]); return }
-    const res = await fetch(`/api/apartments/search?q=${encodeURIComponent(q)}&limit=8`)
+    const res = await fetch(`${API_BASE}/api/apartments/search?q=${encodeURIComponent(q)}&limit=8`)
     if (!res.ok) return
     setSuggestions(await res.json() as Suggestion[])
   }, [])
@@ -469,7 +470,7 @@ export default function Complex() {
     setListPyeong('all')
     setLoading(true)
     try {
-      const res = await fetch(`/api/analytics/complex?name=${encodeURIComponent(name)}&kind=${kind}`)
+      const res = await fetch(`${API_BASE}/api/analytics/complex?name=${encodeURIComponent(name)}&kind=${kind}`)
       const data = await res.json() as ComplexTimeSeriesItem[] | { error: string }
       if (!res.ok) { setError((data as { error: string }).error ?? '오류'); return }
       const all = data as ComplexTimeSeriesItem[]
@@ -486,7 +487,7 @@ export default function Complex() {
       const combos = [...new Map(all.map((m) => [`${m.gu}|${m.dong}`, { gu: m.gu, dong: m.dong }])).values()].slice(0, 5)
       const results = await Promise.all(combos.map(async ({ gu, dong }) => {
         try {
-          const r = await fetch(`/api/daangn/listings?gu=${encodeURIComponent(gu)}&dong=${encodeURIComponent(dong)}&name=${encodeURIComponent(name)}`)
+          const r = await fetch(`${API_BASE}/api/daangn/listings?gu=${encodeURIComponent(gu)}&dong=${encodeURIComponent(dong)}&name=${encodeURIComponent(name)}`)
           if (!r.ok) return []
           return await r.json() as DaangnListing[]
         } catch { return [] }

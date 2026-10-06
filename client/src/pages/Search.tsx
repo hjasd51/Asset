@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Label } from '@/components/ui/label'
+import { API_BASE } from '@/lib/api'
 
 const DISTRICTS = [
   '종로구','중구','용산구','성동구','광진구','동대문구','중랑구','성북구','강북구',
@@ -50,7 +51,7 @@ export default function Search() {
     setError('')
     setLoading(true)
     try {
-      const res = await fetch(`/api/local/trade?district=${encodeURIComponent(district)}&dealYmd=${dealYmd}`)
+      const res = await fetch(`${API_BASE}/api/local/trade?district=${encodeURIComponent(district)}&dealYmd=${dealYmd}`)
       if (!res.ok) throw new Error('조회 실패')
       const data = await res.json() as { items: SearchItem[] }
       setItems(data.items)

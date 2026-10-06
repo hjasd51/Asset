@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { API_BASE } from '@/lib/api'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
@@ -60,7 +61,7 @@ export default function Loan() {
       const body = Object.fromEntries(
         Object.entries(form).map(([k, v]) => [k, Number(v)])
       )
-      const res = await fetch('/api/loan/simulate', {
+      const res = await fetch(`${API_BASE}/api/loan/simulate`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(body),
