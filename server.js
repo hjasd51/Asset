@@ -5,6 +5,7 @@ try {
 }
 
 const express = require("express");
+const cors = require("cors");
 const path = require("path");
 const realEstateRouter = require("./routes/realEstate");
 const loanRouter = require("./routes/loan");
@@ -15,6 +16,12 @@ const apartmentsRouter = require("./routes/apartments");
 
 const app = express();
 
+app.use(cors({
+  origin: [
+    "https://assetfrontend-eight.vercel.app",
+    "http://localhost:5173",
+  ],
+}));
 app.use(express.json());
 
 app.use("/api/real-estate", realEstateRouter);
@@ -34,7 +41,7 @@ if (process.env.NODE_ENV === "production") {
 
 // Vercel 서버리스 환경에서는 listen 대신 app export
 if (process.env.NODE_ENV !== "production" || process.env.VERCEL !== "1") {
-  const port = process.env.TEST_PORT ? Number(process.env.TEST_PORT) : 3000;
+  const port = process.env.TEST_PORT ? Number(process.env.TEST_PORT) : (process.env.PORT ? Number(process.env.PORT) : 3000);
   app.listen(port, () => {
     console.log(`서버 실행 중: http://localhost:${port}`);
   });
