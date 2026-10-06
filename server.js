@@ -32,7 +32,12 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 
-const port = process.env.TEST_PORT ? Number(process.env.TEST_PORT) : 3000;
-app.listen(port, () => {
-  console.log(`서버 실행 중: http://localhost:${port}`);
-});
+// Vercel 서버리스 환경에서는 listen 대신 app export
+if (process.env.NODE_ENV !== "production" || process.env.VERCEL !== "1") {
+  const port = process.env.TEST_PORT ? Number(process.env.TEST_PORT) : 3000;
+  app.listen(port, () => {
+    console.log(`서버 실행 중: http://localhost:${port}`);
+  });
+}
+
+module.exports = app;
