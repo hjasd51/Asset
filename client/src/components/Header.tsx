@@ -5,7 +5,7 @@ import { useDarkMode } from '@/hooks/useDarkMode'
 
 const navItems = [
   { to: '/', label: '홈', end: true },
-  { to: '/ranking', label: '구별 랭킹' },
+  { to: '/ranking', label: '지역 랭킹' },
   { to: '/search', label: '실거래가 검색' },
   { to: '/complex', label: '단지 시세' },
   { to: '/apartments', label: '아파트 목록' },
