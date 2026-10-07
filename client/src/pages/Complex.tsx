@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, useCallback, useMemo } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { API_BASE } from '@/lib/api'
 import {
   Chart as ChartJS,
@@ -425,6 +426,8 @@ function TrendTable({ items }: { items: ComplexTimeSeriesItem[] }) {
 // ─── 메인 컴포넌트 ────────────────────────────────────────────────────────────
 
 export default function Complex() {
+  const [searchParams] = useSearchParams()
+  const autoSearchedRef = useRef(false)
   const [query, setQuery] = useState('')
   const [complexName, setComplexName] = useState('')
   const [suggestions, setSuggestions] = useState<Suggestion[]>([])
@@ -503,6 +506,17 @@ export default function Complex() {
       setLoading(false)
     }
   }, [kind])
+
+  // URL ?name= 파라미터로 진입 시 자동 검색
+  useEffect(() => {
+    if (autoSearchedRef.current) return
+    const nameParam = searchParams.get('name')
+    if (nameParam) {
+      autoSearchedRef.current = true
+      setQuery(nameParam)
+      handleSearch(nameParam)
+    }
+  }, [handleSearch, searchParams])
 
   const latestYmd = allMonths.at(-1) ?? null
   const startYmd = latestYmd ? shiftYmd(latestYmd, -(periodN - 1)) : null

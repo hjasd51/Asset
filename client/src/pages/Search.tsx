@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
@@ -35,11 +36,11 @@ interface SearchItem {
 
 function formatPrice(p10k: number | null) {
   if (p10k == null) return '-'
-  if (p10k >= 10000) return `${(p10k / 10000).toFixed(2)}억`
-  return `${p10k.toLocaleString()}만`
+  return `${(p10k / 10000).toFixed(1)}억`
 }
 
 export default function Search() {
+  const navigate = useNavigate()
   const [district, setDistrict] = useState('')
   const [dealYmd, setDealYmd] = useState(MONTHS[MONTHS.length - 1])
   const [items, setItems] = useState<SearchItem[]>([])
@@ -116,22 +117,27 @@ export default function Search() {
                 <TableHead>면적(㎡)</TableHead>
                 <TableHead>평형</TableHead>
                 <TableHead>층</TableHead>
-                <TableHead>거래가</TableHead>
                 <TableHead>거래일</TableHead>
                 <TableHead>건축연도</TableHead>
+                <TableHead>거래가</TableHead>
               </TableRow>
             </TableHeader>
             <TableBody>
               {items.map((item, i) => (
                 <TableRow key={i}>
-                  <TableCell className="font-medium">{item.name}</TableCell>
+                  <TableCell
+                    className="font-medium cursor-pointer hover:text-blue-500 hover:underline"
+                    onClick={() => navigate(`/complex?name=${encodeURIComponent(item.name)}`)}
+                  >
+                    {item.name}
+                  </TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.district}</TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.supplyAreaM2Estimate ?? '-'}</TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.pyeongSupplyEstimate != null ? `${item.pyeongSupplyEstimate}평` : '-'}</TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.floor}층</TableCell>
-                  <TableCell className="font-semibold">{formatPrice(item.price_10k)}</TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.deal_date}</TableCell>
                   <TableCell className="text-[var(--text-secondary)]">{item.build_year ?? '-'}</TableCell>
+                  <TableCell className="font-semibold">{formatPrice(item.price_10k)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>

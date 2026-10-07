@@ -23,10 +23,14 @@ interface RankingItem {
   maxPrice10k: number | null
 }
 
-function formatPrice(p10k: number | null) {
+function formatMaxPrice(p10k: number | null) {
   if (p10k == null) return '-'
-  if (p10k >= 10000) return `${(p10k / 10000).toFixed(2)}억`
-  return `${p10k.toLocaleString()}만`
+  return `${(p10k / 10000).toFixed(1)}억`
+}
+
+function formatAvgPrice(p10k: number | null) {
+  if (p10k == null) return '-'
+  return `${(p10k / 10000).toFixed(2)}억/평`
 }
 
 export default function Ranking() {
@@ -115,8 +119,8 @@ export default function Ranking() {
                       <span>{r.count.toLocaleString()}</span>
                     </div>
                   </TableCell>
-                  <TableCell>{r.avgPricePerPyeong10k != null ? `${r.avgPricePerPyeong10k.toLocaleString()}만/평` : '-'}</TableCell>
-                  <TableCell className="font-semibold">{formatPrice(r.maxPrice10k)}</TableCell>
+                  <TableCell>{formatAvgPrice(r.avgPricePerPyeong10k)}</TableCell>
+                  <TableCell className="font-semibold">{formatMaxPrice(r.maxPrice10k)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
