@@ -26,6 +26,7 @@
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.4",
+    "react-simple-maps": "^5.0.5",
     "tailwind-merge": "^3.7.0",
     "tailwindcss": "^4.3.3",
     "zustand": "^5.0.15"

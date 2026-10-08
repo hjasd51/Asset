@@ -1,9 +1,25 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
+import { useSearchParams } from 'react-router-dom'
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  LineController,
+  LineElement,
+  PointElement,
+  Tooltip,
+  Filler,
+  type ChartOptions,
+} from 'chart.js'
+import { Line } from 'react-chartjs-2'
 import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Label } from '@/components/ui/label'
+import { ChevronLeft } from 'lucide-react'
 import { API_BASE } from '@/lib/api'
+
+ChartJS.register(CategoryScale, LinearScale, LineController, LineElement, PointElement, Tooltip, Filler)
 
 const now = new Date()
 const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
@@ -30,6 +46,19 @@ interface DongItem {
   dong: string
   count: number
   avgPricePerPyeong10k: number
+}
+
+interface TimeSeriesItem {
+  dealYmd: string
+  avgPricePerPyeong10k: number | null
+}
+
+interface ApartmentItem {
+  name: string
+  count: number
+  avgPricePerPyeong10k: number
+  avgPricePrevMonth: number | null
+  avgPricePrevYear: number | null
 }
 
 interface SummaryEntry {
@@ -84,9 +113,7 @@ function DiffBadge({ pct }: { pct: number | null }) {
   )
 }
 
-function SummaryCard({ title, entries, isPositive }: { title: string; entries: SummaryEntry[]; isPositive: boolean }) {
-  const color = isPositive ? 'text-rose-500' : 'text-blue-500'
-  const arrow = isPositive ? '▲' : '▼'
+function SummaryCard({ title, entries }: { title: string; entries: SummaryEntry[] }) {
   return (
     <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4">
       <div className="text-xs font-semibold text-[var(--text-secondary)] mb-2">{title}</div>
@@ -100,7 +127,9 @@ function SummaryCard({ title, entries, isPositive }: { title: string; entries: S
                 <span className="text-[var(--text-muted)] text-xs mr-1">{i + 1}</span>
                 {entry.district}
               </span>
-              <span className={`font-semibold ${color}`}>{arrow}{Math.abs(entry.pct).toFixed(1)}%</span>
+              <span className={`font-semibold ${entry.pct >= 0 ? 'text-rose-500' : 'text-blue-500'}`}>
+                {entry.pct >= 0 ? '▲' : '▼'}{Math.abs(entry.pct).toFixed(1)}%
+              </span>
             </div>
           ))
         )}
@@ -109,21 +138,282 @@ function SummaryCard({ title, entries, isPositive }: { title: string; entries: S
   )
 }
 
+// 동별 급지 상세 뷰
+function DongDetail({
+  district,
+  dealYmd,
+  kind,
+  onBack,
+}: {
+  district: string
+  dealYmd: string
+  kind: string
+  onBack: () => void
+}) {
+  const [items, setItems] = useState<DongItem[]>([])
+  const [loading, setLoading] = useState(true)
+  const [selectedDong, setSelectedDong] = useState<string | null>(null)
+  const [timeSeries, setTimeSeries] = useState<TimeSeriesItem[]>([])
+  const [aptItems, setAptItems] = useState<ApartmentItem[]>([])
+  const [detailLoading, setDetailLoading] = useState(false)
+
+  useEffect(() => {
+    setLoading(true)
+    fetch(`${API_BASE}/api/analytics/dong-ranking?district=${encodeURIComponent(district)}&dealYmd=${dealYmd}&kind=${kind}`)
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(data => setItems(data as DongItem[]))
+      .catch(() => setItems([]))
+      .finally(() => setLoading(false))
+  }, [district, dealYmd, kind])
+
+  const handleDongClick = async (dong: string) => {
+    if (selectedDong === dong) {
+      setSelectedDong(null)
+      setTimeSeries([])
+      setAptItems([])
+      return
+    }
+    setSelectedDong(dong)
+    setDetailLoading(true)
+    setTimeSeries([])
+    setAptItems([])
+    try {
+      const base = `${API_BASE}/api/analytics`
+      const params = `district=${encodeURIComponent(district)}&dong=${encodeURIComponent(dong)}&dealYmd=${dealYmd}&kind=${kind}`
+      const [tsRes, aptRes] = await Promise.all([
+        fetch(`${base}/dong-time-series?${params}`),
+        fetch(`${base}/dong-apartment-ranking?${params}`),
+      ])
+      const [tsData, aptData] = await Promise.all([
+        tsRes.ok ? tsRes.json() : Promise.resolve([]),
+        aptRes.ok ? aptRes.json() : Promise.resolve([]),
+      ])
+      setTimeSeries(tsData as TimeSeriesItem[])
+      setAptItems(aptData as ApartmentItem[])
+    } catch {
+      // 오류 시 빈 상태 유지
+    } finally {
+      setDetailLoading(false)
+    }
+  }
+
+  const monthLabel = `${dealYmd.slice(0, 4)}년 ${parseInt(dealYmd.slice(4))}월`
+
+  const chartData = {
+    labels: timeSeries.map(d => {
+      const y = d.dealYmd.slice(2, 4)
+      const m = parseInt(d.dealYmd.slice(4))
+      return `${y}.${String(m).padStart(2, '0')}`
+    }),
+    datasets: [
+      {
+        label: '평균 평단가',
+        data: timeSeries.map(d =>
+          d.avgPricePerPyeong10k != null
+            ? parseFloat((d.avgPricePerPyeong10k / 10000).toFixed(3))
+            : null
+        ),
+        borderColor: 'rgb(59, 130, 246)',
+        backgroundColor: 'rgba(59, 130, 246, 0.08)',
+        tension: 0.3,
+        fill: true,
+        pointRadius: 4,
+        pointHoverRadius: 6,
+        spanGaps: true,
+      },
+    ],
+  }
+
+  const chartOptions: ChartOptions<'line'> = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: (ctx) => ` ${Number(ctx.parsed.y).toFixed(2)}억/평`,
+        },
+      },
+    },
+    scales: {
+      y: {
+        ticks: {
+          callback: (val) => `${Number(val).toFixed(1)}억`,
+        },
+        grid: { color: 'rgba(128,128,128,0.1)' },
+      },
+      x: {
+        grid: { display: false },
+      },
+    },
+  }
+
+  return (
+    <div className="mx-auto max-w-screen-xl px-4 py-8 space-y-6">
+      {/* 브레드크럼 + 제목 */}
+      <div className="space-y-1">
+        <button
+          onClick={onBack}
+          className="flex items-center gap-1 text-sm text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"
+        >
+          <ChevronLeft className="h-4 w-4" />
+          지역 랭킹으로 돌아가기
+        </button>
+        <div className="flex items-baseline gap-3 flex-wrap">
+          <h1 className="text-2xl font-bold">{district} 동별 급지</h1>
+          <span className="text-sm text-[var(--text-secondary)]">{monthLabel} · {kind === 'trade' ? '매매' : '전세'}</span>
+        </div>
+      </div>
+
+      {/* 급지 범례 */}
+      <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4">
+        <p className="text-xs font-medium text-[var(--text-secondary)] mb-3">급지 기준 (서울 전체 절대값, 만원/평)</p>
+        <div className="flex flex-wrap gap-3">
+          {TIERS.map((t, i) => {
+            const next = TIERS[i + 1]
+            const range = next
+              ? `${next.min.toLocaleString()}~${t.min.toLocaleString()}`
+              : `${t.min.toLocaleString()}+`
+            return (
+              <div key={t.label} className="flex items-center gap-1.5">
+                <span className={`px-2 py-0.5 rounded text-xs font-semibold ${t.badgeBg} ${t.badgeText}`}>
+                  {t.label}
+                </span>
+                <span className="text-xs text-[var(--text-muted)]">{range}</span>
+              </div>
+            )
+          })}
+        </div>
+      </div>
+
+      {/* 동 카드 그리드 */}
+      <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-5">
+        {loading ? (
+          <p className="text-center text-sm text-[var(--text-muted)] py-16">조회 중...</p>
+        ) : items.length === 0 ? (
+          <p className="text-center text-sm text-[var(--text-muted)] py-16">거래 데이터가 없습니다.</p>
+        ) : (
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+            {items.map(item => {
+              const tier = getTier(item.avgPricePerPyeong10k)
+              const isSelected = selectedDong === item.dong
+              return (
+                <div
+                  key={item.dong}
+                  onClick={() => handleDongClick(item.dong)}
+                  className={`rounded-lg border p-3 space-y-1.5 cursor-pointer transition-all ${
+                    isSelected
+                      ? 'border-blue-500 bg-blue-50 dark:bg-blue-950/30 shadow-sm'
+                      : 'border-[var(--border-color)] bg-[var(--bg-surface)] hover:border-blue-300 hover:shadow-sm'
+                  }`}
+                >
+                  <span className={`inline-block px-1.5 py-0.5 rounded text-xs font-semibold ${tier.badgeBg} ${tier.badgeText}`}>
+                    {tier.label}
+                  </span>
+                  <div className="font-semibold text-sm text-[var(--text-primary)]">{item.dong}</div>
+                  <div className="text-xs text-[var(--text-secondary)]">
+                    {(item.avgPricePerPyeong10k / 10000).toFixed(2)}억/평
+                  </div>
+                  <div className="text-xs text-[var(--text-muted)]">{item.count}건</div>
+                </div>
+              )
+            })}
+          </div>
+        )}
+      </div>
+
+      {/* 선택된 동 상세 패널 */}
+      {selectedDong && (
+        <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden">
+          {/* 패널 헤더 */}
+          <div className="px-5 py-3 border-b border-[var(--border-color)] flex items-center justify-between">
+            <div>
+              <h2 className="font-semibold text-[var(--text-primary)]">{selectedDong} 상세 분석</h2>
+              <p className="text-xs text-[var(--text-secondary)] mt-0.5">{monthLabel} 기준 · {kind === 'trade' ? '매매' : '전세'}</p>
+            </div>
+            <button
+              onClick={() => { setSelectedDong(null); setTimeSeries([]); setAptItems([]) }}
+              className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors text-base leading-none"
+              aria-label="닫기"
+            >
+              ✕
+            </button>
+          </div>
+
+          {detailLoading ? (
+            <p className="text-center text-sm text-[var(--text-muted)] py-16">조회 중...</p>
+          ) : (
+            <>
+              {/* 12개월 꺾은선 그래프 */}
+              <div className="px-5 py-4 border-b border-[var(--border-color)]">
+                <h3 className="text-sm font-medium text-[var(--text-secondary)] mb-3">최근 12개월 평균 평단가 추이</h3>
+                <div className="h-52">
+                  <Line data={chartData} options={chartOptions} />
+                </div>
+              </div>
+
+              {/* 아파트별 급지 테이블 */}
+              <div>
+                <div className="px-5 py-3 border-b border-[var(--border-color)]">
+                  <h3 className="text-sm font-medium text-[var(--text-secondary)]">아파트별 평단가 랭킹</h3>
+                </div>
+                {aptItems.length === 0 ? (
+                  <p className="text-center text-sm text-[var(--text-muted)] py-8">데이터가 없습니다.</p>
+                ) : (
+                  <Table>
+                    <TableHeader>
+                      <TableRow>
+                        <TableHead className="w-16">급지</TableHead>
+                        <TableHead>아파트명</TableHead>
+                        <TableHead>평균 평단가</TableHead>
+                        <TableHead>전월비</TableHead>
+                        <TableHead>전년비</TableHead>
+                        <TableHead className="w-16">거래건수</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {aptItems.map((apt, i) => {
+                        const tier = getTier(apt.avgPricePerPyeong10k)
+                        return (
+                          <TableRow key={`${apt.name}-${i}`}>
+                            <TableCell>
+                              <span className={`inline-block px-1.5 py-0.5 rounded text-xs font-semibold ${tier.badgeBg} ${tier.badgeText}`}>
+                                {tier.label}
+                              </span>
+                            </TableCell>
+                            <TableCell className="font-medium">{apt.name}</TableCell>
+                            <TableCell className="font-semibold">{formatAvgPrice(apt.avgPricePerPyeong10k)}</TableCell>
+                            <TableCell><DiffBadge pct={diffPct(apt.avgPricePerPyeong10k, apt.avgPricePrevMonth)} /></TableCell>
+                            <TableCell><DiffBadge pct={diffPct(apt.avgPricePerPyeong10k, apt.avgPricePrevYear)} /></TableCell>
+                            <TableCell className="text-[var(--text-secondary)]">{apt.count}건</TableCell>
+                          </TableRow>
+                        )
+                      })}
+                    </TableBody>
+                  </Table>
+                )}
+              </div>
+            </>
+          )}
+        </div>
+      )}
+    </div>
+  )
+}
+
 export default function Ranking() {
+  const [searchParams, setSearchParams] = useSearchParams()
+  const districtParam = searchParams.get('district')
+
   const [dealYmd, setDealYmd] = useState(MONTHS[MONTHS.length - 1])
   const [kind, setKind] = useState('trade')
   const [items, setItems] = useState<RankingItem[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
-  const [selectedDistrict, setSelectedDistrict] = useState<string | null>(null)
-  const [dongItems, setDongItems] = useState<DongItem[]>([])
-  const [dongLoading, setDongLoading] = useState(false)
 
   const handleSearch = async () => {
     setError('')
     setLoading(true)
-    setSelectedDistrict(null)
-    setDongItems([])
     try {
       const res = await fetch(`${API_BASE}/api/analytics/ranking?dealYmd=${dealYmd}&kind=${kind}`)
       if (!res.ok) throw new Error('조회 실패')
@@ -135,26 +425,8 @@ export default function Ranking() {
     }
   }
 
-  const handleDistrictClick = async (district: string) => {
-    if (selectedDistrict === district) {
-      setSelectedDistrict(null)
-      setDongItems([])
-      return
-    }
-    setSelectedDistrict(district)
-    setDongLoading(true)
-    setDongItems([])
-    try {
-      const res = await fetch(
-        `${API_BASE}/api/analytics/dong-ranking?district=${encodeURIComponent(district)}&dealYmd=${dealYmd}&kind=${kind}`
-      )
-      if (!res.ok) throw new Error()
-      setDongItems(await res.json() as DongItem[])
-    } catch {
-      // 데이터 없을 시 빈 배열 유지
-    } finally {
-      setDongLoading(false)
-    }
+  const handleDistrictClick = (district: string) => {
+    setSearchParams({ district, dealYmd, kind })
   }
 
   const { countTop3, countWorst3, priceTop3, priceWorst3 } = useMemo(() => {
@@ -175,6 +447,17 @@ export default function Ranking() {
       priceWorst3: [...withPrice].reverse().slice(0, 3),
     }
   }, [items])
+
+  if (districtParam) {
+    return (
+      <DongDetail
+        district={districtParam}
+        dealYmd={searchParams.get('dealYmd') ?? dealYmd}
+        kind={searchParams.get('kind') ?? kind}
+        onBack={() => setSearchParams({})}
+      />
+    )
+  }
 
   const maxCount = items.length > 0 ? Math.max(...items.map(r => r.count)) : 1
   const selectedMonthLabel = `${dealYmd.slice(0, 4)}년 ${parseInt(dealYmd.slice(4))}월`
@@ -220,14 +503,17 @@ export default function Ranking() {
         <>
           {/* 요약 카드 */}
           <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
-            <SummaryCard title="거래량 증가 Top 3" entries={countTop3} isPositive={true} />
-            <SummaryCard title="거래량 감소 Worst 3" entries={countWorst3} isPositive={false} />
-            <SummaryCard title="평단가 상승 Top 3" entries={priceTop3} isPositive={true} />
-            <SummaryCard title="평단가 하락 Worst 3" entries={priceWorst3} isPositive={false} />
+            <SummaryCard title="거래량 증가 Top 3" entries={countTop3} />
+            <SummaryCard title="거래량 감소 Worst 3" entries={countWorst3} />
+            <SummaryCard title="평단가 상승 Top 3" entries={priceTop3} />
+            <SummaryCard title="평단가 하락 Worst 3" entries={priceWorst3} />
           </div>
 
           {/* 랭킹 테이블 */}
           <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden">
+            <div className="px-5 py-3 border-b border-[var(--border-color)]">
+              <span className="text-sm text-[var(--text-secondary)]">{selectedMonthLabel} 기준 · 구 클릭 시 동별 상세</span>
+            </div>
             <Table>
               <TableHeader>
                 <TableRow>
@@ -242,16 +528,14 @@ export default function Ranking() {
                 {items.map((r, i) => (
                   <TableRow
                     key={r.district}
-                    className={`cursor-pointer transition-colors hover:bg-[var(--bg-muted)] ${selectedDistrict === r.district ? 'bg-[var(--bg-muted)]' : ''}`}
+                    className="cursor-pointer transition-colors hover:bg-[var(--bg-muted)]"
                     onClick={() => handleDistrictClick(r.district)}
                   >
                     <TableCell className="font-medium text-[var(--text-secondary)]">{i + 1}</TableCell>
                     <TableCell className="font-medium">
                       <span className="flex items-center gap-1">
                         {r.district}
-                        {selectedDistrict === r.district && (
-                          <span className="text-[var(--text-muted)] text-xs">▾</span>
-                        )}
+                        <ChevronLeft className="h-3 w-3 rotate-180 text-[var(--text-muted)]" />
                       </span>
                     </TableCell>
                     <TableCell>
@@ -279,60 +563,6 @@ export default function Ranking() {
               </TableBody>
             </Table>
           </div>
-
-          {/* 동별 히트맵 패널 */}
-          {selectedDistrict && (
-            <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden">
-              <div className="px-5 py-3 border-b border-[var(--border-color)] flex items-start justify-between gap-4">
-                <div>
-                  <h2 className="font-semibold text-[var(--text-primary)]">
-                    {selectedDistrict} 동별 평단가 — {selectedMonthLabel}
-                  </h2>
-                  <div className="flex items-center gap-1.5 mt-2 flex-wrap">
-                    {TIERS.map(t => (
-                      <span key={t.label} className={`px-2 py-0.5 rounded text-xs font-medium ${t.badgeBg} ${t.badgeText}`}>
-                        {t.label}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-                <button
-                  onClick={() => { setSelectedDistrict(null); setDongItems([]) }}
-                  className="shrink-0 text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors text-base leading-none mt-0.5"
-                  aria-label="닫기"
-                >
-                  ✕
-                </button>
-              </div>
-              <div className="p-4">
-                {dongLoading ? (
-                  <p className="text-sm text-center text-[var(--text-muted)] py-8">조회 중...</p>
-                ) : dongItems.length === 0 ? (
-                  <p className="text-sm text-center text-[var(--text-muted)] py-8">거래 데이터가 없습니다.</p>
-                ) : (
-                  <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                    {dongItems.map(item => {
-                      const tier = getTier(item.avgPricePerPyeong10k)
-                      return (
-                        <div
-                          key={item.dong}
-                          className="rounded-lg border border-[var(--border-color)] bg-[var(--bg-surface)] p-3 space-y-1"
-                        >
-                          <span className={`inline-block px-1.5 py-0.5 rounded text-xs font-semibold ${tier.badgeBg} ${tier.badgeText}`}>
-                            {tier.label}
-                          </span>
-                          <div className="font-semibold text-sm text-[var(--text-primary)]">{item.dong}</div>
-                          <div className="text-xs text-[var(--text-secondary)]">
-                            {(item.avgPricePerPyeong10k / 10000).toFixed(2)}억/평
-                          </div>
-                        </div>
-                      )
-                    })}
-                  </div>
-                )}
-              </div>
-            </div>
-          )}
         </>
       )}
     </div>
