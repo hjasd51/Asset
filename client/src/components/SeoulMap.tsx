@@ -2,13 +2,16 @@ import { Fragment, useState } from 'react'
 import { ComposableMap, Geographies, Geography, Annotation } from 'react-simple-maps'
 
 export type HeatmapMode = 'tier' | 'countChange' | 'priceChange'
+export type CompareMode = 'prevMonth' | 'prevYear'
 
 export interface DistrictMapData {
   district: string
   count: number
   countPrevMonth: number | null
+  countPrevYear: number | null
   avgPricePerPyeong10k: number
   avgPricePrevMonth: number | null
+  avgPricePrevYear: number | null
 }
 
 const GEO_URL = '/seoul-districts.geojson'
@@ -53,40 +56,48 @@ function getChangeFill(pct: number): string {
   return CHANGE_STEPS[CHANGE_STEPS.length - 1].fill
 }
 
-function getFill(mode: HeatmapMode, data: DistrictMapData | undefined): string {
+function getPrevCount(data: DistrictMapData, compareMode: CompareMode): number | null {
+  return compareMode === 'prevMonth' ? data.countPrevMonth : data.countPrevYear
+}
+
+function getPrevPrice(data: DistrictMapData, compareMode: CompareMode): number | null {
+  return compareMode === 'prevMonth' ? data.avgPricePrevMonth : data.avgPricePrevYear
+}
+
+function getFill(mode: HeatmapMode, compareMode: CompareMode, data: DistrictMapData | undefined): string {
   if (!data) return '#e5e7eb'
   if (mode === 'tier') return getTierFill(data.avgPricePerPyeong10k)
   if (mode === 'countChange') {
-    if (!data.countPrevMonth) return '#e5e7eb'
-    return getChangeFill(((data.count - data.countPrevMonth) / data.countPrevMonth) * 100)
+    const prev = getPrevCount(data, compareMode)
+    if (!prev) return '#e5e7eb'
+    return getChangeFill(((data.count - prev) / prev) * 100)
   }
   if (mode === 'priceChange') {
-    if (!data.avgPricePrevMonth) return '#e5e7eb'
-    return getChangeFill(((data.avgPricePerPyeong10k - data.avgPricePrevMonth) / data.avgPricePrevMonth) * 100)
+    const prev = getPrevPrice(data, compareMode)
+    if (!prev) return '#e5e7eb'
+    return getChangeFill(((data.avgPricePerPyeong10k - prev) / prev) * 100)
   }
   return '#e5e7eb'
 }
 
-// 모드별 레이블 값 (구 이름 아래 두 번째 줄)
-function getValueLabel(mode: HeatmapMode, data: DistrictMapData | undefined): string {
+function getValueLabel(mode: HeatmapMode, compareMode: CompareMode, data: DistrictMapData | undefined): string {
   if (!data) return ''
-  if (mode === 'tier') {
-    return getTierShort(data.avgPricePerPyeong10k)
-  }
+  if (mode === 'tier') return getTierShort(data.avgPricePerPyeong10k)
   if (mode === 'countChange') {
-    if (!data.countPrevMonth) return '-'
-    const pct = ((data.count - data.countPrevMonth) / data.countPrevMonth) * 100
+    const prev = getPrevCount(data, compareMode)
+    if (!prev) return '-'
+    const pct = ((data.count - prev) / prev) * 100
     return `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
   }
   if (mode === 'priceChange') {
-    if (!data.avgPricePrevMonth) return '-'
-    const pct = ((data.avgPricePerPyeong10k - data.avgPricePrevMonth) / data.avgPricePrevMonth) * 100
+    const prev = getPrevPrice(data, compareMode)
+    if (!prev) return '-'
+    const pct = ((data.avgPricePerPyeong10k - prev) / prev) * 100
     return `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
   }
   return ''
 }
 
-// 폴리곤/멀티폴리곤 바운딩박스 중심 계산
 function getCentroid(geometry: { type: string; coordinates: unknown }): [number, number] {
   let ring: number[][]
   if (geometry.type === 'Polygon') {
@@ -110,15 +121,15 @@ interface HoverInfo {
 
 interface Props {
   mode: HeatmapMode
+  compareMode: CompareMode
   districtMap: Map<string, DistrictMapData>
 }
 
-export default function SeoulMap({ mode, districtMap }: Props) {
+export default function SeoulMap({ mode, compareMode, districtMap }: Props) {
   const [hovered, setHovered] = useState<HoverInfo | null>(null)
 
   return (
     <div className="flex flex-col gap-3">
-      {/* 지도 — 카드 전체 너비 */}
       <div className="relative" style={{ aspectRatio: '1.35' }}>
         <ComposableMap
           projection="geoMercator"
@@ -132,7 +143,7 @@ export default function SeoulMap({ mode, districtMap }: Props) {
                 {geographies.map((geo) => {
                   const name: string = geo.properties.name
                   const data = districtMap.get(name)
-                  const fill = getFill(mode, data)
+                  const fill = getFill(mode, compareMode, data)
                   return (
                     <Geography
                       key={geo.rsmKey}
@@ -155,7 +166,7 @@ export default function SeoulMap({ mode, districtMap }: Props) {
                   const name: string = geo.properties.name
                   const data = districtMap.get(name)
                   const centroid = getCentroid(geo.geometry as { type: string; coordinates: unknown })
-                  const valueLabel = getValueLabel(mode, data)
+                  const valueLabel = getValueLabel(mode, compareMode, data)
                   return (
                     <Annotation key={`lbl-${geo.rsmKey}`} subject={centroid} dx={0} dy={0} connectorProps={{ stroke: 'none' }}>
                       <text textAnchor="middle" style={{ pointerEvents: 'none' }}>
@@ -196,7 +207,7 @@ export default function SeoulMap({ mode, districtMap }: Props) {
 
         {/* 호버 정보 오버레이 */}
         {hovered && hovered.data && (
-          <HoverPanel name={hovered.name} data={hovered.data} mode={mode} />
+          <HoverPanel name={hovered.name} data={hovered.data} mode={mode} compareMode={compareMode} />
         )}
       </div>
 
@@ -208,18 +219,25 @@ export default function SeoulMap({ mode, districtMap }: Props) {
   )
 }
 
-function HoverPanel({ name, data, mode }: { name: string; data: DistrictMapData; mode: HeatmapMode }) {
+function HoverPanel({ name, data, mode, compareMode }: { name: string; data: DistrictMapData; mode: HeatmapMode; compareMode: CompareMode }) {
   const price = data.avgPricePerPyeong10k
   const priceStr = `${(price / 10000).toFixed(2)}억/평`
   const tierLabel = getTierShort(price)
+  const compareLabel = compareMode === 'prevMonth' ? '전월비' : '전년비'
 
   let changeStr = '-'
-  if (mode === 'countChange' && data.countPrevMonth) {
-    const pct = ((data.count - data.countPrevMonth) / data.countPrevMonth) * 100
-    changeStr = `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
-  } else if (mode === 'priceChange' && data.avgPricePrevMonth) {
-    const pct = ((price - data.avgPricePrevMonth) / data.avgPricePrevMonth) * 100
-    changeStr = `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
+  if (mode === 'countChange') {
+    const prev = getPrevCount(data, compareMode)
+    if (prev) {
+      const pct = ((data.count - prev) / prev) * 100
+      changeStr = `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
+    }
+  } else if (mode === 'priceChange') {
+    const prev = getPrevPrice(data, compareMode)
+    if (prev) {
+      const pct = ((price - prev) / prev) * 100
+      changeStr = `${pct >= 0 ? '▲' : '▼'}${Math.abs(pct).toFixed(1)}%`
+    }
   }
 
   return (
@@ -240,7 +258,7 @@ function HoverPanel({ name, data, mode }: { name: string; data: DistrictMapData;
         </div>
         {mode !== 'tier' && (
           <div className="flex justify-between gap-3 pt-0.5 border-t border-[var(--border-color)]">
-            <span className="text-[var(--text-muted)]">전월비</span>
+            <span className="text-[var(--text-muted)]">{compareLabel}</span>
             <span className={`font-semibold ${changeStr.startsWith('▲') ? 'text-rose-500' : changeStr.startsWith('▼') ? 'text-blue-500' : 'text-[var(--text-muted)]'}`}>
               {changeStr}
             </span>

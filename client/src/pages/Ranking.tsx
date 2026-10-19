@@ -22,8 +22,10 @@ import { API_BASE } from '@/lib/api'
 ChartJS.register(CategoryScale, LinearScale, LineController, LineElement, PointElement, Tooltip, Filler)
 
 const now = new Date()
-const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
-const prevMonthYear = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear()
+// 신고기한(30일) 특성상 당월·직전월은 데이터 미완이므로 2개월 전 기준 사용
+const refDate = new Date(now.getFullYear(), now.getMonth() - 2, 1)
+const prevMonth = refDate.getMonth() + 1
+const prevMonthYear = refDate.getFullYear()
 const MONTHS: string[] = []
 for (let y = 2021; y <= prevMonthYear; y++) {
   const lastMonth = y === prevMonthYear ? prevMonth : 12

@@ -1,11 +1,12 @@
 import { useState, useMemo, useEffect } from 'react'
-import SeoulMap, { type HeatmapMode, type DistrictMapData } from '@/components/SeoulMap'
+import SeoulMap, { type HeatmapMode, type CompareMode, type DistrictMapData } from '@/components/SeoulMap'
 import { API_BASE } from '@/lib/api'
 
-// Ranking.tsx와 동일한 MONTHS 계산
 const now = new Date()
-const prevMonth = now.getMonth() === 0 ? 12 : now.getMonth()
-const prevMonthYear = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear()
+// 신고기한(30일) 특성상 당월·직전월은 데이터 미완이므로 2개월 전 기준 사용
+const refDate = new Date(now.getFullYear(), now.getMonth() - 2, 1)
+const prevMonth = refDate.getMonth() + 1
+const prevMonthYear = refDate.getFullYear()
 const MONTHS: string[] = []
 for (let y = 2021; y <= prevMonthYear; y++) {
   const lastMonth = y === prevMonthYear ? prevMonth : 12
@@ -28,8 +29,10 @@ interface RankingItem {
   district: string
   count: number
   countPrevMonth: number | null
+  countPrevYear: number | null
   avgPricePerPyeong10k: number
   avgPricePrevMonth: number | null
+  avgPricePrevYear: number | null
 }
 
 function formatYmd(ymd: string): string {
@@ -44,14 +47,17 @@ function formatPrice(p: number): string {
   return `${(p / 10000).toFixed(2)}억/평`
 }
 
-function PctBadge({ current, prev }: { current: number; prev: number }) {
-  if (!prev) return <span className="text-[var(--text-muted)] text-xs">-</span>
+function PctBadge({ current, prev, label }: { current: number; prev: number; label: string }) {
+  if (!prev) return null
   const pct = ((current - prev) / prev) * 100
-  if (Math.abs(pct) < 0.05) return <span className="text-[var(--text-muted)] text-xs">-</span>
+  if (Math.abs(pct) < 0.05) return null
   const up = pct > 0
   return (
-    <span className={`text-xs font-medium ${up ? 'text-rose-500' : 'text-blue-500'}`}>
-      {up ? '▲' : '▼'}{Math.abs(pct).toFixed(1)}%
+    <span className="flex items-center gap-0.5 text-xs">
+      <span className="text-[var(--text-muted)]">{label}</span>
+      <span className={`font-medium ${up ? 'text-rose-500' : 'text-blue-500'}`}>
+        {up ? '▲' : '▼'}{Math.abs(pct).toFixed(1)}%
+      </span>
     </span>
   )
 }
@@ -65,6 +71,7 @@ const MODE_LABELS: Record<HeatmapMode, string> = {
 export default function Home() {
   const dealYmd = useMemo(() => MONTHS[MONTHS.length - 1], [])
   const [mode, setMode] = useState<HeatmapMode>('tier')
+  const [compareMode, setCompareMode] = useState<CompareMode>('prevMonth')
   const [summary, setSummary] = useState<SeoulSummary | null>(null)
   const [districtList, setDistrictList] = useState<RankingItem[]>([])
   const [loading, setLoading] = useState(true)
@@ -89,8 +96,10 @@ export default function Home() {
         district: item.district,
         count: item.count,
         countPrevMonth: item.countPrevMonth,
+        countPrevYear: item.countPrevYear,
         avgPricePerPyeong10k: item.avgPricePerPyeong10k,
         avgPricePrevMonth: item.avgPricePrevMonth,
+        avgPricePrevYear: item.avgPricePrevYear,
       })
     }
     return m
@@ -111,54 +120,58 @@ export default function Home() {
         <SummaryCard
           title="서울 전체 거래량"
           value={summary ? formatCount(summary.count) : '-'}
-          pct={
-            summary
-              ? { current: summary.count, prev: summary.countPrevMonth }
-              : null
-          }
-          sub={
-            summary && summary.countPrevYear
-              ? `전년동기 ${formatCount(summary.countPrevYear)}`
-              : undefined
-          }
+          prevMonth={summary ? { current: summary.count, prev: summary.countPrevMonth } : null}
+          prevYear={summary ? { current: summary.count, prev: summary.countPrevYear } : null}
           loading={loading}
         />
         <SummaryCard
           title="서울 평균 평단가"
           value={summary ? formatPrice(summary.avgPricePerPyeong10k) : '-'}
-          pct={
-            summary
-              ? { current: summary.avgPricePerPyeong10k, prev: summary.avgPricePrevMonth }
-              : null
-          }
-          sub={
-            summary && summary.avgPricePrevYear
-              ? `전년동기 ${formatPrice(summary.avgPricePrevYear)}`
-              : undefined
-          }
+          prevMonth={summary ? { current: summary.avgPricePerPyeong10k, prev: summary.avgPricePrevMonth } : null}
+          prevYear={summary ? { current: summary.avgPricePerPyeong10k, prev: summary.avgPricePrevYear } : null}
           loading={loading}
         />
       </div>
 
       {/* 2열 레이아웃: 지도(좌) + Session 3 예정(우) */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 items-start">
-        {/* 좌: 히트맵 지도 — 카드 테두리만, 내부 패딩 없이 지도 꽉 채움 */}
+        {/* 좌: 히트맵 지도 */}
         <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden">
-          {/* 모드 탭 */}
-          <div className="flex gap-1 px-4 pt-3 pb-2">
-            {(Object.keys(MODE_LABELS) as HeatmapMode[]).map((m) => (
-              <button
-                key={m}
-                onClick={() => setMode(m)}
-                className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
-                  mode === m
-                    ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
-                    : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
-                }`}
-              >
-                {MODE_LABELS[m]}
-              </button>
-            ))}
+          {/* 모드 탭 + 전월/전년 토글 */}
+          <div className="flex items-center justify-between px-4 pt-3 pb-2">
+            <div className="flex gap-1">
+              {(Object.keys(MODE_LABELS) as HeatmapMode[]).map((m) => (
+                <button
+                  key={m}
+                  onClick={() => setMode(m)}
+                  className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+                    mode === m
+                      ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
+                      : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
+                  }`}
+                >
+                  {MODE_LABELS[m]}
+                </button>
+              ))}
+            </div>
+
+            {/* 전월/전년 토글 — 급지 모드에서는 비활성 */}
+            <div className={`flex gap-1 ${mode === 'tier' ? 'opacity-30 pointer-events-none' : ''}`}>
+              {(['prevMonth', 'prevYear'] as CompareMode[]).map((cm) => (
+                <button
+                  key={cm}
+                  onClick={() => setCompareMode(cm)}
+                  disabled={mode === 'tier'}
+                  className={`px-2.5 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+                    compareMode === cm && mode !== 'tier'
+                      ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
+                      : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
+                  }`}
+                >
+                  {cm === 'prevMonth' ? '전월' : '전년'}
+                </button>
+              ))}
+            </div>
           </div>
 
           {loading ? (
@@ -166,7 +179,7 @@ export default function Home() {
               <span className="text-sm text-[var(--text-muted)]">불러오는 중...</span>
             </div>
           ) : (
-            <SeoulMap mode={mode} districtMap={districtMap} />
+            <SeoulMap mode={mode} compareMode={compareMode} districtMap={districtMap} />
           )}
         </div>
 
@@ -182,12 +195,12 @@ export default function Home() {
 interface SummaryCardProps {
   title: string
   value: string
-  pct: { current: number; prev: number } | null
-  sub?: string
+  prevMonth: { current: number; prev: number } | null
+  prevYear: { current: number; prev: number } | null
   loading: boolean
 }
 
-function SummaryCard({ title, value, pct, sub, loading }: SummaryCardProps) {
+function SummaryCard({ title, value, prevMonth, prevYear, loading }: SummaryCardProps) {
   return (
     <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4">
       <p className="text-xs font-medium text-[var(--text-secondary)] mb-1">{title}</p>
@@ -196,9 +209,9 @@ function SummaryCard({ title, value, pct, sub, loading }: SummaryCardProps) {
       ) : (
         <>
           <p className="text-xl font-bold text-[var(--text-primary)] leading-tight">{value}</p>
-          <div className="flex items-center gap-1.5 mt-1">
-            {pct && <PctBadge current={pct.current} prev={pct.prev} />}
-            {sub && <span className="text-xs text-[var(--text-muted)]">{sub}</span>}
+          <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5 mt-1">
+            {prevMonth && <PctBadge current={prevMonth.current} prev={prevMonth.prev} label="전월비" />}
+            {prevYear && <PctBadge current={prevYear.current} prev={prevYear.prev} label="전년비" />}
           </div>
         </>
       )}
