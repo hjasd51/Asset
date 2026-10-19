@@ -568,9 +568,9 @@ export default function Ranking() {
 
           {/* 데이터 기준 안내 */}
           <p className="text-xs text-[var(--text-muted)] px-1">
-            출처: 국토교통부 실거래가 공개시스템 &nbsp;·&nbsp; {selectedMonthLabel} 실거래 신고 기준
+            출처: 국토교통부 실거래가 공개시스템 &nbsp;·&nbsp; {selectedMonthLabel} 계약 기준 (신고 완료 건만 집계)
             &nbsp;·&nbsp; 전월비: 직전월 대비 / 전년비: 전년 동월 대비
-            &nbsp;·&nbsp; 신고기한(30일) 특성상 최근 2개월은 집계 미완 — 2개월 전 기준 적용
+            &nbsp;·&nbsp; 신고기한(30일) 내 미신고 건 누락으로 최근 2개월 집계 미완 — 2개월 전 기준 적용
           </p>
         </>
       )}
