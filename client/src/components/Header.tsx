@@ -10,6 +10,7 @@ const navItems = [
   { to: '/complex', label: '단지 시세' },
   { to: '/apartments', label: '아파트 목록' },
   { to: '/loan', label: '대출 시뮬레이터' },
+  { to: '/cache-viewer', label: '캐시 뷰어' },
 ]
 
 export default function Header() {

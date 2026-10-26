@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "concurrently \"node server.js\" \"npm run dev --prefix client\"",
     "build": "npm install --prefix client && npm run build --prefix client",
+    "build-cache": "node scripts/build-time-series-cache.js",
     "start": "node server.js"
   },
   "dependencies": {

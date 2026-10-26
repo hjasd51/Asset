@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react'
 import SeoulMap, { type HeatmapMode, type CompareMode, type DistrictMapData } from '@/components/SeoulMap'
+import SeoulTrendChart from '@/components/SeoulTrendChart'
 import { API_BASE } from '@/lib/api'
 
 const now = new Date()
@@ -187,6 +188,15 @@ export default function Home() {
         <div className="rounded-xl border border-dashed border-[var(--border-color)] bg-[var(--bg-surface)] p-4 flex items-center justify-center min-h-[300px]">
           <p className="text-sm text-[var(--text-muted)]">준비 중</p>
         </div>
+      </div>
+
+      {/* 서울 전체 월별 추이 */}
+      <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4 mt-4">
+        <h2 className="text-sm font-semibold text-[var(--text-primary)] mb-3">서울 전체 월별 추이</h2>
+        <SeoulTrendChart />
+        <p className="text-[10px] text-[var(--text-muted)] mt-2">
+          2021.01~최신 백필월까지 표시 · 최근 1~2개월은 신고기한 미완으로 낮게 집계될 수 있음
+        </p>
       </div>
 
       {/* 데이터 기준 안내 */}

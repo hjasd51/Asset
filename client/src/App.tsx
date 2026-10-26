@@ -6,6 +6,7 @@ import Ranking from '@/pages/Ranking'
 import Complex from '@/pages/Complex'
 import Apartments from '@/pages/Apartments'
 import Loan from '@/pages/Loan'
+import CacheViewer from '@/pages/CacheViewer'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/complex" element={<Complex />} />
           <Route path="/apartments" element={<Apartments />} />
           <Route path="/loan" element={<Loan />} />
+          <Route path="/cache-viewer" element={<CacheViewer />} />
         </Routes>
       </main>
     </BrowserRouter>
