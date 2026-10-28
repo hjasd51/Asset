@@ -15,8 +15,18 @@ import {
 } from 'chart.js'
 import { Chart } from 'react-chartjs-2'
 import { API_BASE } from '@/lib/api'
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+import { Button } from '@/components/ui/button'
 
 ChartJS.register(CategoryScale, LinearScale, BarController, BarElement, LineController, PointElement, LineElement, Tooltip, Legend)
+
+const DISTRICTS = [
+  '강남구','강동구','강북구','강서구','관악구','광진구','구로구','금천구',
+  '노원구','도봉구','동대문구','동작구','마포구','서대문구','서초구','성동구',
+  '성북구','송파구','양천구','영등포구','용산구','은평구','종로구','중구','중랑구',
+]
+
+type Period = '1y' | '3y' | 'all'
 
 interface SeoulTrendItem {
   dealYmd: string
@@ -24,12 +34,13 @@ interface SeoulTrendItem {
   avgPricePerPyeong10k: number
 }
 
-interface SeoulTrendChartProps {
-  kind?: 'trade' | 'jeonse'
-}
-
 function formatEok(p10k: number): string {
   return (p10k / 10000).toFixed(1)
+}
+
+function yoyYmd(ymd: string): string {
+  const year = Number(ymd.slice(0, 4)) - 1
+  return `${year}${ymd.slice(4, 6)}`
 }
 
 // ─── x축 연도 라벨 플러그인 (연도를 해당 연도 틱 범위 중앙에 표시) ───────────
@@ -86,7 +97,11 @@ const xYearLabelPlugin = {
   },
 }
 
-export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps) {
+export default function SeoulTrendChart() {
+  const [kind, setKind] = useState<'trade' | 'jeonse'>('trade')
+  const [scope, setScope] = useState<string>('')
+  const [period, setPeriod] = useState<Period>('all')
+  const [showYoY, setShowYoY] = useState(false)
   const [items, setItems] = useState<SeoulTrendItem[]>([])
   const [loading, setLoading] = useState(true)
   const [isDark, setIsDark] = useState(() => document.documentElement.classList.contains('dark'))
@@ -101,11 +116,14 @@ export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps
 
   useEffect(() => {
     setLoading(true)
-    fetch(`${API_BASE}/api/analytics/seoul-time-series?kind=${kind}`)
+    const url = scope
+      ? `${API_BASE}/api/analytics/district-time-series?district=${encodeURIComponent(scope)}&kind=${kind}`
+      : `${API_BASE}/api/analytics/seoul-time-series?kind=${kind}`
+    fetch(url)
       .then((r) => r.json())
       .then((data: SeoulTrendItem[]) => setItems(data))
       .finally(() => setLoading(false))
-  }, [kind])
+  }, [kind, scope])
 
   const chartColors = useMemo(() => {
     const cs = getComputedStyle(document.documentElement)
@@ -116,10 +134,31 @@ export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps
     }
   }, [isDark])
 
-  const months = useMemo(() => items.map((i) => i.dealYmd), [items])
-  const avgData = useMemo(() => items.map((i) => i.avgPricePerPyeong10k), [items])
-  const volumeData = useMemo(() => items.map((i) => i.count), [items])
+  const byYmd = useMemo(() => new Map(items.map((i) => [i.dealYmd, i.avgPricePerPyeong10k])), [items])
+
+  const displayed = useMemo(() => {
+    if (period === 'all') return items
+    const n = period === '1y' ? 12 : 36
+    return items.slice(-n)
+  }, [items, period])
+
+  const months = useMemo(() => displayed.map((i) => i.dealYmd), [displayed])
+  const avgData = useMemo(() => displayed.map((i) => i.avgPricePerPyeong10k), [displayed])
+  const volumeData = useMemo(() => displayed.map((i) => i.count), [displayed])
+  const yoyData = useMemo(
+    () => displayed.map((i) => byYmd.get(yoyYmd(i.dealYmd)) ?? null),
+    [displayed, byYmd]
+  )
   const maxVol = Math.max(0, ...volumeData)
+
+  // 평단가 축: 전체 범위(0~최대)가 아니라 실제 데이터 범위에 여백만 살짝 두고 타이트하게 잡아서
+  // 미세한 변동도 눈에 띄도록 함 (기본 auto-scale은 여백이 커서 선이 평평해 보임)
+  const priceValues = [...avgData, ...(showYoY ? yoyData : [])].filter(
+    (v): v is number => typeof v === 'number'
+  )
+  const priceMin = priceValues.length ? Math.min(...priceValues) : 0
+  const priceMax = priceValues.length ? Math.max(...priceValues) : 1
+  const pricePad = Math.max((priceMax - priceMin) * 0.15, priceMax * 0.03, 1)
 
   const chartOptions: ChartOptions = {
     responsive: true,
@@ -142,6 +181,8 @@ export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps
       },
       price: {
         type: 'linear', position: 'left',
+        min: Math.max(0, priceMin - pricePad),
+        max: priceMax + pricePad,
         title: { display: true, text: '평단가(억)', color: chartColors.axisTitle },
         grid: { color: chartColors.grid },
         ticks: {
@@ -151,14 +192,17 @@ export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps
       },
       volume: {
         type: 'linear', position: 'right',
-        min: 0, max: maxVol > 0 ? maxVol / 0.25 : 4,
+        min: 0, max: maxVol > 0 ? maxVol / 0.6 : 4,
         ticks: { precision: 0, color: chartColors.tickLabel },
         grid: { drawOnChartArea: false },
         title: { display: true, text: '거래량(건)', color: chartColors.axisTitle },
       },
     },
     plugins: {
-      legend: { display: false },
+      legend: {
+        display: showYoY,
+        labels: { color: chartColors.axisTitle, boxWidth: 12, usePointStyle: true },
+      },
       tooltip: {
         callbacks: {
           title: (ctx) => {
@@ -167,54 +211,114 @@ export default function SeoulTrendChart({ kind = 'trade' }: SeoulTrendChartProps
           },
           label: (ctx) => ctx.dataset.type === 'bar'
             ? `거래량: ${ctx.parsed.y}건`
-            : `평단가: ${formatEok(ctx.parsed.y ?? 0)}억`,
+            : `${ctx.dataset.label}: ${formatEok(ctx.parsed.y ?? 0)}억`,
         },
       },
     },
   }
 
-  if (loading) {
-    return (
-      <div className="flex items-center justify-center h-64">
-        <span className="text-sm text-[var(--text-muted)]">불러오는 중...</span>
-      </div>
-    )
-  }
-
   return (
-    <div className="h-64">
-      <Chart
-        type="bar"
-        data={{
-          labels: months,
-          datasets: [
-            {
-              type: 'bar',
-              label: '거래량(건)',
-              data: volumeData,
-              yAxisID: 'volume',
-              backgroundColor: '#64748b26',
-              borderColor: '#64748b80',
-              borderWidth: 1,
-              order: 1,
-            },
-            {
-              type: 'line',
-              label: '평단가',
-              data: avgData,
-              yAxisID: 'price',
-              borderColor: '#92400e',
-              backgroundColor: '#92400e22',
-              pointRadius: 0,
-              spanGaps: true,
-              tension: 0.2,
-              order: 0,
-            },
-          ],
-        }}
-        options={chartOptions}
-        plugins={[xYearLabelPlugin]}
-      />
+    <div>
+      <div className="flex flex-wrap items-end gap-3 mb-3">
+        <div>
+          <label className="text-xs text-[var(--text-secondary)] block mb-1">종류</label>
+          <Select value={kind} onValueChange={(v) => setKind(v as 'trade' | 'jeonse')}>
+            <SelectTrigger className="w-24"><SelectValue /></SelectTrigger>
+            <SelectContent>
+              <SelectItem value="trade">매매</SelectItem>
+              <SelectItem value="jeonse">전세</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+        <div>
+          <label className="text-xs text-[var(--text-secondary)] block mb-1">지역</label>
+          <Select value={scope || '__seoul__'} onValueChange={(v) => setScope(v === '__seoul__' ? '' : v)}>
+            <SelectTrigger className="w-28"><SelectValue /></SelectTrigger>
+            <SelectContent>
+              <SelectItem value="__seoul__">서울 전체</SelectItem>
+              {DISTRICTS.map((d) => (
+                <SelectItem key={d} value={d}>{d}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+        </div>
+        <div>
+          <label className="text-xs text-[var(--text-secondary)] block mb-1">기간</label>
+          <Select value={period} onValueChange={(v) => setPeriod(v as Period)}>
+            <SelectTrigger className="w-24"><SelectValue /></SelectTrigger>
+            <SelectContent>
+              <SelectItem value="1y">최근 1년</SelectItem>
+              <SelectItem value="3y">최근 3년</SelectItem>
+              <SelectItem value="all">전체</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+        <Button
+          type="button"
+          variant={showYoY ? 'secondary' : 'outline'}
+          size="sm"
+          onClick={() => setShowYoY((v) => !v)}
+        >
+          전년 동월 비교
+        </Button>
+      </div>
+
+      {loading ? (
+        <div className="flex items-center justify-center h-64">
+          <span className="text-sm text-[var(--text-muted)]">불러오는 중...</span>
+        </div>
+      ) : (
+        <div className="h-64">
+          <Chart
+            type="bar"
+            data={{
+              labels: months,
+              datasets: [
+                {
+                  type: 'bar',
+                  label: '거래량(건)',
+                  data: volumeData,
+                  yAxisID: 'volume',
+                  backgroundColor: '#64748b26',
+                  borderColor: '#64748b80',
+                  borderWidth: 1,
+                  order: 1,
+                },
+                {
+                  type: 'line',
+                  label: '평단가',
+                  data: avgData,
+                  yAxisID: 'price',
+                  borderColor: '#92400e',
+                  backgroundColor: '#92400e22',
+                  pointRadius: 0,
+                  spanGaps: true,
+                  tension: 0.2,
+                  order: 0,
+                },
+                ...(showYoY
+                  ? [
+                      {
+                        type: 'line' as const,
+                        label: '평단가(전년 동월)',
+                        data: yoyData,
+                        yAxisID: 'price',
+                        borderColor: '#92400e80',
+                        borderDash: [4, 4],
+                        pointRadius: 0,
+                        spanGaps: true,
+                        tension: 0.2,
+                        order: 0,
+                      },
+                    ]
+                  : []),
+              ],
+            }}
+            options={chartOptions}
+            plugins={[xYearLabelPlugin]}
+          />
+        </div>
+      )}
     </div>
   )
 }

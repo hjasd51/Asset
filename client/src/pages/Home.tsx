@@ -190,9 +190,9 @@ export default function Home() {
         </div>
       </div>
 
-      {/* 서울 전체 월별 추이 */}
+      {/* 지역별 월별 추이 */}
       <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4 mt-4">
-        <h2 className="text-sm font-semibold text-[var(--text-primary)] mb-3">서울 전체 월별 추이</h2>
+        <h2 className="text-sm font-semibold text-[var(--text-primary)] mb-3">지역별 월별 추이</h2>
         <SeoulTrendChart />
         <p className="text-[10px] text-[var(--text-muted)] mt-2">
           2021.01~최신 백필월까지 표시 · 최근 1~2개월은 신고기한 미완으로 낮게 집계될 수 있음
