@@ -91,17 +91,17 @@ function makeYearTierPlugin(yearAvgPrice: Map<string, number>) {
       yearMap.forEach((xs, yy) => {
         if (!xs.length) return
         const cx = (Math.min(...xs) + Math.max(...xs)) / 2
-        ctx.fillText(`'${yy}`, cx, xScale.bottom - 30)
+        ctx.fillText(`'${yy}`, cx, xScale.bottom - 46)
       })
       ctx.restore()
 
       ctx.save()
       ctx.textAlign = 'center'
       ctx.textBaseline = 'middle'
-      ctx.font = 'bold 9px sans-serif'
-      const badgeW = 22
-      const badgeH = 13
-      const badgeCy = xScale.bottom - 10
+      ctx.font = 'bold 13px sans-serif'
+      const badgeW = 36
+      const badgeH = 22
+      const badgeCy = xScale.bottom - 18
       yearMap.forEach((xs, yy) => {
         if (!xs.length) return
         const avgPrice = yearAvgPrice.get(yy)
@@ -109,7 +109,7 @@ function makeYearTierPlugin(yearAvgPrice: Map<string, number>) {
         const cx = (Math.min(...xs) + Math.max(...xs)) / 2
         ctx.fillStyle = getTierFill(avgPrice)
         ctx.beginPath()
-        ctx.roundRect(cx - badgeW / 2, badgeCy - badgeH / 2, badgeW, badgeH, 3)
+        ctx.roundRect(cx - badgeW / 2, badgeCy - badgeH / 2, badgeW, badgeH, 4)
         ctx.fill()
         ctx.fillStyle = '#fff'
         ctx.fillText(getTierShort(avgPrice), cx, badgeCy + 0.5)
@@ -215,7 +215,7 @@ export default function SeoulTrendChart() {
             return ym ? ym.slice(4, 6) : ''
           },
         },
-        afterFit(scale: { height: number }) { scale.height += 36 },
+        afterFit(scale: { height: number }) { scale.height += 50 },
       },
       price: {
         type: 'linear', position: 'left',
