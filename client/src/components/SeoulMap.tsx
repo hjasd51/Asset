@@ -1,5 +1,6 @@
 import { Fragment, useState } from 'react'
 import { ComposableMap, Geographies, Geography, Annotation } from 'react-simple-maps'
+import { TIERS, getTierFill, getTierShort } from '@/lib/tier'
 
 export type HeatmapMode = 'tier' | 'countChange' | 'priceChange'
 export type CompareMode = 'prevMonth' | 'prevYear'
@@ -16,15 +17,6 @@ export interface DistrictMapData {
 
 const GEO_URL = '/seoul-districts.geojson'
 
-const TIERS = [
-  { min: 12000, fill: '#dc2626', label: '최상 (12억+)' },
-  { min: 7000,  fill: '#f97316', label: '상 (7~12억)' },
-  { min: 5000,  fill: '#eab308', label: '중상 (5~7억)' },
-  { min: 3500,  fill: '#84cc16', label: '중 (3.5~5억)' },
-  { min: 2500,  fill: '#38bdf8', label: '중하 (2.5~3.5억)' },
-  { min: 0,     fill: '#818cf8', label: '하 (~2.5억)' },
-]
-
 const CHANGE_STEPS = [
   { threshold: 5,         fill: '#ef4444' },
   { threshold: 2,         fill: '#f97316' },
@@ -40,16 +32,6 @@ const CHANGE_LEGEND = [
   { fill: '#60a5fa', label: '-2~-5%' },
   { fill: '#3b82f6', label: '-5% 이하' },
 ]
-
-function getTierFill(price: number): string {
-  for (const t of TIERS) if (price >= t.min) return t.fill
-  return TIERS[TIERS.length - 1].fill
-}
-
-function getTierShort(price: number): string {
-  for (const t of TIERS) if (price >= t.min) return t.label.split(' ')[0]
-  return '하'
-}
 
 function getChangeFill(pct: number): string {
   for (const s of CHANGE_STEPS) if (pct >= s.threshold) return s.fill

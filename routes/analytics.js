@@ -9,6 +9,7 @@ const {
   getDistrictTimeSeriesAll,
   getDongTimeSeriesAll,
   getApartmentTimeSeriesAll,
+  getDistrictYearlySummary,
   getCacheInfo,
   getCacheRows,
   searchComplexTimeSeries,
@@ -83,6 +84,11 @@ router.get("/apartment-time-series", (req, res) => {
     return res.status(400).json({ error: "district, dong, name을 입력해주세요." });
   }
   res.json(getApartmentTimeSeriesAll(district, dong, name, kind));
+});
+
+router.get("/district-yearly", (req, res) => {
+  const { kind = "trade" } = req.query;
+  res.json(getDistrictYearlySummary(kind));
 });
 
 router.get("/cache-info", (req, res) => {
