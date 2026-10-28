@@ -27,6 +27,11 @@ const DISTRICTS = [
   '성북구','송파구','양천구','영등포구','용산구','은평구','종로구','중구','중랑구',
 ]
 
+// 동 드롭다운 채우기용 — 신고기한(30일) 특성상 최근월은 데이터 미완이라 2개월 전 기준 사용
+const dongRefDate = new Date()
+dongRefDate.setMonth(dongRefDate.getMonth() - 2)
+const DONG_LIST_YMD = `${dongRefDate.getFullYear()}${String(dongRefDate.getMonth() + 1).padStart(2, '0')}`
+
 type Period = '1y' | '3y' | 'all'
 
 interface SeoulTrendItem {
@@ -122,6 +127,8 @@ function makeYearTierPlugin(yearAvgPrice: Map<string, number>) {
 export default function SeoulTrendChart() {
   const [kind, setKind] = useState<'trade' | 'jeonse'>('trade')
   const [scope, setScope] = useState<string>('')
+  const [dong, setDong] = useState<string>('')
+  const [dongOptions, setDongOptions] = useState<string[]>([])
   const [period, setPeriod] = useState<Period>('all')
   const [showYoY, setShowYoY] = useState(false)
   const [items, setItems] = useState<SeoulTrendItem[]>([])
@@ -137,15 +144,33 @@ export default function SeoulTrendChart() {
   }, [])
 
   useEffect(() => {
+    setDong('')
+  }, [scope])
+
+  useEffect(() => {
+    if (!scope) {
+      setDongOptions([])
+      return
+    }
+    fetch(`${API_BASE}/api/analytics/dong-ranking?district=${encodeURIComponent(scope)}&dealYmd=${DONG_LIST_YMD}&kind=${kind}`)
+      .then((r) => r.json())
+      .then((data: { dong: string }[]) => setDongOptions(data.map((d) => d.dong).sort((a, b) => a.localeCompare(b, 'ko'))))
+      .catch(() => setDongOptions([]))
+  }, [scope, kind])
+
+  useEffect(() => {
     setLoading(true)
-    const url = scope
-      ? `${API_BASE}/api/analytics/district-time-series?district=${encodeURIComponent(scope)}&kind=${kind}`
-      : `${API_BASE}/api/analytics/seoul-time-series?kind=${kind}`
+    const url =
+      scope && dong
+        ? `${API_BASE}/api/analytics/dong-time-series-all?district=${encodeURIComponent(scope)}&dong=${encodeURIComponent(dong)}&kind=${kind}`
+        : scope
+        ? `${API_BASE}/api/analytics/district-time-series?district=${encodeURIComponent(scope)}&kind=${kind}`
+        : `${API_BASE}/api/analytics/seoul-time-series?kind=${kind}`
     fetch(url)
       .then((r) => r.json())
       .then((data: SeoulTrendItem[]) => setItems(data))
       .finally(() => setLoading(false))
-  }, [kind, scope])
+  }, [kind, scope, dong])
 
   const chartColors = useMemo(() => {
     const cs = getComputedStyle(document.documentElement)
@@ -280,6 +305,20 @@ export default function SeoulTrendChart() {
             </SelectContent>
           </Select>
         </div>
+        {scope && dongOptions.length > 0 && (
+          <div>
+            <label className="text-xs text-[var(--text-secondary)] block mb-1">동</label>
+            <Select value={dong || '__all__'} onValueChange={(v) => setDong(v === '__all__' ? '' : v)}>
+              <SelectTrigger className="w-28"><SelectValue /></SelectTrigger>
+              <SelectContent>
+                <SelectItem value="__all__">{scope} 전체</SelectItem>
+                {dongOptions.map((d) => (
+                  <SelectItem key={d} value={d}>{d}</SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+        )}
         <div>
           <label className="text-xs text-[var(--text-secondary)] block mb-1">기간</label>
           <Select value={period} onValueChange={(v) => setPeriod(v as Period)}>

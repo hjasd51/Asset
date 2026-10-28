@@ -134,60 +134,52 @@ export default function Home() {
         />
       </div>
 
-      {/* 2열 레이아웃: 지도(좌) + Session 3 예정(우) */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 items-start">
-        {/* 좌: 히트맵 지도 */}
-        <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden">
-          {/* 모드 탭 + 전월/전년 토글 */}
-          <div className="flex items-center justify-between px-4 pt-3 pb-2">
-            <div className="flex gap-1">
-              {(Object.keys(MODE_LABELS) as HeatmapMode[]).map((m) => (
-                <button
-                  key={m}
-                  onClick={() => setMode(m)}
-                  className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
-                    mode === m
-                      ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
-                      : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
-                  }`}
-                >
-                  {MODE_LABELS[m]}
-                </button>
-              ))}
-            </div>
-
-            {/* 전월/전년 토글 — 급지 모드에서는 비활성 */}
-            <div className={`flex gap-1 ${mode === 'tier' ? 'opacity-30 pointer-events-none' : ''}`}>
-              {(['prevMonth', 'prevYear'] as CompareMode[]).map((cm) => (
-                <button
-                  key={cm}
-                  onClick={() => setCompareMode(cm)}
-                  disabled={mode === 'tier'}
-                  className={`px-2.5 py-1.5 rounded-lg text-xs font-medium transition-colors ${
-                    compareMode === cm && mode !== 'tier'
-                      ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
-                      : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
-                  }`}
-                >
-                  {cm === 'prevMonth' ? '전월' : '전년'}
-                </button>
-              ))}
-            </div>
+      {/* 구별 히트맵 지도 */}
+      <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] overflow-hidden lg:max-w-xl">
+        {/* 모드 탭 + 전월/전년 토글 */}
+        <div className="flex items-center justify-between px-4 pt-3 pb-2">
+          <div className="flex gap-1">
+            {(Object.keys(MODE_LABELS) as HeatmapMode[]).map((m) => (
+              <button
+                key={m}
+                onClick={() => setMode(m)}
+                className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+                  mode === m
+                    ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
+                    : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
+                }`}
+              >
+                {MODE_LABELS[m]}
+              </button>
+            ))}
           </div>
 
-          {loading ? (
-            <div className="flex items-center justify-center" style={{ aspectRatio: '1.35' }}>
-              <span className="text-sm text-[var(--text-muted)]">불러오는 중...</span>
-            </div>
-          ) : (
-            <SeoulMap mode={mode} compareMode={compareMode} districtMap={districtMap} />
-          )}
+          {/* 전월/전년 토글 — 급지 모드에서는 비활성 */}
+          <div className={`flex gap-1 ${mode === 'tier' ? 'opacity-30 pointer-events-none' : ''}`}>
+            {(['prevMonth', 'prevYear'] as CompareMode[]).map((cm) => (
+              <button
+                key={cm}
+                onClick={() => setCompareMode(cm)}
+                disabled={mode === 'tier'}
+                className={`px-2.5 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+                  compareMode === cm && mode !== 'tier'
+                    ? 'bg-[var(--text-primary)] text-[var(--bg-surface)]'
+                    : 'text-[var(--text-secondary)] hover:bg-[var(--bg-muted)]'
+                }`}
+              >
+                {cm === 'prevMonth' ? '전월' : '전년'}
+              </button>
+            ))}
+          </div>
         </div>
 
-        {/* 우: Session 3 예정 영역 */}
-        <div className="rounded-xl border border-dashed border-[var(--border-color)] bg-[var(--bg-surface)] p-4 flex items-center justify-center min-h-[300px]">
-          <p className="text-sm text-[var(--text-muted)]">준비 중</p>
-        </div>
+        {loading ? (
+          <div className="flex items-center justify-center" style={{ aspectRatio: '1.35' }}>
+            <span className="text-sm text-[var(--text-muted)]">불러오는 중...</span>
+          </div>
+        ) : (
+          <SeoulMap mode={mode} compareMode={compareMode} districtMap={districtMap} />
+        )}
       </div>
 
       {/* 지역별 월별 추이 */}
