@@ -1,7 +1,6 @@
 import { useState, useMemo, useEffect } from 'react'
 import SeoulMap, { type HeatmapMode, type CompareMode, type DistrictMapData } from '@/components/SeoulMap'
 import SeoulTrendChart from '@/components/SeoulTrendChart'
-import DistrictTierHeatmapTable from '@/components/DistrictTierHeatmapTable'
 import { API_BASE } from '@/lib/api'
 
 const now = new Date()
@@ -185,10 +184,9 @@ export default function Home() {
           )}
         </div>
 
-        {/* 우: 구별 연간 급지 변동 히트맵 */}
-        <div className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-4">
-          <h2 className="text-sm font-semibold text-[var(--text-primary)] mb-3">구별 연간 급지 변동</h2>
-          <DistrictTierHeatmapTable />
+        {/* 우: Session 3 예정 영역 */}
+        <div className="rounded-xl border border-dashed border-[var(--border-color)] bg-[var(--bg-surface)] p-4 flex items-center justify-center min-h-[300px]">
+          <p className="text-sm text-[var(--text-muted)]">준비 중</p>
         </div>
       </div>
 

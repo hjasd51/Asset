@@ -15,6 +15,7 @@ import {
 } from 'chart.js'
 import { Chart } from 'react-chartjs-2'
 import { API_BASE } from '@/lib/api'
+import { getTierFill, getTierShort } from '@/lib/tier'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Button } from '@/components/ui/button'
 
@@ -43,58 +44,79 @@ function yoyYmd(ymd: string): string {
   return `${year}${ymd.slice(4, 6)}`
 }
 
-// ─── x축 연도 라벨 플러그인 (연도를 해당 연도 틱 범위 중앙에 표시) ───────────
+// ─── x축 연도 라벨 플러그인 (연도 + 해당 연도 평균가 기준 급지 뱃지를 연도 틱 범위 중앙에 표시) ───────────
 
-const xYearLabelPlugin = {
-  id: 'xYearLabelTrend',
-  afterDraw(chartInstance: ChartType) {
-    const xScale = chartInstance.scales['x']
-    if (!xScale?.ticks?.length) return
-    const labels = chartInstance.data.labels as string[]
-    const { ctx, chartArea } = chartInstance
+function makeYearTierPlugin(yearAvgPrice: Map<string, number>) {
+  return {
+    id: 'xYearLabelTrend',
+    afterDraw(chartInstance: ChartType) {
+      const xScale = chartInstance.scales['x']
+      if (!xScale?.ticks?.length) return
+      const labels = chartInstance.data.labels as string[]
+      const { ctx, chartArea } = chartInstance
 
-    const yearMap = new Map<string, number[]>()
-    xScale.ticks.forEach((tick, i) => {
-      const raw = labels[typeof tick.value === 'number' ? tick.value : i]
-      if (typeof raw !== 'string' || raw.length < 6) return
-      const yy = raw.slice(2, 4)
-      if (!yearMap.has(yy)) yearMap.set(yy, [])
-      yearMap.get(yy)!.push(xScale.getPixelForTick(i))
-    })
+      const yearMap = new Map<string, number[]>()
+      xScale.ticks.forEach((tick, i) => {
+        const raw = labels[typeof tick.value === 'number' ? tick.value : i]
+        if (typeof raw !== 'string' || raw.length < 6) return
+        const yy = raw.slice(2, 4)
+        if (!yearMap.has(yy)) yearMap.set(yy, [])
+        yearMap.get(yy)!.push(xScale.getPixelForTick(i))
+      })
 
-    const cs = getComputedStyle(document.documentElement)
-    const yearLineColor = cs.getPropertyValue('--chart-year-line').trim() || '#94a3b8'
-    const mutedColor = cs.getPropertyValue('--text-muted').trim() || '#9ca3af'
+      const cs = getComputedStyle(document.documentElement)
+      const yearLineColor = cs.getPropertyValue('--chart-year-line').trim() || '#94a3b8'
+      const mutedColor = cs.getPropertyValue('--text-muted').trim() || '#9ca3af'
 
-    let isFirst = true
-    yearMap.forEach((xs) => {
-      const firstX = Math.min(...xs)
-      if (isFirst) { isFirst = false; return }
+      let isFirst = true
+      yearMap.forEach((xs) => {
+        const firstX = Math.min(...xs)
+        if (isFirst) { isFirst = false; return }
+        ctx.save()
+        ctx.strokeStyle = yearLineColor
+        ctx.lineWidth = 1
+        ctx.setLineDash([])
+        ctx.beginPath()
+        ctx.moveTo(firstX, chartArea.top)
+        ctx.lineTo(firstX, chartArea.bottom)
+        ctx.stroke()
+        ctx.restore()
+      })
+
       ctx.save()
-      ctx.strokeStyle = yearLineColor
-      ctx.lineWidth = 1
-      ctx.setLineDash([])
-      ctx.beginPath()
-      ctx.moveTo(firstX, chartArea.top)
-      ctx.lineTo(firstX, chartArea.bottom)
-      ctx.stroke()
+      ctx.textAlign = 'center'
+      ctx.textBaseline = 'top'
+      ctx.font = '10px sans-serif'
+      ctx.fillStyle = mutedColor
+      yearMap.forEach((xs, yy) => {
+        if (!xs.length) return
+        const cx = (Math.min(...xs) + Math.max(...xs)) / 2
+        ctx.fillText(`'${yy}`, cx, xScale.bottom - 30)
+      })
       ctx.restore()
-    })
 
-    ctx.save()
-    ctx.textAlign = 'center'
-    ctx.textBaseline = 'top'
-    ctx.font = '10px sans-serif'
-    ctx.fillStyle = mutedColor
-
-    yearMap.forEach((xs, yy) => {
-      if (!xs.length) return
-      const cx = (Math.min(...xs) + Math.max(...xs)) / 2
-      ctx.fillText(`'${yy}`, cx, xScale.bottom - 14)
-    })
-
-    ctx.restore()
-  },
+      ctx.save()
+      ctx.textAlign = 'center'
+      ctx.textBaseline = 'middle'
+      ctx.font = 'bold 9px sans-serif'
+      const badgeW = 22
+      const badgeH = 13
+      const badgeCy = xScale.bottom - 10
+      yearMap.forEach((xs, yy) => {
+        if (!xs.length) return
+        const avgPrice = yearAvgPrice.get(yy)
+        if (avgPrice == null) return
+        const cx = (Math.min(...xs) + Math.max(...xs)) / 2
+        ctx.fillStyle = getTierFill(avgPrice)
+        ctx.beginPath()
+        ctx.roundRect(cx - badgeW / 2, badgeCy - badgeH / 2, badgeW, badgeH, 3)
+        ctx.fill()
+        ctx.fillStyle = '#fff'
+        ctx.fillText(getTierShort(avgPrice), cx, badgeCy + 0.5)
+      })
+      ctx.restore()
+    },
+  }
 }
 
 export default function SeoulTrendChart() {
@@ -151,6 +173,22 @@ export default function SeoulTrendChart() {
   )
   const maxVol = Math.max(0, ...volumeData)
 
+  // 연도(2자리)별 거래량 가중평균가 — x축 연도 라벨 밑 급지 뱃지 색상 계산용
+  const yearAvgPrice = useMemo(() => {
+    const sums = new Map<string, { weighted: number; count: number }>()
+    displayed.forEach((i) => {
+      const yy = i.dealYmd.slice(2, 4)
+      if (!sums.has(yy)) sums.set(yy, { weighted: 0, count: 0 })
+      const s = sums.get(yy)!
+      s.weighted += i.avgPricePerPyeong10k * i.count
+      s.count += i.count
+    })
+    const result = new Map<string, number>()
+    sums.forEach((s, yy) => { if (s.count > 0) result.set(yy, s.weighted / s.count) })
+    return result
+  }, [displayed])
+  const yearTierPlugin = useMemo(() => makeYearTierPlugin(yearAvgPrice), [yearAvgPrice])
+
   // 평단가 축: 전체 범위(0~최대)가 아니라 실제 데이터 범위에 여백만 살짝 두고 타이트하게 잡아서
   // 미세한 변동도 눈에 띄도록 함 (기본 auto-scale은 여백이 커서 선이 평평해 보임)
   const priceValues = [...avgData, ...(showYoY ? yoyData : [])].filter(
@@ -177,7 +215,7 @@ export default function SeoulTrendChart() {
             return ym ? ym.slice(4, 6) : ''
           },
         },
-        afterFit(scale: { height: number }) { scale.height += 18 },
+        afterFit(scale: { height: number }) { scale.height += 36 },
       },
       price: {
         type: 'linear', position: 'left',
@@ -315,7 +353,7 @@ export default function SeoulTrendChart() {
               ],
             }}
             options={chartOptions}
-            plugins={[xYearLabelPlugin]}
+            plugins={[yearTierPlugin]}
           />
         </div>
       )}
