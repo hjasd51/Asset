@@ -9,6 +9,7 @@ const {
   getDistrictTimeSeriesAll,
   getDongTimeSeriesAll,
   getApartmentTimeSeriesAll,
+  getDongApartmentList,
   getCacheInfo,
   getCacheRows,
   searchComplexTimeSeries,
@@ -75,6 +76,14 @@ router.get("/dong-time-series-all", (req, res) => {
     return res.status(400).json({ error: "district, dong을 입력해주세요." });
   }
   res.json(getDongTimeSeriesAll(district, dong, kind));
+});
+
+router.get("/dong-apartments", (req, res) => {
+  const { district, dong, kind = "trade" } = req.query;
+  if (!district || !dong) {
+    return res.status(400).json({ error: "district, dong을 입력해주세요." });
+  }
+  res.json(getDongApartmentList(district, dong, kind));
 });
 
 router.get("/apartment-time-series", (req, res) => {

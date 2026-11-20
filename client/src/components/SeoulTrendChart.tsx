@@ -129,6 +129,8 @@ export default function SeoulTrendChart() {
   const [scope, setScope] = useState<string>('')
   const [dong, setDong] = useState<string>('')
   const [dongOptions, setDongOptions] = useState<string[]>([])
+  const [apt, setApt] = useState<string>('')
+  const [aptOptions, setAptOptions] = useState<string[]>([])
   const [period, setPeriod] = useState<Period>('all')
   const [showYoY, setShowYoY] = useState(false)
   const [items, setItems] = useState<SeoulTrendItem[]>([])
@@ -158,19 +160,48 @@ export default function SeoulTrendChart() {
       .catch(() => setDongOptions([]))
   }, [scope, kind])
 
+  // 구/동이 바뀌면 단지 선택 초기화
+  useEffect(() => {
+    setApt('')
+  }, [scope, dong])
+
+  // 단지 목록: 거래가 드문드문 있어 특정 월 기준이 아니라 백필 전 기간에서 가져옴
+  useEffect(() => {
+    if (!scope || !dong) {
+      setAptOptions([])
+      return
+    }
+    let cancelled = false
+    fetch(`${API_BASE}/api/analytics/dong-apartments?district=${encodeURIComponent(scope)}&dong=${encodeURIComponent(dong)}&kind=${kind}`)
+      .then((r) => r.json())
+      .then((data: { name: string }[]) => {
+        if (cancelled) return
+        const names = data.map((d) => d.name)
+        setAptOptions(names)
+        // 매매/전세 전환으로 선택했던 단지가 목록에서 사라지면 동 전체로 되돌림
+        setApt((prev) => (prev && !names.includes(prev) ? '' : prev))
+      })
+      .catch(() => { if (!cancelled) setAptOptions([]) })
+    return () => { cancelled = true }
+  }, [scope, dong, kind])
+
   useEffect(() => {
     setLoading(true)
+    const base = `${API_BASE}/api/analytics`
+    const dist = encodeURIComponent(scope)
     const url =
-      scope && dong
-        ? `${API_BASE}/api/analytics/dong-time-series-all?district=${encodeURIComponent(scope)}&dong=${encodeURIComponent(dong)}&kind=${kind}`
+      scope && dong && apt
+        ? `${base}/apartment-time-series?district=${dist}&dong=${encodeURIComponent(dong)}&name=${encodeURIComponent(apt)}&kind=${kind}`
+        : scope && dong
+        ? `${base}/dong-time-series-all?district=${dist}&dong=${encodeURIComponent(dong)}&kind=${kind}`
         : scope
-        ? `${API_BASE}/api/analytics/district-time-series?district=${encodeURIComponent(scope)}&kind=${kind}`
-        : `${API_BASE}/api/analytics/seoul-time-series?kind=${kind}`
+        ? `${base}/district-time-series?district=${dist}&kind=${kind}`
+        : `${base}/seoul-time-series?kind=${kind}`
     fetch(url)
       .then((r) => r.json())
       .then((data: SeoulTrendItem[]) => setItems(data))
       .finally(() => setLoading(false))
-  }, [kind, scope, dong])
+  }, [kind, scope, dong, apt])
 
   const chartColors = useMemo(() => {
     const cs = getComputedStyle(document.documentElement)
@@ -314,6 +345,20 @@ export default function SeoulTrendChart() {
                 <SelectItem value="__all__">{scope} 전체</SelectItem>
                 {dongOptions.map((d) => (
                   <SelectItem key={d} value={d}>{d}</SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+        )}
+        {scope && dong && aptOptions.length > 0 && (
+          <div>
+            <label className="text-xs text-[var(--text-secondary)] block mb-1">단지</label>
+            <Select value={apt || '__all__'} onValueChange={(v) => setApt(v === '__all__' ? '' : v)}>
+              <SelectTrigger className="w-40"><SelectValue /></SelectTrigger>
+              <SelectContent className="max-h-72">
+                <SelectItem value="__all__">{dong} 전체</SelectItem>
+                {aptOptions.map((n) => (
+                  <SelectItem key={n} value={n}>{n}</SelectItem>
                 ))}
               </SelectContent>
             </Select>
