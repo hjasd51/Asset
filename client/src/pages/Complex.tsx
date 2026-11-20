@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect, useCallback, useMemo } from 'react'
-import { useSearchParams } from 'react-router-dom'
+import { useLocation, useSearchParams } from 'react-router-dom'
 import { API_BASE } from '@/lib/api'
 import {
   Chart as ChartJS,
@@ -427,7 +427,8 @@ function TrendTable({ items }: { items: ComplexTimeSeriesItem[] }) {
 
 export default function Complex() {
   const [searchParams] = useSearchParams()
-  const autoSearchedRef = useRef(false)
+  const location = useLocation()
+  const handledLocationKeyRef = useRef<string | null>(null)
   const [query, setQuery] = useState('')
   const [complexName, setComplexName] = useState('')
   const [suggestions, setSuggestions] = useState<Suggestion[]>([])
@@ -507,16 +508,17 @@ export default function Complex() {
     }
   }, [kind])
 
-  // URL ?name= 파라미터로 진입 시 자동 검색
+  // URL ?name= 파라미터로 진입 시 자동 검색.
+  // 페이지가 탭 이동 후에도 유지(KeepAlive)되므로, 이미 열려 있어도 새로 이동해 온 경우(location.key 변경)에는 다시 검색한다.
   useEffect(() => {
-    if (autoSearchedRef.current) return
+    if (handledLocationKeyRef.current === location.key) return
+    handledLocationKeyRef.current = location.key
     const nameParam = searchParams.get('name')
     if (nameParam) {
-      autoSearchedRef.current = true
       setQuery(nameParam)
       handleSearch(nameParam)
     }
-  }, [handleSearch, searchParams])
+  }, [handleSearch, searchParams, location.key])
 
   const latestYmd = allMonths.at(-1) ?? null
   const startYmd = latestYmd ? shiftYmd(latestYmd, -(periodN - 1)) : null
