@@ -1,5 +1,6 @@
 const express = require("express");
 const apartmentIndex = require("../lib/apartmentIndex");
+const { getComplexAreaPrices } = require("../lib/analytics");
 
 const router = express.Router();
 
@@ -10,6 +11,15 @@ router.get("/search", (req, res) => {
     return res.status(400).json({ error: "q(단지명 검색어)를 입력해주세요." });
   }
   res.json(apartmentIndex.search(q, { gu, dong, limit }));
+});
+
+// 대출 미리보기용 — 단지의 전용면적(타입)별 최근 실거래가 기준가.
+router.get("/prices", (req, res) => {
+  const { gu, dong, name } = req.query;
+  if (!gu || !dong || !name) {
+    return res.status(400).json({ error: "gu, dong, name을 입력해주세요." });
+  }
+  res.json(getComplexAreaPrices(gu, dong, name));
 });
 
 // 구 선택 시 동 select를 채우는 보조 엔드포인트.

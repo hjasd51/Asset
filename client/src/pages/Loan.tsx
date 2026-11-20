@@ -1,175 +1,97 @@
-import { useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { API_BASE } from '@/lib/api'
-import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
-import { Label } from '@/components/ui/label'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import LoanForm, { type PreviewBase } from '@/components/loan/LoanForm'
+import LoanNotice from '@/components/loan/LoanNotice'
+import LoanResult, { type HouseInfo } from '@/components/loan/LoanResult'
+import RegulationSection from '@/components/loan/RegulationSection'
+import type { LoanConditions, LoanConfig, PreviewRequest, PreviewResult } from '@/types/loan'
 
-interface LoanForm {
-  annualIncome: string
-  existingAnnualDebtPayment: string
-  propertyPrice: string
-  annualRatePct: string
-  years: string
-  ltvLimitPct: string
-  dsrLimitPct: string
-  stressRatePct: string
-}
-
-interface LoanResult {
-  maxLoanAmount: number
-  bindingConstraint: string
-  maxByLTV: number
-  maxByDSR: number
-  maxByStressDSR: number
-  resultingLTV: number
-  resultingDSR: number
-}
-
-function formatWon(amount: number) {
-  if (amount >= 100000000) {
-    const eok = (amount / 100000000).toFixed(2)
-    return `${eok}억 원`
-  }
-  return `${(amount / 10000).toLocaleString()}만 원`
-}
+// 설정 API를 못 불러올 때 쓰는 최소 기본값
+const FALLBACK_CONDITIONS: LoanConditions = { annualRatePct: 5, years: 30, stressRatePct: 2.4 }
 
 export default function Loan() {
-  const [form, setForm] = useState<LoanForm>({
-    annualIncome: '',
-    existingAnnualDebtPayment: '0',
-    propertyPrice: '',
-    annualRatePct: '',
-    years: '30',
-    ltvLimitPct: '70',
-    dsrLimitPct: '40',
-    stressRatePct: '1.5',
-  })
-  const [result, setResult] = useState<LoanResult | null>(null)
+  const [config, setConfig] = useState<LoanConfig | null>(null)
+  const [conditions, setConditions] = useState<LoanConditions>(FALLBACK_CONDITIONS)
+  const [base, setBase] = useState<PreviewBase | null>(null)
+  const [houseInfo, setHouseInfo] = useState<HouseInfo | null>(null)
+  const [result, setResult] = useState<PreviewResult | null>(null)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
+  const resultRef = useRef<HTMLDivElement>(null)
+  const requestSeq = useRef(0)
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }))
-  }
+  useEffect(() => {
+    fetch(`${API_BASE}/api/loan/config`)
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then((data: LoanConfig) => {
+        setConfig(data)
+        setConditions(data.defaults)
+      })
+      .catch(() => setError('규제 설정을 불러오지 못해 기본값으로 계산해요.'))
+  }, [])
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault()
+  const runPreview = useCallback(async (payload: PreviewRequest, scrollToResult: boolean) => {
+    const seq = ++requestSeq.current
     setError('')
     setLoading(true)
     try {
-      const body = Object.fromEntries(
-        Object.entries(form).map(([k, v]) => [k, Number(v)])
-      )
-      const res = await fetch(`${API_BASE}/api/loan/simulate`, {
+      const res = await fetch(`${API_BASE}/api/loan/preview`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body),
+        body: JSON.stringify(payload),
       })
-      if (!res.ok) throw new Error('계산 실패')
-      const data = await res.json() as LoanResult
-      setResult(data)
+      const data = (await res.json()) as PreviewResult | { error: string }
+      if (seq !== requestSeq.current) return // 더 최근 요청이 있으면 무시
+      if (!res.ok) {
+        setError((data as { error: string }).error ?? '계산 중 오류가 발생했습니다.')
+        return
+      }
+      setResult(data as PreviewResult)
+      if (scrollToResult) {
+        requestAnimationFrame(() => resultRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }))
+      }
     } catch {
-      setError('계산 중 오류가 발생했습니다.')
+      if (seq === requestSeq.current) setError('서버 연결 오류가 발생했습니다.')
     } finally {
-      setLoading(false)
+      if (seq === requestSeq.current) setLoading(false)
     }
+  }, [])
+
+  const handleSubmit = (nextBase: PreviewBase, nextHouseInfo: HouseInfo | null) => {
+    setBase(nextBase)
+    setHouseInfo(nextHouseInfo)
+    runPreview({ ...nextBase, ...conditions }, true)
   }
 
-  const fields: { name: keyof LoanForm; label: string; placeholder?: string; step?: string; min?: string; max?: string }[] = [
-    { name: 'annualIncome', label: '연 소득 (원)', placeholder: '예: 60000000' },
-    { name: 'existingAnnualDebtPayment', label: '기존 대출 연간 원리금상환액 (원)', placeholder: '0' },
-    { name: 'propertyPrice', label: '희망 주택가격 (원)', placeholder: '예: 700000000' },
-    { name: 'annualRatePct', label: '예상 대출 금리 (연, %)', placeholder: '예: 4.2', step: '0.01' },
-    { name: 'years', label: '대출 기간 (년)', min: '1', max: '50' },
-    { name: 'ltvLimitPct', label: 'LTV 한도 (%)', min: '0', max: '100' },
-    { name: 'dsrLimitPct', label: 'DSR 한도 (%, 1금융권 40 / 2금융권 50)', min: '0', max: '100' },
-    { name: 'stressRatePct', label: '스트레스 가산금리 (%p)', step: '0.1', min: '0' },
-  ]
+  // 결과 화면에서 금리/기간/스트레스 금리를 바꾸면 같은 입력값으로 다시 계산
+  const handleChangeConditions = (next: LoanConditions) => {
+    setConditions(next)
+    if (base) runPreview({ ...base, ...next }, false)
+  }
 
   return (
-    <div className="mx-auto max-w-screen-xl px-4 py-8 space-y-6">
+    <div className="mx-auto max-w-2xl space-y-6 px-4 py-8">
       <div>
-        <h1 className="text-2xl font-bold">대출 시뮬레이터</h1>
-        <p className="mt-1 text-sm text-[var(--text-secondary)]">
-          소득·기존 대출·희망 주택가격을 입력하면 DSR/LTV/스트레스 DSR 기준 대출 한도를 계산합니다. 실제 은행 심사와는 다를 수 있는 참고용 계산입니다.
-        </p>
+        <h1 className="text-2xl font-bold">주담대 미리보기</h1>
+        <p className="mt-1 text-sm text-[var(--text-secondary)]">최신 규제가 적용된 예상 대출한도를 확인할 수 있어요.</p>
       </div>
 
-      <form onSubmit={handleSubmit} className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-surface)] p-5">
-        <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
-          {fields.map(({ name, label, placeholder, step, min, max }) => (
-            <div key={name} className="space-y-1.5">
-              <Label htmlFor={name}>{label}</Label>
-              <Input
-                id={name}
-                name={name}
-                type="number"
-                value={form[name]}
-                onChange={handleChange}
-                placeholder={placeholder}
-                step={step}
-                min={min}
-                max={max}
-                required={name === 'annualIncome' || name === 'propertyPrice' || name === 'annualRatePct'}
-              />
-            </div>
-          ))}
-        </div>
-        {error && <p className="mt-4 text-sm text-red-500">{error}</p>}
-        <div className="mt-5">
-          <Button type="submit" disabled={loading}>
-            {loading ? '계산 중…' : '계산하기'}
-          </Button>
-        </div>
-      </form>
+      <LoanForm districts={config?.regulatedDistricts ?? []} loading={loading} onSubmit={handleSubmit} />
 
-      {result && (
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <Card className="sm:col-span-2 lg:col-span-3 border-[var(--ring)]">
-            <CardHeader className="pb-2">
-              <CardTitle className="text-base text-[var(--text-secondary)]">최대 대출 가능 금액</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-3xl font-bold">{formatWon(result.maxLoanAmount)}</p>
-              <p className="mt-1 text-sm text-[var(--text-secondary)]">
-                제한 요인: <span className="font-medium text-[var(--text-primary)]">{result.bindingConstraint}</span>
-              </p>
-            </CardContent>
-          </Card>
+      {error && !result && <p className="text-sm text-red-500">{error}</p>}
 
-          {[
-            { label: 'LTV 기준 한도', value: result.maxByLTV },
-            { label: 'DSR 기준 한도', value: result.maxByDSR },
-            { label: '스트레스 DSR 기준 한도', value: result.maxByStressDSR },
-          ].map(({ label, value }) => (
-            <Card key={label}>
-              <CardHeader className="pb-2">
-                <CardTitle className="text-sm text-[var(--text-secondary)]">{label}</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-xl font-semibold">{formatWon(value)}</p>
-              </CardContent>
-            </Card>
-          ))}
-
-          <Card>
-            <CardHeader className="pb-2">
-              <CardTitle className="text-sm text-[var(--text-secondary)]">최종 LTV</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-xl font-semibold">{result.resultingLTV.toFixed(1)}%</p>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader className="pb-2">
-              <CardTitle className="text-sm text-[var(--text-secondary)]">최종 DSR</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-xl font-semibold">{result.resultingDSR.toFixed(1)}%</p>
-            </CardContent>
-          </Card>
+      {result && base && (
+        <div ref={resultRef} className="scroll-mt-28 space-y-4">
+          {error && <p className="text-sm text-red-500">{error}</p>}
+          <LoanResult
+            result={result}
+            housePrice={base.housePrice}
+            houseInfo={houseInfo}
+            conditions={conditions}
+            onChangeConditions={handleChangeConditions}
+          />
+          <RegulationSection result={result} />
+          <LoanNotice result={result} />
         </div>
       )}
     </div>
