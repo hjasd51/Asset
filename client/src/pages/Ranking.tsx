@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { useSearchParams } from 'react-router-dom'
+import { useNavigate, useSearchParams } from 'react-router-dom'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -152,6 +152,7 @@ function DongDetail({
   kind: string
   onBack: () => void
 }) {
+  const navigate = useNavigate()
   const [items, setItems] = useState<DongItem[]>([])
   const [loading, setLoading] = useState(true)
   const [selectedDong, setSelectedDong] = useState<string | null>(null)
@@ -383,7 +384,12 @@ function DongDetail({
                                 {tier.label}
                               </span>
                             </TableCell>
-                            <TableCell className="font-medium">{apt.name}</TableCell>
+                            <TableCell
+                              className="font-medium cursor-pointer hover:text-blue-500 hover:underline"
+                              onClick={() => navigate(`/complex?name=${encodeURIComponent(apt.name)}`)}
+                            >
+                              {apt.name}
+                            </TableCell>
                             <TableCell className="font-semibold">{formatAvgPrice(apt.avgPricePerPyeong10k)}</TableCell>
                             <TableCell><DiffBadge pct={diffPct(apt.avgPricePerPyeong10k, apt.avgPricePrevMonth)} /></TableCell>
                             <TableCell><DiffBadge pct={diffPct(apt.avgPricePerPyeong10k, apt.avgPricePrevYear)} /></TableCell>
